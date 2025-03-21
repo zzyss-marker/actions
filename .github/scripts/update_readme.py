@@ -101,7 +101,6 @@ def get_ai_news_from_rss():
                 print(f"RSS 响应内容: {response.text[:200]}...")
                 continue
                 
-            # 打印响应内容的前200个字符，帮助调试
             print(f"RSS 响应内容: {response.text[:200]}...")
             
             feed = feedparser.parse(response.content)
@@ -112,20 +111,29 @@ def get_ai_news_from_rss():
                 
             print(f"成功获取 {len(feed.entries)} 条 AI 新闻")
             
-            for entry in feed.entries[:2]:  # 每个源取前2条
-                if len(ai_news) >= 5:  # 最多获取5条新闻
-                    break
-                    
+            for entry in feed.entries[:5]:  # 直接获取前5条
                 title = entry.title
                 
                 # 处理 Atom 格式的链接
-                if hasattr(entry, "link"):
+                if hasattr(entry, "link") and not entry.link.endswith(('.png', '.jpg', '.jpeg', '.gif')):
                     url = entry.link
                 elif hasattr(entry, "links") and entry.links:
-                    url = entry.links[0].href
+                    # 尝试找到非图片链接
+                    for link in entry.links:
+                        if hasattr(link, "href") and not link.href.endswith(('.png', '.jpg', '.jpeg', '.gif')):
+                            url = link.href
+                            break
+                    else:
+                        # 如果所有链接都是图片，使用第一个链接
+                        url = entry.links[0].href
                 else:
                     # 尝试从 id 字段获取链接
                     url = entry.id if hasattr(entry, "id") else "#"
+                
+                # 检查 URL 是否为图片链接
+                if url.endswith(('.png', '.jpg', '.jpeg', '.gif')):
+                    print(f"跳过图片链接: {url}")
+                    continue
                 
                 # 尝试获取描述
                 description = ""
@@ -139,8 +147,7 @@ def get_ai_news_from_rss():
                     soup = BeautifulSoup(entry.content[0].value, "html.parser")
                     description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
                 
-                # 打印调试信息
-                print(f"解析到文章: {title} - URL: {url}")
+                print(f"添加文章: {title} - URL: {url}")
                 
                 ai_news.append({
                     "title": title,
@@ -148,10 +155,12 @@ def get_ai_news_from_rss():
                     "description": description
                 })
                 
+                if len(ai_news) >= 5:
+                    break
+            
             if len(ai_news) >= 5:
                 break
                 
-            # 避免过快请求多个RSS源
             time.sleep(2)
             
         except Exception as e:
@@ -169,6 +178,10 @@ def get_ai_news_from_rss():
             },
             # ... 其他备用新闻 ...
         ]
+    
+    print(f"最终获取到 {len(ai_news)} 条 AI 新闻")
+    for news in ai_news:
+        print(f"- {news['title']} ({news['url']})")
     
     return ai_news[:5]  # 返回最多5条新闻
 
@@ -425,17 +438,24 @@ def update_readme():
             ai_news_section = "### AI 技术动态\n\n"
             for news in ai_news:
                 ai_news_section += f"- [{news['title']}]({news['url']}) - {news['description']}\n"
+            
+            # 打印将要更新的内容
+            print("将更新 AI 技术动态为:")
+            print(ai_news_section)
         else:
             ai_news_section = "### AI 技术动态\n\n- RSS 订阅源暂时不可用，请稍后再查看\n"
     except Exception as e:
         print(f"更新 AI 新闻时出错: {e}")
         ai_news_section = "### AI 技术动态\n\n- RSS 订阅源暂时不可用，请稍后再查看\n"
     
-    ai_pattern = r"### AI 技术动态\n\n- \[.*?\n\n"
-    if re.search(ai_pattern, content, re.DOTALL):
-        content = re.sub(ai_pattern, ai_news_section + "\n\n", content)
+    # 使用更精确的正则表达式
+    ai_pattern = r"### AI 技术动态\n\n[\s\S]*?(?=\n\n###|\Z)"
+    if re.search(ai_pattern, content):
+        content = re.sub(ai_pattern, ai_news_section, content)
+        print("已替换 AI 技术动态内容")
     else:
         content += ai_news_section + "\n\n"
+        print("已添加 AI 技术动态内容")
     
     # 更新网络安全新闻
     try:
