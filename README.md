@@ -34,7 +34,7 @@ MIT
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
@@ -54,13 +54,15 @@ MIT
 
 ### 技术就业趋势
 
-量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- [苹果发布新一代M3芯片，性能大幅提升](https://www.apple.com/newsroom/) - 新芯片采用先进工艺，能效比创历史新高
-- [SpaceX成功发射新一批星链卫星](https://www.spacex.com/updates/) - 全球互联网覆盖计划进入新阶段
-- [微软推出新一代Windows功能更新](https://blogs.windows.com/) - 集成更多AI功能，用户体验全面提升
+- [突破极限！R2模型如何比肩o3 mini？这3大关键点决定成败！](https://cloud.tencent.com/developer/article/2506235) - 我最期待的就是，能够和OpenAI发布的o3 mini模型掰掰手腕，我感觉这就很炸裂了。毕竟o3 mini代表的是目前OpenAI能够提供给用户使用的最强大模型。
+- [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269) - 近日，第 13 届 ICLR（International Conference on Learning Representations）国际学习表征会议公布了论文录用结果。本次大会共收到 11,565...
+- [万字详解：K8s核心组件与指标监控体系](https://cloud.tencent.com/developer/article/2506252) - K8s 是容器编排领域的事实标准，作为一名后端开发，如果对 K8s 的技术原理不够了解，未来无论是在日常工作还是求职面试中，可能都会面临一些挑战问题。
+
+本文是腾讯云可观测平台工程师柯开所总结的 K8...
 
 
 ### GitHub 趋势项目
