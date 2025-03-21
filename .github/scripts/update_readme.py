@@ -305,6 +305,8 @@ def get_tech_news_from_rss():
                 print(f"RSS 响应内容: {response.text[:200]}...")
                 continue
                 
+            print(f"RSS 响应内容: {response.text[:200]}...")
+            
             feed = feedparser.parse(response.content)
             
             if not feed.entries:
@@ -313,12 +315,29 @@ def get_tech_news_from_rss():
                 
             print(f"成功获取 {len(feed.entries)} 条科技新闻")
             
-            for entry in feed.entries[:1]:  # 每个源取前1条
-                if len(tech_news) >= 3:  # 最多获取3条新闻
-                    break
-                    
+            for entry in feed.entries[:3]:  # 直接获取前3条
                 title = entry.title
-                url = entry.link
+                
+                # 处理 Atom 格式的链接
+                if hasattr(entry, "link") and not entry.link.endswith(('.png', '.jpg', '.jpeg', '.gif')):
+                    url = entry.link
+                elif hasattr(entry, "links") and entry.links:
+                    # 尝试找到非图片链接
+                    for link in entry.links:
+                        if hasattr(link, "href") and not link.href.endswith(('.png', '.jpg', '.jpeg', '.gif')):
+                            url = link.href
+                            break
+                    else:
+                        # 如果所有链接都是图片，使用第一个链接
+                        url = entry.links[0].href
+                else:
+                    # 尝试从 id 字段获取链接
+                    url = entry.id if hasattr(entry, "id") else "#"
+                
+                # 检查 URL 是否为图片链接
+                if url.endswith(('.png', '.jpg', '.jpeg', '.gif')):
+                    print(f"跳过图片链接: {url}")
+                    continue
                 
                 # 尝试获取描述
                 description = ""
@@ -328,6 +347,11 @@ def get_tech_news_from_rss():
                 elif hasattr(entry, "description"):
                     soup = BeautifulSoup(entry.description, "html.parser")
                     description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
+                elif hasattr(entry, "content") and entry.content:
+                    soup = BeautifulSoup(entry.content[0].value, "html.parser")
+                    description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
+                
+                print(f"添加科技文章: {title} - URL: {url}")
                 
                 tech_news.append({
                     "title": title,
@@ -335,10 +359,12 @@ def get_tech_news_from_rss():
                     "description": description
                 })
                 
+                if len(tech_news) >= 3:
+                    break
+            
             if len(tech_news) >= 3:
                 break
                 
-            # 避免过快请求多个RSS源
             time.sleep(2)
             
         except Exception as e:
@@ -356,6 +382,10 @@ def get_tech_news_from_rss():
             },
             # ... 其他备用新闻 ...
         ]
+    
+    print(f"最终获取到 {len(tech_news)} 条科技新闻")
+    for news in tech_news:
+        print(f"- {news['title']} ({news['url']})")
     
     return tech_news[:3]  # 返回最多3条新闻
 
@@ -491,17 +521,24 @@ def update_readme():
             tech_news_section = "### 科技热点\n\n"
             for news in tech_news:
                 tech_news_section += f"- [{news['title']}]({news['url']}) - {news['description']}\n"
+            
+            # 打印将要更新的内容
+            print("将更新科技热点为:")
+            print(tech_news_section)
         else:
             tech_news_section = "### 科技热点\n\n- RSS 订阅源暂时不可用，请稍后再查看\n"
     except Exception as e:
         print(f"更新科技新闻时出错: {e}")
         tech_news_section = "### 科技热点\n\n- RSS 订阅源暂时不可用，请稍后再查看\n"
     
-    tech_pattern = r"### 科技热点\n\n- \[.*?\n\n"
-    if re.search(tech_pattern, content, re.DOTALL):
-        content = re.sub(tech_pattern, tech_news_section + "\n\n", content)
+    # 使用更精确的正则表达式
+    tech_pattern = r"### 科技热点\n\n[\s\S]*?(?=\n\n###|\Z)"
+    if re.search(tech_pattern, content):
+        content = re.sub(tech_pattern, tech_news_section, content)
+        print("已替换科技热点内容")
     else:
         content += tech_news_section + "\n\n"
+        print("已添加科技热点内容")
     
     # 更新GitHub趋势项目
     try:
