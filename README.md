@@ -38,9 +38,11 @@ MIT
 
 ### AI 技术动态
 
-- [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) - 新模型在推理能力和上下文窗口方面有显著改进
-- [谷歌推出新一代AI模型Gemini](https://blog.google/technology/ai/) - 多模态能力超越现有大型语言模型
-- [AI在医疗诊断领域取得突破性进展](https://www.nature.com/articles/) - 新研究表明AI可以提前预测某些疾病风险
+- [AI+游戏开发：如何用 DeepSeek 打造高性能贪吃蛇游戏](https://blog.csdn.net/qq_32682301/article/details/146171988) - Vue.js项目开发全程实录》精选Vue.js开发方向的10个热门应用项目，实用性非常强。这些项目包含：智汇企业官网首页设计、贪吃蛇小游戏、时光音乐网首页设计、游戏公园博客、电影易购APP、淘贝电子商...
+- [爬虫+动态代理助力 AI 训练数据采集](https://blog.csdn.net/yuan2019035055/article/details/146348098) - 爬虫+动态代理助力 AI 训练数据采集
+- [【机器学习】阿里Qwen-VL：基于FastAPI私有化部署你的第一个AI多模态大模型](https://blog.csdn.net/weixin_48007632/article/details/139757328) - 本文首先在引言中强调了一下OpenAI兼容API的重要性，希望引起读者重视，其次介绍了Qwen-VL的原理与模型结构，最后简要讲了下FastAPI以及搭配组件，并基于FastAPI封装了OpenAI兼...
+- [deepseek+webstorm实现我们在工作中的ai小帮手的使用](https://blog.csdn.net/qq_41619796/article/details/145552070) - deepseek，相信大家都不陌生，前几天的deepseek对标chat又火了一大把，这里我们说说，作为开发同学来说，怎么实际使用他来给我们提供帮助。
+- [【AI大模型】Ollama部署本地大模型DeepSeek-R1，交互界面Open-WebUI，RagFlow构建私有知识库](https://blog.csdn.net/u014608435/article/details/145545048) - DeepSeek官网DeepSeek（深度求索）是一家专注于实现通用人工智能（AGI）的中国科技公司，致力于通过技术探索与创新，推动智能技术的广泛应用。Ollama 是一个强大的工具，旨在简化大型语言...
 
 
 ### 网络安全资讯
@@ -52,7 +54,7 @@ MIT
 
 ### 技术就业趋势
 
-可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
+量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
 
 ### 科技热点
 
