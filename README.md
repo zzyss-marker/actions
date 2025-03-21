@@ -34,7 +34,7 @@ MIT
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
@@ -43,9 +43,12 @@ MIT
 - [AI在医疗诊断领域取得突破性进展](https://www.nature.com/articles/) - 新研究表明AI可以提前预测某些疾病风险
 
 
-### 网络安全提示
+### 网络安全资讯
 
-启用双因素认证(2FA)，为账户添加额外的安全层。
+- [DOGE to Fired CISA Staff: Email Us Your Personal Data](https://krebsonsecurity.com/2025/03/doge-to-fired-cisa-staff-email-us-your-personal-data/) - A message posted on Monday to the homepage of the U.S. Cybersecurity & Infrastructure Security Agenc...
+- [Why Cyber Quality Is the Key to Security](https://www.darkreading.com/cyberattacks-data-breaches/why-cyber-quality-key-security) - The time to secure foundations, empower teams, and make cyber resilience the standard is now — becau...
+- [UAT-5918 Targets Taiwan's Critical Infrastructure Using Web Shells and Open-Source Tools](https://thehackernews.com/2025/03/uat-5918-targets-taiwans-critical.html) - Threat hunters have uncovered a new threat actor named UAT-5918 that has been attacking critical inf...
+
 
 ### 技术就业趋势
 
