@@ -74,7 +74,7 @@ def get_github_trending(language=None, since="daily"):
 
 def get_ai_news_from_rss():
     """从RSS订阅源获取AI相关新闻"""
-    # AI相关RSS订阅源列表 - 更新为更可靠的源
+    # AI相关RSS订阅源列表
     rss_feeds = [
         "https://api.dbot.pp.ua/v1/rss/csdn/ai",
         "https://rsshub.app/36kr/ai", # 36氪AI频道
@@ -93,8 +93,21 @@ def get_ai_news_from_rss():
     
     for feed_url in rss_feeds:
         try:
-            response = requests.get(feed_url, headers=headers, timeout=10)
+            print(f"尝试获取 AI 新闻 RSS: {feed_url}")
+            response = requests.get(feed_url, headers=headers, timeout=15)
+            print(f"RSS 响应状态码: {response.status_code}")
+            
+            if response.status_code != 200:
+                print(f"RSS 响应内容: {response.text[:200]}...")
+                continue
+                
             feed = feedparser.parse(response.content)
+            
+            if not feed.entries:
+                print(f"RSS 源没有条目: {feed_url}")
+                continue
+                
+            print(f"成功获取 {len(feed.entries)} 条 AI 新闻")
             
             for entry in feed.entries[:2]:  # 每个源取前2条
                 if len(ai_news) >= 5:  # 最多获取5条新闻
@@ -122,7 +135,7 @@ def get_ai_news_from_rss():
                 break
                 
             # 避免过快请求多个RSS源
-            time.sleep(1)
+            time.sleep(2)
             
         except Exception as e:
             print(f"获取RSS源 {feed_url} 失败: {e}")
@@ -130,22 +143,14 @@ def get_ai_news_from_rss():
     
     # 如果没有获取到足够的新闻，使用备用新闻
     if len(ai_news) == 0:
+        print("未能获取任何 AI 新闻，使用备用内容")
         ai_news = [
             {
                 "title": "OpenAI发布GPT-4 Turbo，性能大幅提升",
                 "url": "https://openai.com/blog/",
                 "description": "新模型在推理能力和上下文窗口方面有显著改进"
             },
-            {
-                "title": "谷歌推出新一代AI模型Gemini",
-                "url": "https://blog.google/technology/ai/",
-                "description": "多模态能力超越现有大型语言模型"
-            },
-            {
-                "title": "AI在医疗诊断领域取得突破性进展",
-                "url": "https://www.nature.com/articles/",
-                "description": "新研究表明AI可以提前预测某些疾病风险"
-            }
+            # ... 其他备用新闻 ...
         ]
     
     return ai_news[:5]  # 返回最多5条新闻
@@ -240,41 +245,89 @@ def get_tech_job_trends():
     ]
     return random.choice(trends)
 
-def get_tech_news_from_api():
-    """从API获取科技新闻"""
-    try:
-        # 以36氪为例
-        url = "https://36kr.com/api/newsflash"
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-        }
-        
-        response = requests.get(url, headers=headers, timeout=10)
-        if response.status_code == 200:
-            data = response.json()
-            news_list = data.get('data', {}).get('items', [])
-            
-            tech_news = []
-            for news in news_list[:3]:
-                tech_news.append({
-                    "title": news.get('title', ''),
-                    "url": f"https://36kr.com/newsflash/{news.get('id')}",
-                    "description": news.get('description', '')[:100] + "..."
-                })
-            
-            return tech_news
-    except Exception as e:
-        print(f"从API获取科技新闻失败: {e}")
-    
-    # 返回备用新闻
-    return [
-        {
-            "title": "苹果发布新一代M3芯片，性能大幅提升",
-            "url": "https://www.apple.com/newsroom/",
-            "description": "新芯片采用先进工艺，能效比创历史新高"
-        },
-        # ... 其他备用新闻 ...
+def get_tech_news_from_rss():
+    """从RSS订阅源获取科技新闻"""
+    # 科技新闻相关RSS订阅源列表
+    rss_feeds = [
+        "https://api.dbot.pp.ua/v1/rss/tencent_cloud",
+        "https://api.dbot.pp.ua/v1/rss/cnbeta",  # 添加这个可能更可靠的源
+        "https://rsshub.app/36kr/technology", # 36氪科技频道
+        "https://rsshub.app/ifanr/app", # 爱范儿
+        "https://rsshub.app/sspai/matrix", # 少数派Matrix
+        "https://rsshub.app/cnbeta", # cnBeta
+        "https://rsshub.app/geekpark/breakingnews" # 极客公园
     ]
+    
+    tech_news = []
+    
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+    }
+    
+    for feed_url in rss_feeds:
+        try:
+            print(f"尝试获取科技新闻 RSS: {feed_url}")
+            response = requests.get(feed_url, headers=headers, timeout=15)
+            print(f"RSS 响应状态码: {response.status_code}")
+            
+            if response.status_code != 200:
+                print(f"RSS 响应内容: {response.text[:200]}...")
+                continue
+                
+            feed = feedparser.parse(response.content)
+            
+            if not feed.entries:
+                print(f"RSS 源没有条目: {feed_url}")
+                continue
+                
+            print(f"成功获取 {len(feed.entries)} 条科技新闻")
+            
+            for entry in feed.entries[:1]:  # 每个源取前1条
+                if len(tech_news) >= 3:  # 最多获取3条新闻
+                    break
+                    
+                title = entry.title
+                url = entry.link
+                
+                # 尝试获取描述
+                description = ""
+                if hasattr(entry, "summary"):
+                    soup = BeautifulSoup(entry.summary, "html.parser")
+                    description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
+                elif hasattr(entry, "description"):
+                    soup = BeautifulSoup(entry.description, "html.parser")
+                    description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
+                
+                tech_news.append({
+                    "title": title,
+                    "url": url,
+                    "description": description
+                })
+                
+            if len(tech_news) >= 3:
+                break
+                
+            # 避免过快请求多个RSS源
+            time.sleep(2)
+            
+        except Exception as e:
+            print(f"获取RSS源 {feed_url} 失败: {e}")
+            continue
+    
+    # 如果没有获取到足够的新闻，使用备用新闻
+    if len(tech_news) == 0:
+        print("未能获取任何科技新闻，使用备用内容")
+        tech_news = [
+            {
+                "title": "苹果发布新一代M3芯片，性能大幅提升",
+                "url": "https://www.apple.com/newsroom/",
+                "description": "新芯片采用先进工艺，能效比创历史新高"
+            },
+            # ... 其他备用新闻 ...
+        ]
+    
+    return tech_news[:3]  # 返回最多3条新闻
 
 def get_arxiv_papers(category, max_results=3):
     """获取 arXiv 特定类别的最新论文"""
@@ -396,16 +449,16 @@ def update_readme():
     
     # 更新科技新闻
     try:
-        tech_news = get_tech_news_from_api()
+        tech_news = get_tech_news_from_rss()
         if tech_news:
             tech_news_section = "### 科技热点\n\n"
             for news in tech_news:
                 tech_news_section += f"- [{news['title']}]({news['url']}) - {news['description']}\n"
         else:
-            tech_news_section = "### 科技热点\n\n- API 获取科技新闻失败，请稍后再查看\n"
+            tech_news_section = "### 科技热点\n\n- RSS 订阅源暂时不可用，请稍后再查看\n"
     except Exception as e:
         print(f"更新科技新闻时出错: {e}")
-        tech_news_section = "### 科技热点\n\n- API 获取科技新闻失败，请稍后再查看\n"
+        tech_news_section = "### 科技热点\n\n- RSS 订阅源暂时不可用，请稍后再查看\n"
     
     tech_pattern = r"### 科技热点\n\n- \[.*?\n\n"
     if re.search(tech_pattern, content, re.DOTALL):
