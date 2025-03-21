@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 import markdown
 import feedparser
 import time
+import urllib.parse
 
 def get_programming_quote():
     """从编程语录API获取名言"""
@@ -302,6 +303,54 @@ def get_tech_news_from_rss():
     
     return tech_news[:3]  # 返回最多3条新闻
 
+def get_arxiv_papers(category, max_results=3):
+    """获取 arXiv 特定类别的最新论文"""
+    base_url = "http://export.arxiv.org/api/query?"
+    
+    # 构建查询参数
+    query_params = {
+        'search_query': f'cat:{category}',
+        'sortBy': 'submittedDate',
+        'sortOrder': 'descending',
+        'max_results': max_results
+    }
+    
+    # 构建完整 URL
+    query_url = base_url + urllib.parse.urlencode(query_params)
+    
+    try:
+        response = requests.get(query_url)
+        feed = feedparser.parse(response.content)
+        
+        papers = []
+        for entry in feed.entries:
+            title = entry.title
+            url = entry.link
+            
+            # 获取摘要并清理格式
+            if hasattr(entry, "summary"):
+                soup = BeautifulSoup(entry.summary, "html.parser")
+                summary = soup.get_text()
+                # 截断摘要
+                description = summary[:150] + "..." if len(summary) > 150 else summary
+            else:
+                description = "无摘要"
+            
+            # 获取作者
+            authors = ", ".join([author.name for author in entry.authors]) if hasattr(entry, "authors") else "未知作者"
+            
+            papers.append({
+                "title": title,
+                "url": url,
+                "description": description,
+                "authors": authors
+            })
+        
+        return papers
+    except Exception as e:
+        print(f"获取 arXiv 论文失败: {e}")
+        return []
+
 def update_readme():
     """更新README.md文件"""
     try:
@@ -409,6 +458,45 @@ def update_readme():
         content = re.sub(trending_pattern, trending_section + "\n\n", content)
     else:
         content += trending_section + "\n\n"
+    
+    # 更新 AI 研究论文
+    try:
+        ai_papers = get_arxiv_papers("cs.AI", 3)  # 人工智能类别
+        if ai_papers:
+            ai_papers_section = "### AI 研究论文\n\n"
+            for paper in ai_papers:
+                ai_papers_section += f"- [{paper['title']}]({paper['url']}) - {paper['authors']}\n  {paper['description']}\n\n"
+        else:
+            ai_papers_section = "### AI 研究论文\n\n- arXiv 论文数据暂时不可用，请稍后再查看\n\n"
+    except Exception as e:
+        print(f"更新 AI 论文时出错: {e}")
+        ai_papers_section = "### AI 研究论文\n\n- arXiv 论文数据暂时不可用，请稍后再查看\n\n"
+    
+    ai_papers_pattern = r"### AI 研究论文\n\n- \[.*?\n\n"
+    if re.search(ai_papers_pattern, content, re.DOTALL):
+        content = re.sub(ai_papers_pattern, ai_papers_section, content)
+    else:
+        content += ai_papers_section
+    
+    # 更新网络安全研究论文
+    try:
+        # 由于 arXiv 没有专门的网络安全类别，我们使用密码学和系统安全相关类别
+        security_papers = get_arxiv_papers("cs.CR", 3)  # 密码学与安全类别
+        if security_papers:
+            security_papers_section = "### 网络安全研究论文\n\n"
+            for paper in security_papers:
+                security_papers_section += f"- [{paper['title']}]({paper['url']}) - {paper['authors']}\n  {paper['description']}\n\n"
+        else:
+            security_papers_section = "### 网络安全研究论文\n\n- arXiv 论文数据暂时不可用，请稍后再查看\n\n"
+    except Exception as e:
+        print(f"更新网络安全论文时出错: {e}")
+        security_papers_section = "### 网络安全研究论文\n\n- arXiv 论文数据暂时不可用，请稍后再查看\n\n"
+    
+    security_papers_pattern = r"### 网络安全研究论文\n\n- \[.*?\n\n"
+    if re.search(security_papers_pattern, content, re.DOTALL):
+        content = re.sub(security_papers_pattern, security_papers_section, content)
+    else:
+        content += security_papers_section
     
     # 写入更新后的内容
     try:
