@@ -6,6 +6,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 import markdown
 import feedparser
+import time
 
 def get_programming_quote():
     """从编程语录API获取名言"""
@@ -43,82 +44,171 @@ def get_github_trending(language=None, since="daily"):
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
     }
     
-    response = requests.get(url, headers=headers)
-    soup = BeautifulSoup(response.text, 'html.parser')
+    try:
+        response = requests.get(url, headers=headers)
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        trending_repos = []
+        repo_list = soup.select('article.Box-row')
+        
+        for repo in repo_list[:5]:  # 只获取前5个
+            name_element = repo.select_one('h2 a')
+            if name_element:
+                repo_name = name_element.text.strip().replace('\n', '').replace(' ', '')
+                repo_url = f"https://github.com{name_element['href']}"
+                
+                description_element = repo.select_one('p')
+                description = description_element.text.strip() if description_element else "No description"
+                
+                trending_repos.append({
+                    'name': repo_name,
+                    'url': repo_url,
+                    'description': description
+                })
+        
+        return trending_repos
+    except Exception as e:
+        print(f"获取GitHub趋势项目失败: {e}")
+        return []
+
+def get_ai_news_from_rss():
+    """从RSS订阅源获取AI相关新闻"""
+    # AI相关RSS订阅源列表
+    rss_feeds = [
+        "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+        "https://feeds.feedburner.com/venturebeat/SZYF",
+        "https://www.artificialintelligence-news.com/feed/",
+        "https://blog.google/technology/ai/rss/",
+        "https://openai.com/blog/rss/"
+    ]
     
-    trending_repos = []
-    repo_list = soup.select('article.Box-row')
+    ai_news = []
     
-    for repo in repo_list[:5]:  # 只获取前5个
-        name_element = repo.select_one('h2 a')
-        if name_element:
-            repo_name = name_element.text.strip().replace('\n', '').replace(' ', '')
-            repo_url = f"https://github.com{name_element['href']}"
+    for feed_url in rss_feeds:
+        try:
+            feed = feedparser.parse(feed_url)
             
-            description_element = repo.select_one('p')
-            description = description_element.text.strip() if description_element else "No description"
+            for entry in feed.entries[:2]:  # 每个源取前2条
+                if len(ai_news) >= 5:  # 最多获取5条新闻
+                    break
+                    
+                title = entry.title
+                url = entry.link
+                
+                # 尝试获取描述
+                description = ""
+                if hasattr(entry, "summary"):
+                    soup = BeautifulSoup(entry.summary, "html.parser")
+                    description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
+                elif hasattr(entry, "description"):
+                    soup = BeautifulSoup(entry.description, "html.parser")
+                    description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
+                
+                ai_news.append({
+                    "title": title,
+                    "url": url,
+                    "description": description
+                })
+                
+            if len(ai_news) >= 5:
+                break
+                
+            # 避免过快请求多个RSS源
+            time.sleep(1)
             
-            trending_repos.append({
-                'name': repo_name,
-                'url': repo_url,
-                'description': description
+        except Exception as e:
+            print(f"获取RSS源 {feed_url} 失败: {e}")
+            continue
+    
+    # 如果没有获取到足够的新闻，使用备用新闻
+    if len(ai_news) == 0:
+        ai_news = [
+            {
+                "title": "OpenAI发布GPT-4 Turbo，性能大幅提升",
+                "url": "https://openai.com/blog/",
+                "description": "新模型在推理能力和上下文窗口方面有显著改进"
+            },
+            {
+                "title": "谷歌推出新一代AI模型Gemini",
+                "url": "https://blog.google/technology/ai/",
+                "description": "多模态能力超越现有大型语言模型"
+            },
+            {
+                "title": "AI在医疗诊断领域取得突破性进展",
+                "url": "https://www.nature.com/articles/",
+                "description": "新研究表明AI可以提前预测某些疾病风险"
+            }
+        ]
+    
+    return ai_news[:5]  # 返回最多5条新闻
+
+def get_cybersecurity_news_from_rss():
+    """从RSS订阅源获取网络安全新闻"""
+    # 网络安全相关RSS订阅源列表
+    rss_feeds = [
+        "https://krebsonsecurity.com/feed/",
+        "https://www.darkreading.com/rss.xml",
+        "https://feeds.feedburner.com/TheHackersNews",
+        "https://www.schneier.com/feed/atom/",
+        "https://www.bleepingcomputer.com/feed/"
+    ]
+    
+    security_news = []
+    
+    for feed_url in rss_feeds:
+        try:
+            feed = feedparser.parse(feed_url)
+            
+            for entry in feed.entries[:1]:  # 每个源取前1条
+                if len(security_news) >= 3:  # 最多获取3条新闻
+                    break
+                    
+                title = entry.title
+                url = entry.link
+                
+                # 尝试获取描述
+                description = ""
+                if hasattr(entry, "summary"):
+                    soup = BeautifulSoup(entry.summary, "html.parser")
+                    description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
+                elif hasattr(entry, "description"):
+                    soup = BeautifulSoup(entry.description, "html.parser")
+                    description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
+                
+                security_news.append({
+                    "title": title,
+                    "url": url,
+                    "description": description
+                })
+                
+            if len(security_news) >= 3:
+                break
+                
+            # 避免过快请求多个RSS源
+            time.sleep(1)
+            
+        except Exception as e:
+            print(f"获取RSS源 {feed_url} 失败: {e}")
+            continue
+    
+    # 如果没有获取到足够的新闻，添加网络安全提示
+    if len(security_news) == 0:
+        tips = [
+            "定期更新所有软件和操作系统，以修补已知的安全漏洞。",
+            "使用密码管理器生成和存储强密码，避免在多个网站使用相同密码。",
+            "启用双因素认证(2FA)，为账户添加额外的安全层。",
+            "定期备份重要数据，并遵循3-2-1备份规则：3份数据副本，2种不同的存储介质，1份异地存储。",
+            "使用VPN保护公共Wi-Fi连接时的网络流量。"
+        ]
+        
+        for tip in tips[:3]:
+            security_news.append({
+                "title": "网络安全提示",
+                "url": "https://www.cisa.gov/cybersecurity",
+                "description": tip
             })
     
-    return trending_repos
-
-def get_ai_news():
-    """获取AI相关新闻"""
-    try:
-        # 使用NewsAPI获取AI相关新闻
-        api_key = "YOUR_NEWS_API_KEY"  # 需要替换为您的API密钥
-        url = f"https://newsapi.org/v2/everything?q=artificial+intelligence&sortBy=publishedAt&pageSize=3&apiKey={api_key}"
-        
-        response = requests.get(url)
-        if response.status_code == 200:
-            data = response.json()
-            return data.get('articles', [])[:3]
-    except:
-        pass
-    
-    # 备用AI新闻
-    return [
-        {
-            "title": "OpenAI发布GPT-4 Turbo，性能大幅提升",
-            "url": "https://openai.com/blog/",
-            "description": "新模型在推理能力和上下文窗口方面有显著改进"
-        },
-        {
-            "title": "谷歌推出新一代AI模型Gemini",
-            "url": "https://blog.google/technology/ai/",
-            "description": "多模态能力超越现有大型语言模型"
-        },
-        {
-            "title": "AI在医疗诊断领域取得突破性进展",
-            "url": "https://www.nature.com/articles/",
-            "description": "新研究表明AI可以提前预测某些疾病风险"
-        }
-    ]
-
-def get_cybersecurity_tips():
-    """获取网络安全提示"""
-    tips = [
-        "定期更新所有软件和操作系统，以修补已知的安全漏洞。",
-        "使用密码管理器生成和存储强密码，避免在多个网站使用相同密码。",
-        "启用双因素认证(2FA)，为账户添加额外的安全层。",
-        "定期备份重要数据，并遵循3-2-1备份规则：3份数据副本，2种不同的存储介质，1份异地存储。",
-        "使用VPN保护公共Wi-Fi连接时的网络流量。",
-        "警惕钓鱼邮件，不要点击来源不明的链接或下载可疑附件。",
-        "定期检查您的设备是否有恶意软件，使用可靠的安全软件。",
-        "加密敏感数据，特别是在云存储或移动设备上的数据。",
-        "了解社会工程学攻击手段，提高安全意识。",
-        "为不同类型的账户使用不同级别的安全措施，重要账户采用更强的保护。",
-        "定期审查应用程序权限，撤销不必要的访问权限。",
-        "使用安全的DNS服务，如Cloudflare的1.1.1.1或Google的8.8.8.8。",
-        "在处理敏感信息时，考虑使用隐私浏览模式或Tor浏览器。",
-        "定期检查您的账户活动，及时发现可疑行为。",
-        "使用防火墙和入侵检测系统保护网络边界。"
-    ]
-    return random.choice(tips)
+    return security_news[:3]  # 返回最多3条新闻
 
 def get_tech_job_trends():
     """获取技术就业趋势"""
@@ -141,38 +231,76 @@ def get_tech_job_trends():
     ]
     return random.choice(trends)
 
-def get_tech_news():
-    """获取科技热点新闻"""
-    try:
-        # 使用NewsAPI获取科技新闻
-        api_key = "YOUR_NEWS_API_KEY"  # 需要替换为您的API密钥
-        url = f"https://newsapi.org/v2/top-headlines?category=technology&pageSize=3&apiKey={api_key}"
-        
-        response = requests.get(url)
-        if response.status_code == 200:
-            data = response.json()
-            return data.get('articles', [])[:3]
-    except:
-        pass
-    
-    # 备用科技新闻
-    return [
-        {
-            "title": "苹果发布新一代M3芯片，性能大幅提升",
-            "url": "https://www.apple.com/newsroom/",
-            "description": "新芯片采用先进工艺，能效比创历史新高"
-        },
-        {
-            "title": "SpaceX成功发射新一批星链卫星",
-            "url": "https://www.spacex.com/updates/",
-            "description": "全球互联网覆盖计划进入新阶段"
-        },
-        {
-            "title": "微软推出新一代Windows功能更新",
-            "url": "https://blogs.windows.com/",
-            "description": "集成更多AI功能，用户体验全面提升"
-        }
+def get_tech_news_from_rss():
+    """从RSS订阅源获取科技新闻"""
+    # 科技新闻相关RSS订阅源列表
+    rss_feeds = [
+        "https://techcrunch.com/feed/",
+        "https://www.theverge.com/rss/index.xml",
+        "https://www.wired.com/feed/rss",
+        "https://feeds.arstechnica.com/arstechnica/index",
+        "https://rss.slashdot.org/Slashdot/slashdotMain"
     ]
+    
+    tech_news = []
+    
+    for feed_url in rss_feeds:
+        try:
+            feed = feedparser.parse(feed_url)
+            
+            for entry in feed.entries[:1]:  # 每个源取前1条
+                if len(tech_news) >= 3:  # 最多获取3条新闻
+                    break
+                    
+                title = entry.title
+                url = entry.link
+                
+                # 尝试获取描述
+                description = ""
+                if hasattr(entry, "summary"):
+                    soup = BeautifulSoup(entry.summary, "html.parser")
+                    description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
+                elif hasattr(entry, "description"):
+                    soup = BeautifulSoup(entry.description, "html.parser")
+                    description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
+                
+                tech_news.append({
+                    "title": title,
+                    "url": url,
+                    "description": description
+                })
+                
+            if len(tech_news) >= 3:
+                break
+                
+            # 避免过快请求多个RSS源
+            time.sleep(1)
+            
+        except Exception as e:
+            print(f"获取RSS源 {feed_url} 失败: {e}")
+            continue
+    
+    # 如果没有获取到足够的新闻，使用备用新闻
+    if len(tech_news) == 0:
+        tech_news = [
+            {
+                "title": "苹果发布新一代M3芯片，性能大幅提升",
+                "url": "https://www.apple.com/newsroom/",
+                "description": "新芯片采用先进工艺，能效比创历史新高"
+            },
+            {
+                "title": "SpaceX成功发射新一批星链卫星",
+                "url": "https://www.spacex.com/updates/",
+                "description": "全球互联网覆盖计划进入新阶段"
+            },
+            {
+                "title": "微软推出新一代Windows功能更新",
+                "url": "https://blogs.windows.com/",
+                "description": "集成更多AI功能，用户体验全面提升"
+            }
+        ]
+    
+    return tech_news[:3]  # 返回最多3条新闻
 
 def update_readme():
     """更新README.md文件"""
@@ -199,10 +327,17 @@ def update_readme():
         content += f"### 今日名言\n\n> {quote}\n\n"
     
     # 更新AI新闻
-    ai_news = get_ai_news()
-    ai_news_section = "### AI 技术动态\n\n"
-    for news in ai_news:
-        ai_news_section += f"- [{news['title']}]({news['url']}) - {news['description']}\n"
+    try:
+        ai_news = get_ai_news_from_rss()
+        if ai_news:
+            ai_news_section = "### AI 技术动态\n\n"
+            for news in ai_news:
+                ai_news_section += f"- [{news['title']}]({news['url']}) - {news['description']}\n"
+        else:
+            ai_news_section = "### AI 技术动态\n\n- RSS 订阅源暂时不可用，请稍后再查看\n"
+    except Exception as e:
+        print(f"更新 AI 新闻时出错: {e}")
+        ai_news_section = "### AI 技术动态\n\n- RSS 订阅源暂时不可用，请稍后再查看\n"
     
     ai_pattern = r"### AI 技术动态\n\n- \[.*?\n\n"
     if re.search(ai_pattern, content, re.DOTALL):
@@ -210,13 +345,24 @@ def update_readme():
     else:
         content += ai_news_section + "\n\n"
     
-    # 更新网络安全提示
-    security_tip = get_cybersecurity_tips()
-    security_pattern = r"### 网络安全提示\n\n.*?\n\n"
+    # 更新网络安全新闻
+    try:
+        security_news = get_cybersecurity_news_from_rss()
+        if security_news:
+            security_news_section = "### 网络安全资讯\n\n"
+            for news in security_news:
+                security_news_section += f"- [{news['title']}]({news['url']}) - {news['description']}\n"
+        else:
+            security_news_section = "### 网络安全资讯\n\n- RSS 订阅源暂时不可用，请稍后再查看\n"
+    except Exception as e:
+        print(f"更新网络安全新闻时出错: {e}")
+        security_news_section = "### 网络安全资讯\n\n- RSS 订阅源暂时不可用，请稍后再查看\n"
+    
+    security_pattern = r"### 网络安全(提示|资讯)\n\n.*?\n\n"
     if re.search(security_pattern, content, re.DOTALL):
-        content = re.sub(security_pattern, f"### 网络安全提示\n\n{security_tip}\n\n", content)
+        content = re.sub(security_pattern, security_news_section + "\n\n", content)
     else:
-        content += f"### 网络安全提示\n\n{security_tip}\n\n"
+        content += security_news_section + "\n\n"
     
     # 更新就业趋势
     job_trend = get_tech_job_trends()
@@ -227,10 +373,17 @@ def update_readme():
         content += f"### 技术就业趋势\n\n{job_trend}\n\n"
     
     # 更新科技新闻
-    tech_news = get_tech_news()
-    tech_news_section = "### 科技热点\n\n"
-    for news in tech_news:
-        tech_news_section += f"- [{news['title']}]({news['url']}) - {news['description']}\n"
+    try:
+        tech_news = get_tech_news_from_rss()
+        if tech_news:
+            tech_news_section = "### 科技热点\n\n"
+            for news in tech_news:
+                tech_news_section += f"- [{news['title']}]({news['url']}) - {news['description']}\n"
+        else:
+            tech_news_section = "### 科技热点\n\n- RSS 订阅源暂时不可用，请稍后再查看\n"
+    except Exception as e:
+        print(f"更新科技新闻时出错: {e}")
+        tech_news_section = "### 科技热点\n\n- RSS 订阅源暂时不可用，请稍后再查看\n"
     
     tech_pattern = r"### 科技热点\n\n- \[.*?\n\n"
     if re.search(tech_pattern, content, re.DOTALL):
@@ -241,23 +394,29 @@ def update_readme():
     # 更新GitHub趋势项目
     try:
         trending_repos = get_github_trending()
-        trending_section = "### GitHub 趋势项目\n\n"
-        for repo in trending_repos:
-            trending_section += f"- [{repo['name']}]({repo['url']}) - {repo['description']}\n"
-        
-        trending_pattern = r"### GitHub 趋势项目\n\n- \[.*?\n\n"
-        if re.search(trending_pattern, content, re.DOTALL):
-            content = re.sub(trending_pattern, trending_section + "\n\n", content)
+        if trending_repos:
+            trending_section = "### GitHub 趋势项目\n\n"
+            for repo in trending_repos:
+                trending_section += f"- [{repo['name']}]({repo['url']}) - {repo['description']}\n"
         else:
-            content += trending_section + "\n\n"
+            trending_section = "### GitHub 趋势项目\n\n- GitHub 趋势数据暂时不可用，请稍后再查看\n"
     except Exception as e:
         print(f"获取GitHub趋势项目失败: {e}")
+        trending_section = "### GitHub 趋势项目\n\n- GitHub 趋势数据暂时不可用，请稍后再查看\n"
+    
+    trending_pattern = r"### GitHub 趋势项目\n\n- \[.*?\n\n"
+    if re.search(trending_pattern, content, re.DOTALL):
+        content = re.sub(trending_pattern, trending_section + "\n\n", content)
+    else:
+        content += trending_section + "\n\n"
     
     # 写入更新后的内容
-    with open('README.md', 'w', encoding='utf-8') as file:
-        file.write(content)
-    
-    print("README.md 已更新")
+    try:
+        with open('README.md', 'w', encoding='utf-8') as file:
+            file.write(content)
+        print("README.md 已更新")
+    except Exception as e:
+        print(f"写入 README.md 失败: {e}")
 
 if __name__ == "__main__":
     update_readme() 
