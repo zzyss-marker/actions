@@ -34,7 +34,7 @@ MIT
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
@@ -52,7 +52,7 @@ MIT
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
@@ -69,4 +69,38 @@ MIT
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
+
+### AI 研究论文
+
+- [MagicMotion: Controllable Video Generation with Dense-to-Sparse
+  Trajectory Guidance](http://arxiv.org/abs/2503.16421v1) - Quanhao Li, Zhen Xing, Rui Wang, Hui Zhang, Qi Dai, Zuxuan Wu
+  Recent advances in video generation have led to remarkable improvements in
+visual quality and temporal coherence. Upon this, trajectory-controllable v...
+
+- [Survey on Evaluation of LLM-based Agents](http://arxiv.org/abs/2503.16416v1) - Asaf Yehudai, Lilach Eden, Alan Li, Guy Uziel, Yilun Zhao, Roy Bar-Haim, Arman Cohan, Michal Shmueli-Scheuer
+  The emergence of LLM-based agents represents a paradigm shift in AI, enabling
+autonomous systems to plan, reason, use tools, and maintain memory while...
+
+- [DreamTexture: Shape from Virtual Texture with Analysis by Augmentation](http://arxiv.org/abs/2503.16412v1) - Ananta R. Bhattarai, Xingzhe He, Alla Sheffer, Helge Rhodin
+  DreamFusion established a new paradigm for unsupervised 3D reconstruction
+from virtual views by combining advances in generative models and
+differenti...
+
+### 网络安全研究论文
+
+- [Graph of Effort: Quantifying Risk of AI Usage for Vulnerability
+  Assessment](http://arxiv.org/abs/2503.16392v1) - Anket Mehra, Andreas Aßmuth, Malte Prieß
+  With AI-based software becoming widely available, the risk of exploiting its
+capabilities, such as high automation and complex pattern recognition, co...
+
+- [Cultivating Cybersecurity: Designing a Cybersecurity Curriculum for the
+  Food and Agriculture Sector](http://arxiv.org/abs/2503.16292v1) - George Grispos, Logan Mears, Larry Loucks, William Mahoney
+  As technology increasingly integrates into farm settings, the food and
+agriculture sector has become vulnerable to cyberattacks. However, previous
+res...
+
+- [Securing Satellite Communications: Real-Time Video Encryption Scheme on
+  Satellite Payloads](http://arxiv.org/abs/2503.16287v1) - Hanshuo Qiu, Jing Lian, Xiaoyuan Wang, Jizhao Liu
+  The rapid development of low-Earth orbit (LEO) satellite constellations and
+satellite communication systems has elevated the importance of secure vide...
 
