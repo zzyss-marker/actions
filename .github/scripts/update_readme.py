@@ -76,6 +76,7 @@ def get_ai_news_from_rss():
     """从RSS订阅源获取AI相关新闻"""
     # AI相关RSS订阅源列表 - 更新为更可靠的源
     rss_feeds = [
+        "https://api.dbot.pp.ua/v1/rss/csdn/ai",
         "https://rsshub.app/36kr/ai", # 36氪AI频道
         "https://rsshub.app/sspai/topic/268", # 少数派AI话题
         "https://rsshub.app/juejin/category/ai", # 掘金AI分类
@@ -153,6 +154,7 @@ def get_cybersecurity_news_from_rss():
     """从RSS订阅源获取网络安全新闻"""
     # 网络安全相关RSS订阅源列表 - 更新为更可靠的源
     rss_feeds = [
+        "https://api.dbot.pp.ua/v1/rss/tencent_cloud",
         "https://rsshub.app/freebuf", # FreeBuf
         "https://rsshub.app/4hou", # 嘶吼
         "https://rsshub.app/anquanke/all", # 安全客
