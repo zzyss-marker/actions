@@ -101,6 +101,9 @@ def get_ai_news_from_rss():
                 print(f"RSS 响应内容: {response.text[:200]}...")
                 continue
                 
+            # 打印响应内容的前200个字符，帮助调试
+            print(f"RSS 响应内容: {response.text[:200]}...")
+            
             feed = feedparser.parse(response.content)
             
             if not feed.entries:
@@ -114,7 +117,15 @@ def get_ai_news_from_rss():
                     break
                     
                 title = entry.title
-                url = entry.link
+                
+                # 处理 Atom 格式的链接
+                if hasattr(entry, "link"):
+                    url = entry.link
+                elif hasattr(entry, "links") and entry.links:
+                    url = entry.links[0].href
+                else:
+                    # 尝试从 id 字段获取链接
+                    url = entry.id if hasattr(entry, "id") else "#"
                 
                 # 尝试获取描述
                 description = ""
@@ -124,6 +135,12 @@ def get_ai_news_from_rss():
                 elif hasattr(entry, "description"):
                     soup = BeautifulSoup(entry.description, "html.parser")
                     description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
+                elif hasattr(entry, "content") and entry.content:
+                    soup = BeautifulSoup(entry.content[0].value, "html.parser")
+                    description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
+                
+                # 打印调试信息
+                print(f"解析到文章: {title} - URL: {url}")
                 
                 ai_news.append({
                     "title": title,
