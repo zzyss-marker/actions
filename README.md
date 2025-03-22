@@ -34,15 +34,15 @@ MIT
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- [如何高效使用Prompt与AI大模型对话](https://blog.csdn.net/zouliping123456/article/details/142693264) - 在人工智能的世界里，提示词（Prompt）就像是一把钥匙，能够解锁AI智能助手的潜力，帮助你更高效地获取信息、解决问题。但如何正确使用这把钥匙，却是一门艺术。本文将带你了解提示词的使用技巧，让你与人工...
-- [MarsCode AI 体验与竞品对比](https://blog.csdn.net/qq_43210029/article/details/144914188) - 豆包MarsCodeAI编程体验家
-- [小白零基础物联网开发实战（ ESP32 + AI 编码）](https://blog.csdn.net/honghaier/article/details/144850798) - 本文讲解了如何基于AI来进行ESP32开发入门~
-- [DeepSeek 新玩法：免费 AI 配图，Claude 的平替来了！](https://blog.csdn.net/m0_37996629/article/details/145387703) - 我们详细介绍了 DeepSeek 给文字配图的方案，还浅尝了下 ChatGPT 最近配图的步骤。过去，每次有人问“怎么用 AI 给长文配图”，我总会毫不犹豫的回答 Claude 的名字。说实话，Dee...
-- [AI 赋能软件开发：从工具到思维的全面升级](https://blog.csdn.net/qq_34419312/article/details/146158856) - AI 正在深刻改变软件开发的方式，通过 AI 工具和平台，开发者可以大幅提升工作效率和质量。本文从 AI 如何改变软件开发、核心应用、工具推荐、最佳实践、挑战与解决方案、未来展望等多个方面全面解析了 ...
+- [【AIGC】AI时代的数据安全：使用ChatGPT时的自查要点](https://blog.csdn.net/2201_75539691/article/details/142686568) - 在当今生成式人工智能快速发展的背景下，数据安全问题变得尤为重要。随着AI技术的广泛应用，如何保障数据安全和隐私保护成为了不可回避的课题。尤其是在使用像ChatGPT这样的生成式AI工具时，保护个人和组...
+- [SGLang部署deepseek-ai/DeepSeek-R1-Distill-Qwen-32B实测比VLLM快30%，LMDeploy比VLLM快50%](https://blog.csdn.net/weixin_46398647/article/details/145588854) - 我是4卡3090，运行DeepSeek-R1-Distill-Qwen-32B，使用了3种框架进行部署，分别为lmdeploy、sglang、vllm
+- [探索AIGC未来：通义万相2.1与蓝耘智算平台的完美结合释放AI生产力](https://blog.csdn.net/2301_81313679/article/details/146051700) - 蓝耘智算平台是一个为高性能计算需求设计的云计算平台，提供强大的计算能力与灵活服务。平台基于领先的基础设施和大规模GPU算力，采用现代化的Kubernetes架构，专为大规模GPU加速工作负载而设计，满...
+- [解锁DeepSeek-R1大模型微调：从训练到部署，打造定制化AI会话系统](https://blog.csdn.net/c18213590220/article/details/146135568) - 大模型微调技术通过对预训练的大模型进行进一步训练，能够根据特定领域的需求进行优化，从而有效避免AI幻觉的发生，并且提供更加准确、有价值的输出。
+- [Manus爆火！手把手教你申请“AI全能助手”内测资格](https://blog.csdn.net/m0_52165864/article/details/146082427) - 最近，技术圈和朋友圈可谓是被 Manus 强势刷屏。前脚 DeepSeek 的热度还未消散，Manus 便以更加炸裂的姿态闯入大家的视野。那么，这个 Manus 究竟是何方神圣呢？
 
 
 ### 网络安全资讯
@@ -54,15 +54,13 @@ MIT
 
 ### 技术就业趋势
 
-远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
+量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
 
 ### 科技热点
 
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269) - 近日，第 13 届 ICLR（International Conference on Learning Representations）国际学习表征会议公布了论文录用结果。本次大会共收到 11,565...
-- [万字详解：K8s核心组件与指标监控体系](https://cloud.tencent.com/developer/article/2506252) - K8s 是容器编排领域的事实标准，作为一名后端开发，如果对 K8s 的技术原理不够了解，未来无论是在日常工作还是求职面试中，可能都会面临一些挑战问题。
-
-本文是腾讯云可观测平台工程师柯开所总结的 K8...
 - [Calcite物化视图查询改写](https://cloud.tencent.com/developer/article/2506330) - 论文[1]提出SPJG查询改写，是SQL Server 2000视图改写的理论基础，高效实现基于selection, project, join, group-by算子匹配的视图改写方案，是当前很多计...
+- [【运维自动化-标准运维】如何实现一个最简单的流程编排](https://cloud.tencent.com/developer/article/2506402) - 根据实际运维操作场景梳理出来的操作步骤，通过不同的流转逻辑（并行、分支、条件并行）进行灵活的组合。
 
 
 ### GitHub 趋势项目
