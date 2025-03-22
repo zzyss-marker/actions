@@ -30,19 +30,19 @@
 
 MIT
 
-## 今日更新 (2025-03-21)
+## 今日更新 (2025-03-22)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- [AI+游戏开发：如何用 DeepSeek 打造高性能贪吃蛇游戏](https://blog.csdn.net/qq_32682301/article/details/146171988) - Vue.js项目开发全程实录》精选Vue.js开发方向的10个热门应用项目，实用性非常强。这些项目包含：智汇企业官网首页设计、贪吃蛇小游戏、时光音乐网首页设计、游戏公园博客、电影易购APP、淘贝电子商...
-- [爬虫+动态代理助力 AI 训练数据采集](https://blog.csdn.net/yuan2019035055/article/details/146348098) - 爬虫+动态代理助力 AI 训练数据采集
-- [【机器学习】阿里Qwen-VL：基于FastAPI私有化部署你的第一个AI多模态大模型](https://blog.csdn.net/weixin_48007632/article/details/139757328) - 本文首先在引言中强调了一下OpenAI兼容API的重要性，希望引起读者重视，其次介绍了Qwen-VL的原理与模型结构，最后简要讲了下FastAPI以及搭配组件，并基于FastAPI封装了OpenAI兼...
-- [deepseek+webstorm实现我们在工作中的ai小帮手的使用](https://blog.csdn.net/qq_41619796/article/details/145552070) - deepseek，相信大家都不陌生，前几天的deepseek对标chat又火了一大把，这里我们说说，作为开发同学来说，怎么实际使用他来给我们提供帮助。
-- [【AI大模型】Ollama部署本地大模型DeepSeek-R1，交互界面Open-WebUI，RagFlow构建私有知识库](https://blog.csdn.net/u014608435/article/details/145545048) - DeepSeek官网DeepSeek（深度求索）是一家专注于实现通用人工智能（AGI）的中国科技公司，致力于通过技术探索与创新，推动智能技术的广泛应用。Ollama 是一个强大的工具，旨在简化大型语言...
+- [如何高效使用Prompt与AI大模型对话](https://blog.csdn.net/zouliping123456/article/details/142693264) - 在人工智能的世界里，提示词（Prompt）就像是一把钥匙，能够解锁AI智能助手的潜力，帮助你更高效地获取信息、解决问题。但如何正确使用这把钥匙，却是一门艺术。本文将带你了解提示词的使用技巧，让你与人工...
+- [MarsCode AI 体验与竞品对比](https://blog.csdn.net/qq_43210029/article/details/144914188) - 豆包MarsCodeAI编程体验家
+- [小白零基础物联网开发实战（ ESP32 + AI 编码）](https://blog.csdn.net/honghaier/article/details/144850798) - 本文讲解了如何基于AI来进行ESP32开发入门~
+- [DeepSeek 新玩法：免费 AI 配图，Claude 的平替来了！](https://blog.csdn.net/m0_37996629/article/details/145387703) - 我们详细介绍了 DeepSeek 给文字配图的方案，还浅尝了下 ChatGPT 最近配图的步骤。过去，每次有人问“怎么用 AI 给长文配图”，我总会毫不犹豫的回答 Claude 的名字。说实话，Dee...
+- [AI 赋能软件开发：从工具到思维的全面升级](https://blog.csdn.net/qq_34419312/article/details/146158856) - AI 正在深刻改变软件开发的方式，通过 AI 工具和平台，开发者可以大幅提升工作效率和质量。本文从 AI 如何改变软件开发、核心应用、工具推荐、最佳实践、挑战与解决方案、未来展望等多个方面全面解析了 ...
 
 
 ### 网络安全资讯
@@ -54,15 +54,15 @@ MIT
 
 ### 技术就业趋势
 
-敏捷和Scrum认证在项目管理角色中价值提升。
+远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
 
 ### 科技热点
 
-- [突破极限！R2模型如何比肩o3 mini？这3大关键点决定成败！](https://cloud.tencent.com/developer/article/2506235) - 我最期待的就是，能够和OpenAI发布的o3 mini模型掰掰手腕，我感觉这就很炸裂了。毕竟o3 mini代表的是目前OpenAI能够提供给用户使用的最强大模型。
 - [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269) - 近日，第 13 届 ICLR（International Conference on Learning Representations）国际学习表征会议公布了论文录用结果。本次大会共收到 11,565...
 - [万字详解：K8s核心组件与指标监控体系](https://cloud.tencent.com/developer/article/2506252) - K8s 是容器编排领域的事实标准，作为一名后端开发，如果对 K8s 的技术原理不够了解，未来无论是在日常工作还是求职面试中，可能都会面临一些挑战问题。
 
 本文是腾讯云可观测平台工程师柯开所总结的 K8...
+- [Calcite物化视图查询改写](https://cloud.tencent.com/developer/article/2506330) - 论文[1]提出SPJG查询改写，是SQL Server 2000视图改写的理论基础，高效实现基于selection, project, join, group-by算子匹配的视图改写方案，是当前很多计...
 
 
 ### GitHub 趋势项目
