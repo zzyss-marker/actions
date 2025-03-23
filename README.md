@@ -34,7 +34,7 @@ MIT
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
@@ -47,14 +47,18 @@ MIT
 
 ### 网络安全资讯
 
-- [DOGE to Fired CISA Staff: Email Us Your Personal Data](https://krebsonsecurity.com/2025/03/doge-to-fired-cisa-staff-email-us-your-personal-data/) - A message posted on Monday to the homepage of the U.S. Cybersecurity & Infrastructure Security Agenc...
-- [Why Cyber Quality Is the Key to Security](https://www.darkreading.com/cyberattacks-data-breaches/why-cyber-quality-key-security) - The time to secure foundations, empower teams, and make cyber resilience the standard is now — becau...
-- [UAT-5918 Targets Taiwan's Critical Infrastructure Using Web Shells and Open-Source Tools](https://thehackernews.com/2025/03/uat-5918-targets-taiwans-critical.html) - Threat hunters have uncovered a new threat actor named UAT-5918 that has been attacking critical inf...
+- [为何AI系统比以往任何时候都更需要红队测试](https://www.freebuf.com/articles/neopoints/425467.html) - AI系统正成为生活的重要组成部分，但存在严重漏洞。红队测试通过模拟攻击，发现并修复这些弱点，确保AI安全可靠，防止偏见决策和数据泄露等严重后果。
+- [DCMTK三大安全漏洞曝光！中科固源Wisdom模糊自定义漏洞挖掘产品推动医疗信息安全升级](https://www.anquanke.com/post/id/305296) - 
+- [Tit-for-Tat：通过对抗防御保护大型视觉语言模型免受越狱攻击](https://paper.seebug.org/3309/) - 作者：Shuyang Hao, Yiwei Wang, Bryan Hooi等
+译者：知道创宇404实验室翻译组
+原文链接：https://arxiv.org/pdf/2503.11619v1
+摘要
+...
 
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
 
 ### 科技热点
 
@@ -89,6 +93,8 @@ autonomous systems to plan, reason, use tools, and maintain memory while...
   DreamFusion established a new paradigm for unsupervised 3D reconstruction
 from virtual views by combining advances in generative models and
 differenti...
+
+
 
 ### 网络安全研究论文
 
