@@ -77,6 +77,12 @@ def get_ai_news_from_rss():
     # 优先使用CSDN的AI资讯源
     primary_source = "https://api.dbot.pp.ua/v1/rss/csdn/ai"
     
+    # 定义headers变量
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+    }
+    
     try:
         print(f"尝试获取 AI 新闻 RSS: {primary_source}")
         response = requests.get(primary_source, headers=headers, timeout=15)
@@ -102,6 +108,9 @@ def get_ai_news_from_rss():
                         soup = BeautifulSoup(entry.summary, "html.parser")
                         description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
                     
+                    if not description:
+                        description = "AI技术动态，详情请点击链接查看完整内容"
+                    
                     print(f"添加文章: {title} - URL: {url}")
                     ai_news.append({
                         "title": title,
@@ -120,8 +129,18 @@ def get_ai_news_from_rss():
     except Exception as e:
         print(f"获取RSS源 {primary_source} 失败: {e}")
     
-    # 如果主源失败，尝试备用源
-    # 其余代码保持不变...
+    # 如果主源失败，使用备用新闻
+    print("使用备用 AI 新闻内容")
+    ai_news = [
+        {
+            "title": "OpenAI发布GPT-4 Turbo，性能大幅提升",
+            "url": "https://openai.com/blog/",
+            "description": "新模型在推理能力和上下文窗口方面有显著改进"
+        },
+        # 可以添加更多备用新闻
+    ]
+    
+    return ai_news
 
 def get_cybersecurity_news_from_rss():
     """从RSS订阅源获取网络安全新闻"""
