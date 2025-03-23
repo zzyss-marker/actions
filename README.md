@@ -34,15 +34,15 @@ MIT
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- [【AI大模型】深入Transformer架构：输入和输出部分的实现与解析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 因为在Transformer的编码器结构中, 并没有针对词汇位置信息的处理，因此需要在Embedding层后加入位置编码器，将词汇位置不同可能会产生不同语义的信息加入到词嵌入张量中, 以弥补位置信息的...
-- [【AI】从代码生成到智能调试：国内外AI编程工具大揭秘](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI编程工具正在重塑软件开发的方式，从代码生成到智能调试，AI技术为开发者提供了强大的工具箱。本文详细解析了几款国内外领先的AI编程工具，分析了它们的优缺点及使用场景，并探讨了AI编程工具的未来发展方...
-- [AI赋能医疗影像诊断：技术革新与临床实践深度解析（2025）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 2025年，全球医学影像数据量以每年30%的速度激增（Grand View Research, 2025），传统人工阅片模式面临效率与精度双重挑战。多任务学习：同步实现病灶检测（Detection）、...
-- [Office AI 助手 v0.3.12(长期免费,2025-1-14 支持更多排版选项）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - OfficeAI 助手是一款智能AI办公工具软件，专为 Microsoft Office 和 WPS 用户打造。无论你是在寻找如何输入“打勾（√）符号”的方法，还是想知道“怎么在插入表格前添加文字”，...
-- [测试提效之AI 辅助生成测试用例：具体案例与代码实现](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI 技术在自动化测试中的应用日益成熟，尤其是在测试用例生成方面，能够大幅提升测试工程师的效率。通过 AI 模型（如 OpenAI GPT 系列），我们可以根据代码逻辑、接口定义或需求描述，快速生成高...
+- [实时视频分析的破局之道：蓝耘 MaaS 如何与海螺 AI 视频实现高效协同](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 作为全球领先的 AI 视频生成工具，海螺 AI 视频由中国人工智能公司 MiniMax 研发，基于自研的多模态大语言模型，为用户提供从文本、图像到动态视频的一站式创作解决方案。其核心技术突破与创新应用...
+- [【Qwen2微调实战】LLaMA-Factory框架对Qwen2-7B模型的微调实践](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在人工智能的浪潮中，大型语言模型（LLMs）正逐渐成为研究和应用的热点。它们在自然语言处理（NLP）的各个领域，如文本生成、翻译、问答等任务中展现出了卓越的能力。Qwen2-7B模型，作为该领域的佼佼...
+- [AI+游戏开发：如何用 DeepSeek 打造高性能贪吃蛇游戏](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Vue.js项目开发全程实录》精选Vue.js开发方向的10个热门应用项目，实用性非常强。这些项目包含：智汇企业官网首页设计、贪吃蛇小游戏、时光音乐网首页设计、游戏公园博客、电影易购APP、淘贝电子商...
+- [【海螺AI视频】蓝耘智算 | AI视频新浪潮：蓝耘MaaS与海螺AI视频创作体验](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 蓝耘MaaS平台与海螺AI视频深度融合，前者以智能算力中枢、多模态模型工场赋能AI开发，后者通过零门槛创作和影视级视效革新视频制作。二者结合打造出低代码开发与开放式创作生态，为多领域用户提供安全高效的...
+- [教你如何巧用AI花式降重，查重百分百通过!](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 还在担心查重率太高论文通不过吗？今天教大家三种用AI降重的方式，轻轻松松将查重率降到10%以下！
 
 
 ### 网络安全资讯
@@ -58,7 +58,7 @@ MIT
 
 ### 技术就业趋势
 
-DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
