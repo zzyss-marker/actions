@@ -30,7 +30,7 @@
 
 MIT
 
-## 今日更新 (2025-03-21)
+## 今日更新 (2025-03-23)
 
 ### 今日名言
 
@@ -38,11 +38,11 @@ MIT
 
 ### AI 技术动态
 
-- [AI+游戏开发：如何用 DeepSeek 打造高性能贪吃蛇游戏](https://blog.csdn.net/qq_32682301/article/details/146171988) - Vue.js项目开发全程实录》精选Vue.js开发方向的10个热门应用项目，实用性非常强。这些项目包含：智汇企业官网首页设计、贪吃蛇小游戏、时光音乐网首页设计、游戏公园博客、电影易购APP、淘贝电子商...
-- [爬虫+动态代理助力 AI 训练数据采集](https://blog.csdn.net/yuan2019035055/article/details/146348098) - 爬虫+动态代理助力 AI 训练数据采集
-- [【机器学习】阿里Qwen-VL：基于FastAPI私有化部署你的第一个AI多模态大模型](https://blog.csdn.net/weixin_48007632/article/details/139757328) - 本文首先在引言中强调了一下OpenAI兼容API的重要性，希望引起读者重视，其次介绍了Qwen-VL的原理与模型结构，最后简要讲了下FastAPI以及搭配组件，并基于FastAPI封装了OpenAI兼...
-- [deepseek+webstorm实现我们在工作中的ai小帮手的使用](https://blog.csdn.net/qq_41619796/article/details/145552070) - deepseek，相信大家都不陌生，前几天的deepseek对标chat又火了一大把，这里我们说说，作为开发同学来说，怎么实际使用他来给我们提供帮助。
-- [【AI大模型】Ollama部署本地大模型DeepSeek-R1，交互界面Open-WebUI，RagFlow构建私有知识库](https://blog.csdn.net/u014608435/article/details/145545048) - DeepSeek官网DeepSeek（深度求索）是一家专注于实现通用人工智能（AGI）的中国科技公司，致力于通过技术探索与创新，推动智能技术的广泛应用。Ollama 是一个强大的工具，旨在简化大型语言...
+- [【Unity】 HTFramework框架（六十）Assistant助手（在Unity中接入DeepSeek等AI语言大模型）](https://blog.csdn.net/qq992817263/article/details/145637201) - 更新日期：2025年2月14日。
+- [【AI绘画】“现代最强”vs“史上最强”（AI进阶篇：FLUX模型下载）](https://blog.csdn.net/2401_85116933/article/details/142375835) - AIGC技术的未来发展前景广阔，随着人工智能技术的不断发展，AIGC技术也将不断提高。未来，AIGC技术将在游戏和计算领域得到更广泛的应用，使游戏和计算系统具有更高效、更智能、更灵活的特性。同时，AI...
+- [云电脑接入DeepSeek？探讨ToDesk云电脑、海马云、顺网云的AI潜能](https://blog.csdn.net/qq_38951259/article/details/145817940) - 云电脑的AI潜能到底有多大
+- [《DeepSeek 实用集成：大模型能力接入各类软件》：此文为AI自动生成](https://blog.csdn.net/zheng_ruiguo/article/details/145400586) - 将 DeepSeek 大模型能力轻松接入各类软件。
+- [探索未来：深入人工智能学习框架的奥秘与实践](https://blog.csdn.net/weixin_73295475/article/details/143405389) - 而在这一切的背后，是一系列强大的学习框架，它们为AI的发展提供了必要的工具和平台。通过本文的深入探讨，我们不仅理解了不同AI学习框架的特点和优势，还通过实际代码示例体验了如何使用这些框架构建机器学习模...
 
 
 ### 网络安全资讯
@@ -54,13 +54,13 @@ MIT
 
 ### 技术就业趋势
 
-量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
-- [苹果发布新一代M3芯片，性能大幅提升](https://www.apple.com/newsroom/) - 新芯片采用先进工艺，能效比创历史新高
-- [SpaceX成功发射新一批星链卫星](https://www.spacex.com/updates/) - 全球互联网覆盖计划进入新阶段
-- [微软推出新一代Windows功能更新](https://blogs.windows.com/) - 集成更多AI功能，用户体验全面提升
+- [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269) - 近日，第 13 届 ICLR（International Conference on Learning Representations）国际学习表征会议公布了论文录用结果。本次大会共收到 11,565...
+- [Calcite物化视图查询改写](https://cloud.tencent.com/developer/article/2506330) - 论文[1]提出SPJG查询改写，是SQL Server 2000视图改写的理论基础，高效实现基于selection, project, join, group-by算子匹配的视图改写方案，是当前很多计...
+- [【运维自动化-标准运维】如何实现一个最简单的流程编排](https://cloud.tencent.com/developer/article/2506402) - 根据实际运维操作场景梳理出来的操作步骤，通过不同的流转逻辑（并行、分支、条件并行）进行灵活的组合。
 
 
 ### GitHub 趋势项目
