@@ -548,17 +548,24 @@ def update_readme():
             security_news_section = "### 网络安全资讯\n\n"
             for news in security_news:
                 security_news_section += f"- [{news['title']}]({news['url']}) - {news['description']}\n"
+            
+            # 打印将要更新的内容
+            print("将更新网络安全资讯为:")
+            print(security_news_section)
         else:
             security_news_section = "### 网络安全资讯\n\n- RSS 订阅源暂时不可用，请稍后再查看\n"
     except Exception as e:
         print(f"更新网络安全新闻时出错: {e}")
         security_news_section = "### 网络安全资讯\n\n- RSS 订阅源暂时不可用，请稍后再查看\n"
     
-    security_pattern = r"### 网络安全(提示|资讯)\n\n.*?\n\n"
+    # 使用更精确的正则表达式
+    security_pattern = r"### 网络安全(提示|资讯)\n\n[\s\S]*?(?=\n\n###|\Z)"
     if re.search(security_pattern, content, re.DOTALL):
-        content = re.sub(security_pattern, security_news_section + "\n\n", content)
+        content = re.sub(security_pattern, security_news_section, content)
+        print("已替换网络安全资讯内容")
     else:
         content += security_news_section + "\n\n"
+        print("已添加网络安全资讯内容")
     
     # 更新就业趋势
     job_trend = get_tech_job_trends()
@@ -622,15 +629,21 @@ def update_readme():
             ai_papers_section = "### AI 研究论文\n\n"
             for paper in ai_papers:
                 ai_papers_section += f"- [{paper['title']}]({paper['url']}) - {paper['authors']}\n  {paper['description']}\n\n"
+            
+            # 打印将要更新的内容
+            print("将更新 AI 研究论文为:")
+            print(ai_papers_section)
         else:
             ai_papers_section = "### AI 研究论文\n\n- arXiv 论文数据暂时不可用，请稍后再查看\n\n"
     except Exception as e:
         print(f"更新 AI 论文时出错: {e}")
         ai_papers_section = "### AI 研究论文\n\n- arXiv 论文数据暂时不可用，请稍后再查看\n\n"
     
-    ai_papers_pattern = r"### AI 研究论文\n\n- \[.*?\n\n"
+    # 使用更精确的正则表达式
+    ai_papers_pattern = r"### AI 研究论文\n\n[\s\S]*?(?=\n\n###|\Z)"
     if re.search(ai_papers_pattern, content, re.DOTALL):
         content = re.sub(ai_papers_pattern, ai_papers_section, content)
+        print("已替换 AI 研究论文内容")
     else:
         content += ai_papers_section
     
