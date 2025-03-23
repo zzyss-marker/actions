@@ -34,17 +34,17 @@ MIT
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) - 新模型在推理能力和上下文窗口方面有显著改进
+- RSS 订阅源暂时不可用，请稍后再查看
 
 
 ### 网络安全资讯
 
 - [为何AI系统比以往任何时候都更需要红队测试](https://www.freebuf.com/articles/neopoints/425467.html) - AI系统正成为生活的重要组成部分，但存在严重漏洞。红队测试通过模拟攻击，发现并修复这些弱点，确保AI安全可靠，防止偏见决策和数据泄露等严重后果。
-- [DCMTK三大安全漏洞曝光！中科固源Wisdom模糊自定义漏洞挖掘产品推动医疗信息安全升级](https://www.anquanke.com/post/id/305296) - 
+- [DCMTK三大安全漏洞曝光！中科固源Wisdom模糊自定义漏洞挖掘产品推动医疗信息安全升级](https://www.anquanke.com/post/id/305296) - 安全公告，详情请点击链接查看完整内容
 - [Tit-for-Tat：通过对抗防御保护大型视觉语言模型免受越狱攻击](https://paper.seebug.org/3309/) - 作者：Shuyang Hao, Yiwei Wang, Bryan Hooi等
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/pdf/2503.11619v1
@@ -54,7 +54,7 @@ MIT
 
 ### 技术就业趋势
 
-远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
@@ -72,6 +72,8 @@ MIT
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
 
+
+
 ### AI 研究论文
 
 - [MagicMotion: Controllable Video Generation with Dense-to-Sparse
@@ -87,6 +89,8 @@ autonomous systems to plan, reason, use tools, and maintain memory while...
   DreamFusion established a new paradigm for unsupervised 3D reconstruction
 from virtual views by combining advances in generative models and
 differenti...
+
+
 
 ### 网络安全研究论文
 
