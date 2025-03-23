@@ -34,15 +34,15 @@ MIT
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- [【Unity】 HTFramework框架（六十）Assistant助手（在Unity中接入DeepSeek等AI语言大模型）](https://blog.csdn.net/qq992817263/article/details/145637201) - 更新日期：2025年2月14日。
-- [【AI绘画】“现代最强”vs“史上最强”（AI进阶篇：FLUX模型下载）](https://blog.csdn.net/2401_85116933/article/details/142375835) - AIGC技术的未来发展前景广阔，随着人工智能技术的不断发展，AIGC技术也将不断提高。未来，AIGC技术将在游戏和计算领域得到更广泛的应用，使游戏和计算系统具有更高效、更智能、更灵活的特性。同时，AI...
-- [云电脑接入DeepSeek？探讨ToDesk云电脑、海马云、顺网云的AI潜能](https://blog.csdn.net/qq_38951259/article/details/145817940) - 云电脑的AI潜能到底有多大
-- [《DeepSeek 实用集成：大模型能力接入各类软件》：此文为AI自动生成](https://blog.csdn.net/zheng_ruiguo/article/details/145400586) - 将 DeepSeek 大模型能力轻松接入各类软件。
-- [探索未来：深入人工智能学习框架的奥秘与实践](https://blog.csdn.net/weixin_73295475/article/details/143405389) - 而在这一切的背后，是一系列强大的学习框架，它们为AI的发展提供了必要的工具和平台。通过本文的深入探讨，我们不仅理解了不同AI学习框架的特点和优势，还通过实际代码示例体验了如何使用这些框架构建机器学习模...
+- [AI大模型2025实例测评--逻辑推理能力](https://blog.csdn.net/xyzcto/article/details/145304528) - 本次测评旨在对当前主流的 AI 大模型进行客观、公正的逻辑推理能力测评。包括以下模型：1.文心一言2.豆包3.通义千问4.KIMI5.Copilot6.ChatGPT7.DeepSeek R1 ， G...
+- [【Qwen2微调实战】Lora微调Qwen2-7B-Instruct实践指南](https://blog.csdn.net/xiaobing259/article/details/140594017) - 在人工智能领域，自然语言处理（NLP）一直是研究的热点之一。随着深度学习技术的不断发展，大型预训练语言模型（如Qwen2-7B-Instruct）在理解与生成自然语言方面取得了显著的进展。然而，这些模...
+- [《YOLO 标注工具全览》：此文为AI自动生成](https://blog.csdn.net/zheng_ruiguo/article/details/143086275) - LabelImg 是最为常用的 YOLO 标注工具之一。然而，它经常莫名其妙地闪退，稳定性较差。尽管如此，LabelImg 在图像检测任务数据集制作方面仍发挥着重要作用。它支持多种标注格式，如 XML...
+- [DeepSeek + Dify + Ollama + Docker + Linux 私有化部署，构建你的专属私人 AI 助手](https://blog.csdn.net/weixin_40816738/article/details/145662715) - DeepSeek + Dify + Ollama + Docker + Linux 私有化部署，构建你的专属私人 AI 助手
+- [如何利用AI工具来进行数据分析](https://blog.csdn.net/bestpasu/article/details/145381269) - 利用AI工具进行数据分析可以大幅提高效率和准确性。从明确目标到数据预处理、模型构建、结果解释和自动化报告，每一步都可以借助AI技术实现高效完成。同时，选择合适的工具并结合实际需求进行优化，将使数据分析...
 
 
 ### 网络安全资讯
@@ -54,7 +54,7 @@ MIT
 
 ### 技术就业趋势
 
-具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
@@ -65,11 +65,13 @@ MIT
 
 ### GitHub 趋势项目
 
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə'fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [mongodb-developer/GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase) - GenAI Cookbook
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+
 
 
 ### AI 研究论文
