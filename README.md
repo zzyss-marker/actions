@@ -34,15 +34,11 @@ MIT
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- [实时视频分析的破局之道：蓝耘 MaaS 如何与海螺 AI 视频实现高效协同](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 作为全球领先的 AI 视频生成工具，海螺 AI 视频由中国人工智能公司 MiniMax 研发，基于自研的多模态大语言模型，为用户提供从文本、图像到动态视频的一站式创作解决方案。其核心技术突破与创新应用...
-- [【Qwen2微调实战】LLaMA-Factory框架对Qwen2-7B模型的微调实践](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在人工智能的浪潮中，大型语言模型（LLMs）正逐渐成为研究和应用的热点。它们在自然语言处理（NLP）的各个领域，如文本生成、翻译、问答等任务中展现出了卓越的能力。Qwen2-7B模型，作为该领域的佼佼...
-- [AI+游戏开发：如何用 DeepSeek 打造高性能贪吃蛇游戏](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Vue.js项目开发全程实录》精选Vue.js开发方向的10个热门应用项目，实用性非常强。这些项目包含：智汇企业官网首页设计、贪吃蛇小游戏、时光音乐网首页设计、游戏公园博客、电影易购APP、淘贝电子商...
-- [【海螺AI视频】蓝耘智算 | AI视频新浪潮：蓝耘MaaS与海螺AI视频创作体验](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 蓝耘MaaS平台与海螺AI视频深度融合，前者以智能算力中枢、多模态模型工场赋能AI开发，后者通过零门槛创作和影视级视效革新视频制作。二者结合打造出低代码开发与开放式创作生态，为多领域用户提供安全高效的...
-- [教你如何巧用AI花式降重，查重百分百通过!](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 还在担心查重率太高论文通不过吗？今天教大家三种用AI降重的方式，轻轻松松将查重率降到10%以下！
+- [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) - 新模型在推理能力和上下文窗口方面有显著改进
 
 
 ### 网络安全资讯
@@ -58,7 +54,7 @@ MIT
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
 
 ### 科技热点
 
