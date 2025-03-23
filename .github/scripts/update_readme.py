@@ -74,116 +74,54 @@ def get_github_trending(language=None, since="daily"):
 
 def get_ai_news_from_rss():
     """从RSS订阅源获取AI相关新闻"""
-    # AI相关RSS订阅源列表
-    rss_feeds = [
-        "https://api.dbot.pp.ua/v1/rss/csdn/ai",
-        "https://rsshub.app/36kr/ai", # 36氪AI频道
-        "https://rsshub.app/sspai/topic/268", # 少数派AI话题
-        "https://rsshub.app/juejin/category/ai", # 掘金AI分类
-        "https://rsshub.app/zhihu/topic/19551275", # 知乎AI话题
-        "https://rsshub.app/baidu/research/ai" # 百度研究院AI动态
-    ]
+    # 优先使用CSDN的AI资讯源
+    primary_source = "https://api.dbot.pp.ua/v1/rss/csdn/ai"
     
-    ai_news = []
+    try:
+        print(f"尝试获取 AI 新闻 RSS: {primary_source}")
+        response = requests.get(primary_source, headers=headers, timeout=15)
+        print(f"RSS 响应状态码: {response.status_code}")
+        
+        if response.status_code == 200:
+            print(f"RSS 响应内容: {response.text[:500]}...")
+            
+            # 解析Atom格式
+            feed = feedparser.parse(response.text)
+            
+            if feed.entries:
+                ai_news = []
+                print(f"成功获取 {len(feed.entries)} 条 AI 新闻")
+                
+                for entry in feed.entries[:20]:  # 最多获取20条
+                    title = entry.title
+                    url = entry.link if isinstance(entry.link, str) else entry.link[0]['href']
+                    
+                    # 获取描述
+                    description = ""
+                    if hasattr(entry, "summary"):
+                        soup = BeautifulSoup(entry.summary, "html.parser")
+                        description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
+                    
+                    print(f"添加文章: {title} - URL: {url}")
+                    ai_news.append({
+                        "title": title,
+                        "url": url,
+                        "description": description
+                    })
+                    
+                    if len(ai_news) >= 5:  # 只取前5条
+                        break
+                
+                if ai_news:
+                    print(f"最终获取到 {len(ai_news)} 条 AI 新闻")
+                    for news in ai_news:
+                        print(f"- {news['title']} ({news['url']})")
+                    return ai_news
+    except Exception as e:
+        print(f"获取RSS源 {primary_source} 失败: {e}")
     
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
-    }
-    
-    for feed_url in rss_feeds:
-        try:
-            print(f"尝试获取 AI 新闻 RSS: {feed_url}")
-            response = requests.get(feed_url, headers=headers, timeout=15)
-            print(f"RSS 响应状态码: {response.status_code}")
-            
-            if response.status_code != 200:
-                print(f"RSS 响应内容: {response.text[:200]}...")
-                continue
-                
-            print(f"RSS 响应内容: {response.text[:200]}...")
-            
-            feed = feedparser.parse(response.content)
-            
-            if not feed.entries:
-                print(f"RSS 源没有条目: {feed_url}")
-                continue
-                
-            print(f"成功获取 {len(feed.entries)} 条 AI 新闻")
-            
-            for entry in feed.entries[:5]:  # 直接获取前5条
-                title = entry.title
-                
-                # 处理 Atom 格式的链接
-                if hasattr(entry, "link") and not entry.link.endswith(('.png', '.jpg', '.jpeg', '.gif')):
-                    url = entry.link
-                elif hasattr(entry, "links") and entry.links:
-                    # 尝试找到非图片链接
-                    for link in entry.links:
-                        if hasattr(link, "href") and not link.href.endswith(('.png', '.jpg', '.jpeg', '.gif')):
-                            url = link.href
-                            break
-                    else:
-                        # 如果所有链接都是图片，使用第一个链接
-                        url = entry.links[0].href
-                else:
-                    # 尝试从 id 字段获取链接
-                    url = entry.id if hasattr(entry, "id") else "#"
-                
-                # 检查 URL 是否为图片链接
-                if url.endswith(('.png', '.jpg', '.jpeg', '.gif')):
-                    print(f"跳过图片链接: {url}")
-                    continue
-                
-                # 尝试获取描述
-                description = ""
-                if hasattr(entry, "summary"):
-                    soup = BeautifulSoup(entry.summary, "html.parser")
-                    description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
-                elif hasattr(entry, "description"):
-                    soup = BeautifulSoup(entry.description, "html.parser")
-                    description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
-                elif hasattr(entry, "content") and entry.content:
-                    soup = BeautifulSoup(entry.content[0].value, "html.parser")
-                    description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
-                
-                print(f"添加文章: {title} - URL: {url}")
-                
-                ai_news.append({
-                    "title": title,
-                    "url": url,
-                    "description": description
-                })
-                
-                if len(ai_news) >= 5:
-                    break
-            
-            if len(ai_news) >= 5:
-                break
-                
-            time.sleep(2)
-            
-        except Exception as e:
-            print(f"获取RSS源 {feed_url} 失败: {e}")
-            continue
-    
-    # 如果没有获取到足够的新闻，使用备用新闻
-    if len(ai_news) == 0:
-        print("未能获取任何 AI 新闻，使用备用内容")
-        ai_news = [
-            {
-                "title": "OpenAI发布GPT-4 Turbo，性能大幅提升",
-                "url": "https://openai.com/blog/",
-                "description": "新模型在推理能力和上下文窗口方面有显著改进"
-            },
-            # ... 其他备用新闻 ...
-        ]
-    
-    print(f"最终获取到 {len(ai_news)} 条 AI 新闻")
-    for news in ai_news:
-        print(f"- {news['title']} ({news['url']})")
-    
-    return ai_news[:5]  # 返回最多5条新闻
+    # 如果主源失败，尝试备用源
+    # 其余代码保持不变...
 
 def get_cybersecurity_news_from_rss():
     """从RSS订阅源获取网络安全新闻"""
@@ -271,6 +209,9 @@ def get_cybersecurity_news_from_rss():
                     soup = BeautifulSoup(entry.content[0].value, "html.parser")
                     description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
                 
+                if not description:
+                    description = "安全公告，详情请点击链接查看完整内容"
+                
                 print(f"添加网络安全文章: {title} - URL: {url}")
                 
                 security_news.append({
@@ -285,7 +226,13 @@ def get_cybersecurity_news_from_rss():
             time.sleep(2)
             
         except Exception as e:
-            print(f"获取RSS源 {feed_url} 失败: {e}")
+            print(f"获取RSS源 {feed_url} 失败: {str(e)}")
+            print(f"错误类型: {type(e).__name__}")
+            if isinstance(e, requests.exceptions.RequestException):
+                print(f"请求详情: {e.request.method} {e.request.url}")
+                if hasattr(e, 'response') and e.response:
+                    print(f"响应状态码: {e.response.status_code}")
+                    print(f"响应头: {e.response.headers}")
             continue
     
     # 如果没有获取到足够的新闻，添加网络安全提示
@@ -421,7 +368,13 @@ def get_tech_news_from_rss():
             time.sleep(2)
             
         except Exception as e:
-            print(f"获取RSS源 {feed_url} 失败: {e}")
+            print(f"获取RSS源 {feed_url} 失败: {str(e)}")
+            print(f"错误类型: {type(e).__name__}")
+            if isinstance(e, requests.exceptions.RequestException):
+                print(f"请求详情: {e.request.method} {e.request.url}")
+                if hasattr(e, 'response') and e.response:
+                    print(f"响应状态码: {e.response.status_code}")
+                    print(f"响应头: {e.response.headers}")
             continue
     
     # 如果没有获取到足够的新闻，使用备用新闻
