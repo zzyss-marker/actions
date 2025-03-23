@@ -189,26 +189,75 @@ def get_cybersecurity_news_from_rss():
     """从RSS订阅源获取网络安全新闻"""
     # 网络安全相关RSS订阅源列表 - 更新为更可靠的源
     rss_feeds = [
-        "https://api.dbot.pp.ua/v1/rss/tencent_cloud",
-        "https://rsshub.app/freebuf", # FreeBuf
-        "https://rsshub.app/4hou", # 嘶吼
-        "https://rsshub.app/anquanke/all", # 安全客
-        "https://rsshub.app/secrss/all", # SecRSS
-        "https://rsshub.app/hackernews" # Hacker News
+        "https://www.freebuf.com/feed",
+        "https://api.anquanke.com/data/v1/rss",
+        "https://paper.seebug.org/rss",
+        "https://www.4hou.com/feed",
+        "https://xlab.tencent.com/cn/atom.xml",
+        "https://www.sec-wiki.com/news/rss",
+        "http://blog.knownsec.com/feed",
+        "https://vipread.com/feed",
+        "https://www.aqniu.com/feed",
+        "https://keenlab.tencent.com/zh/atom.xml",
+        "https://blog.netlab.360.com/rss",
+        "https://www.seebug.org/rss/new",
+        "https://www.secpulse.com/feed",
+        "https://tttang.com/rss.xml"
     ]
     
     security_news = []
     
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
+    }
+    
     for feed_url in rss_feeds:
         try:
-            feed = feedparser.parse(feed_url)
+            print(f"尝试获取网络安全新闻 RSS: {feed_url}")
+            response = requests.get(feed_url, headers=headers, timeout=15)
+            print(f"RSS 响应状态码: {response.status_code}")
+            
+            if response.status_code != 200:
+                print(f"RSS 响应内容: {response.text[:200]}...")
+                continue
+                
+            print(f"RSS 响应内容: {response.text[:200]}...")
+            
+            feed = feedparser.parse(response.content)
+            
+            if not feed.entries:
+                print(f"RSS 源没有条目: {feed_url}")
+                continue
+                
+            print(f"成功获取 {len(feed.entries)} 条网络安全新闻")
             
             for entry in feed.entries[:1]:  # 每个源取前1条
                 if len(security_news) >= 3:  # 最多获取3条新闻
                     break
                     
                 title = entry.title
-                url = entry.link
+                
+                # 处理 Atom 格式的链接
+                if hasattr(entry, "link") and not entry.link.endswith(('.png', '.jpg', '.jpeg', '.gif')):
+                    url = entry.link
+                elif hasattr(entry, "links") and entry.links:
+                    # 尝试找到非图片链接
+                    for link in entry.links:
+                        if hasattr(link, "href") and not link.href.endswith(('.png', '.jpg', '.jpeg', '.gif')):
+                            url = link.href
+                            break
+                    else:
+                        # 如果所有链接都是图片，使用第一个链接
+                        url = entry.links[0].href
+                else:
+                    # 尝试从 id 字段获取链接
+                    url = entry.id if hasattr(entry, "id") else "#"
+                
+                # 检查 URL 是否为图片链接
+                if url.endswith(('.png', '.jpg', '.jpeg', '.gif')):
+                    print(f"跳过图片链接: {url}")
+                    continue
                 
                 # 尝试获取描述
                 description = ""
@@ -218,6 +267,11 @@ def get_cybersecurity_news_from_rss():
                 elif hasattr(entry, "description"):
                     soup = BeautifulSoup(entry.description, "html.parser")
                     description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
+                elif hasattr(entry, "content") and entry.content:
+                    soup = BeautifulSoup(entry.content[0].value, "html.parser")
+                    description = soup.get_text()[:100] + "..." if len(soup.get_text()) > 100 else soup.get_text()
+                
+                print(f"添加网络安全文章: {title} - URL: {url}")
                 
                 security_news.append({
                     "title": title,
@@ -228,8 +282,7 @@ def get_cybersecurity_news_from_rss():
             if len(security_news) >= 3:
                 break
                 
-            # 避免过快请求多个RSS源
-            time.sleep(1)
+            time.sleep(2)
             
         except Exception as e:
             print(f"获取RSS源 {feed_url} 失败: {e}")
@@ -478,8 +531,9 @@ def update_readme():
         print(f"更新 AI 新闻时出错: {e}")
         ai_news_section = "### AI 技术动态\n\n- RSS 订阅源暂时不可用，请稍后再查看\n"
     
-    # 使用更精确的正则表达式
+    # 定义缺失的正则表达式
     ai_pattern = r"### AI 技术动态\n\n[\s\S]*?(?=\n\n###|\Z)"
+    
     if re.search(ai_pattern, content):
         content = re.sub(ai_pattern, ai_news_section, content)
         print("已替换 AI 技术动态内容")
@@ -553,7 +607,9 @@ def update_readme():
         print(f"获取GitHub趋势项目失败: {e}")
         trending_section = "### GitHub 趋势项目\n\n- GitHub 趋势数据暂时不可用，请稍后再查看\n"
     
-    trending_pattern = r"### GitHub 趋势项目\n\n- \[.*?\n\n"
+    # 定义缺失的正则表达式
+    trending_pattern = r"### GitHub 趋势项目\n\n[\s\S]*?(?=\n\n###|\Z)"
+    
     if re.search(trending_pattern, content, re.DOTALL):
         content = re.sub(trending_pattern, trending_section + "\n\n", content)
     else:
