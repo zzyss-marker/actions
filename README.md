@@ -30,7 +30,7 @@
 
 MIT
 
-## 今日更新 (2025-03-22)
+## 今日更新 (2025-03-23)
 
 ### 今日名言
 
@@ -38,11 +38,11 @@ MIT
 
 ### AI 技术动态
 
-- [【AIGC】AI时代的数据安全：使用ChatGPT时的自查要点](https://blog.csdn.net/2201_75539691/article/details/142686568) - 在当今生成式人工智能快速发展的背景下，数据安全问题变得尤为重要。随着AI技术的广泛应用，如何保障数据安全和隐私保护成为了不可回避的课题。尤其是在使用像ChatGPT这样的生成式AI工具时，保护个人和组...
-- [SGLang部署deepseek-ai/DeepSeek-R1-Distill-Qwen-32B实测比VLLM快30%，LMDeploy比VLLM快50%](https://blog.csdn.net/weixin_46398647/article/details/145588854) - 我是4卡3090，运行DeepSeek-R1-Distill-Qwen-32B，使用了3种框架进行部署，分别为lmdeploy、sglang、vllm
-- [探索AIGC未来：通义万相2.1与蓝耘智算平台的完美结合释放AI生产力](https://blog.csdn.net/2301_81313679/article/details/146051700) - 蓝耘智算平台是一个为高性能计算需求设计的云计算平台，提供强大的计算能力与灵活服务。平台基于领先的基础设施和大规模GPU算力，采用现代化的Kubernetes架构，专为大规模GPU加速工作负载而设计，满...
-- [解锁DeepSeek-R1大模型微调：从训练到部署，打造定制化AI会话系统](https://blog.csdn.net/c18213590220/article/details/146135568) - 大模型微调技术通过对预训练的大模型进行进一步训练，能够根据特定领域的需求进行优化，从而有效避免AI幻觉的发生，并且提供更加准确、有价值的输出。
-- [Manus爆火！手把手教你申请“AI全能助手”内测资格](https://blog.csdn.net/m0_52165864/article/details/146082427) - 最近，技术圈和朋友圈可谓是被 Manus 强势刷屏。前脚 DeepSeek 的热度还未消散，Manus 便以更加炸裂的姿态闯入大家的视野。那么，这个 Manus 究竟是何方神圣呢？
+- [【Unity】 HTFramework框架（六十）Assistant助手（在Unity中接入DeepSeek等AI语言大模型）](https://blog.csdn.net/qq992817263/article/details/145637201) - 更新日期：2025年2月14日。
+- [【AI绘画】“现代最强”vs“史上最强”（AI进阶篇：FLUX模型下载）](https://blog.csdn.net/2401_85116933/article/details/142375835) - AIGC技术的未来发展前景广阔，随着人工智能技术的不断发展，AIGC技术也将不断提高。未来，AIGC技术将在游戏和计算领域得到更广泛的应用，使游戏和计算系统具有更高效、更智能、更灵活的特性。同时，AI...
+- [云电脑接入DeepSeek？探讨ToDesk云电脑、海马云、顺网云的AI潜能](https://blog.csdn.net/qq_38951259/article/details/145817940) - 云电脑的AI潜能到底有多大
+- [《DeepSeek 实用集成：大模型能力接入各类软件》：此文为AI自动生成](https://blog.csdn.net/zheng_ruiguo/article/details/145400586) - 将 DeepSeek 大模型能力轻松接入各类软件。
+- [探索未来：深入人工智能学习框架的奥秘与实践](https://blog.csdn.net/weixin_73295475/article/details/143405389) - 而在这一切的背后，是一系列强大的学习框架，它们为AI的发展提供了必要的工具和平台。通过本文的深入探讨，我们不仅理解了不同AI学习框架的特点和优势，还通过实际代码示例体验了如何使用这些框架构建机器学习模...
 
 
 ### 网络安全资讯
@@ -54,7 +54,7 @@ MIT
 
 ### 技术就业趋势
 
-量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
