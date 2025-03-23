@@ -34,27 +34,27 @@ MIT
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- [AI大模型2025实例测评--逻辑推理能力](https://blog.csdn.net/xyzcto/article/details/145304528) - 本次测评旨在对当前主流的 AI 大模型进行客观、公正的逻辑推理能力测评。包括以下模型：1.文心一言2.豆包3.通义千问4.KIMI5.Copilot6.ChatGPT7.DeepSeek R1 ， G...
-- [【Qwen2微调实战】Lora微调Qwen2-7B-Instruct实践指南](https://blog.csdn.net/xiaobing259/article/details/140594017) - 在人工智能领域，自然语言处理（NLP）一直是研究的热点之一。随着深度学习技术的不断发展，大型预训练语言模型（如Qwen2-7B-Instruct）在理解与生成自然语言方面取得了显著的进展。然而，这些模...
-- [《YOLO 标注工具全览》：此文为AI自动生成](https://blog.csdn.net/zheng_ruiguo/article/details/143086275) - LabelImg 是最为常用的 YOLO 标注工具之一。然而，它经常莫名其妙地闪退，稳定性较差。尽管如此，LabelImg 在图像检测任务数据集制作方面仍发挥着重要作用。它支持多种标注格式，如 XML...
-- [DeepSeek + Dify + Ollama + Docker + Linux 私有化部署，构建你的专属私人 AI 助手](https://blog.csdn.net/weixin_40816738/article/details/145662715) - DeepSeek + Dify + Ollama + Docker + Linux 私有化部署，构建你的专属私人 AI 助手
-- [如何利用AI工具来进行数据分析](https://blog.csdn.net/bestpasu/article/details/145381269) - 利用AI工具进行数据分析可以大幅提高效率和准确性。从明确目标到数据预处理、模型构建、结果解释和自动化报告，每一步都可以借助AI技术实现高效完成。同时，选择合适的工具并结合实际需求进行优化，将使数据分析...
+- [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) - 新模型在推理能力和上下文窗口方面有显著改进
 
 
 ### 网络安全资讯
 
-- [DOGE to Fired CISA Staff: Email Us Your Personal Data](https://krebsonsecurity.com/2025/03/doge-to-fired-cisa-staff-email-us-your-personal-data/) - A message posted on Monday to the homepage of the U.S. Cybersecurity & Infrastructure Security Agenc...
-- [Why Cyber Quality Is the Key to Security](https://www.darkreading.com/cyberattacks-data-breaches/why-cyber-quality-key-security) - The time to secure foundations, empower teams, and make cyber resilience the standard is now — becau...
-- [UAT-5918 Targets Taiwan's Critical Infrastructure Using Web Shells and Open-Source Tools](https://thehackernews.com/2025/03/uat-5918-targets-taiwans-critical.html) - Threat hunters have uncovered a new threat actor named UAT-5918 that has been attacking critical inf...
+- [为何AI系统比以往任何时候都更需要红队测试](https://www.freebuf.com/articles/neopoints/425467.html) - AI系统正成为生活的重要组成部分，但存在严重漏洞。红队测试通过模拟攻击，发现并修复这些弱点，确保AI安全可靠，防止偏见决策和数据泄露等严重后果。
+- [DCMTK三大安全漏洞曝光！中科固源Wisdom模糊自定义漏洞挖掘产品推动医疗信息安全升级](https://www.anquanke.com/post/id/305296) - 
+- [Tit-for-Tat：通过对抗防御保护大型视觉语言模型免受越狱攻击](https://paper.seebug.org/3309/) - 作者：Shuyang Hao, Yiwei Wang, Bryan Hooi等
+译者：知道创宇404实验室翻译组
+原文链接：https://arxiv.org/pdf/2503.11619v1
+摘要
+...
 
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
 
 ### 科技热点
 
@@ -70,8 +70,6 @@ MIT
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-
-
 
 
 ### AI 研究论文
