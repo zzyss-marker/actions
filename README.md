@@ -30,65 +30,67 @@
 
 MIT
 
-## 今日更新 (2025-03-23)
+## 今日更新 (2025-03-24)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) - 新模型在推理能力和上下文窗口方面有显著改进
+- [6款AI表格工具，各类图表一键生成，快来收藏吧！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 此外，它还支持上传Excel文件，但有一定的使用限制。当你需要一边搜索公开信息，一边将内容绘制成图表时，这款AI智能体能根据你的需求，一站式完成信息检索、提取及图表生成的工作，支持折线图、饼状图、柱状...
+- [被多家权威媒体关注的飞算 JavaAI ，实际体验是否名副其实](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 从理解需求、设计接口，到表结构设计、处理逻辑，最后生成源码，每个环节都有清晰指引，还能给出很多实用的建议，让新手快速上手项目开发，积累经验。在 Java 开发的圈子里，飞算 JavaAI 最近备受关注...
+- [【langchain4j】AIservices能够实现更加灵活的chain](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 【langchain4j】AI service更加灵活的chain
+- [开源自荐 - NoteGen 一款专注于记录和写作的跨端 AI 笔记](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 是一个基于 Tauri + ChatGPT 的免费开源笔记 App，旨在帮助用户以、插图、文本的记录方式，快捷的保存碎片化知识，通过 AI 自动整理为一篇可读的笔记，通过内置的 Markdown 编辑...
+- [再谈Agent：Dify智能体实现Txet2SQL](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 什么是Agent?Agent的是能够在一定环境中自主运作并完成特定任务的程序或者系统。自主性：Agent能够在没有人为干预的情况下运行，并独立做出决策。适应性：Agent能够根据环境的变化调整自己的行...
 
 
 ### 网络安全资讯
 
-- [为何AI系统比以往任何时候都更需要红队测试](https://www.freebuf.com/articles/neopoints/425467.html) - AI系统正成为生活的重要组成部分，但存在严重漏洞。红队测试通过模拟攻击，发现并修复这些弱点，确保AI安全可靠，防止偏见决策和数据泄露等严重后果。
-- [DCMTK三大安全漏洞曝光！中科固源Wisdom模糊自定义漏洞挖掘产品推动医疗信息安全升级](https://www.anquanke.com/post/id/305296) - 安全公告，详情请点击链接查看完整内容
-- [Tit-for-Tat：通过对抗防御保护大型视觉语言模型免受越狱攻击](https://paper.seebug.org/3309/) - 作者：Shuyang Hao, Yiwei Wang, Bryan Hooi等
-译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/pdf/2503.11619v1
-摘要
-...
+- [如何删除iPhone中的重复照片以节省存储空间](https://www.freebuf.com/articles/database/425482.html) - iPhone重复照片占用存储空间？iOS 16自带工具可自动检测并合并重复照片，但无法处理相似照片。
+- [GitHub 供应链漏洞，Coinbase 遭恶意攻击致 218 仓库 CI/CD 机密曝光](https://www.anquanke.com/post/id/305342) - 安全公告，详情请点击链接查看完整内容
+- [从0开始学习卷积神经网络（三）—— 进阶实例学习](https://paper.seebug.org/3307/) - 作者：Hcamael@知道创宇404实验室
+日期：2025年2月25日
+在本系列的上一篇文章中，我们学习了如何训练一个识别数字图片的神经网络，在本篇文章中将会在此基础上学习一些进阶知识。
+1. 引入非...
 
 
 ### 技术就业趋势
 
-软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
-- [ICLR 2025｜腾讯优图实验室6篇论文入选，含多模态大语言模型、人脸识别等研究方向](https://cloud.tencent.com/developer/article/2506269) - 近日，第 13 届 ICLR（International Conference on Learning Representations）国际学习表征会议公布了论文录用结果。本次大会共收到 11,565...
-- [Calcite物化视图查询改写](https://cloud.tencent.com/developer/article/2506330) - 论文[1]提出SPJG查询改写，是SQL Server 2000视图改写的理论基础，高效实现基于selection, project, join, group-by算子匹配的视图改写方案，是当前很多计...
-- [【运维自动化-标准运维】如何实现一个最简单的流程编排](https://cloud.tencent.com/developer/article/2506402) - 根据实际运维操作场景梳理出来的操作步骤，通过不同的流转逻辑（并行、分支、条件并行）进行灵活的组合。
+- [腾讯云与MongoDB战略合作升级，瞄准AI时代的数据管理服务](https://cloud.tencent.com/developer/article/2506435) - 2025年3月20日，腾讯云与MongoDB联合宣布续签战略合作协议，双方将围绕AI时代的技术变革为全球用户提供卓越的数据管理服务。
+- [万字解构“幻觉陷阱”：大模型犯的错，会摧毁互联网吗？丨AGI之路04期](https://cloud.tencent.com/developer/article/2506637) - 当DeepSeek以惊人的速度攀升至日下载量500万、DAU逼近ChatGPT的23%之际，大模型正以前所未有的速度走进普通人的生活。然而，在这场AI与人类的密切接触中，我们遇到了一个独特的悖论：这些...
+- [Step-Video-T2V：全球最强开源视频生成](https://cloud.tencent.com/developer/article/2506669) - 目前阶跃已经成为行业内公认的内卷王之一。其覆盖的领域包含了语音、图片、视频理解和生成等。就在2月中，其就发布了Step-Video-T2V，号称全球最强的开源视频模型。同时一经发布，就已经上线官网，目...
 
 
 ### GitHub 趋势项目
 
-- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-- [mongodb-developer/GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase) - GenAI Cookbook
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+- [wonderwhy-er/ClaudeDesktopCommander](https://github.com/wonderwhy-er/ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 
 
 
 
 ### AI 研究论文
 
-- [MagicMotion: Controllable Video Generation with Dense-to-Sparse
-  Trajectory Guidance](http://arxiv.org/abs/2503.16421v1) - Quanhao Li, Zhen Xing, Rui Wang, Hui Zhang, Qi Dai, Zuxuan Wu
-  Recent advances in video generation have led to remarkable improvements in
-visual quality and temporal coherence. Upon this, trajectory-controllable v...
+- [HCAST: Human-Calibrated Autonomy Software Tasks](http://arxiv.org/abs/2503.17354v1) - David Rein, Joel Becker, Amy Deng, Seraphina Nix, Chris Canal, Daniel O'Connel, Pip Arnott, Ryan Bloom, Thomas Broadley, Katharyn Garcia, Brian Goodrich, Max Hasin, Sami Jawhar, Megan Kinniment, Thomas Kwa, Aron Lajko, Nate Rush, Lucas Jun Koba Sato, Sydney Von Arx, Ben West, Lawrence Chan, Elizabeth Barnes
+  To understand and predict the societal impacts of highly autonomous AI
+systems, we need benchmarks with grounding, i.e., metrics that directly connect...
 
-- [Survey on Evaluation of LLM-based Agents](http://arxiv.org/abs/2503.16416v1) - Asaf Yehudai, Lilach Eden, Alan Li, Guy Uziel, Yilun Zhao, Roy Bar-Haim, Arman Cohan, Michal Shmueli-Scheuer
-  The emergence of LLM-based agents represents a paradigm shift in AI, enabling
-autonomous systems to plan, reason, use tools, and maintain memory while...
+- [NdLinear Is All You Need for Representation Learning](http://arxiv.org/abs/2503.17353v1) - Alex Reneau, Jerry Yao-Chieh Hu, Zhongfang Zhuang, Ting-Chun Liu
+  Many high-impact machine learning tasks involve multi-dimensional data (e.g.,
+images, volumetric medical scans, multivariate time-series). Yet, most n...
 
-- [DreamTexture: Shape from Virtual Texture with Analysis by Augmentation](http://arxiv.org/abs/2503.16412v1) - Ananta R. Bhattarai, Xingzhe He, Alla Sheffer, Helge Rhodin
-  DreamFusion established a new paradigm for unsupervised 3D reconstruction
-from virtual views by combining advances in generative models and
-differenti...
+- [Align Your Rhythm: Generating Highly Aligned Dance Poses with
+  Gating-Enhanced Rhythm-Aware Feature Representation](http://arxiv.org/abs/2503.17340v1) - Congyi Fan, Jian Guan, Xuanjia Zhao, Dongli Xu, Youtian Lin, Tong Ye, Pengming Feng, Haiwei Pan
+  Automatically generating natural, diverse and rhythmic human dance movements
+driven by music is vital for virtual reality and film industries. However...
 
 
 
