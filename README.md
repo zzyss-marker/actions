@@ -30,67 +30,65 @@
 
 MIT
 
-## 今日更新 (2025-03-24)
+## 今日更新 (2025-03-25)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
 
 ### AI 技术动态
 
-- [6款AI表格工具，各类图表一键生成，快来收藏吧！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 此外，它还支持上传Excel文件，但有一定的使用限制。当你需要一边搜索公开信息，一边将内容绘制成图表时，这款AI智能体能根据你的需求，一站式完成信息检索、提取及图表生成的工作，支持折线图、饼状图、柱状...
-- [被多家权威媒体关注的飞算 JavaAI ，实际体验是否名副其实](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 从理解需求、设计接口，到表结构设计、处理逻辑，最后生成源码，每个环节都有清晰指引，还能给出很多实用的建议，让新手快速上手项目开发，积累经验。在 Java 开发的圈子里，飞算 JavaAI 最近备受关注...
-- [【langchain4j】AIservices能够实现更加灵活的chain](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 【langchain4j】AI service更加灵活的chain
-- [开源自荐 - NoteGen 一款专注于记录和写作的跨端 AI 笔记](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 是一个基于 Tauri + ChatGPT 的免费开源笔记 App，旨在帮助用户以、插图、文本的记录方式，快捷的保存碎片化知识，通过 AI 自动整理为一篇可读的笔记，通过内置的 Markdown 编辑...
-- [再谈Agent：Dify智能体实现Txet2SQL](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 什么是Agent?Agent的是能够在一定环境中自主运作并完成特定任务的程序或者系统。自主性：Agent能够在没有人为干预的情况下运行，并独立做出决策。适应性：Agent能够根据环境的变化调整自己的行...
+- [AI批量视频混剪工具：高效创作的得力助手](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 这款AI批量视频混剪工具集成了多种功能，涵盖了从视频素材处理到最终成品输出的全流程，能够满足不同场景下的视频创作需求。这款AI批量视频混剪工具以其强大的功能和高效的处理能力，为视频创作者提供了极大的便...
+- [Zabbix+Deepseek实现AI告警分析（非本地部署大模型版）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 最近手伤了，更新频率下降……近期在Zabbix社区看到了一篇文章：张世宏老师分享的《Zabbix告警分析新纪元：本地DeepSeek大模型实现智能化告警分析》，感觉很有意思，该文章分享了如何通过oll...
+- [从GAN到Transformer-生成式人工智能（AIGC）在视频内容创作中的应用【附核心代码】](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AIGC视频生成是指利用深度学习技术，通过模型自动生成符合特定要求的视频内容。与传统视频制作过程相比，AIGC技术能够大大缩短创作时间，并降低制作成本。基于生成对抗网络（GANs）、深度卷积神经网络（...
+- [AI重塑视觉艺术：DeepSeek与蓝耘通义万相2.1的图生视频奇迹](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 近年来，深度学习、计算机视觉和生成模型在多个领域取得了突破性进展。其中，DeepSeek与蓝耘通义万相2.1图生视频的结合为图像生成与视频生成技术提供了新的发展方向。DeepSeek作为一个图像和视频...
+- [字节发布全新 AI IDE：Trae！免费使用 Claude，还能 Devbox 远程开发！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 加上新入职的这位，我已经有这么多 AI 员工了，队伍越来越壮大了。至于这位新员工是谁，且听我慢慢道来。我们来看看统计的一组独家数据，这组数据很好地反映了当前 AI 产品的市场情况：从数据中可以清晰地看...
 
 
 ### 网络安全资讯
 
-- [如何删除iPhone中的重复照片以节省存储空间](https://www.freebuf.com/articles/database/425482.html) - iPhone重复照片占用存储空间？iOS 16自带工具可自动检测并合并重复照片，但无法处理相似照片。
-- [GitHub 供应链漏洞，Coinbase 遭恶意攻击致 218 仓库 CI/CD 机密曝光](https://www.anquanke.com/post/id/305342) - 安全公告，详情请点击链接查看完整内容
-- [从0开始学习卷积神经网络（三）—— 进阶实例学习](https://paper.seebug.org/3307/) - 作者：Hcamael@知道创宇404实验室
-日期：2025年2月25日
-在本系列的上一篇文章中，我们学习了如何训练一个识别数字图片的神经网络，在本篇文章中将会在此基础上学习一些进阶知识。
-1. 引入非...
+- [游戏皮肤安全指南：如何防范诈骗与恶意软件](https://www.freebuf.com/articles/network/425619.html) - 通过一些简单的实践和提高警惕，你可以有效防范与游戏相关的诈骗和恶意软件。
+- [WordPress 插件漏洞致使黑客能够注入恶意SQL查询](https://www.anquanke.com/post/id/305393) - 安全公告，详情请点击链接查看完整内容
+- [信任受到攻击：针对 Android 恶意软件检测中机器学习的标签伪造攻击](https://paper.seebug.org/3310/) - 作者：Tianwei Lan, Luca Demetrio, Farid Nait-Abdesselam, Yufei Han, Simone Aonzo
+译者：知道创宇404实验室翻译组
+原文链接：...
 
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
-- [腾讯云与MongoDB战略合作升级，瞄准AI时代的数据管理服务](https://cloud.tencent.com/developer/article/2506435) - 2025年3月20日，腾讯云与MongoDB联合宣布续签战略合作协议，双方将围绕AI时代的技术变革为全球用户提供卓越的数据管理服务。
-- [万字解构“幻觉陷阱”：大模型犯的错，会摧毁互联网吗？丨AGI之路04期](https://cloud.tencent.com/developer/article/2506637) - 当DeepSeek以惊人的速度攀升至日下载量500万、DAU逼近ChatGPT的23%之际，大模型正以前所未有的速度走进普通人的生活。然而，在这场AI与人类的密切接触中，我们遇到了一个独特的悖论：这些...
-- [Step-Video-T2V：全球最强开源视频生成](https://cloud.tencent.com/developer/article/2506669) - 目前阶跃已经成为行业内公认的内卷王之一。其覆盖的领域包含了语音、图片、视频理解和生成等。就在2月中，其就发布了Step-Video-T2V，号称全球最强的开源视频模型。同时一经发布，就已经上线官网，目...
+- [腾讯云Window日常排障参考](https://cloud.tencent.com/developer/article/2506794) - ①安装微软Sysmon并启用 analytic and debug logging
+- [AI知识学习经验记录](https://cloud.tencent.com/developer/article/2506834) - AI 技术的核心是数学，尤其是线性代数、微积分、概率论和统计学。为了打好基础，我首先花时间复习了这些数学知识。
+- [RobloxPlayer不适用于云服务器](https://cloud.tencent.com/developer/article/2506860) - 不适用于云服务器的软件多了，不限于VMware Workstation Pro和rlm
 
 
 ### GitHub 趋势项目
 
+- [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
 - [wonderwhy-er/ClaudeDesktopCommander](https://github.com/wonderwhy-er/ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 
 
 
 
 ### AI 研究论文
 
-- [HCAST: Human-Calibrated Autonomy Software Tasks](http://arxiv.org/abs/2503.17354v1) - David Rein, Joel Becker, Amy Deng, Seraphina Nix, Chris Canal, Daniel O'Connel, Pip Arnott, Ryan Bloom, Thomas Broadley, Katharyn Garcia, Brian Goodrich, Max Hasin, Sami Jawhar, Megan Kinniment, Thomas Kwa, Aron Lajko, Nate Rush, Lucas Jun Koba Sato, Sydney Von Arx, Ben West, Lawrence Chan, Elizabeth Barnes
-  To understand and predict the societal impacts of highly autonomous AI
-systems, we need benchmarks with grounding, i.e., metrics that directly connect...
+- [Aether: Geometric-Aware Unified World Modeling](http://arxiv.org/abs/2503.18945v1) - Aether Team, Haoyi Zhu, Yifan Wang, Jianjun Zhou, Wenzheng Chang, Yang Zhou, Zizun Li, Junyi Chen, Chunhua Shen, Jiangmiao Pang, Tong He
+  The integration of geometric reconstruction and generative modeling remains a
+critical challenge in developing AI systems capable of human-like spatia...
 
-- [NdLinear Is All You Need for Representation Learning](http://arxiv.org/abs/2503.17353v1) - Alex Reneau, Jerry Yao-Chieh Hu, Zhongfang Zhuang, Ting-Chun Liu
-  Many high-impact machine learning tasks involve multi-dimensional data (e.g.,
-images, volumetric medical scans, multivariate time-series). Yet, most n...
+- [Video-T1: Test-Time Scaling for Video Generation](http://arxiv.org/abs/2503.18942v1) - Fangfu Liu, Hanyang Wang, Yimo Cai, Kaiyan Zhang, Xiaohang Zhan, Yueqi Duan
+  With the scale capability of increasing training data, model size, and
+computational cost, video generation has achieved impressive results in digital...
 
-- [Align Your Rhythm: Generating Highly Aligned Dance Poses with
-  Gating-Enhanced Rhythm-Aware Feature Representation](http://arxiv.org/abs/2503.17340v1) - Congyi Fan, Jian Guan, Xuanjia Zhao, Dongli Xu, Youtian Lin, Tong Ye, Pengming Feng, Haiwei Pan
-  Automatically generating natural, diverse and rhythmic human dance movements
-driven by music is vital for virtual reality and film industries. However...
+- [AdaWorld: Learning Adaptable World Models with Latent Actions](http://arxiv.org/abs/2503.18938v1) - Shenyuan Gao, Siyuan Zhou, Yilun Du, Jun Zhang, Chuang Gan
+  World models aim to learn action-controlled prediction models and have proven
+essential for the development of intelligent agents. However, most exist...
 
 
 
