@@ -30,25 +30,25 @@
 
 MIT
 
-## 今日更新 (2025-03-25)
+## 今日更新 (2025-03-26)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- [AI批量视频混剪工具：高效创作的得力助手](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 这款AI批量视频混剪工具集成了多种功能，涵盖了从视频素材处理到最终成品输出的全流程，能够满足不同场景下的视频创作需求。这款AI批量视频混剪工具以其强大的功能和高效的处理能力，为视频创作者提供了极大的便...
-- [Zabbix+Deepseek实现AI告警分析（非本地部署大模型版）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 最近手伤了，更新频率下降……近期在Zabbix社区看到了一篇文章：张世宏老师分享的《Zabbix告警分析新纪元：本地DeepSeek大模型实现智能化告警分析》，感觉很有意思，该文章分享了如何通过oll...
-- [从GAN到Transformer-生成式人工智能（AIGC）在视频内容创作中的应用【附核心代码】](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AIGC视频生成是指利用深度学习技术，通过模型自动生成符合特定要求的视频内容。与传统视频制作过程相比，AIGC技术能够大大缩短创作时间，并降低制作成本。基于生成对抗网络（GANs）、深度卷积神经网络（...
-- [AI重塑视觉艺术：DeepSeek与蓝耘通义万相2.1的图生视频奇迹](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 近年来，深度学习、计算机视觉和生成模型在多个领域取得了突破性进展。其中，DeepSeek与蓝耘通义万相2.1图生视频的结合为图像生成与视频生成技术提供了新的发展方向。DeepSeek作为一个图像和视频...
-- [字节发布全新 AI IDE：Trae！免费使用 Claude，还能 Devbox 远程开发！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 加上新入职的这位，我已经有这么多 AI 员工了，队伍越来越壮大了。至于这位新员工是谁，且听我慢慢道来。我们来看看统计的一组独家数据，这组数据很好地反映了当前 AI 产品的市场情况：从数据中可以清晰地看...
+- [Spring AI 快速入门](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 四次工业革命推动了人类社会发展和变革第一次工业革命（18世纪60年代~19世纪中期，大约是1760年到1860年）：也称为蒸汽时代，发源于英格兰中部地区，是资本主义工业化的早期阶段；蒸汽机的发明及运用...
+- [AI 大模型统一集成｜让 AI 聊天更丝滑：WebSocket 实现流式对话！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 使用 Spring Boot 搭建 WebSocket 服务器，实现 AI 对话流式返回。🌟 在这系列文章中，我们将一起探索如何搭建一个支持大模型集成项目。，使 AI 对话更智能、更可交互。页面，测试...
+- [AI IDE 新势力 Trae 功能深度解析：Builder与Chat模式的应用场景与市场竞争力分析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 大家好，我是 bluetata。今天咱们聊聊一个挺火的话题——人工智能。在这个科技飞速发展的时代，AI已经悄悄走进了各行各业，帮企业解决了不少难题。最近我发现了一个挺有意思的AI工具，叫Trae.ai...
+- [Unity3D开发AI桌面精灵/宠物系列 【一】 窗口透明化 背景剔除 、去边框、去Logo动画UI正常显示](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本篇内容主要讲Unity开发桌面宠物前期准备工作，大家感兴趣也可以了解一下这个开发方向，目前还是挺有前景的，AI智能科技发展这么迅猛，紧跟步伐哈~下面让我们出发吧我开发使用的Unity版本是目前没有遇...
+- [基于Python的金融领域AI训练数据抓取实战（完整技术解析）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 通过动态住宅代理与网页抓取API的协同应用，我们成功构建了日均处理PB级数据的采集系统。数据获取效率提升300%反爬绕过成功率提升至99.2%综合成本降低65%随着大模型训练对数据质量要求的不断提高，...
 
 
 ### 网络安全资讯
 
-- [游戏皮肤安全指南：如何防范诈骗与恶意软件](https://www.freebuf.com/articles/network/425619.html) - 通过一些简单的实践和提高警惕，你可以有效防范与游戏相关的诈骗和恶意软件。
-- [WordPress 插件漏洞致使黑客能够注入恶意SQL查询](https://www.anquanke.com/post/id/305393) - 安全公告，详情请点击链接查看完整内容
+- [Java反序列化-CC1-TranformedMap链](https://www.freebuf.com/articles/web/424503.html) - 初学java反序列化-cc链
+- [御辰：论攻击面管理在高校信息化建设中的重要性](https://www.anquanke.com/post/id/302908) - 安全公告，详情请点击链接查看完整内容
 - [信任受到攻击：针对 Android 恶意软件检测中机器学习的标签伪造攻击](https://paper.seebug.org/3310/) - 作者：Tianwei Lan, Luca Demetrio, Farid Nait-Abdesselam, Yufei Han, Simone Aonzo
 译者：知道创宇404实验室翻译组
 原文链接：...
@@ -56,39 +56,41 @@ MIT
 
 ### 技术就业趋势
 
-边缘计算和IoT专家在制造业和智能城市项目中需求增加。
+软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
 
 ### 科技热点
 
-- [腾讯云Window日常排障参考](https://cloud.tencent.com/developer/article/2506794) - ①安装微软Sysmon并启用 analytic and debug logging
-- [AI知识学习经验记录](https://cloud.tencent.com/developer/article/2506834) - AI 技术的核心是数学，尤其是线性代数、微积分、概率论和统计学。为了打好基础，我首先花时间复习了这些数学知识。
-- [RobloxPlayer不适用于云服务器](https://cloud.tencent.com/developer/article/2506860) - 不适用于云服务器的软件多了，不限于VMware Workstation Pro和rlm
+- [向 AI Search 迈进，腾讯云 ES 自研 v-pack 向量增强插件揭秘！](https://cloud.tencent.com/developer/article/2506858) - 2025 年 1 月，腾讯云 ES 团队上线了 Elasticsearch 8.16.1 AI 搜索增强版，此发布版本重点提升了向量搜索、混合搜索的能力，为 RAG 类的 AI Search 场景保驾...
+- [Step-Audio：开箱即用的语音大模型](https://cloud.tencent.com/developer/article/2506950) - 阶跃最近还开箱了一个语音大模型 Step-Audio，实现了从语音理解到生成的 端到端整合，在多个关键维度展现出卓越优势：
+- [Step系列大模型—两款多模态大模型详细介绍](https://cloud.tencent.com/developer/article/2507082) - DeepSeek-R1 的发布引发了全网热议，持续霸榜热搜，各大社交媒体、技术论坛以及新闻平台纷纷讨论其突破性的技术创新和超强的推理能力。其卓越的逻辑推理和任务泛化能力，使其迅速成为开源社区的焦点，并...
 
 
 ### GitHub 趋势项目
 
-- [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [wonderwhy-er/ClaudeDesktopCommander](https://github.com/wonderwhy-er/ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-- [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
+- [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+- [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - Agentic AI Framework for Java Developers
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
 
 
 
 ### AI 研究论文
 
-- [Aether: Geometric-Aware Unified World Modeling](http://arxiv.org/abs/2503.18945v1) - Aether Team, Haoyi Zhu, Yifan Wang, Jianjun Zhou, Wenzheng Chang, Yang Zhou, Zizun Li, Junyi Chen, Chunhua Shen, Jiangmiao Pang, Tong He
-  The integration of geometric reconstruction and generative modeling remains a
-critical challenge in developing AI systems capable of human-like spatia...
+- [CAFe: Unifying Representation and Generation with
+  Contrastive-Autoregressive Finetuning](http://arxiv.org/abs/2503.19900v1) - Hao Yu, Zhuokai Zhao, Shen Yan, Lukasz Korycki, Jianyu Wang, Baosheng He, Jiayi Liu, Lizhu Zhang, Xiangjun Fan, Hanchao Yu
+  The rapid advancement of large vision-language models (LVLMs) has driven
+significant progress in multimodal tasks, enabling models to interpret, reaso...
 
-- [Video-T1: Test-Time Scaling for Video Generation](http://arxiv.org/abs/2503.18942v1) - Fangfu Liu, Hanyang Wang, Yimo Cai, Kaiyan Zhang, Xiaohang Zhan, Yueqi Duan
-  With the scale capability of increasing training data, model size, and
-computational cost, video generation has achieved impressive results in digital...
+- [A proposal for an incident regime that tracks and counters threats to
+  national security posed by AI systems](http://arxiv.org/abs/2503.19887v1) - Alejandro Ortega
+  Recent progress in AI capabilities has heightened concerns that AI systems
+could pose a threat to national security, for example, by making it easier ...
 
-- [AdaWorld: Learning Adaptable World Models with Latent Actions](http://arxiv.org/abs/2503.18938v1) - Shenyuan Gao, Siyuan Zhou, Yilun Du, Jun Zhang, Chuang Gan
-  World models aim to learn action-controlled prediction models and have proven
-essential for the development of intelligent agents. However, most exist...
+- [Dynamics of Structured Complex-Valued Hopfield Neural Networks](http://arxiv.org/abs/2503.19885v1) - Rama Murthy Garimella, Marcos Eduardo Valle, Guilherme Vieira, Anil Rayala, Dileep Munugoti
+  In this paper, we explore the dynamics of structured complex-valued Hopfield
+neural networks (CvHNNs), which arise when the synaptic weight matrix pos...
 
 
 
