@@ -30,7 +30,7 @@
 
 MIT
 
-## 今日更新 (2025-03-26)
+## 今日更新 (2025-03-27)
 
 ### 今日名言
 
@@ -38,17 +38,17 @@ MIT
 
 ### AI 技术动态
 
-- [Spring AI 快速入门](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 四次工业革命推动了人类社会发展和变革第一次工业革命（18世纪60年代~19世纪中期，大约是1760年到1860年）：也称为蒸汽时代，发源于英格兰中部地区，是资本主义工业化的早期阶段；蒸汽机的发明及运用...
-- [AI 大模型统一集成｜让 AI 聊天更丝滑：WebSocket 实现流式对话！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 使用 Spring Boot 搭建 WebSocket 服务器，实现 AI 对话流式返回。🌟 在这系列文章中，我们将一起探索如何搭建一个支持大模型集成项目。，使 AI 对话更智能、更可交互。页面，测试...
-- [AI IDE 新势力 Trae 功能深度解析：Builder与Chat模式的应用场景与市场竞争力分析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 大家好，我是 bluetata。今天咱们聊聊一个挺火的话题——人工智能。在这个科技飞速发展的时代，AI已经悄悄走进了各行各业，帮企业解决了不少难题。最近我发现了一个挺有意思的AI工具，叫Trae.ai...
-- [Unity3D开发AI桌面精灵/宠物系列 【一】 窗口透明化 背景剔除 、去边框、去Logo动画UI正常显示](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本篇内容主要讲Unity开发桌面宠物前期准备工作，大家感兴趣也可以了解一下这个开发方向，目前还是挺有前景的，AI智能科技发展这么迅猛，紧跟步伐哈~下面让我们出发吧我开发使用的Unity版本是目前没有遇...
-- [基于Python的金融领域AI训练数据抓取实战（完整技术解析）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 通过动态住宅代理与网页抓取API的协同应用，我们成功构建了日均处理PB级数据的采集系统。数据获取效率提升300%反爬绕过成功率提升至99.2%综合成本降低65%随着大模型训练对数据质量要求的不断提高，...
+- [AI必看！2024人工智能领域最具突破性的10篇创新论文（附论文）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 2024年，人工智能领域正以前所未有的速度发展，在这一年，我们见证了许多具有里程碑意义的研究，它们不仅推动了AI技术的边界，还为现实世界问题提供了革命性的解决方案。本文精选了2024年最具突破性的10...
+- [AI Agent案例与实践全解析：字节智能运维（9/30）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI Agent，即人工智能代理，是一种能够感知环境、进行决策和执行动作的智能实体。从定义来看，它有着深厚的发展渊源，其起源可以追溯到哲学领域。早在古希腊时期，哲学家们就对智能机器产生了浓厚的兴趣，像...
+- [解锁大模型和 AI Agent 在车端的革新应用和落地方法](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 车端 Agent 是运行在车辆内部的 AI 智能体，它负责感知来自车身、云端以及外部环境一系列与车辆操作、监控、诊断和通信等相关的任务，并不断推理、监控、反馈、学习，最终能够在没有外界直接操纵的情况下...
+- [DeepSeek + Dify + Ollama + Docker + Linux 私有化部署，构建你的专属私人 AI 助手](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 通过以上步骤，你可以在 Linux 环境下使用 Docker 部署 DeepSeek、Dify 和 Ollama，构建一个专属的私人 AI 助手。构建一个专属的私人 AI 助手，结合 DeepSeek...
+- [开源模型应用落地-知识巩固-生产级AI服务优化（二）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 采用Flask蓝图架构和`python-dotenv`管理敏感信息，可以优化AI接口服务的代码结构、从而提升可管理性和安全性
 
 
 ### 网络安全资讯
 
-- [Java反序列化-CC1-TranformedMap链](https://www.freebuf.com/articles/web/424503.html) - 初学java反序列化-cc链
-- [御辰：论攻击面管理在高校信息化建设中的重要性](https://www.anquanke.com/post/id/302908) - 安全公告，详情请点击链接查看完整内容
+- [FreeBuf 早报 | Chrome零日漏洞遭利用；新Windows零日漏洞泄露NTLM哈希值](https://www.freebuf.com/news/425795.html) - Chrome 浏览器的零日漏洞正被复杂的威胁行为者积极利用，漏洞编号为 CVE-2025-2783。
+- [CISA 警示：工业控制系统四大漏洞或引安全危机](https://www.anquanke.com/post/id/305741) - 安全公告，详情请点击链接查看完整内容
 - [信任受到攻击：针对 Android 恶意软件检测中机器学习的标签伪造攻击](https://paper.seebug.org/3310/) - 作者：Tianwei Lan, Luca Demetrio, Farid Nait-Abdesselam, Yufei Han, Simone Aonzo
 译者：知道创宇404实验室翻译组
 原文链接：...
@@ -56,41 +56,41 @@ MIT
 
 ### 技术就业趋势
 
-软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- [向 AI Search 迈进，腾讯云 ES 自研 v-pack 向量增强插件揭秘！](https://cloud.tencent.com/developer/article/2506858) - 2025 年 1 月，腾讯云 ES 团队上线了 Elasticsearch 8.16.1 AI 搜索增强版，此发布版本重点提升了向量搜索、混合搜索的能力，为 RAG 类的 AI Search 场景保驾...
-- [Step-Audio：开箱即用的语音大模型](https://cloud.tencent.com/developer/article/2506950) - 阶跃最近还开箱了一个语音大模型 Step-Audio，实现了从语音理解到生成的 端到端整合，在多个关键维度展现出卓越优势：
-- [Step系列大模型—两款多模态大模型详细介绍](https://cloud.tencent.com/developer/article/2507082) - DeepSeek-R1 的发布引发了全网热议，持续霸榜热搜，各大社交媒体、技术论坛以及新闻平台纷纷讨论其突破性的技术创新和超强的推理能力。其卓越的逻辑推理和任务泛化能力，使其迅速成为开源社区的焦点，并...
+- [腾讯云与MongoDB战略合作升级，瞄准AI时代的数据管理服务](https://cloud.tencent.com/developer/article/2507961) - 2025年3月20日，腾讯云与MongoDB联合宣布续签战略合作协议，双方将围绕AI时代的技术变革为全球用户提供卓越的数据管理服务。
+- [万字长文，聊聊下一代AI Agent的新范式](https://cloud.tencent.com/developer/article/2507962) - 近日，中国企业发布了全球首款通用型AI Agent——Manus AI，在科技界引发了广泛关注。与传统的AI助手不同，类似Manus这样的应用，不仅仅停留在生成文本或提供建议的层面，而是能够独立思考、...
+- [C/C++获取枚举值名称](https://cloud.tencent.com/developer/article/2508103) - 
 
 
 ### GitHub 趋势项目
 
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) - TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
-- [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes
 - [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - Agentic AI Framework for Java Developers
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
+- [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
 
 
 
 
 ### AI 研究论文
 
-- [CAFe: Unifying Representation and Generation with
-  Contrastive-Autoregressive Finetuning](http://arxiv.org/abs/2503.19900v1) - Hao Yu, Zhuokai Zhao, Shen Yan, Lukasz Korycki, Jianyu Wang, Baosheng He, Jiayi Liu, Lizhu Zhang, Xiangjun Fan, Hanchao Yu
-  The rapid advancement of large vision-language models (LVLMs) has driven
-significant progress in multimodal tasks, enabling models to interpret, reaso...
+- [Mobile-MMLU: A Mobile Intelligence Language Understanding Benchmark](http://arxiv.org/abs/2503.20786v1) - Sondos Mahmoud Bsharat, Mukul Ranjan, Aidar Myrzakhan, Jiacheng Liu, Bowei Guo, Shengkun Tang, Zhuang Liu, Yuanzhi Li, Zhiqiang Shen
+  Rapid advancements in large language models (LLMs) have increased interest in
+deploying them on mobile devices for on-device AI applications. Mobile u...
 
-- [A proposal for an incident regime that tracks and counters threats to
-  national security posed by AI systems](http://arxiv.org/abs/2503.19887v1) - Alejandro Ortega
-  Recent progress in AI capabilities has heightened concerns that AI systems
-could pose a threat to national security, for example, by making it easier ...
+- [Understanding R1-Zero-Like Training: A Critical Perspective](http://arxiv.org/abs/2503.20783v1) - Zichen Liu, Changyu Chen, Wenjun Li, Penghui Qi, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin
+  DeepSeek-R1-Zero has shown that reinforcement learning (RL) at scale can
+directly enhance the reasoning capabilities of LLMs without supervised
+fine-t...
 
-- [Dynamics of Structured Complex-Valued Hopfield Neural Networks](http://arxiv.org/abs/2503.19885v1) - Rama Murthy Garimella, Marcos Eduardo Valle, Guilherme Vieira, Anil Rayala, Dileep Munugoti
-  In this paper, we explore the dynamics of structured complex-valued Hopfield
-neural networks (CvHNNs), which arise when the synaptic weight matrix pos...
+- [ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving
+  Systems](http://arxiv.org/abs/2503.20756v1) - Chenxi Wang, Jizhan Fang, Xiang Chen, Bozhong Tian, Ziwen Xu, Huajun Chen, Ningyu Zhang
+  Recent advancements in Large Multimodal Models (LMMs) have shown promise in
+Autonomous Driving Systems (ADS). However, their direct application to ADS...
 
 
 
