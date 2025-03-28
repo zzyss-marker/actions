@@ -30,25 +30,25 @@
 
 MIT
 
-## 今日更新 (2025-03-27)
+## 今日更新 (2025-03-28)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- [AI必看！2024人工智能领域最具突破性的10篇创新论文（附论文）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 2024年，人工智能领域正以前所未有的速度发展，在这一年，我们见证了许多具有里程碑意义的研究，它们不仅推动了AI技术的边界，还为现实世界问题提供了革命性的解决方案。本文精选了2024年最具突破性的10...
-- [AI Agent案例与实践全解析：字节智能运维（9/30）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI Agent，即人工智能代理，是一种能够感知环境、进行决策和执行动作的智能实体。从定义来看，它有着深厚的发展渊源，其起源可以追溯到哲学领域。早在古希腊时期，哲学家们就对智能机器产生了浓厚的兴趣，像...
-- [解锁大模型和 AI Agent 在车端的革新应用和落地方法](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 车端 Agent 是运行在车辆内部的 AI 智能体，它负责感知来自车身、云端以及外部环境一系列与车辆操作、监控、诊断和通信等相关的任务，并不断推理、监控、反馈、学习，最终能够在没有外界直接操纵的情况下...
-- [DeepSeek + Dify + Ollama + Docker + Linux 私有化部署，构建你的专属私人 AI 助手](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 通过以上步骤，你可以在 Linux 环境下使用 Docker 部署 DeepSeek、Dify 和 Ollama，构建一个专属的私人 AI 助手。构建一个专属的私人 AI 助手，结合 DeepSeek...
-- [开源模型应用落地-知识巩固-生产级AI服务优化（二）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 采用Flask蓝图架构和`python-dotenv`管理敏感信息，可以优化AI接口服务的代码结构、从而提升可管理性和安全性
+- [AI产品经理学习路线（非常详细），从零基础到专家，从这篇起步！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 市面上不同的公司对产品经理的定位有很大的差别，一名合格的产品经理是能对软件产品整个生命周期负责的人。AI产品经理和通用型软件产品经理的底层思考框架是一样的，都是要经历产品立项、需求分析、产品设计、产品...
+- [[AI]从零开始的树莓派运行DeepSeek模型教程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 讲解了树莓派中llama.cpp的部署及DeepSeek模型的运行！
+- [探秘 AI Agent 之 Coze 智能体：工作流模式（6/30）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着人工智能技术的飞速发展，大模型（Large Language Model，LLM）已成为备受瞩目的热点领域。大模型凭借强大的语义理解和文本生成能力，在自然语言处理、机器翻译、代码生成等诸多方面都取...
+- [Ai模型-PyTorch和Tensorflow的区别](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - PyTorch更适合快速开发、原型设计、学术研究和动态变化的模型构建场景。TensorFlow适合大规模的生产环境，尤其是需要跨设备部署、分布式训练或是完整机器学习流水线的任务。技术选型时可以基于项目...
+- [DeepSeek超参优化实战：AutoML调参全解析，解锁AI性能密码（16/18）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AutoML，即自动化机器学习（Automated Machine Learning） ，是一种能够自动完成机器学习模型构建和优化过程的技术。它涵盖了从数据预处理、特征工程、模型选择到超参数优化等一系...
 
 
 ### 网络安全资讯
 
-- [FreeBuf 早报 | Chrome零日漏洞遭利用；新Windows零日漏洞泄露NTLM哈希值](https://www.freebuf.com/news/425795.html) - Chrome 浏览器的零日漏洞正被复杂的威胁行为者积极利用，漏洞编号为 CVE-2025-2783。
-- [CISA 警示：工业控制系统四大漏洞或引安全危机](https://www.anquanke.com/post/id/305741) - 安全公告，详情请点击链接查看完整内容
+- [Morphing Meerkat新型网络钓鱼工具包利用DNS邮件记录模仿114个品牌](https://www.freebuf.com/articles/425980.html) - 网络安全研究人员揭露了一个新的 “网络钓鱼即服务” 平台，利用域名系统邮件交换记录来提供模仿约 114 个品牌的虚假登录页面。
+- [工业安全告急：新型 Linux-Backdoor 程序利用 0-Day RCE 漏洞对 OT 系统发动攻击](https://www.anquanke.com/post/id/305941) - 安全公告，详情请点击链接查看完整内容
 - [信任受到攻击：针对 Android 恶意软件检测中机器学习的标签伪造攻击](https://paper.seebug.org/3310/) - 作者：Tianwei Lan, Luca Demetrio, Farid Nait-Abdesselam, Yufei Han, Simone Aonzo
 译者：知道创宇404实验室翻译组
 原文链接：...
@@ -56,41 +56,45 @@ MIT
 
 ### 技术就业趋势
 
-敏捷和Scrum认证在项目管理角色中价值提升。
+区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
 
 ### 科技热点
 
-- [腾讯云与MongoDB战略合作升级，瞄准AI时代的数据管理服务](https://cloud.tencent.com/developer/article/2507961) - 2025年3月20日，腾讯云与MongoDB联合宣布续签战略合作协议，双方将围绕AI时代的技术变革为全球用户提供卓越的数据管理服务。
-- [万字长文，聊聊下一代AI Agent的新范式](https://cloud.tencent.com/developer/article/2507962) - 近日，中国企业发布了全球首款通用型AI Agent——Manus AI，在科技界引发了广泛关注。与传统的AI助手不同，类似Manus这样的应用，不仅仅停留在生成文本或提供建议的层面，而是能够独立思考、...
-- [C/C++获取枚举值名称](https://cloud.tencent.com/developer/article/2508103) - 
+- [技术人的焦虑和内耗，大都来自什么地方？](https://cloud.tencent.com/developer/article/2508218) - 外人眼中，架构师光鲜亮丽：画画框框、写写文档，不用敲代码还能对产品经理指手画脚，职场生活简直不要太舒服。
+- [直播预告｜高并发海量数据压顶，你的数据库真的“扛得住”吗？](https://cloud.tencent.com/developer/article/2508207) - 当企业数字化转型进入深水区，核心业务系统正面临一场无声的战役：高并发流量冲击下，传统数据库架构频频“过载宕机”；PB 级数据表结构变更时，业务被迫按下“暂停键”；分布式大集群运维，故障定位耗时耗力。这...
+- [Jira停售，这些企业的研发管理交出了完美的“中国答案”](https://cloud.tencent.com/developer/article/2508214) - Atlassian终止了对Jira Server版本的支持，这一决定对全球尤其是中国企业产生了深远影响。Jira作为一款全球领先的研发管理工具，其Server版本的停售意味着企业必须选择迁移到Data...
 
 
 ### GitHub 趋势项目
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes
-- [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - Agentic AI Framework for Java Developers
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
-- [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - No description
 
 
 
 
 ### AI 研究论文
 
-- [Mobile-MMLU: A Mobile Intelligence Language Understanding Benchmark](http://arxiv.org/abs/2503.20786v1) - Sondos Mahmoud Bsharat, Mukul Ranjan, Aidar Myrzakhan, Jiacheng Liu, Bowei Guo, Shengkun Tang, Zhuang Liu, Yuanzhi Li, Zhiqiang Shen
-  Rapid advancements in large language models (LLMs) have increased interest in
-deploying them on mobile devices for on-device AI applications. Mobile u...
+- [StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross
+  Fusion](http://arxiv.org/abs/2503.21775v1) - Ziyu Guo, Young Yoon Lee, Joseph Liu, Yizhak Ben-Shabat, Victor Zordan, Mubbasir Kapadia
+  We present StyleMotif, a novel Stylized Motion Latent Diffusion model,
+generating motion conditioned on both content and style from multiple
+modalitie...
 
-- [Understanding R1-Zero-Like Training: A Critical Perspective](http://arxiv.org/abs/2503.20783v1) - Zichen Liu, Changyu Chen, Wenjun Li, Penghui Qi, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin
-  DeepSeek-R1-Zero has shown that reinforcement learning (RL) at scale can
-directly enhance the reasoning capabilities of LLMs without supervised
-fine-t...
+- [Stable-SCore: A Stable Registration-based Framework for 3D Shape
+  Correspondence](http://arxiv.org/abs/2503.21766v1) - Haolin Liu, Xiaohang Zhan, Zizheng Yan, Zhongjin Luo, Yuxin Wen, Xiaoguang Han
+  Establishing character shape correspondence is a critical and fundamental
+task in computer vision and graphics, with diverse applications including
+re...
 
-- [ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving
-  Systems](http://arxiv.org/abs/2503.20756v1) - Chenxi Wang, Jizhan Fang, Xiang Chen, Bozhong Tian, Ziwen Xu, Huajun Chen, Ningyu Zhang
-  Recent advancements in Large Multimodal Models (LMMs) have shown promise in
-Autonomous Driving Systems (ADS). However, their direct application to ADS...
+- [Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single
+  Video](http://arxiv.org/abs/2503.21761v1) - David Yifan Yao, Albert J. Zhai, Shenlong Wang
+  This paper presents a unified approach to understanding dynamic scenes from
+casual videos. Large pretrained vision foundation models, such as
+vision-l...
 
 
 
