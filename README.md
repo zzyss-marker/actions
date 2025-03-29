@@ -30,25 +30,25 @@
 
 MIT
 
-## 今日更新 (2025-03-28)
+## 今日更新 (2025-03-29)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
 
 ### AI 技术动态
 
-- [AI产品经理学习路线（非常详细），从零基础到专家，从这篇起步！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 市面上不同的公司对产品经理的定位有很大的差别，一名合格的产品经理是能对软件产品整个生命周期负责的人。AI产品经理和通用型软件产品经理的底层思考框架是一样的，都是要经历产品立项、需求分析、产品设计、产品...
-- [[AI]从零开始的树莓派运行DeepSeek模型教程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 讲解了树莓派中llama.cpp的部署及DeepSeek模型的运行！
-- [探秘 AI Agent 之 Coze 智能体：工作流模式（6/30）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着人工智能技术的飞速发展，大模型（Large Language Model，LLM）已成为备受瞩目的热点领域。大模型凭借强大的语义理解和文本生成能力，在自然语言处理、机器翻译、代码生成等诸多方面都取...
-- [Ai模型-PyTorch和Tensorflow的区别](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - PyTorch更适合快速开发、原型设计、学术研究和动态变化的模型构建场景。TensorFlow适合大规模的生产环境，尤其是需要跨设备部署、分布式训练或是完整机器学习流水线的任务。技术选型时可以基于项目...
-- [DeepSeek超参优化实战：AutoML调参全解析，解锁AI性能密码（16/18）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AutoML，即自动化机器学习（Automated Machine Learning） ，是一种能够自动完成机器学习模型构建和优化过程的技术。它涵盖了从数据预处理、特征工程、模型选择到超参数优化等一系...
+- [AI Ollama 下载和安装](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Ollama是一款可以在macOS、Linux和Windows系统上运行的跨平台工具，它帮助用户快速在本地运行大模型，极大地简化了在Docker容器内部署和管理LLM（大型语言模型）的过程。
+- [8个读文献的AI工具，可总结分析文件、读论文必备！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LL...
+- [你的旧电脑还跑得动AI吗？ToDesk云电脑/青椒云/顺网云算力支持实测报告](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 你的旧电脑还跑得动AI吗？ToDesk云电脑/青椒云/顺网云算力支持实测报告，随着AI大模型的崛起及广泛应用，旧电脑显示出了硬伤，硬件配置方面，老旧的 CPU、GPU 性能不足，运算速度缓慢，导致 A...
+- [Cursor44.11 无限续杯攻略：持续畅享 AI 编程利器](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Cursor 作为一款基于 VSCode 二次开发的强大 AI 编程编辑器，凭借其内置的多种 AI 大模型，如 GPT-4、GPT-4o、Claude-3.5 以及近期热门的 DeepSeek 满血版...
+- [AI+游戏开发：如何用 DeepSeek 打造高性能贪吃蛇游戏](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Vue.js项目开发全程实录》精选Vue.js开发方向的10个热门应用项目，实用性非常强。这些项目包含：智汇企业官网首页设计、贪吃蛇小游戏、时光音乐网首页设计、游戏公园博客、电影易购APP、淘贝电子商...
 
 
 ### 网络安全资讯
 
-- [Morphing Meerkat新型网络钓鱼工具包利用DNS邮件记录模仿114个品牌](https://www.freebuf.com/articles/425980.html) - 网络安全研究人员揭露了一个新的 “网络钓鱼即服务” 平台，利用域名系统邮件交换记录来提供模仿约 114 个品牌的虚假登录页面。
-- [工业安全告急：新型 Linux-Backdoor 程序利用 0-Day RCE 漏洞对 OT 系统发动攻击](https://www.anquanke.com/post/id/305941) - 安全公告，详情请点击链接查看完整内容
+- [关于公开征求《中华人民共和国网络安全法（修正草案再次征求意见稿）》意见的通知](https://www.freebuf.com/news/426034.html) - 《中华人民共和国网络安全法（修正草案再次征求意见稿）》已发布，并公开征求意见。
+- [mimikatz源码分析-提权](https://www.anquanke.com/post/id/288505) - 安全公告，详情请点击链接查看完整内容
 - [信任受到攻击：针对 Android 恶意软件检测中机器学习的标签伪造攻击](https://paper.seebug.org/3310/) - 作者：Tianwei Lan, Luca Demetrio, Farid Nait-Abdesselam, Yufei Han, Simone Aonzo
 译者：知道创宇404实验室翻译组
 原文链接：...
@@ -56,22 +56,22 @@ MIT
 
 ### 技术就业趋势
 
-区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
+人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
 
 ### 科技热点
 
-- [技术人的焦虑和内耗，大都来自什么地方？](https://cloud.tencent.com/developer/article/2508218) - 外人眼中，架构师光鲜亮丽：画画框框、写写文档，不用敲代码还能对产品经理指手画脚，职场生活简直不要太舒服。
-- [直播预告｜高并发海量数据压顶，你的数据库真的“扛得住”吗？](https://cloud.tencent.com/developer/article/2508207) - 当企业数字化转型进入深水区，核心业务系统正面临一场无声的战役：高并发流量冲击下，传统数据库架构频频“过载宕机”；PB 级数据表结构变更时，业务被迫按下“暂停键”；分布式大集群运维，故障定位耗时耗力。这...
-- [Jira停售，这些企业的研发管理交出了完美的“中国答案”](https://cloud.tencent.com/developer/article/2508214) - Atlassian终止了对Jira Server版本的支持，这一决定对全球尤其是中国企业产生了深远影响。Jira作为一款全球领先的研发管理工具，其Server版本的停售意味着企业必须选择迁移到Data...
+- [DeepSeek 从热潮到应用，腾讯云携手行业专家共探 AI 下一步](https://cloud.tencent.com/developer/article/2508223) - 2025年，技术圈的新晋“顶流”DeepSeek 在短短七天内完成一亿用户的增长，成为全球增速最快的 AI 应用，其发展堪称现象级。DeepSeek 在全球范围内掀起新一轮技术热潮，彻底颠覆人工智能行...
+- [【玩转 EdgeOne Pages】DeepSeek 模板助你快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2507513) - 还在为部署对话型 AI 网站耗费大量时间而担心？现在打破僵局，通过 EdgeOne Pages 的 DeepSeek R1 模板，帮你节省时间和精力，轻松搭建一个高效的对话式 AI 网站！
+- [【腾讯云代码分析】IDE插件重新上线！在编码中快速定位代码缺陷](https://cloud.tencent.com/developer/article/2508229) - 官方介绍：https://cloud.tencent.com/product/tcap
 
 
 ### GitHub 趋势项目
 
-- [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes
+- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - No description
+- [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 
 
 
