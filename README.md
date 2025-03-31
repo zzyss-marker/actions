@@ -30,25 +30,25 @@
 
 MIT
 
-## 今日更新 (2025-03-30)
+## 今日更新 (2025-03-31)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- [无需昂贵GPU：本地部署开源AI项目LocalAI你在消费级硬件上运行大模型](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文主要介绍如何在本地服务器部署无需依托高昂价格的 GPU，也可以在本地运行离线 AI 项目的开源 AI 神器 LoaclAI，并结合 cpolar 内网穿透轻松实现远程使用的超详细教程。随着 AI ...
-- [燃爆！程序员如何借助 AI 大模型冲破编程效率枷锁？（以DeepSeek，ChatGPT为例）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI 大模型已成为程序员提升效率的有力助手。本文聚焦 DeepSeek 和 ChatGPT，探讨程序员如何借其冲破编程效率枷锁。在代码编写阶段，它们能快速生成基础框架、实现特定功能及复杂算法代码；调试...
-- [什么是AI显卡，英伟达与AMD显卡的全面对比](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文结合50系显卡对AI显卡以及英伟达和AMD显卡的全面对比
-- [DeepSeek + Dify + Docker 零代码！一键搭建本地私有AI知识库](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - DeepSeek + Dify + Docker 零代码！一键搭建本地私有AI知识库
-- [蓝耘智算携手DeepSeek，共创AI未来](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 通过蓝耘平台搭建DeepSeek-R1模型
+- [实现一个简易的AI流式对话，模拟ChatGPT（SpringBoot+Vue2）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 我们如何实现一个AI流式输出？目前的AI对话接口大多都附带有流式输出接口，但是后端接收到的数据是流式的，我们仍需要处理数据流并返回给前端，让前端显示流式的效果。试着实现一个简易的AI流式对话，模拟ch...
+- [【AI落地应用实战】LLM + TextIn文档解析技术实测 暨基于TextIn文档解析 + Kimi的智能文档解析助手](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 文档解析技术是从这些海量且复杂的数据中高效准确地提取有价值信息的关键。它从输入文档图像开始，经过图像处理、版面分析、内容识别和语义理解等流程，最终输出结构化电子文档或语义信息。通过文档解析技术，我们能...
+- [DeepSeek AI智能运营：重构企业效率的范式革命](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本书从多个方面介绍了如何整合AI技术进行运营工作，包括AI与用户运营的融合、精细化运营策略的构建、智能内容创作助手的运用、AI驱动分析决策。读者可以通过本书学习如何利用AI处理运营工作，从而更好地满足...
+- [《解锁万相2.1大模型：开启视频创作新世界》：此文为AI自动生成](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 万相 2.1 大模型的出现，无疑为 AI 视频生成领域带来了一场深刻的变革。通过前面的介绍，我们深入了解了它的使用方法，从前期的环境搭建，到实操过程中的文生视频、图生视频创作，再到通过技巧优化提升视频...
+- [摄影师又又又失业了，即梦AI这个新功能太牛了！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 昨天晚上，我发现即梦AI居然悄悄更新了一个新功能——“智能参考”，我用几个小时的时间测试了一下这个新功能，发现它真的惊艳到我了！
 
 
 ### 网络安全资讯
 
-- [Telegram 惊现数据抓取机器人：560 亿条公开群聊记录被索引，涉 8.6 亿用户](https://www.freebuf.com/news/426083.html) - 即时通讯平台 Telegram 上出现一个名为 Funstatgrtbot 的机器人，引发了广泛关注和用户对隐私的担忧。
-- [mimikatz源码分析-提权](https://www.anquanke.com/post/id/288505) - 安全公告，详情请点击链接查看完整内容
+- [穿透技术域迷雾：如何用AI缝合安全裂痕？](https://www.freebuf.com/articles/neopoints/426138.html) - 当企业上云从“趋势”变为“常态”，阿里云的三体战役正用技术纵深度、生态聚合度、战略前瞻性，来开启云安全AI时代的新纪元。
+- [安全破局 生态突围！360联合全国省代合作伙伴擘画产业新蓝图](https://www.anquanke.com/post/id/305990) - 安全公告，详情请点击链接查看完整内容
 - [信任受到攻击：针对 Android 恶意软件检测中机器学习的标签伪造攻击](https://paper.seebug.org/3310/) - 作者：Tianwei Lan, Luca Demetrio, Farid Nait-Abdesselam, Yufei Han, Simone Aonzo
 译者：知道创宇404实验室翻译组
 原文链接：...
@@ -56,45 +56,43 @@ MIT
 
 ### 技术就业趋势
 
-可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
+区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
 
 ### 科技热点
 
-- [DeepSeek 从热潮到应用，腾讯云携手行业专家共探 AI 下一步](https://cloud.tencent.com/developer/article/2508223) - 2025年，技术圈的新晋“顶流”DeepSeek 在短短七天内完成一亿用户的增长，成为全球增速最快的 AI 应用，其发展堪称现象级。DeepSeek 在全球范围内掀起新一轮技术热潮，彻底颠覆人工智能行...
-- [【腾讯云代码分析】IDE插件重新上线！在编码中快速定位代码缺陷](https://cloud.tencent.com/developer/article/2508229) - 官方介绍：https://cloud.tencent.com/product/tcap
-- [终于把知识蒸馏搞懂了！从DeepSeek R1到APT](https://cloud.tencent.com/developer/article/2508226) - 知识蒸馏是什么？扩散模型的蒸馏和一般的蒸馏方法有什么不同？本篇文章简单介绍了一下知识蒸馏的相关概念和在扩散模型中的应用场景，希望可以给相关领域的朋友们提供一些参考。
+- [AI时代的教育之问V：学习方式](https://cloud.tencent.com/developer/article/2508484) - 教育系统作为社会巨系统的一个关键子系统，在人工智能技术的驱动下，教育现象变得日益错综复杂，教育动因更加难以解析，教育风险也愈发难以预见。为了有效应对人工智能技术对教育系统的挑战与机遇，必须进行跨学科、...
+- [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524) - 同时，openai也自己发布了agent api，让人人都能够自己构建一个属于自己的Agent
+- [腾讯元宝「双模」更新：最新DeepSeekV3+混元T1正式版，一次配齐](https://cloud.tencent.com/developer/article/2508193) - 刚刚，腾讯元宝完成重磅更新：同时接入DeepSeek V3-0324最新版（距离该模型发布开源一天）和深度思考模型混元T1正式版。
 
 
 ### GitHub 趋势项目
 
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [google/perfetto](https://github.com/google/perfetto) - Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
-- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 
 
 
 
 ### AI 研究论文
 
-- [StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross
-  Fusion](http://arxiv.org/abs/2503.21775v1) - Ziyu Guo, Young Yoon Lee, Joseph Liu, Yizhak Ben-Shabat, Victor Zordan, Mubbasir Kapadia
-  We present StyleMotif, a novel Stylized Motion Latent Diffusion model,
-generating motion conditioned on both content and style from multiple
-modalitie...
+- [DSO: Aligning 3D Generators with Simulation Feedback for Physical
+  Soundness](http://arxiv.org/abs/2503.22677v1) - Ruining Li, Chuanxia Zheng, Christian Rupprecht, Andrea Vedaldi
+  Most 3D object generators focus on aesthetic quality, often neglecting
+physical constraints necessary in applications. One such constraint is that the...
 
-- [Stable-SCore: A Stable Registration-based Framework for 3D Shape
-  Correspondence](http://arxiv.org/abs/2503.21766v1) - Haolin Liu, Xiaohang Zhan, Zizheng Yan, Zhongjin Luo, Yuxin Wen, Xiaoguang Han
-  Establishing character shape correspondence is a critical and fundamental
-task in computer vision and graphics, with diverse applications including
-re...
+- [Think Before Recommend: Unleashing the Latent Reasoning Power for
+  Sequential Recommendation](http://arxiv.org/abs/2503.22675v1) - Jiakai Tang, Sunhao Dai, Teng Shi, Jun Xu, Xu Chen, Wen Chen, Wu Jian, Yuning Jiang
+  Sequential Recommendation (SeqRec) aims to predict the next item by capturing
+sequential patterns from users' historical interactions, playing a cruci...
 
-- [Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single
-  Video](http://arxiv.org/abs/2503.21761v1) - David Yifan Yao, Albert J. Zhai, Shenlong Wang
-  This paper presents a unified approach to understanding dynamic scenes from
-casual videos. Large pretrained vision foundation models, such as
-vision-l...
+- [QuestBench: Can LLMs ask the right question to acquire information in
+  reasoning tasks?](http://arxiv.org/abs/2503.22674v1) - Belinda Z. Li, Been Kim, Zi Wang
+  Recently, a large amount of work has focused on improving large language
+models' (LLMs') performance on reasoning benchmarks such as math and logic.
+H...
 
 
 
