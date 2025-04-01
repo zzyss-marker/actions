@@ -30,47 +30,49 @@
 
 MIT
 
-## 今日更新 (2025-03-31)
+## 今日更新 (2025-04-01)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- [实现一个简易的AI流式对话，模拟ChatGPT（SpringBoot+Vue2）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 我们如何实现一个AI流式输出？目前的AI对话接口大多都附带有流式输出接口，但是后端接收到的数据是流式的，我们仍需要处理数据流并返回给前端，让前端显示流式的效果。试着实现一个简易的AI流式对话，模拟ch...
-- [【AI落地应用实战】LLM + TextIn文档解析技术实测 暨基于TextIn文档解析 + Kimi的智能文档解析助手](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 文档解析技术是从这些海量且复杂的数据中高效准确地提取有价值信息的关键。它从输入文档图像开始，经过图像处理、版面分析、内容识别和语义理解等流程，最终输出结构化电子文档或语义信息。通过文档解析技术，我们能...
-- [DeepSeek AI智能运营：重构企业效率的范式革命](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本书从多个方面介绍了如何整合AI技术进行运营工作，包括AI与用户运营的融合、精细化运营策略的构建、智能内容创作助手的运用、AI驱动分析决策。读者可以通过本书学习如何利用AI处理运营工作，从而更好地满足...
-- [《解锁万相2.1大模型：开启视频创作新世界》：此文为AI自动生成](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 万相 2.1 大模型的出现，无疑为 AI 视频生成领域带来了一场深刻的变革。通过前面的介绍，我们深入了解了它的使用方法，从前期的环境搭建，到实操过程中的文生视频、图生视频创作，再到通过技巧优化提升视频...
-- [摄影师又又又失业了，即梦AI这个新功能太牛了！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 昨天晚上，我发现即梦AI居然悄悄更新了一个新功能——“智能参考”，我用几个小时的时间测试了一下这个新功能，发现它真的惊艳到我了！
+- [OpenCV与AI深度学习｜16个含源码和数据集的计算机视觉实战项目(建议收藏！)](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文将分享16个含源码和数据集的计算机视觉实战项目。
+- [AI大模型探索之路-训练篇7：大语言模型Transformer库之HuggingFace介绍](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在的官方网站上，您可以发现一个丰富的开源宝库，其中包含了众多机器学习爱好者上传的精选模型，供大家学习和应用。此外，您也可以将自己的模型分享至社区，与他人共同进步。HuggingFace因其开放和协作的...
+- [AI赋能视频创作：蓝耘MaaS与海螺AI技术的深度融合](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 蓝耘MaaS（Model as a Service）平台是一个基于云端的人工智能服务平台，通过开放API接口和SDK，用户可以轻松调用平台上的AI模型，而无需深入了解底层算法和模型细节。MaaS的最大...
+- [idea超级AI插件，让 AI 为 Java 工程师](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 用户可在界面中直接通过输入自然语言的形式描述接口的需求，系统通过输入的需求自动分析关键的功能点有哪些，并对不确定方案的需求提供多种选择，以及对需求上下文进行补充，用户修改确定需求后，系统会根据需求设计...
+- [Ollama vs Xinference: AI推理引擎对比报告](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Ollama 和 Xinference 都是强大的AI推理引擎，旨在提升机器学习和深度学习模型的推理性能，但它们的应用场景、性能优化、以及支持的技术栈各自有所不同。本报告将详细比较这两者的架构、性能、...
 
 
 ### 网络安全资讯
 
-- [穿透技术域迷雾：如何用AI缝合安全裂痕？](https://www.freebuf.com/articles/neopoints/426138.html) - 当企业上云从“趋势”变为“常态”，阿里云的三体战役正用技术纵深度、生态聚合度、战略前瞻性，来开启云安全AI时代的新纪元。
-- [安全破局 生态突围！360联合全国省代合作伙伴擘画产业新蓝图](https://www.anquanke.com/post/id/305990) - 安全公告，详情请点击链接查看完整内容
-- [信任受到攻击：针对 Android 恶意软件检测中机器学习的标签伪造攻击](https://paper.seebug.org/3310/) - 作者：Tianwei Lan, Luca Demetrio, Farid Nait-Abdesselam, Yufei Han, Simone Aonzo
+- [黑客宣称入侵Check Point网络安全公司并兜售访问权限](https://www.freebuf.com/articles/es/426232.html) - 黑客兜售Check Point内部数据，公司称&quot;旧事件已处理&quot;引质疑
+- [重磅！ESET 强势发布全新策略，精准应对动态演变的网络威胁](https://www.anquanke.com/post/id/306077) - 安全公告，详情请点击链接查看完整内容
+- [JBFuzz：使用模糊测试高效破解大型语言模型](https://paper.seebug.org/3311/) - 作者：Vasudev Gohil
 译者：知道创宇404实验室翻译组
-原文链接：...
+原文链接：https://arxiv.org/html/2503.08990v1  
+摘要
+大型语言模型（LLMs）作为语言理解和决...
 
 
 ### 技术就业趋势
 
-区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
+数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
 
 ### 科技热点
 
-- [AI时代的教育之问V：学习方式](https://cloud.tencent.com/developer/article/2508484) - 教育系统作为社会巨系统的一个关键子系统，在人工智能技术的驱动下，教育现象变得日益错综复杂，教育动因更加难以解析，教育风险也愈发难以预见。为了有效应对人工智能技术对教育系统的挑战与机遇，必须进行跨学科、...
-- [OpenManus实战：如何用DeepSeek V3打造你的专属智能体？](https://cloud.tencent.com/developer/article/2508524) - 同时，openai也自己发布了agent api，让人人都能够自己构建一个属于自己的Agent
-- [腾讯元宝「双模」更新：最新DeepSeekV3+混元T1正式版，一次配齐](https://cloud.tencent.com/developer/article/2508193) - 刚刚，腾讯元宝完成重磅更新：同时接入DeepSeek V3-0324最新版（距离该模型发布开源一天）和深度思考模型混元T1正式版。
+- [一个 Transformer 搞定多模态理解，HaploVL让 AI “看图说话” 更懂细节](https://cloud.tencent.com/developer/article/2508615) - HaploVL 的诞生，正是为了解决这些问题！HaploVL用单 Transformer 架构实现高效的多模态融合，让文本嵌入能动态 “捕捉” 所需视觉线索，同时减少训练数据需求，性能比肩组合式模型！
+- [腾讯多媒体实验室技术解析“中国戏曲数字焕新行动”阶段性工作](https://cloud.tencent.com/developer/article/2508633) - “为更好地推动中国戏曲创造性转化和创新性发展，探索数字技术助力戏曲传承和传播。在文化和旅游部艺术司的关心和指导下，艺术发展中心与腾讯联合发起了“中国戏曲数字焕新行动”，依托腾讯AI影像修复、沉浸式6D...
+- [o3-mini版本到底升级在哪里？](https://cloud.tencent.com/developer/article/2508782) - OpenAI 正式对普通用户开放了全新的 o3-mini 模型，并推出了三个不同版本：o3-mini（low）、o3-mini（medium）、o3-mini（high）。目前，该模型已在 ChatG...
 
 
 ### GitHub 趋势项目
 
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 
 
@@ -78,21 +80,21 @@ MIT
 
 ### AI 研究论文
 
-- [DSO: Aligning 3D Generators with Simulation Feedback for Physical
-  Soundness](http://arxiv.org/abs/2503.22677v1) - Ruining Li, Chuanxia Zheng, Christian Rupprecht, Andrea Vedaldi
-  Most 3D object generators focus on aesthetic quality, often neglecting
-physical constraints necessary in applications. One such constraint is that the...
+- [RIG: Synergizing Reasoning and Imagination in End-to-End Generalist
+  Policy](http://arxiv.org/abs/2503.24388v1) - Zhonghan Zhao, Wenwei Zhang, Haian Huang, Kuikun Liu, Jianfei Gao, Gaoang Wang, Kai Chen
+  Reasoning before action and imagining potential outcomes (i.e., world models)
+are essential for embodied agents operating in complex open-world enviro...
 
-- [Think Before Recommend: Unleashing the Latent Reasoning Power for
-  Sequential Recommendation](http://arxiv.org/abs/2503.22675v1) - Jiakai Tang, Sunhao Dai, Teng Shi, Jun Xu, Xu Chen, Wen Chen, Wu Jian, Yuning Jiang
-  Sequential Recommendation (SeqRec) aims to predict the next item by capturing
-sequential patterns from users' historical interactions, playing a cruci...
+- [UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in
+  Autonomous Driving](http://arxiv.org/abs/2503.24381v1) - Yuping Wang, Xiangyu Huang, Xiaokang Sun, Mingxuan Yan, Shuo Xing, Zhengzhong Tu, Jiachen Li
+  We introduce UniOcc, a comprehensive, unified benchmark for occupancy
+forecasting (i.e., predicting future occupancies based on historical
+information...
 
-- [QuestBench: Can LLMs ask the right question to acquire information in
-  reasoning tasks?](http://arxiv.org/abs/2503.22674v1) - Belinda Z. Li, Been Kim, Zi Wang
-  Recently, a large amount of work has focused on improving large language
-models' (LLMs') performance on reasoning benchmarks such as math and logic.
-H...
+- [Any2Caption:Interpreting Any Condition to Caption for Controllable Video
+  Generation](http://arxiv.org/abs/2503.24379v1) - Shengqiong Wu, Weicai Ye, Jiahao Wang, Quande Liu, Xintao Wang, Pengfei Wan, Di Zhang, Kun Gai, Shuicheng Yan, Hao Fei, Tat-Seng Chua
+  To address the bottleneck of accurate user intent interpretation within the
+current video generation community, we present Any2Caption, a novel framew...
 
 
 
