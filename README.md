@@ -30,25 +30,21 @@
 
 MIT
 
-## 今日更新 (2025-04-01)
+## 今日更新 (2025-04-02)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- [OpenCV与AI深度学习｜16个含源码和数据集的计算机视觉实战项目(建议收藏！)](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文将分享16个含源码和数据集的计算机视觉实战项目。
-- [AI大模型探索之路-训练篇7：大语言模型Transformer库之HuggingFace介绍](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在的官方网站上，您可以发现一个丰富的开源宝库，其中包含了众多机器学习爱好者上传的精选模型，供大家学习和应用。此外，您也可以将自己的模型分享至社区，与他人共同进步。HuggingFace因其开放和协作的...
-- [AI赋能视频创作：蓝耘MaaS与海螺AI技术的深度融合](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 蓝耘MaaS（Model as a Service）平台是一个基于云端的人工智能服务平台，通过开放API接口和SDK，用户可以轻松调用平台上的AI模型，而无需深入了解底层算法和模型细节。MaaS的最大...
-- [idea超级AI插件，让 AI 为 Java 工程师](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 用户可在界面中直接通过输入自然语言的形式描述接口的需求，系统通过输入的需求自动分析关键的功能点有哪些，并对不确定方案的需求提供多种选择，以及对需求上下文进行补充，用户修改确定需求后，系统会根据需求设计...
-- [Ollama vs Xinference: AI推理引擎对比报告](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Ollama 和 Xinference 都是强大的AI推理引擎，旨在提升机器学习和深度学习模型的推理性能，但它们的应用场景、性能优化、以及支持的技术栈各自有所不同。本报告将详细比较这两者的架构、性能、...
+- [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) - 新模型在推理能力和上下文窗口方面有显著改进
 
 
 ### 网络安全资讯
 
-- [黑客宣称入侵Check Point网络安全公司并兜售访问权限](https://www.freebuf.com/articles/es/426232.html) - 黑客兜售Check Point内部数据，公司称&quot;旧事件已处理&quot;引质疑
-- [重磅！ESET 强势发布全新策略，精准应对动态演变的网络威胁](https://www.anquanke.com/post/id/306077) - 安全公告，详情请点击链接查看完整内容
+- [智能家居安全隐忧：你的联网设备可能并不像想象中那么安全](https://www.freebuf.com/articles/network/426383.html) - 智能家居设备暗藏安全危机，黑客可窃听操控！
+- [中科固源技术解读：掌握 Wisdom，实现心脏出血漏洞复现及靶场搭建](https://www.anquanke.com/post/id/306115) - 安全公告，详情请点击链接查看完整内容
 - [JBFuzz：使用模糊测试高效破解大型语言模型](https://paper.seebug.org/3311/) - 作者：Vasudev Gohil
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html/2503.08990v1  
@@ -58,22 +54,22 @@ MIT
 
 ### 技术就业趋势
 
-数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
-- [一个 Transformer 搞定多模态理解，HaploVL让 AI “看图说话” 更懂细节](https://cloud.tencent.com/developer/article/2508615) - HaploVL 的诞生，正是为了解决这些问题！HaploVL用单 Transformer 架构实现高效的多模态融合，让文本嵌入能动态 “捕捉” 所需视觉线索，同时减少训练数据需求，性能比肩组合式模型！
-- [腾讯多媒体实验室技术解析“中国戏曲数字焕新行动”阶段性工作](https://cloud.tencent.com/developer/article/2508633) - “为更好地推动中国戏曲创造性转化和创新性发展，探索数字技术助力戏曲传承和传播。在文化和旅游部艺术司的关心和指导下，艺术发展中心与腾讯联合发起了“中国戏曲数字焕新行动”，依托腾讯AI影像修复、沉浸式6D...
-- [o3-mini版本到底升级在哪里？](https://cloud.tencent.com/developer/article/2508782) - OpenAI 正式对普通用户开放了全新的 o3-mini 模型，并推出了三个不同版本：o3-mini（low）、o3-mini（medium）、o3-mini（high）。目前，该模型已在 ChatG...
+- [腾讯云 EdgeOne Pages 「MCP Server」正式发布](https://cloud.tencent.com/developer/article/2508833) - 来自 Claude 官方的解释：MCP (Model Context Protocol) 是一个开放协议，它对应用程序向大语言模型（LLM）提供上下文的方式进行了标准化。可以把 MCP 想象成人工智能...
+- [腾讯混元开源Hunyuan 3D 2.0家族新模型 推动3D UGC生态发展](https://cloud.tencent.com/developer/article/2508832) - 2025年3月18-19日 腾讯混元在开源日活动上正式开源基于Hunyuan 3D 2.0技术框架的5款三维生成模型，进一步丰富了3D AIGC社区。
+- [GPT-4o 绘图功能炸裂，连“吉卜力风格”都能一键生成！](https://cloud.tencent.com/developer/article/2508935) - GPT-4o 新的绘图功能上线之后，又开始爆火起来。最近各种自媒体公众号都在吹爆这个新的功能。
 
 
 ### GitHub 趋势项目
 
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build Model Context Protocol servers 🚀
 
 
 
