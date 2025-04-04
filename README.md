@@ -30,24 +30,20 @@
 
 MIT
 
-## 今日更新 (2025-04-03)
+## 今日更新 (2025-04-04)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- [在云平台上用Claude 3.7 AI代理自动化电脑图形界面点击操作做表格](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 各行业的企业在跨应用系统的复杂工作流任务中正面临重大挑战，传统上需手动操作或复杂的定制化API集成。Anthropic的计算机使用功能与Amazon Bedrock Agents的结合，提供了变革性的...
-- [10分钟上手DeepSeek开发：SpringBoot + Vue2快速构建AI对话系统](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着人工智能技术的快速发展，大语言模型在企业和个人应用中扮演着越来越重要的角色。作为国产大语言模型的新秀，DeepSeek以其出色的中文理解能力和开放的API接口，为开发者提供了构建AI应用的新选择。...
-- [2024年度推进可解释人工智能迈向类人智能讨论总结分享](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文探讨了可解释人工智能（XAI）的现状与未来发展，重点分析了AI透明化的必要性和多种解释方法的应用。同时，文章深入讨论了人工通用智能（AGI）和神经AI接口的发展前景，探讨了AI如何逐步具备情感、意...
-- [DeepSeek + Dify + Ollama + Docker + Linux 私有化部署，构建你的专属私人 AI 助手](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - DeepSeek + Dify + Ollama + Docker + Linux 私有化部署，构建你的专属私人 AI 助手
-- [通义万相2.1 图生视频：为AI绘梦插上翅膀，开启ALGC算力领域新纪元](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 🎨丰富艺术风格，任你随心选择。从笔触细腻的数字绘画，到逼真震撼的照片级真实；从充满奇思妙想的奇幻艺术，到活力满满的动漫风格，再到典雅的水彩画、厚重质感的油画以及富有沉浸感的电影质感，只需轻松设置 st...
+- [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) - 新模型在推理能力和上下文窗口方面有显著改进
 
 
 ### 网络安全资讯
 
-- [虚假CAPTCHA投递Lumma Stealer窃密木马](https://www.anquanke.com/post/id/306195) - 安全公告，详情请点击链接查看完整内容
+- [基于 RAG 提升大模型安全运营效率](https://www.anquanke.com/post/id/306214) - 安全公告，详情请点击链接查看完整内容
 - [JBFuzz：使用模糊测试高效破解大型语言模型](https://paper.seebug.org/3311/) - 作者：Vasudev Gohil
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html/2503.08990v1  
@@ -58,44 +54,41 @@ MIT
 
 ### 技术就业趋势
 
-敏捷和Scrum认证在项目管理角色中价值提升。
+可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
 
 ### 科技热点
 
-- [直播预告｜什么是 MCP？腾讯云 EdgeOne Pages 带你从原理到实战](https://cloud.tencent.com/developer/article/2509132) - 火爆全网的 MCP，你了解了吗？——腾讯云 EdgeOne Pages 平台带你彻底搞懂 MCP，从发展历程到实操演练，手把手教学！3月31日晚19:00-21:00，我们将通过视频号直播的形式，为大...
-- [腾讯元宝X职场办公：别动手，我来](https://cloud.tencent.com/developer/article/2509265) - 支持截图提问、文件拖拽上传和表格内容解读，新增调字号调整、深色模式等实用功能，还能直接使用最新DeepSeek V3-0324大模型，一句话生成代码（直接就能运行），进一步提升日常办公与学习使用体验。
-- [“千人千面”的广告时代将被AI终结](https://cloud.tencent.com/developer/article/2509266) - DeepSeek的出圈，不仅引爆了全社会对于AI的大讨论，更重要的是激发各界人士从观望者转变为参与者，掀起了一波真实的人工智能落地潮。在孕育了AI的互联网生态中，AI引起的变化会首当其冲，且影响更彻底...
+- [原创分享计划2025年4月特别激励活动](https://cloud.tencent.com/developer/article/2509851) - 腾讯云开发者社区是腾讯云面向开发者打造的技术交流型社区，每月有1200W 用户访问社区学习技术、解决问题。为鼓励更多优质技术内容的输出与沉淀，社区面向腾讯员工发
+- [EdgeOne Pages 上线「DeepSeek R1 模板」，1分钟快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2509971) - DeepSeek 凭借其强大的自然语言处理能力和智能检索功能，正逐渐成为 AI 领域的热点。腾讯云 EdgeOne Pages 正式推出 DeepSeek R1 模板，开发者仅需 1 分钟即可搭建对话...
+- [AI幻觉下，如何识别虚假信息](https://cloud.tencent.com/developer/article/2509980) - 其实目前来看，AI 在很多时候确实存在幻觉现象，尤其是在处理严谨性较强的问题时，例如数学题、编程问题等，经常会给出错误答案，甚至出现胡编乱造的情况。
 
 
 ### GitHub 趋势项目
 
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+- [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
 
 
 
 ### AI 研究论文
 
-- [The LLM Wears Prada: Analysing Gender Bias and Stereotypes through
-  Online Shopping Data](http://arxiv.org/abs/2504.01951v1) - Massimiliano Luca, Ciro Beneduce, Bruno Lepri, Jacopo Staiano
-  With the wide and cross-domain adoption of Large Language Models, it becomes
-crucial to assess to which extent the statistical correlations in trainin...
+- [Concept Lancet: Image Editing with Compositional Representation
+  Transplant](http://arxiv.org/abs/2504.02828v1) - Jinqi Luo, Tianjiao Ding, Kwan Ho Ryan Chan, Hancheng Min, Chris Callison-Burch, René Vidal
+  Diffusion models are widely used for image editing tasks. Existing editing
+methods often design a representation manipulation procedure by curating an...
 
-- [Efficient Federated Learning Tiny Language Models for Mobile Network
-  Feature Prediction](http://arxiv.org/abs/2504.01947v1) - Daniel Becking, Ingo Friese, Karsten Müller, Thomas Buchholz, Mandy Galkow-Schneider, Wojciech Samek, Detlev Marpe
-  In telecommunications, Autonomous Networks (ANs) automatically adjust
-configurations based on specific requirements (e.g., bandwidth) and available
-re...
-
-- [Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning
-  Length?](http://arxiv.org/abs/2504.01935v1) - Celine Lee, Alexander M. Rush, Keyon Vafa
-  Large language models (LLMs) often benefit from verbalized reasoning at
-inference time, but it remains unclear which aspects of task difficulty these
+- [On Vanishing Variance in Transformer Length Generalization](http://arxiv.org/abs/2504.02827v1) - Ruining Li, Gabrijel Boduljak, Jensen, Zhou
+  It is a widely known issue that Transformers, when trained on shorter
+sequences, fail to generalize robustly to longer ones at test time. This raises
 ...
+
+- [Do Two AI Scientists Agree?](http://arxiv.org/abs/2504.02822v1) - Xinghong Fu, Ziming Liu, Max Tegmark
+  When two AI models are trained on the same scientific task, do they learn the
+same theory or two different theories? Throughout history of science, we...
 
 
 
