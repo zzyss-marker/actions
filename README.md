@@ -30,15 +30,19 @@
 
 MIT
 
-## 今日更新 (2025-04-04)
+## 今日更新 (2025-04-05)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) - 新模型在推理能力和上下文窗口方面有显著改进
+- [【工具】Excel竟然也能搞AI，快来玩转chatexcel](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - ChatExcel 是一款由北京大学团队开发的人工智能办公辅助工具，允许用户通过自然语言与Excel表格进行交互，执行常见的数据处理任务，如排序、求和等，无需手动编写公式或函数。用户只需访问官方网站h...
+- [2025年普通人能用生成式AI最赚钱的15个商机风口上篇（源自海外智库报告）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 由于海外的报告内容较多，因此小李哥将25年所有的AI创业风口分成了上下两篇总结，大家可以点一个关注不要错过下篇更优质的干货内容，让2025我们一起赚大钱！AI技术正在深刻地重塑各行各业，为创业者提供大...
+- [AI提示词（Prompt）设计优化方案 | 高效使用 AI 工具](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 良好的提示词设计能力能帮助你与 AI 更顺畅地沟通，减少误解和返工，提升整体沟通效率
+- [AI重塑视觉艺术：DeepSeek与蓝耘通义万相2.1的图生视频奇迹](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 近年来，深度学习、计算机视觉和生成模型在多个领域取得了突破性进展。其中，DeepSeek与蓝耘通义万相2.1图生视频的结合为图像生成与视频生成技术提供了新的发展方向。DeepSeek作为一个图像和视频...
+- [你的旧电脑还跑得动AI吗？ToDesk云电脑/青椒云/顺网云算力支持实测报告](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 你的旧电脑还跑得动AI吗？ToDesk云电脑/青椒云/顺网云算力支持实测报告，随着AI大模型的崛起及广泛应用，旧电脑显示出了硬伤，硬件配置方面，老旧的 CPU、GPU 性能不足，运算速度缓慢，导致 A...
 
 
 ### 网络安全资讯
@@ -54,22 +58,22 @@ MIT
 
 ### 技术就业趋势
 
-可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
-- [原创分享计划2025年4月特别激励活动](https://cloud.tencent.com/developer/article/2509851) - 腾讯云开发者社区是腾讯云面向开发者打造的技术交流型社区，每月有1200W 用户访问社区学习技术、解决问题。为鼓励更多优质技术内容的输出与沉淀，社区面向腾讯员工发
+- [用Cursor重构Go项目，只需7步！](https://cloud.tencent.com/developer/article/2509802) - 本文主要介绍了如何使用 Cursor 辅助 Go 项目重构，旨在通过人机协作提升代码重构的效率和质量。本文通过房屋翻新的类比，详细阐述了 AI 在代码重构中的各个步骤和作用，并提供了具体的实践指南。
 - [EdgeOne Pages 上线「DeepSeek R1 模板」，1分钟快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2509971) - DeepSeek 凭借其强大的自然语言处理能力和智能检索功能，正逐渐成为 AI 领域的热点。腾讯云 EdgeOne Pages 正式推出 DeepSeek R1 模板，开发者仅需 1 分钟即可搭建对话...
 - [AI幻觉下，如何识别虚假信息](https://cloud.tencent.com/developer/article/2509980) - 其实目前来看，AI 在很多时候确实存在幻觉现象，尤其是在处理严谨性较强的问题时，例如数学题、编程问题等，经常会给出错误答案，甚至出现胡编乱造的情况。
 
 
 ### GitHub 趋势项目
 
-- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
-- [SLAM-Handbook-contributors/slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+- [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway
+- [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
+- [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 
 
 
