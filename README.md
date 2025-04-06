@@ -30,19 +30,19 @@
 
 MIT
 
-## 今日更新 (2025-04-05)
+## 今日更新 (2025-04-06)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- [【工具】Excel竟然也能搞AI，快来玩转chatexcel](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - ChatExcel 是一款由北京大学团队开发的人工智能办公辅助工具，允许用户通过自然语言与Excel表格进行交互，执行常见的数据处理任务，如排序、求和等，无需手动编写公式或函数。用户只需访问官方网站h...
-- [2025年普通人能用生成式AI最赚钱的15个商机风口上篇（源自海外智库报告）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 由于海外的报告内容较多，因此小李哥将25年所有的AI创业风口分成了上下两篇总结，大家可以点一个关注不要错过下篇更优质的干货内容，让2025我们一起赚大钱！AI技术正在深刻地重塑各行各业，为创业者提供大...
-- [AI提示词（Prompt）设计优化方案 | 高效使用 AI 工具](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 良好的提示词设计能力能帮助你与 AI 更顺畅地沟通，减少误解和返工，提升整体沟通效率
-- [AI重塑视觉艺术：DeepSeek与蓝耘通义万相2.1的图生视频奇迹](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 近年来，深度学习、计算机视觉和生成模型在多个领域取得了突破性进展。其中，DeepSeek与蓝耘通义万相2.1图生视频的结合为图像生成与视频生成技术提供了新的发展方向。DeepSeek作为一个图像和视频...
-- [你的旧电脑还跑得动AI吗？ToDesk云电脑/青椒云/顺网云算力支持实测报告](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 你的旧电脑还跑得动AI吗？ToDesk云电脑/青椒云/顺网云算力支持实测报告，随着AI大模型的崛起及广泛应用，旧电脑显示出了硬伤，硬件配置方面，老旧的 CPU、GPU 性能不足，运算速度缓慢，导致 A...
+- [从大模型到通用AI《智能计算系统》带你揭秘大模型背后的智能计算革命](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 全面贯穿人工智能整个软硬件技术栈以大模型为牵引，形成智能领域的系统思维前沿研究与技术实践结合，快速提升智能领域的系统能力第2版的更新内容包括如何构建大模型算法（第2、3章），如何让编程框架支撑海量处理...
+- [AI大模型开发流程及涉及技术](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - ‌是指使用大规模数据和强大的计算能力训练出来的“大参数”模型，这些模型通常具有高度的通用性和泛化能力，可以应用于自然语言处理、图像识别、语音识别等领域。AI大模型是“大数据+大算力+强算法”结合的产物...
+- [人工智能 - 智能体大比拼：Dify、扣子（Coze）和Manus的技术深度比较](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 采用多代理系统（Multiple Agent），通过任务拆解、规划、执行、验证等模块协同工作，每个模块由独立的大模型或强化学习模型支持，并调用外部API工具链完成端到端任务。：依赖多模型协同网络（如G...
+- [全面认识AI Agent，一文读懂AI智能体的架构指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI Agent，或称为人工智能代理，我更愿意称为AI智能体。它是一种模拟人类智能行为的人工智能系统，以大型语言模型（LLM）作为其核心引擎。它们能够感知其环境，做出决策，并执行任务以实现特定的目标。...
+- [2024年博客之星主题创作｜猫头虎分享AI技术洞察：2025年AI发展趋势前瞻与展望](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 2025年，AI将进入全新发展阶段，World Model元年、仿真数据蒸馏、AI孪生、空间智能等技术将重塑物理世界与虚拟世界的边界。与此同时，AI商业化落地加速，低空经济、算力与模型API、具身智能...
 
 
 ### 网络安全资讯
@@ -58,7 +58,7 @@ MIT
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
@@ -69,11 +69,11 @@ MIT
 
 ### GitHub 趋势项目
 
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
-- [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway
-- [browser-use/web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
-- [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
+- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
+- [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
+- [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal) - 🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
 
 
 
