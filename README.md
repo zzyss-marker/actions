@@ -30,69 +30,71 @@
 
 MIT
 
-## 今日更新 (2025-04-06)
+## 今日更新 (2025-04-07)
 
 ### 今日名言
 
-> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- [从大模型到通用AI《智能计算系统》带你揭秘大模型背后的智能计算革命](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 全面贯穿人工智能整个软硬件技术栈以大模型为牵引，形成智能领域的系统思维前沿研究与技术实践结合，快速提升智能领域的系统能力第2版的更新内容包括如何构建大模型算法（第2、3章），如何让编程框架支撑海量处理...
-- [AI大模型开发流程及涉及技术](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - ‌是指使用大规模数据和强大的计算能力训练出来的“大参数”模型，这些模型通常具有高度的通用性和泛化能力，可以应用于自然语言处理、图像识别、语音识别等领域。AI大模型是“大数据+大算力+强算法”结合的产物...
-- [人工智能 - 智能体大比拼：Dify、扣子（Coze）和Manus的技术深度比较](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 采用多代理系统（Multiple Agent），通过任务拆解、规划、执行、验证等模块协同工作，每个模块由独立的大模型或强化学习模型支持，并调用外部API工具链完成端到端任务。：依赖多模型协同网络（如G...
-- [全面认识AI Agent，一文读懂AI智能体的架构指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI Agent，或称为人工智能代理，我更愿意称为AI智能体。它是一种模拟人类智能行为的人工智能系统，以大型语言模型（LLM）作为其核心引擎。它们能够感知其环境，做出决策，并执行任务以实现特定的目标。...
-- [2024年博客之星主题创作｜猫头虎分享AI技术洞察：2025年AI发展趋势前瞻与展望](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 2025年，AI将进入全新发展阶段，World Model元年、仿真数据蒸馏、AI孪生、空间智能等技术将重塑物理世界与虚拟世界的边界。与此同时，AI商业化落地加速，低空经济、算力与模型API、具身智能...
+- [AI大模型：Cursor AI编程详细使用教程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Cursor AI编程保姆级教程。手把手教你使用Cursor AI生成Python项目，springboot web项目实战教程。
+- [IDEA 的 AI 编程插件推荐清单，大大提升你的开发效率！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AWS 深度集成，擅长生成云服务（如 Lambda、S3）代码。插件市场直接安装，免费版够用，Pro 版支持全代码库学习。通义灵码 + CodeGeeX → 中文支持 + 免费高效。基于 ChatGP...
+- [vllm-openai多服务器集群部署AI模型](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - vllm集群部署大模型
+- [利用本地DeepSeek R1和n8n框架，创建AI智能体](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 如今，AI 越来越智能。在本地部署个人 AI 智能体，是一件意义重大的事：无需云服务和 API，就能完全自主掌控私人 AI，保障数据安全和隐私，还能个性化定制。借助n8n、Ollama和DeepSee...
+- [Obsidian·Copilot 插件配置（让AI根据Obsidian笔记内容进行对话）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Obsidian的“第三方插件”搜索Copilot。首先准备好API keys，使用的API keys（XDSDxSXR。
 
 
 ### 网络安全资讯
 
-- [基于 RAG 提升大模型安全运营效率](https://www.anquanke.com/post/id/306214) - 安全公告，详情请点击链接查看完整内容
+- [警惕！虚假通行费短信借 Lucid 平台窃取登录信息](https://www.anquanke.com/post/id/306253) - 安全公告，详情请点击链接查看完整内容
 - [JBFuzz：使用模糊测试高效破解大型语言模型](https://paper.seebug.org/3311/) - 作者：Vasudev Gohil
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html/2503.08990v1  
 摘要
 大型语言模型（LLMs）作为语言理解和决...
-- [IDC发布中国AI Agent应用市场概览，360五大领域入选领跑安全行业](https://www.4hou.com/posts/5Mg8) - 近日，全球领先的IT市场研究和咨询公司IDC发布《IDC Market Glance: 中国AI Agent应用市场概览，1Q25》 （Doc#CHC53057625，2025年3月，简称“报告”），...
+- [AI伪造邮件防不胜防？看CACTER大模型邮件安全网关如何强势破局！](https://www.4hou.com/posts/6MjR) - 当下，以DeepSeek为代表的大模型应用正成为各个领域创新的”加速器“，但同时也给邮件安全领域埋下了新的隐患。恶意攻击者利用AI技术批量生成高度仿真的钓鱼邮件和变体病毒，使传统基于规则库的邮件防御体...
 
 
 ### 技术就业趋势
 
-低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
-- [用Cursor重构Go项目，只需7步！](https://cloud.tencent.com/developer/article/2509802) - 本文主要介绍了如何使用 Cursor 辅助 Go 项目重构，旨在通过人机协作提升代码重构的效率和质量。本文通过房屋翻新的类比，详细阐述了 AI 在代码重构中的各个步骤和作用，并提供了具体的实践指南。
-- [EdgeOne Pages 上线「DeepSeek R1 模板」，1分钟快速部署对话型 AI 类网站](https://cloud.tencent.com/developer/article/2509971) - DeepSeek 凭借其强大的自然语言处理能力和智能检索功能，正逐渐成为 AI 领域的热点。腾讯云 EdgeOne Pages 正式推出 DeepSeek R1 模板，开发者仅需 1 分钟即可搭建对话...
-- [AI幻觉下，如何识别虚假信息](https://cloud.tencent.com/developer/article/2509980) - 其实目前来看，AI 在很多时候确实存在幻觉现象，尤其是在处理严谨性较强的问题时，例如数学题、编程问题等，经常会给出错误答案，甚至出现胡编乱造的情况。
+- [AI抢饭碗真相：不能只考虑发钱，人的工作还关乎尊严](https://cloud.tencent.com/developer/article/2510020) - 技术革命的每一次浪潮，都会对就业市场造成巨大的冲击波。从蒸汽机、电力，到互联网、人工智能，每一次革命性的技术进步，都在重塑社会的生产方式、产业结构和职业生态。
+- [腾讯云X一汽丰田：智能客服AI大模型独立解决率提升至84%](https://cloud.tencent.com/developer/article/2510019) - 一汽丰田汽车销售有限公司（下称“一汽丰田”）携手腾讯云，把AI智能客服的独立解决率从37%提升到了84%，远超行业平均水平。
+- [【运维自动化-标准运维】执行方案如何使用？](https://cloud.tencent.com/developer/article/2510095) - 执行方案是流程创建完之后，新建任务去执行的时候，可以新建执行方案或者选择已有的执行方案。
 
 
 ### GitHub 趋势项目
 
-- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-- [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) - This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.
-- [liam-hq/liam](https://github.com/liam-hq/liam) - Automatically generates beautiful and easy-to-read ER diagrams from your database.
-- [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal) - 🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
+- [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+- [NVIDIA-Omniverse/PhysX](https://github.com/NVIDIA-Omniverse/PhysX) - NVIDIA PhysX SDK
+- [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
 
 
 
 
 ### AI 研究论文
 
-- [Concept Lancet: Image Editing with Compositional Representation
-  Transplant](http://arxiv.org/abs/2504.02828v1) - Jinqi Luo, Tianjiao Ding, Kwan Ho Ryan Chan, Hancheng Min, Chris Callison-Burch, René Vidal
-  Diffusion models are widely used for image editing tasks. Existing editing
-methods often design a representation manipulation procedure by curating an...
+- [Bonsai: Interpretable Tree-Adaptive Grounded Reasoning](http://arxiv.org/abs/2504.03640v1) - Kate Sanders, Benjamin Van Durme
+  To develop general-purpose collaborative agents, humans need reliable AI
+systems that can (1) adapt to new domains and (2) transparently reason with
+u...
 
-- [On Vanishing Variance in Transformer Length Generalization](http://arxiv.org/abs/2504.02827v1) - Ruining Li, Gabrijel Boduljak, Jensen, Zhou
-  It is a widely known issue that Transformers, when trained on shorter
-sequences, fail to generalize robustly to longer ones at test time. This raises
-...
+- [Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling
+  Law for Reasoning](http://arxiv.org/abs/2504.03635v1) - Xinyi Wang, Shawn Tan, Mingyu Jin, William Yang Wang, Rameswar Panda, Yikang Shen
+  Large Language Models (LLMs) have demonstrated remarkable capabilities across
+a wide range of tasks requiring complex reasoning. However, the effects ...
 
-- [Do Two AI Scientists Agree?](http://arxiv.org/abs/2504.02822v1) - Xinghong Fu, Ziming Liu, Max Tegmark
-  When two AI models are trained on the same scientific task, do they learn the
-same theory or two different theories? Throughout history of science, we...
+- [Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer
+  Models](http://arxiv.org/abs/2504.03624v1) - NVIDIA, :, Aaron Blakeman, Aarti Basant, Abhinav Khattar, Adithya Renduchintala, Akhiad Bercovich, Aleksander Ficek, Alexis Bjorlin, Ali Taghibakhshi, Amala Sanjay Deshmukh, Ameya Sunil Mahabaleshwarkar, Andrew Tao, Anna Shors, Ashwath Aithal, Ashwin Poojary, Ayush Dattagupta, Balaram Buddharaju, Bobby Chen, Boris Ginsburg, Boxin Wang, Brandon Norick, Brian Butterfield, Bryan Catanzaro, Carlo del Mundo, Chengyu Dong, Christine Harvey, Christopher Parisien, Dan Su, Daniel Korzekwa, Danny Yin, Daria Gitman, David Mosallanezhad, Deepak Narayanan, Denys Fridman, Dima Rekesh, Ding Ma, Dmytro Pykhtar, Dong Ahn, Duncan Riach, Dusan Stosic, Eileen Long, Elad Segal, Ellie Evans, Eric Chung, Erick Galinkin, Evelina Bakhturina, Ewa Dobrowolska, Fei Jia, Fuxiao Liu, Gargi Prasad, Gerald Shen, Guilin Liu, Guo Chen, Haifeng Qian, Helen Ngo, Hongbin Liu, Hui Li, Igor Gitman, Ilia Karmanov, Ivan Moshkov, Izik Golan, Jan Kautz, Jane Polak Scowcroft, Jared Casper, Jarno Seppanen, Jason Lu, Jason Sewall, Jiaqi Zeng, Jiaxuan You, Jimmy Zhang, Jing Zhang, Jining Huang, Jinze Xue, Jocelyn Huang, Joey Conway, John Kamalu, Jon Barker, Jonathan Cohen, Joseph Jennings, Jupinder Parmar, Karan Sapra, Kari Briski, Kateryna Chumachenko, Katherine Luna, Keshav Santhanam, Kezhi Kong, Kirthi Sivamani, Krzysztof Pawelec, Kumar Anik, Kunlun Li, Lawrence McAfee, Leon Derczynski, Lindsey Pavao, Luis Vega, Lukas Voegtle, Maciej Bala, Maer Rodrigues de Melo, Makesh Narsimhan Sreedhar, Marcin Chochowski, Markus Kliegl, Marta Stepniewska-Dziubinska, Matthieu Le, Matvei Novikov, Mehrzad Samadi, Michael Andersch, Michael Evans, Miguel Martinez, Mike Chrzanowski, Mike Ranzinger, Mikolaj Blaz, Misha Smelyanskiy, Mohamed Fawzy, Mohammad Shoeybi, Mostofa Patwary, Nayeon Lee, Nima Tajbakhsh, Ning Xu, Oleg Rybakov, Oleksii Kuchaiev, Olivier Delalleau, Osvald Nitski, Parth Chadha, Pasha Shamis, Paulius Micikevicius, Pavlo Molchanov, Peter Dykas, Philipp Fischer, Pierre-Yves Aquilanti, Piotr Bialecki, Prasoon Varshney, Pritam Gundecha, Przemek Tredak, Rabeeh Karimi, Rahul Kandu, Ran El-Yaniv, Raviraj Joshi, Roger Waleffe, Ruoxi Zhang, Sabrina Kavanaugh, Sahil Jain, Samuel Kriman, Sangkug Lym, Sanjeev Satheesh, Saurav Muralidharan, Sean Narenthiran, Selvaraj Anandaraj, Seonmyeong Bak, Sergey Kashirsky, Seungju Han, Shantanu Acharya, Shaona Ghosh, Sharath Turuvekere Sreenivas, Sharon Clay, Shelby Thomas, Shrimai Prabhumoye, Shubham Pachori, Shubham Toshniwal, Shyamala Prayaga, Siddhartha Jain, Sirshak Das, Slawek Kierat, Somshubra Majumdar, Song Han, Soumye Singhal, Sriharsha Niverty, Stefania Alborghetti, Suseella Panguluri, Swetha Bhendigeri, Syeda Nahida Akter, Szymon Migacz, Tal Shiri, Terry Kong, Timo Roman, Tomer Ronen, Trisha Saar, Tugrul Konuk, Tuomas Rintamaki, Tyler Poon, Ushnish De, Vahid Noroozi, Varun Singh, Vijay Korthikanti, Vitaly Kurin, Wasi Uddin Ahmad, Wei Du, Wei Ping, Wenliang Dai, Wonmin Byeon, Xiaowei Ren, Yao Xu, Yejin Choi, Yian Zhang, Ying Lin, Yoshi Suhara, Zhiding Yu, Zhiqi Li, Zhiyu Li, Zhongbo Zhu, Zhuolin Yang, Zijia Chen
+  As inference-time scaling becomes critical for enhanced reasoning
+capabilities, it is increasingly becoming important to build models that are
+efficie...
 
 
 
