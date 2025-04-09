@@ -30,69 +30,69 @@
 
 MIT
 
-## 今日更新 (2025-04-08)
+## 今日更新 (2025-04-09)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- [8个最受欢迎的AI网页抓取工具](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI 网页抓取是使用基于 AI 的方法和工具从网站提取数据的自动化过程。与依赖于预定义选择器来隔离要提取的数据的传统网页抓取不同，网页抓取 AI 使用能够自我调整以处理动态网站的人工智能算法。这种方法...
-- [ChatGPT润色论文高阶技巧（附17个顶级提示词指令）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在使用ChatGPT学术写作中，润色是一个至关重要的步骤。润的好，能明显提升论文的学术标准、增强逻辑的连贯性、优化语法结构以及达到最佳的原创度。我会通过这篇文章详细介绍如何使用ChatGPT进行学术论...
-- [10分钟上手DeepSeek开发：SpringBoot + Vue2快速构建AI对话系统](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着人工智能技术的快速发展，大语言模型在企业和个人应用中扮演着越来越重要的角色。作为国产大语言模型的新秀，DeepSeek以其出色的中文理解能力和开放的API接口，为开发者提供了构建AI应用的新选择。...
-- [给 Cursor 装上这款插件，AI 编程效率提升 100%](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 如果你是一名开发者，尤其是希望在 AI 辅助开发中实现更高效率与更优代码质量的用户，千万不要错过这款插件！赶快安装「花生」插件，体验 AI 编程效率翻倍的快感吧！如对本文内容有任何疑问、建议或意见，请...
-- [Vue2+marked.js实现AI流式输出](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI流式输出前端实现。
+- [Manus要邀请码？来试试 OpenManus：纯开源AI Agent 神器+简单三步上手实战指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Manus（拉丁语"手脑并用"）作为全球首款通用型AI Agent，其核心突破在于实现了从"被动响应"到"主动执行"的跨越。与传统AI助手不同，它通过多智能体架构在云端虚拟机中运行，能自主调用浏览器、...
+- [【论文阅读-问答】人工智能生成内容增强的甲状腺结节计算机辅助诊断模型:CHATGPT风格的助手](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文提出了一个人工智能生成的内容增强计算机辅助诊断模型(artificial intelligence-generated content-enhanced computer-aided diagno...
+- [【AI】在Ubuntu中使用docker对DeepSeek的部署与使用](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - DeepSeek 工具搭建和使用
+- [【GitHub开源AI精选】Oumi：一站式AI开发平台，涵盖训练、评估与部署全流程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在人工智能飞速发展的当下，AI开发的效率和便捷性成为了开发者、研究人员以及企业关注的重点。从数据准备、模型训练到评估和部署，每一个环节都充满挑战，如何简化整个AI模型开发生命周期，是亟待解决的问题。今...
+- [解锁AIGC新时代：通义万相2.1与蓝耘智算平台的完美结合引领AI内容生成革命](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 通过结合通义万相2.1与蓝耘智算平台，企业不仅能大幅提升内容生成效率，还能在多个行业中实现AI赋能，推动营销、影视、游戏等领域的创新与进步。无论是图像生成、视频创作，还是3D内容的构建，这一强大工具都...
 
 
 ### 网络安全资讯
 
-- [Xanthorox AI 在暗网崛起，多模型架构助力黑客实现复杂攻击](https://www.anquanke.com/post/id/306283) - 安全公告，详情请点击链接查看完整内容
-- [JBFuzz：使用模糊测试高效破解大型语言模型](https://paper.seebug.org/3311/) - 作者：Vasudev Gohil
+- [Fastly 重磅升级 DDoS 防护，护航企业网络安全](https://www.anquanke.com/post/id/306321) - 安全公告，详情请点击链接查看完整内容
+- [多语言和多口音音频大型语言模型的越狱攻击](https://paper.seebug.org/3312/) - 作者：Jaechul Roh, Virat Shejwalkar, Amir Houmansadr
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2503.08990v1  
-摘要
-大型语言模型（LLMs）作为语言理解和决...
-- [E-ZPass收费系统在大规模网络钓鱼活动中频繁遭遇攻击](https://www.4hou.com/posts/0MBL) - 近期，冒充 E-ZPass 及其他收费机构的网络钓鱼活动愈演愈烈，收件人会收到多条 iMessage 和短信，企图窃取个人及信用卡信息。这些信息中嵌入了链接，一旦点击，就会将受害者带到冒充 E-ZPa...
+原文链接：https://arxiv.org/html/2504....
+- [滥用WooCommerce API的梳理工具在PyPI上下载了34000次](https://www.4hou.com/posts/l0PM) - 一个新发现的名为“disgrasya”的恶意PyPi包，滥用合法的WooCommerce商店来验证被盗的信用卡，已从开源包平台下载超过34,000次。该脚本专门针对使用CyberSource支付网关的...
 
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
 
 ### 科技热点
 
-- [腾讯云X一汽丰田：智能客服AI大模型独立解决率提升至84%](https://cloud.tencent.com/developer/article/2510019) - 一汽丰田汽车销售有限公司（下称“一汽丰田”）携手腾讯云，把AI智能客服的独立解决率从37%提升到了84%，远超行业平均水平。
-- [【运维自动化-标准运维】执行方案如何使用？](https://cloud.tencent.com/developer/article/2510095) - 执行方案是流程创建完之后，新建任务去执行的时候，可以新建执行方案或者选择已有的执行方案。
-- [当漏洞攻击遇上腾讯混元超能力：EdgeOne 的 Web 安全赛博决斗](https://cloud.tencent.com/developer/article/2510080) - 《腾讯云 2024 年 DDoS 与应用安全威胁趋势报告》显示，利用漏洞和应用弱点的攻击手段愈发多样化和复杂化，2024 年高危漏洞攻击总量超过 17 亿次，面对这一严峻挑战，我们应该如何应对？接下来...
+- [腾讯云 AI 存储解决方案持续升级，为 AI 全业务场景提供全面支持](https://cloud.tencent.com/developer/article/2510338) - 其中，GooseFS 2.0为 AI 场景深度优化，提供 GBps 单链接性能，数据访问性能逼近硬件资源极限；文件存储 CFS Turbo 打通多云数据形成端到端的解决方案，提升 AI 场景运转效率；...
+- [「腾讯混元大模型应用实战课程」上线国家智慧教育平台](https://cloud.tencent.com/developer/article/2510335) - 由腾讯打造的“腾讯混元大模型应用实战课程”，已正式上线国家智慧教育平台，为全国高校师生带来覆盖大模型技术通识到AI工具实用技能的系列课程，助力高校师生规范、高效使用大模型，加速教育教学及科研创新。
+- [只是文档灌Dify？RAG发展一篇文就入门！](https://cloud.tencent.com/developer/article/2510343) - RAG，全称检索增强生成（Retrieval-Augmented Generation），作为当前 AI 应用中常见的辅助方法，有效提升了 LLM 输出的准确性和可靠性。但总有人戏言，RAG 不过是“...
 
 
 ### GitHub 趋势项目
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
-- [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
-- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes🔥
 
 
 
 
 ### AI 研究论文
 
-- [URECA: Unique Region Caption Anything](http://arxiv.org/abs/2504.05305v1) - Sangbeom Lim, Junwan Kim, Heeji Yoon, Jaewoo Jung, Seungryong Kim
-  Region-level captioning aims to generate natural language descriptions for
-specific image regions while highlighting their distinguishing features.
-Ho...
+- [GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning
+  through Bayesian Optimization](http://arxiv.org/abs/2504.06265v1) - Bojana Ranković, Philippe Schwaller
+  Large Language Models (LLMs) can encode complex relationships in their latent
+spaces, yet harnessing them for optimization under uncertainty remains
+c...
 
-- [SmolVLM: Redefining small and efficient multimodal models](http://arxiv.org/abs/2504.05299v1) - Andrés Marafioti, Orr Zohar, Miquel Farré, Merve Noyan, Elie Bakouch, Pedro Cuenca, Cyril Zakka, Loubna Ben Allal, Anton Lozhkov, Nouamane Tazi, Vaibhav Srivastav, Joshua Lochner, Hugo Larcher, Mathieu Morlon, Lewis Tunstall, Leandro von Werra, Thomas Wolf
-  Large Vision-Language Models (VLMs) deliver exceptional performance but
-require significant computational resources, limiting their deployment on
-mobi...
+- [FEABench: Evaluating Language Models on Multiphysics Reasoning Ability](http://arxiv.org/abs/2504.06260v1) - Nayantara Mudur, Hao Cui, Subhashini Venugopalan, Paul Raccuglia, Michael P. Brenner, Peter Norgaard
+  Building precise simulations of the real world and invoking numerical solvers
+to answer quantitative problems is an essential requirement in engineeri...
 
-- [Dion: A Communication-Efficient Optimizer for Large Models](http://arxiv.org/abs/2504.05295v1) - Kwangjun Ahn, Byron Xu
-  Training large AI models efficiently requires distributing computation across
-multiple accelerators, but this often incurs significant communication o...
+- [Decentralized Federated Domain Generalization with Style Sharing: A
+  Formal Modeling and Convergence Analysis](http://arxiv.org/abs/2504.06235v1) - Shahryar Zehtabi, Dong-Jun Han, Seyyedali Hosseinalipour, Christopher G. Brinton
+  Much of the federated learning (FL) literature focuses on settings where
+local dataset statistics remain the same between training and testing time.
+R...
 
 
 
