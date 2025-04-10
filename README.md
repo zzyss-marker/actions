@@ -30,69 +30,67 @@
 
 MIT
 
-## 今日更新 (2025-04-09)
+## 今日更新 (2025-04-10)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- [Manus要邀请码？来试试 OpenManus：纯开源AI Agent 神器+简单三步上手实战指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Manus（拉丁语"手脑并用"）作为全球首款通用型AI Agent，其核心突破在于实现了从"被动响应"到"主动执行"的跨越。与传统AI助手不同，它通过多智能体架构在云端虚拟机中运行，能自主调用浏览器、...
-- [【论文阅读-问答】人工智能生成内容增强的甲状腺结节计算机辅助诊断模型:CHATGPT风格的助手](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文提出了一个人工智能生成的内容增强计算机辅助诊断模型(artificial intelligence-generated content-enhanced computer-aided diagno...
-- [【AI】在Ubuntu中使用docker对DeepSeek的部署与使用](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - DeepSeek 工具搭建和使用
-- [【GitHub开源AI精选】Oumi：一站式AI开发平台，涵盖训练、评估与部署全流程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在人工智能飞速发展的当下，AI开发的效率和便捷性成为了开发者、研究人员以及企业关注的重点。从数据准备、模型训练到评估和部署，每一个环节都充满挑战，如何简化整个AI模型开发生命周期，是亟待解决的问题。今...
-- [解锁AIGC新时代：通义万相2.1与蓝耘智算平台的完美结合引领AI内容生成革命](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 通过结合通义万相2.1与蓝耘智算平台，企业不仅能大幅提升内容生成效率，还能在多个行业中实现AI赋能，推动营销、影视、游戏等领域的创新与进步。无论是图像生成、视频创作，还是3D内容的构建，这一强大工具都...
+- [Java程序员的AI之LangChain4j（二）从零到企业级AI开发](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文主要让你更加的掌握LangChain4J，举例子，以及源代码，学习了什么是AiService以及基本应用，制作了一个用户可以指定字数和标题的作家应用，同时还研究了AiService的基本工作原理和...
+- [GPT-SoVITS 一键整合包- AIStarter启动器专属](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - GPT-SoVITS 一键整合包下载地址：更多分流下载地址百度网盘链接：提取码：d7xz。
+- [办公AI推荐：阅读总结视频翻译文档文章等—包阅AI](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 包阅AI作为一款智能内容分析工具，正在改变我们获取和处理信息的方式。提高了学习和工作效率，还为用户提供了更深入、更全面的内容理解。在信息过载的时代，帮助我们在海量信息中快速找到所需的知识精华。
+- [搭建自己的专属AI——使用Ollama+AnythingLLM+Python实现DeepSeek本地部署](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 最近DeepSeek模型非常火，其通过对大模型的蒸馏得到的小模型可以较轻松地在个人电脑上运行，这也使得我们有机会在本地构建一个专属于自己的AI，进而把AI“调教”为我们希望的样子。本篇文章中我将介绍如...
+- [2024电赛——OPENMV识别三子棋棋盘与黑白棋识别思路（包含获胜判断，AI下棋，串口通信）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 首先识别棋盘，然后进行识别黑白棋子。然后创建一个三维数组，通过三维数组进行记录棋盘当前状态。board = [3][3]# 初始化棋盘状态，0表示空格，1表示黑子，2表示白子2.识别棋盘并且防止后期光...
 
 
 ### 网络安全资讯
 
-- [Fastly 重磅升级 DDoS 防护，护航企业网络安全](https://www.anquanke.com/post/id/306321) - 安全公告，详情请点击链接查看完整内容
 - [多语言和多口音音频大型语言模型的越狱攻击](https://paper.seebug.org/3312/) - 作者：Jaechul Roh, Virat Shejwalkar, Amir Houmansadr
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html/2504....
-- [滥用WooCommerce API的梳理工具在PyPI上下载了34000次](https://www.4hou.com/posts/l0PM) - 一个新发现的名为“disgrasya”的恶意PyPi包，滥用合法的WooCommerce商店来验证被盗的信用卡，已从开源包平台下载超过34,000次。该脚本专门针对使用CyberSource支付网关的...
+- [守护核心数据安全，CACTER EDLP助力某机械制造企业筑牢邮件防泄密防线](https://www.4hou.com/posts/rp6p) - Forrester研究报告显示，高尖技术行业因数据泄露造成的损失就超过20亿美元，而邮件泄密占比高达63%。邮件作为企业核心通信工具，承载的已不仅是信息传递功能，更成为了商业机密的“生命线”。在这个全...
+- [DeepSeek-671B纯CPU部署经验分享(一)](https://xlab.tencent.com/cn/2025/03/16/DeepSeek-671B%E7%BA%AFCPU%E9%83%A8%E7%BD%B2%E5%AE%9E%E8%B7%B5%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB(%E4%B8%80)/) - 
+私有化部署大模型能够有效保护数据隐私、便于开展大模型安全研究和知识蒸馏。目前主流部署方式包括纯 GPU、CPU/GPU 混合以及纯 CPU 三种部署方式。本文介绍了我们针对 DeepSeek 大模型...
 
 
 ### 技术就业趋势
 
-云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
+远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
 
 ### 科技热点
 
-- [腾讯云 AI 存储解决方案持续升级，为 AI 全业务场景提供全面支持](https://cloud.tencent.com/developer/article/2510338) - 其中，GooseFS 2.0为 AI 场景深度优化，提供 GBps 单链接性能，数据访问性能逼近硬件资源极限；文件存储 CFS Turbo 打通多云数据形成端到端的解决方案，提升 AI 场景运转效率；...
-- [「腾讯混元大模型应用实战课程」上线国家智慧教育平台](https://cloud.tencent.com/developer/article/2510335) - 由腾讯打造的“腾讯混元大模型应用实战课程”，已正式上线国家智慧教育平台，为全国高校师生带来覆盖大模型技术通识到AI工具实用技能的系列课程，助力高校师生规范、高效使用大模型，加速教育教学及科研创新。
-- [只是文档灌Dify？RAG发展一篇文就入门！](https://cloud.tencent.com/developer/article/2510343) - RAG，全称检索增强生成（Retrieval-Augmented Generation），作为当前 AI 应用中常见的辅助方法，有效提升了 LLM 输出的准确性和可靠性。但总有人戏言，RAG 不过是“...
+- [​Kotlin 核心概念解析：前端开发者必读](https://cloud.tencent.com/developer/article/2512422) - Kotlin 的 Lambda 表达式语法更简洁，且天然支持高阶函数（以函数为参数或返回值的函数）：
+- [活动预告｜OpenTenBase 城市行杭州站诚邀您参加](https://cloud.tencent.com/developer/article/2512491) - 在数字化转型浪潮下，开源技术成为驱动创新的核心力量。OpenTenBase 作为开放原子开源基金会重点孵化的分布式数据库项目，正以高性能、高可用、高扩展性的技术优势，重塑企业级数据基础设施。
+- [诚邀报名 | OpenCloudOS城市行上海站：OS为基，AI为翼，驱动产业革新](https://cloud.tencent.com/developer/article/2512493) - 4 月 19 日（周六）14:00 - 17:30，OpenCloudOS 社区联合腾讯云，携手 AMD、沐曦、雾帜智能、合合信息等 AI 行业领军者，齐聚上海机遇星球举办 “OC 城市行・上海站” ...
 
 
 ### GitHub 趋势项目
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes🔥
+- [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 
 
 
 
 ### AI 研究论文
 
-- [GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning
-  through Bayesian Optimization](http://arxiv.org/abs/2504.06265v1) - Bojana Ranković, Philippe Schwaller
-  Large Language Models (LLMs) can encode complex relationships in their latent
-spaces, yet harnessing them for optimization under uncertainty remains
-c...
+- [Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual
+  Learning](http://arxiv.org/abs/2504.07097v1) - Nikhil Shivakumar Nayak, Krishnateja Killamsetty, Ligong Han, Abhishek Bhandwaldar, Prateek Chanda, Kai Xu, Hao Wang, Aldo Pareja, Oleg Silkin, Mustafa Eyceoz, Akash Srivastava
+  Continual learning in large language models (LLMs) is prone to catastrophic
+forgetting, where adapting to new tasks significantly degrades performance...
 
-- [FEABench: Evaluating Language Models on Multiphysics Reasoning Ability](http://arxiv.org/abs/2504.06260v1) - Nayantara Mudur, Hao Cui, Subhashini Venugopalan, Paul Raccuglia, Michael P. Brenner, Peter Norgaard
-  Building precise simulations of the real world and invoking numerical solvers
-to answer quantitative problems is an essential requirement in engineeri...
+- [Are We Done with Object-Centric Learning?](http://arxiv.org/abs/2504.07092v1) - Alexander Rubinstein, Ameya Prabhu, Matthias Bethge, Seong Joon Oh
+  Object-centric learning (OCL) seeks to learn representations that only encode
+an object, isolated from other objects or background cues in a scene. Th...
 
-- [Decentralized Federated Domain Generalization with Style Sharing: A
-  Formal Modeling and Convergence Analysis](http://arxiv.org/abs/2504.06235v1) - Shahryar Zehtabi, Dong-Jun Han, Seyyedali Hosseinalipour, Christopher G. Brinton
-  Much of the federated learning (FL) literature focuses on settings where
-local dataset statistics remain the same between training and testing time.
-R...
+- [AssistanceZero: Scalably Solving Assistance Games](http://arxiv.org/abs/2504.07091v1) - Cassidy Laidlaw, Eli Bronstein, Timothy Guo, Dylan Feng, Lukas Berglund, Justin Svegliato, Stuart Russell, Anca Dragan
+  Assistance games are a promising alternative to reinforcement learning from
+human feedback (RLHF) for training AI assistants. Assistance games resolve...
 
 
 
