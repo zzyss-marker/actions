@@ -30,67 +30,71 @@
 
 MIT
 
-## 今日更新 (2025-04-10)
+## 今日更新 (2025-04-11)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- [Java程序员的AI之LangChain4j（二）从零到企业级AI开发](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文主要让你更加的掌握LangChain4J，举例子，以及源代码，学习了什么是AiService以及基本应用，制作了一个用户可以指定字数和标题的作家应用，同时还研究了AiService的基本工作原理和...
-- [GPT-SoVITS 一键整合包- AIStarter启动器专属](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - GPT-SoVITS 一键整合包下载地址：更多分流下载地址百度网盘链接：提取码：d7xz。
-- [办公AI推荐：阅读总结视频翻译文档文章等—包阅AI](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 包阅AI作为一款智能内容分析工具，正在改变我们获取和处理信息的方式。提高了学习和工作效率，还为用户提供了更深入、更全面的内容理解。在信息过载的时代，帮助我们在海量信息中快速找到所需的知识精华。
-- [搭建自己的专属AI——使用Ollama+AnythingLLM+Python实现DeepSeek本地部署](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 最近DeepSeek模型非常火，其通过对大模型的蒸馏得到的小模型可以较轻松地在个人电脑上运行，这也使得我们有机会在本地构建一个专属于自己的AI，进而把AI“调教”为我们希望的样子。本篇文章中我将介绍如...
-- [2024电赛——OPENMV识别三子棋棋盘与黑白棋识别思路（包含获胜判断，AI下棋，串口通信）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 首先识别棋盘，然后进行识别黑白棋子。然后创建一个三维数组，通过三维数组进行记录棋盘当前状态。board = [3][3]# 初始化棋盘状态，0表示空格，1表示黑子，2表示白子2.识别棋盘并且防止后期光...
+- [idea超级AI插件，让 AI 为 Java 工程师](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 用户可在界面中直接通过输入自然语言的形式描述接口的需求，系统通过输入的需求自动分析关键的功能点有哪些，并对不确定方案的需求提供多种选择，以及对需求上下文进行补充，用户修改确定需求后，系统会根据需求设计...
+- [【机器学习】探究DQN通过训练来解决AI序列决策问题](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - DQN属于DRL（深度强化学习）的一种，它是深度学习与Q学习的结合体。使用 Q-learning 因为采用S-A表格的局限性，当状态和行为的组合不可穷尽时，就无法通过查表的方式选取最优的Action了...
+- [十分钟用DeepSeek v3快速搭建企业级本地私有知识库（保姆级教程），AI终于私有化了！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 2024年底，DeepSeek发布了新一代大语言模型V3，同时宣布。测试结果显示，它的多项评测成绩超越了一些主流开源模型，并且还具有成本优势。DeepSeek官网地址：https://www.deep...
+- [动态路由机制MoE专家库架构在多医疗AI专家协同会诊中的应用探析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着医疗人工智能技术的飞速进步，AI在医学领域的应用日益增多，尤其是在复杂疾病的诊断和治疗中，AI技术的应用带来了巨大的潜力。特别是动态路由机制混合专家（Mixture of Experts，MoE）...
+- [谷歌AI Studio的桌面、移动端app，来了！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 谷歌AI Studio的桌面、移动端app，来了！
 
 
 ### 网络安全资讯
 
-- [多语言和多口音音频大型语言模型的越狱攻击](https://paper.seebug.org/3312/) - 作者：Jaechul Roh, Virat Shejwalkar, Amir Houmansadr
-译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2504....
-- [守护核心数据安全，CACTER EDLP助力某机械制造企业筑牢邮件防泄密防线](https://www.4hou.com/posts/rp6p) - Forrester研究报告显示，高尖技术行业因数据泄露造成的损失就超过20亿美元，而邮件泄密占比高达63%。邮件作为企业核心通信工具，承载的已不仅是信息传递功能，更成为了商业机密的“生命线”。在这个全...
-- [DeepSeek-671B纯CPU部署经验分享(一)](https://xlab.tencent.com/cn/2025/03/16/DeepSeek-671B%E7%BA%AFCPU%E9%83%A8%E7%BD%B2%E5%AE%9E%E8%B7%B5%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB(%E4%B8%80)/) - 
-私有化部署大模型能够有效保护数据隐私、便于开展大模型安全研究和知识蒸馏。目前主流部署方式包括纯 GPU、CPU/GPU 混合以及纯 CPU 三种部署方式。本文介绍了我们针对 DeepSeek 大模型...
+- [邮件攻击再升级：Microsoft  Office 365 用户面临凭据窃取与恶意软件双重危机](https://www.anquanke.com/post/id/306488) - 安全公告，详情请点击链接查看完整内容
+- [Attack Upgraded: Disclosure of DarkHotel Organization's Latest RPC Attack Components](https://paper.seebug.org/3315/) - Author：Knownsec 404 Advanced Threat Intelligence team
+中文版：https://paper.seebug.org/3314
+1.1 Backgrou...
+- [Next.js 中的严重漏洞可让黑客绕过授权](https://www.4hou.com/posts/pnqV) - 在 Next.js 这个开源的 Web 开发框架中，发现了一个严重漏洞，攻击者有可能借此绕过授权检查。该漏洞编号为 CVE-2025-29927，攻击者利用此漏洞，无需经过关键的安全检查，就能发送请求...
 
 
 ### 技术就业趋势
 
-远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
+量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
 
 ### 科技热点
 
-- [​Kotlin 核心概念解析：前端开发者必读](https://cloud.tencent.com/developer/article/2512422) - Kotlin 的 Lambda 表达式语法更简洁，且天然支持高阶函数（以函数为参数或返回值的函数）：
-- [活动预告｜OpenTenBase 城市行杭州站诚邀您参加](https://cloud.tencent.com/developer/article/2512491) - 在数字化转型浪潮下，开源技术成为驱动创新的核心力量。OpenTenBase 作为开放原子开源基金会重点孵化的分布式数据库项目，正以高性能、高可用、高扩展性的技术优势，重塑企业级数据基础设施。
-- [诚邀报名 | OpenCloudOS城市行上海站：OS为基，AI为翼，驱动产业革新](https://cloud.tencent.com/developer/article/2512493) - 4 月 19 日（周六）14:00 - 17:30，OpenCloudOS 社区联合腾讯云，携手 AMD、沐曦、雾帜智能、合合信息等 AI 行业领军者，齐聚上海机遇星球举办 “OC 城市行・上海站” ...
+- [AI时代的教育之问Ⅵ：应用生态](https://cloud.tencent.com/developer/article/2512756) - 教育系统作为社会系统的一个关键子系统，在人工智能技术的驱动下，教育现象变得日益错综复杂，教育动因更加难以解析，教育风险也愈发难以预见。为了有效应对人工智能技术对教育系统的挑战与机遇，必须进行跨学科、跨...
+- [支付系统设计入门：核心账户体系架构](https://cloud.tencent.com/developer/article/2512782) - 支付平台为客户提供了资金流转以及结算等服务，必须建立自己独立的账户体系，以此来保证每个客户资金的准确性以及资金变动的可追溯性，这套账户体系在支付平台中成为“核心”，整体类似于银行的账户核心，但会比银行...
+- [腾讯云TVP AI与安全高峰论坛圆满落幕，共探大模型时代的安全破局之道](https://cloud.tencent.com/developer/article/2512781) - DeepSeek 的横空出世，标志中国在人工智能领域的重大技术突破，吸引全球的关注。与此同时，飞速发展的人工智能技术为安全行业带来新的思考题：如何利用 AI 赋能安全攻防，如何确保 AI 技术本身的安...
 
 
 ### GitHub 趋势项目
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
-- [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
-- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
-- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+- [girafe-ai/ml-course](https://github.com/girafe-ai/ml-course) - Open Machine Learning course
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
 
 
 
 
 ### AI 研究论文
 
-- [Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual
-  Learning](http://arxiv.org/abs/2504.07097v1) - Nikhil Shivakumar Nayak, Krishnateja Killamsetty, Ligong Han, Abhishek Bhandwaldar, Prateek Chanda, Kai Xu, Hao Wang, Aldo Pareja, Oleg Silkin, Mustafa Eyceoz, Akash Srivastava
-  Continual learning in large language models (LLMs) is prone to catastrophic
-forgetting, where adapting to new tasks significantly degrades performance...
+- [VCR-Bench: A Comprehensive Evaluation Framework for Video
+  Chain-of-Thought Reasoning](http://arxiv.org/abs/2504.07956v1) - Yukun Qi, Yiming Zhao, Yu Zeng, Xikun Bao, Wenxuan Huang, Lin Chen, Zehui Chen, Jie Zhao, Zhongang Qi, Feng Zhao
+  The advancement of Chain-of-Thought (CoT) reasoning has significantly
+enhanced the capabilities of large language models (LLMs) and large
+vision-langu...
 
-- [Are We Done with Object-Centric Learning?](http://arxiv.org/abs/2504.07092v1) - Alexander Rubinstein, Ameya Prabhu, Matthias Bethge, Seong Joon Oh
-  Object-centric learning (OCL) seeks to learn representations that only encode
-an object, isolated from other objects or background cues in a scene. Th...
+- [GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions
+  from Realistic Diffusion-based Faces](http://arxiv.org/abs/2504.07945v1) - Hao Yu, Rupayan Mallick, Margrit Betke, Sarah Adel Bargal
+  Cartoon avatars have been widely used in various applications, including
+social media, online tutoring, and gaming. However, existing cartoon avatar
+d...
 
-- [AssistanceZero: Scalably Solving Assistance Games](http://arxiv.org/abs/2504.07091v1) - Cassidy Laidlaw, Eli Bronstein, Timothy Guo, Dylan Feng, Lukas Berglund, Justin Svegliato, Stuart Russell, Anca Dragan
-  Assistance games are a promising alternative to reinforcement learning from
-human feedback (RLHF) for training AI assistants. Assistance games resolve...
+- [We Are All Creators: Generative AI, Collective Knowledge, and the Path
+  Towards Human-AI Synergy](http://arxiv.org/abs/2504.07936v1) - Jordi Linares-Pellicer, Juan Izquierdo-Domenech, Isabel Ferri-Molla, Carlos Aliaga-Torro
+  Generative AI presents a profound challenge to traditional notions of human
+uniqueness, particularly in creativity. Fueled by neural network based
+fou...
 
 
 
