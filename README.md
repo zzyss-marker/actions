@@ -30,11 +30,11 @@
 
 MIT
 
-## 今日更新 (2025-04-13)
+## 今日更新 (2025-04-14)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
@@ -43,16 +43,16 @@ MIT
 
 ### 网络安全资讯
 
-- [邮件攻击再升级：Microsoft  Office 365 用户面临凭据窃取与恶意软件双重危机](https://www.anquanke.com/post/id/306488) - 安全公告，详情请点击链接查看完整内容
+- [ingress-nightmare 漏洞利用分析与 k8s 相关组件理解](https://www.anquanke.com/post/id/306494) - 安全公告，详情请点击链接查看完整内容
 - [Attack Upgraded: Disclosure of DarkHotel Organization's Latest RPC Attack Components](https://paper.seebug.org/3315/) - Author：Knownsec 404 Advanced Threat Intelligence team
 中文版：https://paper.seebug.org/3314
 1.1 Backgrou...
-- [央视报道！“鉴真”亮相CCTV-13，助力“人脸”保卫战](https://www.4hou.com/posts/xymB) - 关于刷脸或者人脸识别，长久以来有不小的争议。对于这样的争议，近日，国家网信办、公安部联合公布的《人脸识别技术应用安全管理办法》给出了答案。而为了保护这张脸，新规还不止一个，针对AI换脸造假视频层出不穷...
+- [EncryptHub的双重生活：网络罪犯与Windows漏洞赏金研究人员](https://www.4hou.com/posts/kgP6) - 据悉，臭名昭著的威胁分子EncryptHub向微软报告了两个Windows零日漏洞，揭示了介于网络犯罪和安全研究之间的矛盾人物。报告的漏洞是CVE-2025-24061 （Web绕过标记）和CVE-2...
 
 
 ### 技术就业趋势
 
-可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
@@ -62,33 +62,28 @@ MIT
 ### GitHub 趋势项目
 
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+- [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
+- [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
-- [GuijiAI/HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai) - No description
-- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 
 
 
 
 ### AI 研究论文
 
-- [VCR-Bench: A Comprehensive Evaluation Framework for Video
-  Chain-of-Thought Reasoning](http://arxiv.org/abs/2504.07956v1) - Yukun Qi, Yiming Zhao, Yu Zeng, Xikun Bao, Wenxuan Huang, Lin Chen, Zehui Chen, Jie Zhao, Zhongang Qi, Feng Zhao
-  The advancement of Chain-of-Thought (CoT) reasoning has significantly
-enhanced the capabilities of large language models (LLMs) and large
-vision-langu...
+- [Towards an Understanding of Context Utilization in Code Intelligence](http://arxiv.org/abs/2504.08734v1) - Yanlin Wang, Kefeng Duan, Dewu Zheng, Ensheng Shi, Fengji Zhang, Yanli Wang, Jiachi Chen, Xilin Liu, Yuchi Ma, Hongyu Zhang, Qianxiang Wang, Zibin Zheng
+  Code intelligence is an emerging domain in software engineering, aiming to
+improve the effectiveness and efficiency of various code-related tasks. Rec...
 
-- [GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions
-  from Realistic Diffusion-based Faces](http://arxiv.org/abs/2504.07945v1) - Hao Yu, Rupayan Mallick, Margrit Betke, Sarah Adel Bargal
-  Cartoon avatars have been widely used in various applications, including
-social media, online tutoring, and gaming. However, existing cartoon avatar
-d...
+- [Steering CLIP's vision transformer with sparse autoencoders](http://arxiv.org/abs/2504.08729v1) - Sonia Joseph, Praneet Suresh, Ethan Goldfarb, Lorenz Hufe, Yossi Gandelsman, Robert Graham, Danilo Bzdok, Wojciech Samek, Blake Aaron Richards
+  While vision models are highly capable, their internal mechanisms remain
+poorly understood -- a challenge which sparse autoencoders (SAEs) have helped...
 
-- [We Are All Creators: Generative AI, Collective Knowledge, and the Path
-  Towards Human-AI Synergy](http://arxiv.org/abs/2504.07936v1) - Jordi Linares-Pellicer, Juan Izquierdo-Domenech, Isabel Ferri-Molla, Carlos Aliaga-Torro
-  Generative AI presents a profound challenge to traditional notions of human
-uniqueness, particularly in creativity. Fueled by neural network based
-fou...
+- [Visual Chronicles: Using Multimodal LLMs to Analyze Massive Collections
+  of Images](http://arxiv.org/abs/2504.08727v1) - Boyang Deng, Songyou Peng, Kyle Genova, Gordon Wetzstein, Noah Snavely, Leonidas Guibas, Thomas Funkhouser
+  We present a system using Multimodal LLMs (MLLMs) to analyze a large database
+with tens of millions of images captured at different times, with the ai...
 
 
 
