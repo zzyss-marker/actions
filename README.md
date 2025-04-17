@@ -30,7 +30,7 @@
 
 MIT
 
-## 今日更新 (2025-04-16)
+## 今日更新 (2025-04-17)
 
 ### 今日名言
 
@@ -38,60 +38,62 @@ MIT
 
 ### AI 技术动态
 
-- [国内人工智能AI头部公司32家（包括详细技术、特点和综合实力）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 特点：百度以搜索引擎起家，逐渐将AI技术应用于搜索、自动驾驶、智能硬件等多个领域，形成了完整的AI生态体系。特点：滴滴AI通过大数据和机器学习等技术，优化了出行服务的调度和匹配效率，提升了用户的出行体...
-- [深度探索AI | 智算云平台与DeepSeek 的多元联动应用与模型微调全解析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 深度探索AI | DeepSeek 的多元联动应用与模型微调全解析，DeepSeek 作为一款在人工智能领域具有显著影响力的模型，其应用场景不断拓展，与其他领域的联动日益紧密。同时，模型微调作为提升模...
-- [IDEA几大常用AI插件](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 最近AI、GPT特别火，IDEA里面又有一堆插件支持GPT，所以做个专题比较一下各个GPT插件。
-- [挑战用AI替代我的工作——从抢券困境到技术突破](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 不同的自动化工具具有不同的功能和优势，要根据具体需求选择最适合的工具。影刀的AI功能为连点器的实现提供了强大的支持。
-- [五大法宝：让AI生成的SQL查询更准确](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - NL2SQL方案面临数据查询准确性问题，影响企业应用。提高准确性的方法包括：确保大模型具备必要背景知识、使用少样本提示、应用RAG技术、通过用户反馈微调模型，使用专有大语言模型。这些方法可提升SQL生...
+- [【Qwen2微调实战】LLaMA-Factory框架对Qwen2-7B模型的微调实践](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在人工智能的浪潮中，大型语言模型（LLMs）正逐渐成为研究和应用的热点。它们在自然语言处理（NLP）的各个领域，如文本生成、翻译、问答等任务中展现出了卓越的能力。Qwen2-7B模型，作为该领域的佼佼...
+- [Vue3+TypeScript完美实现AntVX6官方人工智能建模 DAG 图](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 简述：本文通过理解官方文档进行编写，实现官方的示例效果。实现结果如下：代码解析：代码解释为onMounted初始化页面顺序进行讲解。
+- [零基础用AI—秘塔AI搜索入门指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 秘塔AI搜索是一款由上海秘塔网络科技有限公司开发的智能搜索引擎，基于大语言模型和自然语言处理技术，专注于提升中文用户的搜索效率与体验。它通过AI技术实现语义理解、问题分析和信息整合，能自动生成结构化结...
+- [Trae 与 MarsCode 均为字节跳动旗下的 AI 编程工具，二者的核心区别](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 专注代码质量优化，依附于开发者熟悉的 IDE 工具。二者形成 “平台化” 与 “插件化” 的互补生态，分别满足不同开发场景的需求。，提供从需求到代码的全链路智能开发环境；MarsCode 是。
+- [探索Maas平台与阿里 QWQ 技术：AI调参的魔法世界](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文介绍了蓝耘 Maas 平台在人工智能领域的表现及其核心优势，包括强大的模型支持、高效的资源调度和友好的操作界面。文章还探讨了蓝耘 Maas 平台与阿里 QWQ 技术的融合亮点及应用拓展实例，并提供...
 
 
 ### 网络安全资讯
 
-- [DarkHotel APT 组织复杂网络攻击背后的技术演进与目标拓展](https://www.anquanke.com/post/id/306601) - 安全公告，详情请点击链接查看完整内容
+- [Cyware 威胁情报管理重磅升级，受损凭据管理强势助力安全防护](https://www.anquanke.com/post/id/306647) - 安全公告，详情请点击链接查看完整内容
 - [Attack Upgraded: Disclosure of DarkHotel Organization's Latest RPC Attack Components](https://paper.seebug.org/3315/) - Author：Knownsec 404 Advanced Threat Intelligence team
 中文版：https://paper.seebug.org/3314
 1.1 Backgrou...
-- [城市侧网络安保中的高频事件案例分析](https://www.4hou.com/posts/NGRv) - 1 概述黑龙江省重大活动期间，安天作为城市侧网络安全保障的总体技术支撑单位，支撑省市两级主管部门，部署流量、蜜罐探针数百套、终端和服务器安全防护数万套，开放垂直响应、在线威胁分析、安全DNS多种服务。...
+- [合规升级新挑战 | 梆梆安全以 “场景识别+隐私检测” 筑牢企业个人信息保护体系](https://www.4hou.com/posts/YZR2) - 当今移动互联网快速发展，数字经济时代加速推进，据CNNIC统计，截至2024年我国网民规模达11.08亿，其中手机网民规模达11.05亿，占比高达99.7%，我国以手机网民为核心的移动互联网生态已成为...
 
 
 ### 技术就业趋势
 
-云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
+软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
 
 ### 科技热点
 
-- [智能专业“不费妈”，腾讯云音视频AI实时对话助力伴鱼智学打造“真人1v1”教学体验](https://cloud.tencent.com/developer/article/2513047) - 在这样的大背景下，伴鱼智学最近与腾讯云达成深度合作，借助“腾讯混元+DeepSeek”双模能力及自身纳米级的知识体系，结合腾讯云实时音视频AI实时对话方案，持续升级AI私教能力，实现全场景、个性化精准...
-- [“破解”GPT-4o生图技术：万物皆可吉卜力的技术路线推测](https://cloud.tencent.com/developer/article/2513051) - 最近 GPT-4o 生图模型横空出世，效果和玩法上都有突破性的进展，笔者整理了一下目前相关的技术，抛砖引玉一下，希望有更多大神分享讨论。
-- [从Oracle迁移到TDSQL如何做兼容性评估？这份指南帮你轻松搞定](https://cloud.tencent.com/developer/article/2513042) - 近年来，在国产化替代政策的推动下，越来越多的企业开始探索将Oracle等国外数据库替换为国产分布式数据库。腾讯云TDSQL凭借其高兼容性、金融级高可用和弹性扩展能力，成为热门选择。
+- [Flutter实现不依赖Firebase的多平台的Google登录](https://cloud.tencent.com/developer/article/2513060) - 官网：https://console.cloud.google.com/apis/credentials
+- [腾讯游戏云：用量规模+收入增速，双料第一！](https://cloud.tencent.com/developer/article/2513197) - 刚刚，国际权威机构IDC发布《中国游戏云市场跟踪研究，2024H2》报告。报告显示，腾讯游戏云：
+- [5000字长文带你看懂，Agent世界里的A2A、MCP协议到底是个啥。](https://cloud.tencent.com/developer/article/2513160) - 昨天晚上，Google发了一个关于Agent的新开放协议。
+叫Agent2Agent，简称A2A。
+📷
+包括昨天阿里云百炼也官宣搞MCP了。
+这些本来没打算写
 
 
 ### GitHub 趋势项目
 
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
-- [svcvit/Awesome-Dify-Workflow](https://github.com/svcvit/Awesome-Dify-Workflow) - 分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+- [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
-- [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
-- [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
 
 
 
 
 ### AI 研究论文
 
-- [DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and
-  Verifiable Mathematical Dataset for Advancing Reasoning](http://arxiv.org/abs/2504.11456v1) - Zhiwei He, Tian Liang, Jiahao Xu, Qiuzhi Liu, Xingyu Chen, Yue Wang, Linfeng Song, Dian Yu, Zhenwen Liang, Wenxuan Wang, Zhuosheng Zhang, Rui Wang, Zhaopeng Tu, Haitao Mi, Dong Yu
-  The capacity for complex mathematical reasoning is a key benchmark for
-artificial intelligence. While reinforcement learning (RL) applied to LLMs
-show...
+- [Adapting a World Model for Trajectory Following in a 3D Game](http://arxiv.org/abs/2504.12299v1) - Marko Tot, Shu Ishida, Abdelhak Lemkhenter, David Bignell, Pallavi Choudhury, Chris Lovett, Luis França, Matheus Ribeiro Furtado de Mendonça, Tarun Gupta, Darren Gehring, Sam Devlin, Sergio Valcarcel Macua, Raluca Georgescu
+  Imitation learning is a powerful tool for training agents by leveraging
+expert knowledge, and being able to replicate a given trajectory is an integra...
 
-- [Elucidating the Design Space of Multimodal Protein Language Models](http://arxiv.org/abs/2504.11454v1) - Cheng-Yen, Hsieh, Xinyou Wang, Daiheng Zhang, Dongyu Xue, Fei Ye, Shujian Huang, Zaixiang Zheng, Quanquan Gu
-  Multimodal protein language models (PLMs) integrate sequence and token-based
-structural information, serving as a powerful foundation for protein mode...
+- [SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians](http://arxiv.org/abs/2504.12292v1) - Liam Schoneveld, Zhe Chen, Davide Davoli, Jiapeng Tang, Saimon Terazawa, Ko Nishino, Matthias Nießner
+  Accurate, real-time 3D reconstruction of human heads from monocular images
+and videos underlies numerous visual applications. As 3D ground truth data ...
 
-- [A Clean Slate for Offline Reinforcement Learning](http://arxiv.org/abs/2504.11453v1) - Matthew Thomas Jackson, Uljad Berdica, Jarek Liesen, Shimon Whiteson, Jakob Nicolaus Foerster
-  Progress in offline reinforcement learning (RL) has been impeded by ambiguous
-problem definitions and entangled algorithmic designs, resulting in
-inco...
+- [How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday
+  Interactions](http://arxiv.org/abs/2504.12284v1) - Aditya Prakash, Benjamin Lundell, Dmitry Andreychuk, David Forsyth, Saurabh Gupta, Harpreet Sawhney
+  We tackle the novel problem of predicting 3D hand motion and contact maps (or
+Interaction Trajectories) given a single RGB view, action text, and a 3D...
 
 
 
