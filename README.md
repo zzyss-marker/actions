@@ -30,15 +30,19 @@
 
 MIT
 
-## 今日更新 (2025-04-19)
+## 今日更新 (2025-04-20)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) - 新模型在推理能力和上下文窗口方面有显著改进
+- [Python酷库之旅-第三方库Pandas(056)](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 第三方库Pandas(056)
+- [什么是API？API调用与AI智能体的关系](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI智能体（AI Agents）通常需要与外部系统交互，而API正是实现这一能力的关键。通过API，AI智能体可以访问各种服务，实现更强的自动化能力。未来，随着API和AI技术的不断融合，我们将看到更...
+- [AI率、AI痕迹过高？别担心，5款超实用降AIGC神器来帮忙](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI写作的广泛应用带来了新的挑战，尤其是如何降低AI率以通过学术检测。Scholingo靠岸妙写以其强大的功能为这一问题提供了有效解决方案。该工具不仅能一键生成完整的AI论文，还能通过智能改写和风格优...
+- [猫头虎分享：推荐 22 个高质量数据集服务平台（含国内外热门 AI 数据集、机器学习必备资源）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 数据集去哪找？国内外平台全解析！机器学习和AI开发必读在数据科学、机器学习、人工智能（AI）领域，高质量数据集是推动研究与应用的基础资源。从开源数据集到行业竞赛数据平台，本篇文章为你推荐 22 个国内...
+- [2025年中国AI大模型综合排名及分析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在当今快速发展的科技时代，人工智能模型正成为推动各领域创新的核心力量。从百度的文心一言到深度求索的DeepSeek，从月之暗面的Kimi到字节跳动的豆包，这些模型不仅在技术上各有千秋，更在应用场景和生...
 
 
 ### 网络安全资讯
@@ -52,22 +56,22 @@ MIT
 
 ### 技术就业趋势
 
-人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
+网络安全人才缺口扩大，零信任安全模型专家需求激增。
 
 ### 科技热点
 
-- [腾讯捐赠1亿元，用科技破解「文保」难题](https://cloud.tencent.com/developer/article/2514363) - 受困于文物劣化、修复材料不当、遗址探测技术匮乏等制约，有些文物，不得不被迫封存或面临不可逆损毁，成为当前考古研究与文物保护领域面对的严峻挑战。
-- [基辛格：人类可能是AI发展的最大制约](https://cloud.tencent.com/developer/article/2514526) - 最近，人工智能研究人员开始认真关注赋予机器“接地性”（groundedness）——机器的表征与实际现实之间的可靠关系——以及记忆和对因果关系的理解等项目。新的技术方法正在促进人工智能这些能力的提升，...
-- [腾讯X大参林：医药零售首个AI知识库，建成！](https://cloud.tencent.com/developer/article/2514525) - 对顾客来说，这是再平常不过的提问；对药店专业的药剂师来说，却是要考虑成分、适应症、禁忌、价格、政策等复杂要素的综合判断。
+- [当漏洞攻击遇上腾讯混元超能力：EdgeOne 的 Web 安全赛博决斗](https://cloud.tencent.com/developer/article/2514618) - 当前，网络安全面临着前所未有的挑战，尤其是在漏洞攻击频发的背景下。想象一下，在某个电商大促期间，黑客通过巧妙的 SQL 语句悄无声息地盗取用户数据，或者利用恶意脚本伪装成正常请求，在海量合法流量中发动...
+- [游戏、电商、Web3……「腾讯云可观测」护航企业出海，精准规避跨境网络暗礁](https://cloud.tencent.com/developer/article/2514624) - 导语：在全球数字化转型和企业出海的浪潮中，「腾讯云可观测」凭借对网络质量和用户体验的高效洞察，深度赋能国内出海企业，助力其有效应对海外公网质量挑战，构建“质量可观测、风险可防范、性能可优化”的全球业务...
+- [腾讯蝉联 MSU 4K 视频编码器大赛第一名，领跑 4K 编码赛道，加速 AIGC 创新落地](https://cloud.tencent.com/developer/article/2514616) - 2025年4月14日，由莫斯科国立大学举办的 MSU 4K 视频编码器大赛结果揭晓。在全部参赛编码器中，腾讯编码器获得所有12项指标的11项第一，4K 编码大赛全场最佳。
 
 
 ### GitHub 趋势项目
 
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
-- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
-- [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
+- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 
 
