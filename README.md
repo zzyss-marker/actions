@@ -30,29 +30,30 @@
 
 MIT
 
-## 今日更新 (2025-04-21)
+## 今日更新 (2025-04-23)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- [VideoCaptioner：北大推出视频字幕处理神器，AI自动生成+断句+翻译，1小时工作量5分钟搞定](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - VideoCaptioner 是一款基于大语言模型的智能视频字幕处理工具，支持语音识别、字幕断句、优化、翻译全流程处理，并提供多种字幕样式和格式导出。
-- [Spring AI ectorStore](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Spring AI中的VectorStore是一种用于存储和检索高维向量数据的数据库或存储解决方案，它在AI应用中扮演着至关重要的角色。
-- [合合信息大模型加速器在世界人工智能大会上惊艳亮相](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 合合信息是一家致力于智能文档处理技术的创新企业，拥有十余年的行业经验。公司深耕图像处理、模式识别、神经网络、深度学习、结构化文本识别（STR）、自然语言处理（NLP）、知识图谱等人工智能领域，积累了丰...
-- [【AI大模型】基于阿里百炼大模型进行调用](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 大家好，我是jstart千语。今天来给大家如何给系统接入AI大模型，让我们的系统可以增加AI功能。本篇主要是依赖阿里云百炼来讲解，因为它有丰富的模型和应用，也可以自定义一个应用发布，然后调用API使用...
-- [Napkin AI 深度解析：年终总结效率提升利器（附实战技巧）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - NapkinAI是由前Google员工开发一款AI文字可视化工具，它可以将文本内容自动转换为各种图表、流程图和信息图，帮助用户快速创建演示文稿、博客和社交媒体内容等视觉材料，提高工作效率和创意输出。简...
+- [Trae AI IDE：重新定义智能开发的未来](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Trae AI IDE：重新定义智能开发的未来 ——代码与框架的深度协同，打造开发者高效工具在人工智能技术飞速发展的今天，开发工具正在经历一场深刻的变革。Trae AI IDE，作为字节跳动推出的全新...
+- [AI大模型ms-swift框架实战指南（一）：框架基础篇之全景概览](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - swift框架，全称为Scalable lightWeight Infrastructure for Fine - Tuning，由魔搭社区精心打造。魔搭社区在人工智能领域积累深厚，开发swift框架...
+- [数据采集助力AI大模型训练](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文通过两个具体案例展示了亮数据的实际应用：一是利用抓取浏览器动态采集eBay商品数据，从配置到代码实现全程演示；二是直接选购YouTube评论数据集，快速获取结构化数据。这两种方式各具优势，既能满足...
+- [ollama + fastgpt搭建本地私有AI大模型智能体工作流（AI Agent Flow）-- windows环境](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - ollama + fastgpt搭建本地私有AI大模型智能体工作流（AI Agent Flow）-- windows环境；windows搭建真正本地RAG检索agent。
+- [AI医疗革命：英伟达GTC 2025医疗健康与生命科学会议全分析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - GTC 2025 标志着 AI 医疗从概念验证转向规模落地。随着算力成本下降（GB300 推理成本较 Hopper 降低 82%）、算法精度提升及政策支持，预计 2030 年全球 AI 医疗市场将突破...
 
 
 ### 网络安全资讯
 
-- [全球地缘政治紧张局势加剧，能源设施成网络攻击“头号靶标”](https://www.anquanke.com/post/id/306739) - 安全公告，详情请点击链接查看完整内容
-- [MCP 安全探讨系列（一）—— MCP 概述](https://paper.seebug.org/3316/) - 作者：Hcamael@知道创宇404实验室
+- [APISandbox：使用go作为后端实现解释OWASP API Top 10的漏洞](https://www.freebuf.com/articles/web/428164.html) - APISandbox靶场
+- [紧急！ViPNet 网络漏洞致政企核心数据面临全面失窃风险](https://www.anquanke.com/post/id/306829) - 安全公告，详情请点击链接查看完整内容
+- [MCP 安全探讨系列（二）—— Cline 安全分析](https://paper.seebug.org/3317/) - 作者：Hcamael@知道创宇404实验室
 日期：2025年4月18日
-1. 前言
-近些年，人类在生成式人工智能的道路上一路狂奔，ChatGPT的横空出世、多模态模型的发展、Agent浪潮开启、Dee...
-- [Midnight Blizzard在大使馆网络钓鱼中部署了新的GrapeLoader恶意软件](https://www.4hou.com/posts/OGRr) - 名为“Midnight Blizzard”的间谍组织发起了一场新的鱼叉式网络钓鱼活动，目标是欧洲的外交机构，包括大使馆。“Midnight Blizzard”，又名“APT29”，是一个与俄罗斯对外情...
+1. Cline的实现原理
+1.1 Cline的基础使用指南
+Cline是Visual Studio Code的MCP插件，所以...
 
 
 ### 技术就业趋势
@@ -61,39 +62,36 @@ MIT
 
 ### 科技热点
 
-- [TDesign AI Chat 新版本发布，同步开源组件源码和设计资源](https://cloud.tencent.com/developer/article/2514617) - TDesign AI Chat 是 TDesign 为 AIGC 场景开发的 UI 系列组件中的一部分，主要服务于日益流行的 ChatBot 对话交互场景。为了满足更丰富的使用场景，在 0.1 版本的...
-- [腾讯企点营销云助力绝味食品打造AI会员智体](https://cloud.tencent.com/developer/article/2514807) - 而绝味与腾讯共同打造的「AI会员智体」通过集成人群圈选智体、权益设计智体、智能选品智体及个性化文案智体4大Agent，从策略决策、知识沉淀到执行落地实现营销全链路的协同合作，在消费者旅程中提供一站式的...
-- [技术创作特训营｜开发者知识共享季🌳](https://cloud.tencent.com/developer/article/2514645) - 2025年4月18日，技术创作特训营在腾讯全球数字生态大会的成都城市峰会举办，这里有百名开发者的思维碰撞，也有数字生态的全景展示。我们深信，开源共创是技术社区生态的基石。
+- [EdgeOne 助力跨境电商安全出海，打造全球极致购物体验](https://cloud.tencent.com/developer/article/2515243) - 3. 可开启智能加速、HTTP/3(QUIC) 等增值服务，增值服务会产生额外费用，点击链接可查看增值服务资费详情；
+- [EdgeOne 第一季度产品动态｜边缘安全、边缘媒体板块重磅能力上线，掌上小程序正式发布](https://cloud.tencent.com/developer/article/2515244) - EdgeOne 始终坚持聆听用户之声，持续进行产品升级迭代，钻研先进技术方向。接下来将为您重点讲解本季度 EdgeOne 在边缘安全、边缘媒体两个板块推出的创新能力，以及正式上线的掌上小程序能力。
+- [EdgeOne Pages 拥抱全球 MCP 生态平台，提升全球开发体验](https://cloud.tencent.com/developer/article/2515242) - 为给广大开发者提供更便捷的服务，腾讯云 EdgeOne Pages 的 MCP Server 进驻了多个生态平台，不仅成功上架到腾讯云大模型知识引擎的插件中心、国内最大的 MCP 中文社区魔搭（Mod...
 
 
 ### GitHub 趋势项目
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 
 
 
 
 ### AI 研究论文
 
-- [Does Reinforcement Learning Really Incentivize Reasoning Capacity in
-  LLMs Beyond the Base Model?](http://arxiv.org/abs/2504.13837v1) - Yang Yue, Zhiqi Chen, Rui Lu, Andrew Zhao, Zhaokai Wang, Yang Yue, Shiji Song, Gao Huang
-  Reinforcement Learning with Verifiable Rewards (RLVR) has recently
-demonstrated notable success in enhancing the reasoning capabilities of LLMs,
-parti...
+- [LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making
+  Abilities](http://arxiv.org/abs/2504.16078v1) - Thomas Schmied, Jörg Bornschein, Jordi Grau-Moya, Markus Wulfmeier, Razvan Pascanu
+  The success of Large Language Models (LLMs) has sparked interest in various
+agentic applications. A key hypothesis is that LLMs, leveraging common sen...
 
-- [MIG: Automatic Data Selection for Instruction Tuning by Maximizing
-  Information Gain in Semantic Space](http://arxiv.org/abs/2504.13835v1) - Yicheng Chen, Yining Li, Kai Hu, Zerun Ma, Haochen Ye, Kai Chen
-  Data quality and diversity are key to the construction of effective
-instruction-tuning datasets. % With the increasing availability of open-source
-ins...
+- [Describe Anything: Detailed Localized Image and Video Captioning](http://arxiv.org/abs/2504.16072v1) - Long Lian, Yifan Ding, Yunhao Ge, Sifei Liu, Hanzi Mao, Boyi Li, Marco Pavone, Ming-Yu Liu, Trevor Darrell, Adam Yala, Yin Cui
+  Generating detailed and accurate descriptions for specific regions in images
+and videos remains a fundamental challenge for vision-language models. We...
 
-- [Generative AI Act II: Test Time Scaling Drives Cognition Engineering](http://arxiv.org/abs/2504.13828v1) - Shijie Xia, Yiwei Qin, Xuefeng Li, Yan Ma, Run-Ze Fan, Steffi Chern, Haoyang Zou, Fan Zhou, Xiangkun Hu, Jiahe Jin, Yanheng He, Yixin Ye, Yixiu Liu, Pengfei Liu
-  The first generation of Large Language Models - what might be called "Act I"
-of generative AI (2020-2023) - achieved remarkable success through massiv...
+- [Vision language models are unreliable at trivial spatial cognition](http://arxiv.org/abs/2504.16061v1) - Sangeet Khemlani, Tyler Tran, Nathaniel Gyory, Anthony M. Harrison, Wallace E. Lawson, Ravenna Thielstrom, Hunter Thompson, Taaren Singh, J. Gregory Trafton
+  Vision language models (VLMs) are designed to extract relevant visuospatial
+information from images. Some research suggests that VLMs can exhibit huma...
 
 
 
