@@ -30,68 +30,67 @@
 
 MIT
 
-## 今日更新 (2025-04-23)
+## 今日更新 (2025-04-24)
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- [Trae AI IDE：重新定义智能开发的未来](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Trae AI IDE：重新定义智能开发的未来 ——代码与框架的深度协同，打造开发者高效工具在人工智能技术飞速发展的今天，开发工具正在经历一场深刻的变革。Trae AI IDE，作为字节跳动推出的全新...
-- [AI大模型ms-swift框架实战指南（一）：框架基础篇之全景概览](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - swift框架，全称为Scalable lightWeight Infrastructure for Fine - Tuning，由魔搭社区精心打造。魔搭社区在人工智能领域积累深厚，开发swift框架...
-- [数据采集助力AI大模型训练](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文通过两个具体案例展示了亮数据的实际应用：一是利用抓取浏览器动态采集eBay商品数据，从配置到代码实现全程演示；二是直接选购YouTube评论数据集，快速获取结构化数据。这两种方式各具优势，既能满足...
-- [ollama + fastgpt搭建本地私有AI大模型智能体工作流（AI Agent Flow）-- windows环境](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - ollama + fastgpt搭建本地私有AI大模型智能体工作流（AI Agent Flow）-- windows环境；windows搭建真正本地RAG检索agent。
-- [AI医疗革命：英伟达GTC 2025医疗健康与生命科学会议全分析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - GTC 2025 标志着 AI 医疗从概念验证转向规模落地。随着算力成本下降（GB300 推理成本较 Hopper 降低 82%）、算法精度提升及政策支持，预计 2030 年全球 AI 医疗市场将突破...
+- [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) - 新模型在推理能力和上下文窗口方面有显著改进
 
 
 ### 网络安全资讯
 
-- [APISandbox：使用go作为后端实现解释OWASP API Top 10的漏洞](https://www.freebuf.com/articles/web/428164.html) - APISandbox靶场
-- [紧急！ViPNet 网络漏洞致政企核心数据面临全面失窃风险](https://www.anquanke.com/post/id/306829) - 安全公告，详情请点击链接查看完整内容
+- [警惕！Docker 遭遇深度混淆攻击，去中心化平台被恶意利用](https://www.anquanke.com/post/id/306862) - 安全公告，详情请点击链接查看完整内容
 - [MCP 安全探讨系列（二）—— Cline 安全分析](https://paper.seebug.org/3317/) - 作者：Hcamael@知道创宇404实验室
 日期：2025年4月18日
 1. Cline的实现原理
 1.1 Cline的基础使用指南
 Cline是Visual Studio Code的MCP插件，所以...
+- [点击查看→云众可信“网络安全靶场”如何守护关键基础设施安全！](https://www.4hou.com/posts/omkB) - 云众可信“网络安全靶场平台”紧贴实战、注重效能，能够为客户提供全面系统的网络靶场建设规划和灵活可靠的产品与服务支撑，并且实现全系国产化适配，适用于各行业安全建设需求。目前，平台已成功应用于大型央企、科...
 
 
 ### 技术就业趋势
 
-可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
+数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
 
 ### 科技热点
 
-- [EdgeOne 助力跨境电商安全出海，打造全球极致购物体验](https://cloud.tencent.com/developer/article/2515243) - 3. 可开启智能加速、HTTP/3(QUIC) 等增值服务，增值服务会产生额外费用，点击链接可查看增值服务资费详情；
-- [EdgeOne 第一季度产品动态｜边缘安全、边缘媒体板块重磅能力上线，掌上小程序正式发布](https://cloud.tencent.com/developer/article/2515244) - EdgeOne 始终坚持聆听用户之声，持续进行产品升级迭代，钻研先进技术方向。接下来将为您重点讲解本季度 EdgeOne 在边缘安全、边缘媒体两个板块推出的创新能力，以及正式上线的掌上小程序能力。
-- [EdgeOne Pages 拥抱全球 MCP 生态平台，提升全球开发体验](https://cloud.tencent.com/developer/article/2515242) - 为给广大开发者提供更便捷的服务，腾讯云 EdgeOne Pages 的 MCP Server 进驻了多个生态平台，不仅成功上架到腾讯云大模型知识引擎的插件中心、国内最大的 MCP 中文社区魔搭（Mod...
+- [AI版权全球治理观察](https://cloud.tencent.com/developer/article/2515377) - AI版权治理当下备受全球关注，该议题涉及内容行业上下游主体间的利益平衡，各界对于新技术发展应用的预期，以及更深层次的国际产业竞争格局等核心关切。通过梳理欧盟、美国、日本等域外主要国家和地区关于AI版权...
+- [腾讯X深圳大学：更AI了！](https://cloud.tencent.com/developer/article/2515376) - 作为离得近、关系铁的老朋友，腾讯第一时间和深圳大学签署战略合作协议，联手搞AI、带学生实操项目。从政策发起，到技术落地，全链条拉满。
+- [COS 端到端质量系列 —— 终端网络诊断工具](https://cloud.tencent.com/developer/article/2515396) - 相较于PC端，移动端的网络环境犹如变幻莫测的风云，更为复杂且波动也更大。故而，一旦遭遇因网络问题导致的上传失败，我们迫切需要一款得力工具来助力我们精准定位问题，细致排查当前网络的状态是否可用、链路是否...
 
 
 ### GitHub 趋势项目
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
-- [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- [hydralauncher/hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - No description
+- [anthropics/courses](https://github.com/anthropics/courses) - Anthropic's educational courses
 
 
 
 
 ### AI 研究论文
 
-- [LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making
-  Abilities](http://arxiv.org/abs/2504.16078v1) - Thomas Schmied, Jörg Bornschein, Jordi Grau-Moya, Markus Wulfmeier, Razvan Pascanu
-  The success of Large Language Models (LLMs) has sparked interest in various
-agentic applications. A key hypothesis is that LLMs, leveraging common sen...
+- [I-Con: A Unifying Framework for Representation Learning](http://arxiv.org/abs/2504.16929v1) - Shaden Alshammari, John Hershey, Axel Feldmann, William T. Freeman, Mark Hamilton
+  As the field of representation learning grows, there has been a proliferation
+of different loss functions to solve different classes of problems. We
+i...
 
-- [Describe Anything: Detailed Localized Image and Video Captioning](http://arxiv.org/abs/2504.16072v1) - Long Lian, Yifan Ding, Yunhao Ge, Sifei Liu, Hanzi Mao, Boyi Li, Marco Pavone, Ming-Yu Liu, Trevor Darrell, Adam Yala, Yin Cui
-  Generating detailed and accurate descriptions for specific regions in images
-and videos remains a fundamental challenge for vision-language models. We...
+- [Latent Diffusion Planning for Imitation Learning](http://arxiv.org/abs/2504.16925v1) - Amber Xie, Oleh Rybkin, Dorsa Sadigh, Chelsea Finn
+  Recent progress in imitation learning has been enabled by policy
+architectures that scale to complex visuomotor tasks, multimodal distributions,
+and l...
 
-- [Vision language models are unreliable at trivial spatial cognition](http://arxiv.org/abs/2504.16061v1) - Sangeet Khemlani, Tyler Tran, Nathaniel Gyory, Anthony M. Harrison, Wallace E. Lawson, Ravenna Thielstrom, Hunter Thompson, Taaren Singh, J. Gregory Trafton
-  Vision language models (VLMs) are designed to extract relevant visuospatial
-information from images. Some research suggests that VLMs can exhibit huma...
+- [Generalized Neighborhood Attention: Multi-dimensional Sparse Attention
+  at the Speed of Light](http://arxiv.org/abs/2504.16922v1) - Ali Hassani, Fengzhe Zhou, Aditya Kane, Jiannan Huang, Chieh-Yun Chen, Min Shi, Steven Walton, Markus Hoehnerbach, Vijay Thakkar, Michael Isaev, Qinsheng Zhang, Bing Xu, Haicheng Wu, Wen-mei Hwu, Ming-Yu Liu, Humphrey Shi
+  Many sparse attention mechanisms such as Neighborhood Attention have
+typically failed to consistently deliver speedup over the self attention
+baseline...
 
 
 
