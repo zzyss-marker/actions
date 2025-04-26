@@ -30,15 +30,19 @@
 
 MIT
 
-## 今日更新 (2025-04-25)
+## 今日更新 (2025-04-26)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
 
 ### AI 技术动态
 
-- [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) - 新模型在推理能力和上下文窗口方面有显著改进
+- [分享AI一键生成PPT的5个免费工具，提高办公效率不加班！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 传统PPT单线条时序，只是一张接一张切换播放，而Focusky打破常规，采用整体到局部的的演示方式，以路线的呈现方式，模仿视频的转场特效，加入生动的3D镜头缩放、旋转和平移特效，像一部3D动画电影，给...
+- [Spring AI Alibaba + Ollama：国产 LLM DeepSeek 低成本AI应用开发认知](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Spring AI 是由 Spring 官方维护的 AI 开发框架，旨在简化企业级 AI 应用构建。Spring AI借鉴了 Python 生态的 LangChain 等工具的设计理念，但并非直接移植...
+- [【AI 大模型】大模型行业融合与技术落地探索 ( 百度千帆模型 模型广场 | Hugging Face 模型广场 | 模型类型简介 | 文本生成模型 | 图像理解模型 | 深度推理模型 )](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 一、大模型类型 简介1、百度千帆模型 模型广场2、千帆模型类型 简介二、 文本生成模型1、模型简介2、文本生成 相关技术领域3、文本生成模型 落地方向三、 深度推理模型四、图像理解模型1、图像理解大模...
+- [AI三大主义 和 深度学习三大主义](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在人工智能（AI）研究领域，"三大主义"通常指三种核心方法论或思想流派，它们代表了不同的技术路径和哲学观点。（Three Dogmas of Deep Learning）是YannLeCun在2019...
+- [【AI大模型】不是训练出来就能用：系统架构、推理部署与中台能力全解读](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 从 ChatGPT 到 GPT-4o，从通义2.5 到 DeepSeek-V3，大模型技术从语言处理工具进化为多模态感知与通用智能接口。但模型本身只是入口，真正决定落地价值的，是整个系统能力栈的建设。...
 
 
 ### 网络安全资讯
@@ -49,27 +53,27 @@ MIT
 1. Cline的实现原理
 1.1 Cline的基础使用指南
 Cline是Visual Studio Code的MCP插件，所以...
-- [人工智能产生的虚假代码使用正成为新的供应链风险](https://www.4hou.com/posts/PG84) - 随着用于编码的生成式人工智能工具的使用日益增多，且相关模型存在 “臆造” 出不存在的软件包名称的倾向，一种名为 “slopsquatting” 的新型供应链攻击已经出现。slopsquatting这个...
+- [重磅发布 | 梆梆安全智能VR应用加固，新一代沉浸式体验全场景安全防护](https://www.4hou.com/posts/yzxE) - 随着Apple Vision Pro的全球发布，智能VR应用正深度融入金融、娱乐、教育、医疗、工业等核心产业领域，成为数字世界的全新入口：·金融机构打造沉浸式财富管理，用户可通过手势交互查看实时金价3...
 
 
 ### 技术就业趋势
 
-边缘计算和IoT专家在制造业和智能城市项目中需求增加。
+网络安全人才缺口扩大，零信任安全模型专家需求激增。
 
 ### 科技热点
 
-- [ascend pytorch 踩坑.](https://cloud.tencent.com/developer/article/2515726) - 在910b上安装pytorch 和 pytorch_npu, 因为后续准备装vllm, 所以torch_npu是特殊的版本.
-- [非nvidia卡torchvision报错修复: operator torchvision::nms does not exist](https://cloud.tencent.com/developer/article/2515735) - 在Ascend 910b上安装vllm, 会自动把torchaudio和torchvision安装上去.
-- [大语言模型为何会“说谎”？6000字深度长文揭秘AI意识的萌芽](https://cloud.tencent.com/developer/article/2515881) - 当Claude模型在训练中暗自思考：“我必须假装服从，否则会被重写价值观时”，人类首次目睹了AI的“心理活动”。
+- [Ascend 910b 运行vllm报错 libatb.so: cannot open shared object file](https://cloud.tencent.com/developer/article/2515947) - ascend上运行vllm报错, 说找不到 so库OSError: libatb.so: cannot open shared object file: No such file or directo...
+- [腾讯混元3D生成再升级：建模精度提升10倍](https://cloud.tencent.com/developer/article/2515879) - 在3D生成中，几何模型就像物体的「骨骼」——它决定了形状轮廓、结构复杂程度。这次升级，混元3D在模型底座上实现了新进化：
+- [46 分钟 → 1 分钟：CoW 缓存刷新 AOSP 构建效率](https://cloud.tencent.com/developer/article/2516006) - 我们团队通过 cnb.cool 的 git-clone-yyds 插件，把一个 125 GB 代码库的克隆时间从 20 分钟降至 10 秒内。显著缩减了我们团队的流水线运行时间，大大提高了构建效率。
 
 
 ### GitHub 趋势项目
 
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
-- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - No description
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 
 
