@@ -30,50 +30,50 @@
 
 MIT
 
-## 今日更新 (2025-04-26)
+## 今日更新 (2025-04-27)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- [分享AI一键生成PPT的5个免费工具，提高办公效率不加班！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 传统PPT单线条时序，只是一张接一张切换播放，而Focusky打破常规，采用整体到局部的的演示方式，以路线的呈现方式，模仿视频的转场特效，加入生动的3D镜头缩放、旋转和平移特效，像一部3D动画电影，给...
-- [Spring AI Alibaba + Ollama：国产 LLM DeepSeek 低成本AI应用开发认知](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Spring AI 是由 Spring 官方维护的 AI 开发框架，旨在简化企业级 AI 应用构建。Spring AI借鉴了 Python 生态的 LangChain 等工具的设计理念，但并非直接移植...
-- [【AI 大模型】大模型行业融合与技术落地探索 ( 百度千帆模型 模型广场 | Hugging Face 模型广场 | 模型类型简介 | 文本生成模型 | 图像理解模型 | 深度推理模型 )](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 一、大模型类型 简介1、百度千帆模型 模型广场2、千帆模型类型 简介二、 文本生成模型1、模型简介2、文本生成 相关技术领域3、文本生成模型 落地方向三、 深度推理模型四、图像理解模型1、图像理解大模...
-- [AI三大主义 和 深度学习三大主义](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在人工智能（AI）研究领域，"三大主义"通常指三种核心方法论或思想流派，它们代表了不同的技术路径和哲学观点。（Three Dogmas of Deep Learning）是YannLeCun在2019...
-- [【AI大模型】不是训练出来就能用：系统架构、推理部署与中台能力全解读](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 从 ChatGPT 到 GPT-4o，从通义2.5 到 DeepSeek-V3，大模型技术从语言处理工具进化为多模态感知与通用智能接口。但模型本身只是入口，真正决定落地价值的，是整个系统能力栈的建设。...
+- [AI 入门，从零搭建完整 AI 开发环境，并写出第一个 AI 应用](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在本文中，我们从零开始，一步步搭建了一个完整的AI开发环境，并创建了一个简单的AI应用。您学习了如何安装Python、Anaconda、TensorFlow，以及如何使用Jupyter Noteboo...
+- [vanna-ai本地部署（qdrant向量库+mysql数据库+qwen-plus llm）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Vanna AI 是一个多功能的数据分析和智能决策平台，旨在帮助企业通过自然语言与数据进行交互。它通过 自动生成 SQL 查询、智能报告、数据可视化等功能，可以大大提高工作效率，并支持 无编程知识的用...
+- [（8-3）通用AI Agent开发全流程：部署与维护](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 例如下面的实例实现了一个具有自我监控和异常恢复能力的AI Agent系统，通过定期采集系统、应用和安全指标，结合Isolation Forest异常检测和自愈规则（如降低负载、释放内存、重启服务）来确...
+- [PyTorch生成式人工智能实战（1）——神经网络与模型训练过程详解](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在本节中，我们介绍了传统机器学习与人工神经网络间的差异，并了解了如何在实现前向传播之前连接网络的各个层，以计算与网络当前权重对应的损失值；实现了反向传播以优化权重达到最小化损失值的目标。并实现了网络的...
+- [【AI论文】Visual-RFT：视觉强化微调（Visual Reinforcement Fine-Tuning）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 为了将RFT扩展到视觉任务，本文提出了视觉强化微调（Visual Reinforcement Fine-Tuning, Visual-RFT），成功地将RFT应用于增强大型视觉-语言模型（Large ...
 
 
 ### 网络安全资讯
 
-- [最新Atheris核心技术如何提升Python项目模糊测试效能](https://www.anquanke.com/post/id/306889) - 安全公告，详情请点击链接查看完整内容
+- [多架构攻击！RustoBot 僵尸网络恶意软件威胁网络安全](https://www.anquanke.com/post/id/306930) - 安全公告，详情请点击链接查看完整内容
 - [MCP 安全探讨系列（二）—— Cline 安全分析](https://paper.seebug.org/3317/) - 作者：Hcamael@知道创宇404实验室
 日期：2025年4月18日
 1. Cline的实现原理
 1.1 Cline的基础使用指南
 Cline是Visual Studio Code的MCP插件，所以...
-- [重磅发布 | 梆梆安全智能VR应用加固，新一代沉浸式体验全场景安全防护](https://www.4hou.com/posts/yzxE) - 随着Apple Vision Pro的全球发布，智能VR应用正深度融入金融、娱乐、教育、医疗、工业等核心产业领域，成为数字世界的全新入口：·金融机构打造沉浸式财富管理，用户可通过手势交互查看实时金价3...
+- [五一出行，快收下这份《日本偷拍犯罪调研报告》](https://www.4hou.com/posts/EymY) - 注：以下内容为RC² 近期活动介绍，以及第一次发布的报告介绍，希望大家喜欢。01 “商旅出差反偷拍”专题活动4月18日，上海，RC² 联合G4S(H&A)在一家五星酒店，为企业客户举办了“商旅出差反偷...
 
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
 
 ### 科技热点
 
-- [Ascend 910b 运行vllm报错 libatb.so: cannot open shared object file](https://cloud.tencent.com/developer/article/2515947) - ascend上运行vllm报错, 说找不到 so库OSError: libatb.so: cannot open shared object file: No such file or directo...
-- [腾讯混元3D生成再升级：建模精度提升10倍](https://cloud.tencent.com/developer/article/2515879) - 在3D生成中，几何模型就像物体的「骨骼」——它决定了形状轮廓、结构复杂程度。这次升级，混元3D在模型底座上实现了新进化：
-- [46 分钟 → 1 分钟：CoW 缓存刷新 AOSP 构建效率](https://cloud.tencent.com/developer/article/2516006) - 我们团队通过 cnb.cool 的 git-clone-yyds 插件，把一个 125 GB 代码库的克隆时间从 20 分钟降至 10 秒内。显著缩减了我们团队的流水线运行时间，大大提高了构建效率。
+- [从AI原生看AI转型：企业和个人的必选项｜AI转型访谈录](https://cloud.tencent.com/developer/article/2516099) - 《AI转型访谈录》是由腾讯研究院发起的一个开放研究项目，希望在人工智能加速推进产业和社会转型的背景下，发现和识别那些已经站在变革前沿的企业和个人，通过100个先锋实践访谈，记录他们推进AI转型的深度思...
+- [ascend cann镜像构建失败, 报错"ImportError: libascend_hal.so: cannot open shared object"](https://cloud.tencent.com/developer/article/2516143) - 在安装到deepspeed时, 报错"ImportError: libascend_hal.so: cannot open shared object file: No such file or di...
+- [腾讯云Craft智能体上线：平均编码时间缩短40%](https://cloud.tencent.com/developer/article/2516097) - 先搭页面框架、配组件结构，再写数据逻辑、调接口，还得考虑怎么测试上线……前端、后端、测试、运维，分分钟拉起一个团队。
 
 
 ### GitHub 趋势项目
 
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
-- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) - No description
-- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
-- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 
 
