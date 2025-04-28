@@ -30,72 +30,68 @@
 
 MIT
 
-## 今日更新 (2025-04-27)
+## 今日更新 (2025-04-28)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- [AI 入门，从零搭建完整 AI 开发环境，并写出第一个 AI 应用](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在本文中，我们从零开始，一步步搭建了一个完整的AI开发环境，并创建了一个简单的AI应用。您学习了如何安装Python、Anaconda、TensorFlow，以及如何使用Jupyter Noteboo...
-- [vanna-ai本地部署（qdrant向量库+mysql数据库+qwen-plus llm）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Vanna AI 是一个多功能的数据分析和智能决策平台，旨在帮助企业通过自然语言与数据进行交互。它通过 自动生成 SQL 查询、智能报告、数据可视化等功能，可以大大提高工作效率，并支持 无编程知识的用...
-- [（8-3）通用AI Agent开发全流程：部署与维护](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 例如下面的实例实现了一个具有自我监控和异常恢复能力的AI Agent系统，通过定期采集系统、应用和安全指标，结合Isolation Forest异常检测和自愈规则（如降低负载、释放内存、重启服务）来确...
-- [PyTorch生成式人工智能实战（1）——神经网络与模型训练过程详解](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在本节中，我们介绍了传统机器学习与人工神经网络间的差异，并了解了如何在实现前向传播之前连接网络的各个层，以计算与网络当前权重对应的损失值；实现了反向传播以优化权重达到最小化损失值的目标。并实现了网络的...
-- [【AI论文】Visual-RFT：视觉强化微调（Visual Reinforcement Fine-Tuning）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 为了将RFT扩展到视觉任务，本文提出了视觉强化微调（Visual Reinforcement Fine-Tuning, Visual-RFT），成功地将RFT应用于增强大型视觉-语言模型（Large ...
+- [【人工智能】Transformers之Pipeline（十五）：总结（summarization）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文对transformers之pipeline的总结（summarization）从概述、技术原理、pipeline参数、pipeline实战、模型排名等方面进行介绍，读者可以基于pipeline使...
+- [抢先试用 字节跳动 AI 编程工具 Trae ,确实好用！！！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 近日， 字节跳动发布AI编程工具Trae – 中国首个AI原生IDE！可以深度理解中文， 支持一句话开发各种应用。AI 编程工具 Trae 是字节跳动发布的国内首个 AI 原生集成开发环境。搭载 do...
+- [【labelme标注软件使用-自动保存和AI标注】](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - labelme标注软件使用-自动保存和AI标注
+- [KrillinAI：视频跨语言传播的一站式AI解决方案](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - KrillinAI是一款基于AI大模型技术的全流程视频翻译和配音工具，旨在为内容创作者提供从视频下载到最终成品的一站式解决方案。凭借其简洁而强大的设计，KrillinAI能够无缝处理从翻译、配音到视频...
+- [AI大模型的本地驯服——如何在自己电脑上训练一个专属大模型](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 2025年3月12日记 这是我第一次实现大模型的微调训练，电脑的配置是显卡NVIDIA GeForce RTX 3050 Ti Laptop GPU，三年前的笔记本了，不过还是能跑起来的，训练的是De...
 
 
 ### 网络安全资讯
 
-- [多架构攻击！RustoBot 僵尸网络恶意软件威胁网络安全](https://www.anquanke.com/post/id/306930) - 安全公告，详情请点击链接查看完整内容
+- [Endor Labs融资9300万美元用于扩展AI代码保护平台](https://www.anquanke.com/post/id/306964) - 安全公告，详情请点击链接查看完整内容
 - [MCP 安全探讨系列（二）—— Cline 安全分析](https://paper.seebug.org/3317/) - 作者：Hcamael@知道创宇404实验室
 日期：2025年4月18日
 1. Cline的实现原理
 1.1 Cline的基础使用指南
 Cline是Visual Studio Code的MCP插件，所以...
-- [五一出行，快收下这份《日本偷拍犯罪调研报告》](https://www.4hou.com/posts/EymY) - 注：以下内容为RC² 近期活动介绍，以及第一次发布的报告介绍，希望大家喜欢。01 “商旅出差反偷拍”专题活动4月18日，上海，RC² 联合G4S(H&A)在一家五星酒店，为企业客户举办了“商旅出差反偷...
+- [WordPress广告欺诈插件每天产生14亿个广告请求](https://www.4hou.com/posts/l0Ng) - 最新发现，一个名为“Scallywag”的大规模广告欺诈操作，通过精心制作的WordPress插件，每天产生数十亿的欺诈请求，从盗版和URL缩短网站中获利。Scallywag是由机器人和欺诈检测公司H...
 
 
 ### 技术就业趋势
 
-量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
+区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
 
 ### 科技热点
 
-- [从AI原生看AI转型：企业和个人的必选项｜AI转型访谈录](https://cloud.tencent.com/developer/article/2516099) - 《AI转型访谈录》是由腾讯研究院发起的一个开放研究项目，希望在人工智能加速推进产业和社会转型的背景下，发现和识别那些已经站在变革前沿的企业和个人，通过100个先锋实践访谈，记录他们推进AI转型的深度思...
-- [ascend cann镜像构建失败, 报错"ImportError: libascend_hal.so: cannot open shared object"](https://cloud.tencent.com/developer/article/2516143) - 在安装到deepspeed时, 报错"ImportError: libascend_hal.so: cannot open shared object file: No such file or di...
-- [腾讯云Craft智能体上线：平均编码时间缩短40%](https://cloud.tencent.com/developer/article/2516097) - 先搭页面框架、配组件结构，再写数据逻辑、调接口，还得考虑怎么测试上线……前端、后端、测试、运维，分分钟拉起一个团队。
+- [Ascend 910b上 paddle安装及运行报错排查](https://cloud.tencent.com/developer/article/2516267) - libmki.so未找到.  通过find /usr/local/Ascend/ -name "libmki.so"找下, 其位置在/usr/local/Ascend/nnal/atb/8.0.0/a...
+- [实测文心 4.5 模型](https://cloud.tencent.com/developer/article/2516292) - 百度终于在面对 DeepSeek 的爆火之后，重新发布新一代大模型。分别包括了文心大模型 4.5 和文心大模型 X1。同时在官网上已经上线了这两款模型，而且已经是全部免费了。（老实说，这波 DeepS...
+- [three.js中的重要基础概念](https://cloud.tencent.com/developer/article/2516304) - Three.js 是一个功能强大的 JavaScript 库，用于创建和展示基于 WebGL 的三维图形。在学习使用Three.js来构建3D世界之前，有一些基本概念是需要牢记的，否则，在你绘制3D世...
 
 
 ### GitHub 趋势项目
 
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
-- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 
 
 
 
 ### AI 研究论文
 
-- [Integrating Learning-Based Manipulation and Physics-Based Locomotion for
-  Whole-Body Badminton Robot Control](http://arxiv.org/abs/2504.17771v1) - Haochen Wang, Zhiwei Shi, Chengxi Zhu, Yafei Qiao, Cheng Zhang, Fan Yang, Pengjie Ren, Lan Lu, Dong Xuan
-  Learning-based methods, such as imitation learning (IL) and reinforcement
-learning (RL), can produce excel control policies over challenging agile rob...
+- [Generalization Capability for Imitation Learning](http://arxiv.org/abs/2504.18538v1) - Yixiao Wang
+  Imitation learning holds the promise of equipping robots with versatile
+skills by learning from expert demonstrations. However, policies trained on
+fi...
 
-- [Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential
-  Modeling: Specialized Discretization for Binary Activated RNN](http://arxiv.org/abs/2504.17751v1) - Enqi Zhang
-  In the field of image recognition, spiking neural networks (SNNs) have
-achieved performance comparable to conventional artificial neural networks
-(ANN...
+- [Adapting Probabilistic Risk Assessment for AI](http://arxiv.org/abs/2504.18536v1) - Anna Katariina Wisakanto, Joe Rogero, Avyay M. Casheekar, Richard Mallah
+  Modern general-purpose artificial intelligence (AI) systems present an urgent
+risk management challenge, as their rapidly evolving capabilities and po...
 
-- [Conformal Segmentation in Industrial Surface Defect Detection with
-  Statistical Guarantees](http://arxiv.org/abs/2504.17721v1) - Cheng Shen, Yuewei Liu
-  In industrial settings, surface defects on steel can significantly compromise
-its service life and elevate potential safety risks. Traditional defect
-...
+- [Scaling Laws For Scalable Oversight](http://arxiv.org/abs/2504.18530v1) - Joshua Engels, David D. Baek, Subhash Kantamneni, Max Tegmark
+  Scalable oversight, the process by which weaker AI systems supervise stronger
+ones, has been proposed as a key strategy to control future superintelli...
 
 
 
