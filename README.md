@@ -30,68 +30,71 @@
 
 MIT
 
-## 今日更新 (2025-04-28)
+## 今日更新 (2025-04-29)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- [【人工智能】Transformers之Pipeline（十五）：总结（summarization）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文对transformers之pipeline的总结（summarization）从概述、技术原理、pipeline参数、pipeline实战、模型排名等方面进行介绍，读者可以基于pipeline使...
-- [抢先试用 字节跳动 AI 编程工具 Trae ,确实好用！！！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 近日， 字节跳动发布AI编程工具Trae – 中国首个AI原生IDE！可以深度理解中文， 支持一句话开发各种应用。AI 编程工具 Trae 是字节跳动发布的国内首个 AI 原生集成开发环境。搭载 do...
-- [【labelme标注软件使用-自动保存和AI标注】](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - labelme标注软件使用-自动保存和AI标注
-- [KrillinAI：视频跨语言传播的一站式AI解决方案](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - KrillinAI是一款基于AI大模型技术的全流程视频翻译和配音工具，旨在为内容创作者提供从视频下载到最终成品的一站式解决方案。凭借其简洁而强大的设计，KrillinAI能够无缝处理从翻译、配音到视频...
-- [AI大模型的本地驯服——如何在自己电脑上训练一个专属大模型](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 2025年3月12日记 这是我第一次实现大模型的微调训练，电脑的配置是显卡NVIDIA GeForce RTX 3050 Ti Laptop GPU，三年前的笔记本了，不过还是能跑起来的，训练的是De...
+- [MCP-Playwright: 赋予AI模型操控浏览器的能力](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - MCP-Playwright是一个基于模型上下文协议(Model Context Protocol)的服务器，它为大型语言模型(LLM)提供了使用Playwright进行浏览器自动化的能力。简单来说，...
+- [【GitHub开源AI精选】Agent-S架构揭秘：低代码与多模态融合的智能体新范式](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在人工智能技术飞速发展的当下，多模态大语言模型（MLLM）取得了显著突破，智能代理（Agent）技术随之成为研究与应用的热点领域。Simular AI 推出的开源智能代理框架 Agent-S，旨在通过...
+- [comfyui入门｜超详细安装教程（汉化+管理器）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 今天我给大家分享的是怎么安装comfyUI。网上安装comfyui的教程有很多，但是说的有点偏复杂了，特别是安装节点的时候，其实没那么难，这篇文章我就给大家分享下如何快速安装comfyui及各个节点的...
+- [Spring AI+DeepSeek快速构建AI智能机器人_spring ai deepseek](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文详细介绍了如何使用Spring AI快速搭建一个具备自然语言处理能力的智能对话机器人，并结合实现前后端交互。
+- [深入探索人工智能的未来：DeepSeek R1与蓝耘智算平台的完美结合](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在当今数字化时代，人工智能（AI）和机器学习（ML）正以前所未有的速度改变着我们的生活和工作方式。从智能语音助手到自动驾驶汽车，从精准医疗到金融风险预测，AI的应用无处不在。深度学习作为AI的核心技术...
 
 
 ### 网络安全资讯
 
-- [Endor Labs融资9300万美元用于扩展AI代码保护平台](https://www.anquanke.com/post/id/306964) - 安全公告，详情请点击链接查看完整内容
+- [Quick Agent 软件中的严重漏洞导致理光 MFP 遭受远程攻击](https://www.anquanke.com/post/id/306996) - 安全公告，详情请点击链接查看完整内容
 - [MCP 安全探讨系列（二）—— Cline 安全分析](https://paper.seebug.org/3317/) - 作者：Hcamael@知道创宇404实验室
 日期：2025年4月18日
 1. Cline的实现原理
 1.1 Cline的基础使用指南
 Cline是Visual Studio Code的MCP插件，所以...
-- [WordPress广告欺诈插件每天产生14亿个广告请求](https://www.4hou.com/posts/l0Ng) - 最新发现，一个名为“Scallywag”的大规模广告欺诈操作，通过精心制作的WordPress插件，每天产生数十亿的欺诈请求，从盗版和URL缩短网站中获利。Scallywag是由机器人和欺诈检测公司H...
+- [新型Android恶意软件会窃取用户信用卡信息以实施NFC中继攻击](https://www.4hou.com/posts/kgN6) - 一种名为“SuperCard X”的新型恶意软件即服务（MaaS）平台已经出现，该平台通过NFC中继攻击安卓设备，使销售点和ATM交易能够使用受损的支付卡数据。SuperCard X是由移动安全公司C...
 
 
 ### 技术就业趋势
 
-区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
+人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
 
 ### 科技热点
 
-- [Ascend 910b上 paddle安装及运行报错排查](https://cloud.tencent.com/developer/article/2516267) - libmki.so未找到.  通过find /usr/local/Ascend/ -name "libmki.so"找下, 其位置在/usr/local/Ascend/nnal/atb/8.0.0/a...
-- [实测文心 4.5 模型](https://cloud.tencent.com/developer/article/2516292) - 百度终于在面对 DeepSeek 的爆火之后，重新发布新一代大模型。分别包括了文心大模型 4.5 和文心大模型 X1。同时在官网上已经上线了这两款模型，而且已经是全部免费了。（老实说，这波 DeepS...
 - [three.js中的重要基础概念](https://cloud.tencent.com/developer/article/2516304) - Three.js 是一个功能强大的 JavaScript 库，用于创建和展示基于 WebGL 的三维图形。在学习使用Three.js来构建3D世界之前，有一些基本概念是需要牢记的，否则，在你绘制3D世...
+- [COS端到端质量系列——终端COS SDK网络优化](https://cloud.tencent.com/developer/article/2516488) - COS SDK 提供了一系列网络优化功能，包括 DNS 解析优化、网络线路加速、弱网优化以及自定义网络层功能。 如果您对上传、下载等 COS 操作的成功率、延迟较为敏感，则可以使用本文档提供的方案进行...
+- [限流系列之四：TDMQ RocketMQ 版限流机制详解与实践教程](https://cloud.tencent.com/developer/article/2516487) - 随着分布式系统架构的普及，消息队列已成为支撑大规模、高并发在线业务的核心组件之一。TDMQ RocketMQ 版作为一款高性能、高可靠的消息中间件，通过提供稳定、低延迟的消息服务，帮助企业轻松应对业务...
 
 
 ### GitHub 趋势项目
 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
-- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 
 
 
 
 ### AI 研究论文
 
-- [Generalization Capability for Imitation Learning](http://arxiv.org/abs/2504.18538v1) - Yixiao Wang
-  Imitation learning holds the promise of equipping robots with versatile
-skills by learning from expert demonstrations. However, policies trained on
-fi...
+- [LIRM: Large Inverse Rendering Model for Progressive Reconstruction of
+  Shape, Materials and View-dependent Radiance Fields](http://arxiv.org/abs/2504.20026v1) - Zhengqin Li, Dilin Wang, Ka Chen, Zhaoyang Lv, Thu Nguyen-Phuoc, Milim Lee, Jia-Bin Huang, Lei Xiao, Cheng Zhang, Yufeng Zhu, Carl S. Marshall, Yufeng Ren, Richard Newcombe, Zhao Dong
+  We present Large Inverse Rendering Model (LIRM), a transformer architecture
+that jointly reconstructs high-quality shape, materials, and radiance fiel...
 
-- [Adapting Probabilistic Risk Assessment for AI](http://arxiv.org/abs/2504.18536v1) - Anna Katariina Wisakanto, Joe Rogero, Avyay M. Casheekar, Richard Mallah
-  Modern general-purpose artificial intelligence (AI) systems present an urgent
-risk management challenge, as their rapidly evolving capabilities and po...
+- [Modular Machine Learning: An Indispensable Path towards New-Generation
+  Large Language Models](http://arxiv.org/abs/2504.20020v1) - Xin Wang, Haoyang Li, Zeyang Zhang, Haibo Chen, Wenwu Zhu
+  Large language models (LLMs) have dramatically advanced machine learning
+research including natural language processing, computer vision, data mining,...
 
-- [Scaling Laws For Scalable Oversight](http://arxiv.org/abs/2504.18530v1) - Joshua Engels, David D. Baek, Subhash Kantamneni, Max Tegmark
-  Scalable oversight, the process by which weaker AI systems supervise stronger
-ones, has been proposed as a key strategy to control future superintelli...
+- [Modelling of Underwater Vehicles using Physics-Informed Neural Networks
+  with Control](http://arxiv.org/abs/2504.20019v1) - Abdelhakim Amer, David Felsager, Yury Brodskiy, Andriy Sarabakha
+  Physics-informed neural networks (PINNs) integrate physical laws with
+data-driven models to improve generalization and sample efficiency. This work
+in...
 
 
 
