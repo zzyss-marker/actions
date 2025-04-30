@@ -30,71 +30,69 @@
 
 MIT
 
-## 今日更新 (2025-04-29)
+## 今日更新 (2025-04-30)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- [MCP-Playwright: 赋予AI模型操控浏览器的能力](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - MCP-Playwright是一个基于模型上下文协议(Model Context Protocol)的服务器，它为大型语言模型(LLM)提供了使用Playwright进行浏览器自动化的能力。简单来说，...
-- [【GitHub开源AI精选】Agent-S架构揭秘：低代码与多模态融合的智能体新范式](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在人工智能技术飞速发展的当下，多模态大语言模型（MLLM）取得了显著突破，智能代理（Agent）技术随之成为研究与应用的热点领域。Simular AI 推出的开源智能代理框架 Agent-S，旨在通过...
-- [comfyui入门｜超详细安装教程（汉化+管理器）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 今天我给大家分享的是怎么安装comfyUI。网上安装comfyui的教程有很多，但是说的有点偏复杂了，特别是安装节点的时候，其实没那么难，这篇文章我就给大家分享下如何快速安装comfyui及各个节点的...
-- [Spring AI+DeepSeek快速构建AI智能机器人_spring ai deepseek](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文详细介绍了如何使用Spring AI快速搭建一个具备自然语言处理能力的智能对话机器人，并结合实现前后端交互。
-- [深入探索人工智能的未来：DeepSeek R1与蓝耘智算平台的完美结合](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在当今数字化时代，人工智能（AI）和机器学习（ML）正以前所未有的速度改变着我们的生活和工作方式。从智能语音助手到自动驾驶汽车，从精准医疗到金融风险预测，AI的应用无处不在。深度学习作为AI的核心技术...
+- [ESP32智能设备：蓝牙音箱、AI语音助手、环境监测与调节以及智能控制，基于BLE与MQTT技术（代码详解）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在智能家居的快速发展中，ESP32作为一款功能强大的开发板，凭借其蓝牙和Wi-Fi双模连接能力，成为实现多种智能应用的理想选择。本项目旨在构建一个功能丰富的智能设备，集成蓝牙音箱、AI语音助手、智能设...
+- [ESP32 小智 AI 机器人入门教程从原理到实现（自己云端部署）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 简介： 本教程将指导初学者使用 ESP32 微控制器开发一个简单的语音对话机器人“小智”。我们将介绍所需的基础原理、硬件准备、软件环境搭建，以及如何编写代码实现语音唤醒和与云端大模型的对接。通过本教程...
+- [模拟投资大师思维：AI对冲基金开源项目详解](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - "ai-hedge-fund"是一个概念验证（POC）目，旨在探索使用人工智能进行股票交易决策的可能性。该项目由15个不同的 AI 智能体（Agent）成，这些智能体模拟了著名投资者的思维模式或专注于...
+- [AI交互及爬虫【数据分析】](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 个人主页：在线OJ的阿川大佬的支持和鼓励，将是我成长路上最大的动力阿川水平有限，如有错误，欢迎大佬指正在这个时代 AI 与我们每个人 息息相关1956年 在美国召开了第一场人工智能研讨会，由此人类开始...
+- [深度解读：智能体2.0 AI Agent多推演进](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Agent已经不再是冰冷的代码集合体，而是当代具有生命的数字智能体。你了解Agent的变化吗？它开始只是优化生活效率的助手，现在是重塑产业格局的商业引擎。当Agent开始理解“创造”本身的意义，究竟是...
 
 
 ### 网络安全资讯
 
-- [Quick Agent 软件中的严重漏洞导致理光 MFP 遭受远程攻击](https://www.anquanke.com/post/id/306996) - 安全公告，详情请点击链接查看完整内容
+- [CISA 就 Commvault Web 服务器漏洞发布警告，称该漏洞可能被利用](https://www.anquanke.com/post/id/307061) - 安全公告，详情请点击链接查看完整内容
 - [MCP 安全探讨系列（二）—— Cline 安全分析](https://paper.seebug.org/3317/) - 作者：Hcamael@知道创宇404实验室
 日期：2025年4月18日
 1. Cline的实现原理
 1.1 Cline的基础使用指南
 Cline是Visual Studio Code的MCP插件，所以...
-- [新型Android恶意软件会窃取用户信用卡信息以实施NFC中继攻击](https://www.4hou.com/posts/kgN6) - 一种名为“SuperCard X”的新型恶意软件即服务（MaaS）平台已经出现，该平台通过NFC中继攻击安卓设备，使销售点和ATM交易能够使用受损的支付卡数据。SuperCard X是由移动安全公司C...
+- [Cookie-Bite攻击PoC使用Chrome扩展窃取会话令牌](https://www.4hou.com/posts/kgNN) - 一种名为“Cookie-Bite”的概念验证攻击利用浏览器扩展程序从 Azure Entra ID 中窃取浏览器会话 Cookie，以绕过多因素身份验证（MFA）保护，并保持对 Microsoft 3...
 
 
 ### 技术就业趋势
 
-人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
-- [three.js中的重要基础概念](https://cloud.tencent.com/developer/article/2516304) - Three.js 是一个功能强大的 JavaScript 库，用于创建和展示基于 WebGL 的三维图形。在学习使用Three.js来构建3D世界之前，有一些基本概念是需要牢记的，否则，在你绘制3D世...
-- [COS端到端质量系列——终端COS SDK网络优化](https://cloud.tencent.com/developer/article/2516488) - COS SDK 提供了一系列网络优化功能，包括 DNS 解析优化、网络线路加速、弱网优化以及自定义网络层功能。 如果您对上传、下载等 COS 操作的成功率、延迟较为敏感，则可以使用本文档提供的方案进行...
-- [限流系列之四：TDMQ RocketMQ 版限流机制详解与实践教程](https://cloud.tencent.com/developer/article/2516487) - 随着分布式系统架构的普及，消息队列已成为支撑大规模、高并发在线业务的核心组件之一。TDMQ RocketMQ 版作为一款高性能、高可靠的消息中间件，通过提供稳定、低延迟的消息服务，帮助企业轻松应对业务...
+- [AI 时代架构师的破局之道与进阶之路，腾讯云架构师技术沙龙圆满落幕](https://cloud.tencent.com/developer/article/2516836) - AI 技术发展日新月异，AI 在自动编程展现巨大的潜力，因此企业对开发者提出更高的要求，不仅会写代码，还需具备架构设计、产品思维等综合能力。在这样的背景下，AI 时代下架构师的价值定位是怎样？面对技术...
+- [腾讯云X巨人网络：来《太空杀》当「内鬼」，智斗700万AI](https://cloud.tencent.com/developer/article/2516891) - 近日，巨人网络旗下社交推理游戏《太空杀》接入腾讯混元Turbo S大模型。2亿注册玩家，在线与超700万AI角色同台竞技——
+- [对话能量奇点创始人杨钊：人类驯服可控核聚变还有多少路程？](https://cloud.tencent.com/developer/article/2516894) - 2021年，Sam Altman以个人名义向美国核聚变初创公司Helion Energy注资3.75亿美金，这是他迄今最大一笔个人下注。Helion豪言称，将在2028年前建成全球首座50兆瓦聚变电厂...
 
 
 ### GitHub 趋势项目
 
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
-- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+- [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 
 
 
 ### AI 研究论文
 
-- [LIRM: Large Inverse Rendering Model for Progressive Reconstruction of
-  Shape, Materials and View-dependent Radiance Fields](http://arxiv.org/abs/2504.20026v1) - Zhengqin Li, Dilin Wang, Ka Chen, Zhaoyang Lv, Thu Nguyen-Phuoc, Milim Lee, Jia-Bin Huang, Lei Xiao, Cheng Zhang, Yufeng Zhu, Carl S. Marshall, Yufeng Ren, Richard Newcombe, Zhao Dong
-  We present Large Inverse Rendering Model (LIRM), a transformer architecture
-that jointly reconstructs high-quality shape, materials, and radiance fiel...
+- [YoChameleon: Personalized Vision and Language Generation](http://arxiv.org/abs/2504.20998v1) - Thao Nguyen, Krishna Kumar Singh, Jing Shi, Trung Bui, Yong Jae Lee, Yuheng Li
+  Large Multimodal Models (e.g., GPT-4, Gemini, Chameleon) have evolved into
+powerful tools with millions of users. However, they remain generic models ...
 
-- [Modular Machine Learning: An Indispensable Path towards New-Generation
-  Large Language Models](http://arxiv.org/abs/2504.20020v1) - Xin Wang, Haoyang Li, Zeyang Zhang, Haibo Chen, Wenwu Zhu
-  Large language models (LLMs) have dramatically advanced machine learning
-research including natural language processing, computer vision, data mining,...
+- [Toward Efficient Exploration by Large Language Model Agents](http://arxiv.org/abs/2504.20997v1) - Dilip Arumugam, Thomas L. Griffiths
+  A burgeoning area within reinforcement learning (RL) is the design of
+sequential decision-making agents centered around large language models (LLMs).
+...
 
-- [Modelling of Underwater Vehicles using Physics-Informed Neural Networks
-  with Control](http://arxiv.org/abs/2504.20019v1) - Abdelhakim Amer, David Felsager, Yury Brodskiy, Andriy Sarabakha
-  Physics-informed neural networks (PINNs) integrate physical laws with
-data-driven models to improve generalization and sample efficiency. This work
-in...
+- [Hubs and Spokes Learning: Efficient and Scalable Collaborative Machine
+  Learning](http://arxiv.org/abs/2504.20988v1) - Atul Sharma, Kavindu Herath, Saurabh Bagchi, Chaoyue Liu, Somali Chaterji
+  We introduce the Hubs and Spokes Learning (HSL) framework, a novel paradigm
+for collaborative machine learning that combines the strengths of Federate...
 
 
 
