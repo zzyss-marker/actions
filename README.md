@@ -30,19 +30,19 @@
 
 MIT
 
-## 今日更新 (2025-04-30)
+## 今日更新 (2025-05-01)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- [ESP32智能设备：蓝牙音箱、AI语音助手、环境监测与调节以及智能控制，基于BLE与MQTT技术（代码详解）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在智能家居的快速发展中，ESP32作为一款功能强大的开发板，凭借其蓝牙和Wi-Fi双模连接能力，成为实现多种智能应用的理想选择。本项目旨在构建一个功能丰富的智能设备，集成蓝牙音箱、AI语音助手、智能设...
-- [ESP32 小智 AI 机器人入门教程从原理到实现（自己云端部署）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 简介： 本教程将指导初学者使用 ESP32 微控制器开发一个简单的语音对话机器人“小智”。我们将介绍所需的基础原理、硬件准备、软件环境搭建，以及如何编写代码实现语音唤醒和与云端大模型的对接。通过本教程...
-- [模拟投资大师思维：AI对冲基金开源项目详解](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - "ai-hedge-fund"是一个概念验证（POC）目，旨在探索使用人工智能进行股票交易决策的可能性。该项目由15个不同的 AI 智能体（Agent）成，这些智能体模拟了著名投资者的思维模式或专注于...
-- [AI交互及爬虫【数据分析】](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 个人主页：在线OJ的阿川大佬的支持和鼓励，将是我成长路上最大的动力阿川水平有限，如有错误，欢迎大佬指正在这个时代 AI 与我们每个人 息息相关1956年 在美国召开了第一场人工智能研讨会，由此人类开始...
-- [深度解读：智能体2.0 AI Agent多推演进](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Agent已经不再是冰冷的代码集合体，而是当代具有生命的数字智能体。你了解Agent的变化吗？它开始只是优化生活效率的助手，现在是重塑产业格局的商业引擎。当Agent开始理解“创造”本身的意义，究竟是...
+- [人工智能 - 人脸识别：发展历史、技术全解与实战](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文全面探讨了人脸识别技术的发展历程、关键方法及其应用任务目标，深入分析了从几何特征到深度学习的技术演进。
+- [使用 DeepSeek 配合 即梦AI 生成视频的详细教程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 访问即梦AI官网，选择“AI作图”功能，将DeepSeek生成的提示词逐条粘贴至输入框，选择适配的模型（如“通用XL Pro”）和参数（如画幅比例、风格强度）1113。“我要制作一个关于普洱茶文化的宣...
+- [AI大模型学习和八股文资料合集](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着人工智能技术的飞速发展，AI大模型（如GPT、LLaMA、ChatGLM）已成为推动行业变革的核心力量。无论是开发者、研究者，还是产品经理，掌握大模型的核心技术与应用方法都至关重要。然而，面对海量...
+- [【大模型】DeepSeek+蓝耕MaaS平台+海螺AI生成高质量视频实战详解](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - DeepSeek + 蓝耕MaaS平台 + 海螺AI生成高质量视频操作详解
+- [【Wan2.1开源AI视频生成模型本地部署结合ComfyUI远程使用】](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文主要介绍如何在 Windows 系统电脑本地部署 ComfyUI 并接入通义万相 Wan2.1 模型，轻松实现使用文字指令生成 AI 视频，结合 cpolar 内网穿透工具还能远程在线使用，无需公...
 
 
 ### 网络安全资讯
@@ -58,41 +58,42 @@ Cline是Visual Studio Code的MCP插件，所以...
 
 ### 技术就业趋势
 
-具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- [AI 时代架构师的破局之道与进阶之路，腾讯云架构师技术沙龙圆满落幕](https://cloud.tencent.com/developer/article/2516836) - AI 技术发展日新月异，AI 在自动编程展现巨大的潜力，因此企业对开发者提出更高的要求，不仅会写代码，还需具备架构设计、产品思维等综合能力。在这样的背景下，AI 时代下架构师的价值定位是怎样？面对技术...
-- [腾讯云X巨人网络：来《太空杀》当「内鬼」，智斗700万AI](https://cloud.tencent.com/developer/article/2516891) - 近日，巨人网络旗下社交推理游戏《太空杀》接入腾讯混元Turbo S大模型。2亿注册玩家，在线与超700万AI角色同台竞技——
-- [对话能量奇点创始人杨钊：人类驯服可控核聚变还有多少路程？](https://cloud.tencent.com/developer/article/2516894) - 2021年，Sam Altman以个人名义向美国核聚变初创公司Helion Energy注资3.75亿美金，这是他迄今最大一笔个人下注。Helion豪言称，将在2028年前建成全球首座50兆瓦聚变电厂...
+- [大模型知识引擎X大参林：打造首个医药零售AI知识库](https://cloud.tencent.com/developer/article/2517029) - 近日，大参林宣布将腾讯云大模型知识引擎深度应用于内部办公协同、药品知识问答、销售助手、用户体验收集等场景。
+- [「EMR 开发指南」之 Sqoop 使用说明](https://cloud.tencent.com/developer/article/2516999) - Sqoop是一种用于在Apache Hadoop和结构化数据存储（如关系数据库）之间传输数据的开源工具。它允许用户在Hadoop分布式文件系统（HDFS）和外部结构化数据存储之间进行数据导入和导出操作...
+- [如何使用DeepSeek-R1的知识库](https://cloud.tencent.com/developer/article/2517053) - 就我个人体验来看，知乎上接入的DeepSeek-R1模型效果非常不错。知乎直答不仅支持个人知识库管理，还能借助DeepSeek-R1实现对知乎内容的搜索与深度分析。
 
 
 ### GitHub 趋势项目
 
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
-- [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 
 
 
 ### AI 研究论文
 
-- [YoChameleon: Personalized Vision and Language Generation](http://arxiv.org/abs/2504.20998v1) - Thao Nguyen, Krishna Kumar Singh, Jing Shi, Trung Bui, Yong Jae Lee, Yuheng Li
-  Large Multimodal Models (e.g., GPT-4, Gemini, Chameleon) have evolved into
-powerful tools with millions of users. However, they remain generic models ...
+- [TRUST: An LLM-Based Dialogue System for Trauma Understanding and
+  Structured Assessments](http://arxiv.org/abs/2504.21851v1) - Sichang Tu, Abigail Powers, Stephen Doogan, Jinho D. Choi
+  Objectives: While Large Language Models (LLMs) have been widely used to
+assist clinicians and support patients, no existing work has explored dialogue...
 
-- [Toward Efficient Exploration by Large Language Model Agents](http://arxiv.org/abs/2504.20997v1) - Dilip Arumugam, Thomas L. Griffiths
-  A burgeoning area within reinforcement learning (RL) is the design of
-sequential decision-making agents centered around large language models (LLMs).
-...
+- [Public Opinion and The Rise of Digital Minds: Perceived Risk, Trust, and
+  Regulation Support](http://arxiv.org/abs/2504.21849v1) - Justin B. Bullock, Janet V. T. Pauketat, Hsini Huang, Yi-Fan Wang, Jacy Reese Anthis
+  Governance institutions must respond to societal risks, including those posed
+by generative AI. This study empirically examines how public trust in
+in...
 
-- [Hubs and Spokes Learning: Efficient and Scalable Collaborative Machine
-  Learning](http://arxiv.org/abs/2504.20988v1) - Atul Sharma, Kavindu Herath, Saurabh Bagchi, Chaoyue Liu, Somali Chaterji
-  We introduce the Hubs and Spokes Learning (HSL) framework, a novel paradigm
-for collaborative machine learning that combines the strengths of Federate...
+- [Characterizing AI Agents for Alignment and Governance](http://arxiv.org/abs/2504.21848v1) - Atoosa Kasirzadeh, Iason Gabriel
+  The creation of effective governance mechanisms for AI agents requires a
+deeper understanding of their core properties and how these properties relate...
 
 
 
