@@ -30,19 +30,19 @@
 
 MIT
 
-## 今日更新 (2025-05-01)
+## 今日更新 (2025-05-02)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- [人工智能 - 人脸识别：发展历史、技术全解与实战](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文全面探讨了人脸识别技术的发展历程、关键方法及其应用任务目标，深入分析了从几何特征到深度学习的技术演进。
-- [使用 DeepSeek 配合 即梦AI 生成视频的详细教程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 访问即梦AI官网，选择“AI作图”功能，将DeepSeek生成的提示词逐条粘贴至输入框，选择适配的模型（如“通用XL Pro”）和参数（如画幅比例、风格强度）1113。“我要制作一个关于普洱茶文化的宣...
-- [AI大模型学习和八股文资料合集](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着人工智能技术的飞速发展，AI大模型（如GPT、LLaMA、ChatGLM）已成为推动行业变革的核心力量。无论是开发者、研究者，还是产品经理，掌握大模型的核心技术与应用方法都至关重要。然而，面对海量...
-- [【大模型】DeepSeek+蓝耕MaaS平台+海螺AI生成高质量视频实战详解](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - DeepSeek + 蓝耕MaaS平台 + 海螺AI生成高质量视频操作详解
-- [【Wan2.1开源AI视频生成模型本地部署结合ComfyUI远程使用】](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文主要介绍如何在 Windows 系统电脑本地部署 ComfyUI 并接入通义万相 Wan2.1 模型，轻松实现使用文字指令生成 AI 视频，结合 cpolar 内网穿透工具还能远程在线使用，无需公...
+- [PLC与AI的相遇：工业自动化的浪漫爱情](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 从深度内核融合到工具层面增强，再到系统级AI协同，PLC与AI的结合有多个层次，每种方式都有它的用武之地。目前，“增强PLC数据分析”、“工具增强”和“系统级AI应用”是主流，而“内核增强”则更像未来...
+- [扣子空间 – 字节跳动推出的通用型 AI Agent](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 字节跳动推出的——（Coze Space）终于亮相了，它能帮助用户快速搭建和管理 AI 应用。通过可视化界面，。扣子空间集成了，涵盖资讯阅读、旅游出行、效率办公等多种功能。用户可以上传本地文件或链接，...
+- [三步完成本地部署构建AI专属个人知识库](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文会手把手教你如何部署本地大模型以及搭建个人知识库，使用到的工具和软件有
+- [AI语音生成必备：开源TTS工具GPT-SoVITS的汉化整合包部署指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 今天我要给大家揭秘一个超级有趣的‘声音魔法’——GPT-SoVITS！这款由花儿不哭大佬精心打造的语音克隆工具，在GitHub上已经收获了超35K颗星星，绝对算得上是声音界的明星产品了。你可能要问：这...
+- [ChatGPT 4：解锁AI文案、绘画与视频创作新纪元](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 12 大专题讲解 +31 个温馨提示＋ 70 多个效果文件 +208 页 PPT 教学课件＋ 210 多分钟教学视频＋280 多张精美插图，随书还提供了 200 多个提示词等资源，帮助读者从入门到精通...
 
 
 ### 网络安全资讯
@@ -58,42 +58,43 @@ Cline是Visual Studio Code的MCP插件，所以...
 
 ### 技术就业趋势
 
-敏捷和Scrum认证在项目管理角色中价值提升。
+网络安全人才缺口扩大，零信任安全模型专家需求激增。
 
 ### 科技热点
 
-- [大模型知识引擎X大参林：打造首个医药零售AI知识库](https://cloud.tencent.com/developer/article/2517029) - 近日，大参林宣布将腾讯云大模型知识引擎深度应用于内部办公协同、药品知识问答、销售助手、用户体验收集等场景。
-- [「EMR 开发指南」之 Sqoop 使用说明](https://cloud.tencent.com/developer/article/2516999) - Sqoop是一种用于在Apache Hadoop和结构化数据存储（如关系数据库）之间传输数据的开源工具。它允许用户在Hadoop分布式文件系统（HDFS）和外部结构化数据存储之间进行数据导入和导出操作...
-- [如何使用DeepSeek-R1的知识库](https://cloud.tencent.com/developer/article/2517053) - 就我个人体验来看，知乎上接入的DeepSeek-R1模型效果非常不错。知乎直答不仅支持个人知识库管理，还能借助DeepSeek-R1实现对知乎内容的搜索与深度分析。
+- [面向大模型时代的云存储架构](https://cloud.tencent.com/developer/article/2517162) - 4 月 20 日，由和腾讯云架构师技术同盟和腾讯云 TVP 联合主办的「AI 时代，程序员只剩架构师——腾讯云架构师技术沙龙」在北京召开。本次沙龙汇聚行业顶尖架构师，多角度深入解析 AI 时代架构设计...
+- [TDMQ RocketMQ 版订阅关系一致性原理与实践](https://cloud.tencent.com/developer/article/2517164) - 腾讯云 TDMQ RocketMQ 版是基于 Apache RocketMQ 打造的满足金融级高可靠的在线业务消息队列产品，凭借其高可用、高可靠等特性，被广泛应用于金融、电商，社交等高并发场景，获得了...
+- [​​腾讯专有云：安全合规护航金融核心系统建设​](https://cloud.tencent.com/developer/article/2517160) - 在本次会议上，腾讯专有云TCE首席架构师李建宏，从腾讯云在金融行业的丰富落地实践出发，深入探讨了腾讯专有云TCE如何支撑下一代核心系统的建设。在核心系统建设中，腾讯专有云TCE提供了全面的技术支持，包...
 
 
 ### GitHub 趋势项目
 
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
-- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
 
 
 
 ### AI 研究论文
 
-- [TRUST: An LLM-Based Dialogue System for Trauma Understanding and
-  Structured Assessments](http://arxiv.org/abs/2504.21851v1) - Sichang Tu, Abigail Powers, Stephen Doogan, Jinho D. Choi
-  Objectives: While Large Language Models (LLMs) have been widely used to
-assist clinicians and support patients, no existing work has explored dialogue...
+- [T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level
+  and Token-level CoT](http://arxiv.org/abs/2505.00703v1) - Dongzhi Jiang, Ziyu Guo, Renrui Zhang, Zhuofan Zong, Hao Li, Le Zhuo, Shilin Yan, Pheng-Ann Heng, Hongsheng Li
+  Recent advancements in large language models have demonstrated how
+chain-of-thought (CoT) and reinforcement learning (RL) can improve performance.
+How...
 
-- [Public Opinion and The Rise of Digital Minds: Perceived Risk, Trust, and
-  Regulation Support](http://arxiv.org/abs/2504.21849v1) - Justin B. Bullock, Janet V. T. Pauketat, Hsini Huang, Yi-Fan Wang, Jacy Reese Anthis
-  Governance institutions must respond to societal risks, including those posed
-by generative AI. This study empirically examines how public trust in
-in...
+- [Robotic Visual Instruction](http://arxiv.org/abs/2505.00693v1) - Yanbang Li, Ziyang Gong, Haoyang Li, Haoyang Li, Xiaoqi Huang, Haolan Kang, Guangping Bai, Xianzheng Ma
+  Recently, natural language has been the primary medium for human-robot
+interaction. However, its inherent lack of spatial precision for robotic
+contro...
 
-- [Characterizing AI Agents for Alignment and Governance](http://arxiv.org/abs/2504.21848v1) - Atoosa Kasirzadeh, Iason Gabriel
-  The creation of effective governance mechanisms for AI agents requires a
-deeper understanding of their core properties and how these properties relate...
+- [Towards Autonomous Micromobility through Scalable Urban Simulation](http://arxiv.org/abs/2505.00690v1) - Wayne Wu, Honglin He, Chaoyuan Zhang, Jack He, Seth Z. Zhao, Ran Gong, Quanyi Li, Bolei Zhou
+  Micromobility, which utilizes lightweight mobile machines moving in urban
+public spaces, such as delivery robots and mobility scooters, emerges as a
+p...
 
 
 
