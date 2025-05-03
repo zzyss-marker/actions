@@ -30,7 +30,7 @@
 
 MIT
 
-## 今日更新 (2025-05-02)
+## 今日更新 (2025-05-03)
 
 ### 今日名言
 
@@ -38,11 +38,11 @@ MIT
 
 ### AI 技术动态
 
-- [PLC与AI的相遇：工业自动化的浪漫爱情](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 从深度内核融合到工具层面增强，再到系统级AI协同，PLC与AI的结合有多个层次，每种方式都有它的用武之地。目前，“增强PLC数据分析”、“工具增强”和“系统级AI应用”是主流，而“内核增强”则更像未来...
-- [扣子空间 – 字节跳动推出的通用型 AI Agent](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 字节跳动推出的——（Coze Space）终于亮相了，它能帮助用户快速搭建和管理 AI 应用。通过可视化界面，。扣子空间集成了，涵盖资讯阅读、旅游出行、效率办公等多种功能。用户可以上传本地文件或链接，...
-- [三步完成本地部署构建AI专属个人知识库](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文会手把手教你如何部署本地大模型以及搭建个人知识库，使用到的工具和软件有
-- [AI语音生成必备：开源TTS工具GPT-SoVITS的汉化整合包部署指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 今天我要给大家揭秘一个超级有趣的‘声音魔法’——GPT-SoVITS！这款由花儿不哭大佬精心打造的语音克隆工具，在GitHub上已经收获了超35K颗星星，绝对算得上是声音界的明星产品了。你可能要问：这...
-- [ChatGPT 4：解锁AI文案、绘画与视频创作新纪元](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 12 大专题讲解 +31 个温馨提示＋ 70 多个效果文件 +208 页 PPT 教学课件＋ 210 多分钟教学视频＋280 多张精美插图，随书还提供了 200 多个提示词等资源，帮助读者从入门到精通...
+- [探索AIGC未来：通义万相2.1与蓝耘智算平台的完美结合释放AI生产力](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 蓝耘智算平台是一个为高性能计算需求设计的云计算平台，提供强大的计算能力与灵活服务。平台基于领先的基础设施和大规模GPU算力，采用现代化的Kubernetes架构，专为大规模GPU加速工作负载而设计，满...
+- [【AI 大模型】大模型行业融合与技术落地探索 ( 百度千帆模型 模型广场 | Hugging Face 模型广场 | 模型类型简介 | 文本生成模型 | 图像理解模型 | 深度推理模型 )](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 一、大模型类型 简介1、百度千帆模型 模型广场2、千帆模型类型 简介二、 文本生成模型1、模型简介2、文本生成 相关技术领域3、文本生成模型 落地方向三、 深度推理模型四、图像理解模型1、图像理解大模...
+- [2024年最新ComfyUI汉化及manager插件安装详解！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在ComfyUI文生图详解中，学习过如果想要安装相应的模型，需要到模型资源网站（抱抱脸C站魔塔哩布等）下载想要的模型，手动安装到ComfyUI安装目录下对应的目录中。为了简化这个流程，我们需要安装Co...
+- [5 分钟用满血 DeepSeek R1 搭建个人 AI 知识库（含本地部署）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 备注：评论区回复“DeepSeek”，免费领取万字DeepSeek指南。看到这里，相信你已经找到最适合自己的 DeepSeek 个人知识库方案了。如果你和大多数人一样，选择使用官方 API ，那就不用...
+- [Spring Boot整合DeepSeek实现AI对话（API调用和本地部署）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本篇文章会分基于DeepSeek开放平台上的API，以及本地私有化部署DeepSeek R1模型两种方式来整合使用。本地化私有部署可以参考这篇博文。
 
 
 ### 网络安全资讯
@@ -58,22 +58,22 @@ Cline是Visual Studio Code的MCP插件，所以...
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
 
 ### 科技热点
 
 - [面向大模型时代的云存储架构](https://cloud.tencent.com/developer/article/2517162) - 4 月 20 日，由和腾讯云架构师技术同盟和腾讯云 TVP 联合主办的「AI 时代，程序员只剩架构师——腾讯云架构师技术沙龙」在北京召开。本次沙龙汇聚行业顶尖架构师，多角度深入解析 AI 时代架构设计...
-- [TDMQ RocketMQ 版订阅关系一致性原理与实践](https://cloud.tencent.com/developer/article/2517164) - 腾讯云 TDMQ RocketMQ 版是基于 Apache RocketMQ 打造的满足金融级高可靠的在线业务消息队列产品，凭借其高可用、高可靠等特性，被广泛应用于金融、电商，社交等高并发场景，获得了...
-- [​​腾讯专有云：安全合规护航金融核心系统建设​](https://cloud.tencent.com/developer/article/2517160) - 在本次会议上，腾讯专有云TCE首席架构师李建宏，从腾讯云在金融行业的丰富落地实践出发，深入探讨了腾讯专有云TCE如何支撑下一代核心系统的建设。在核心系统建设中，腾讯专有云TCE提供了全面的技术支持，包...
+- [企业数据变革迫在眉睫，TDSQL多模一体化如何支撑企业多业务扩展？](https://cloud.tencent.com/developer/article/2517158) - IDC预测，到2025年，物联网设备日志、社交图谱、人工智能训练集等新型数据占比将超60%。传统关系型数据库的二维表结构，难以应对多模态数据处理需求，无法满足企业复杂的数据管理要求。
+- [智能运维新时代：如何打造你的专属知识库](https://cloud.tencent.com/developer/article/2517172) - 顾黄亮，腾讯云 TVP，畅销书《DevOps 权威指南》和《技术赋能数字化转型的基石》作者，中国商联专家智库入库专家、国家互联网数据中心产业技术创新战略联盟(NIISA)智库专家委员会副主任委员、江苏...
 
 
 ### GitHub 趋势项目
 
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
+- [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+- [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - No description
+- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 
 
