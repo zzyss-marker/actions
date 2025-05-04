@@ -30,19 +30,15 @@
 
 MIT
 
-## 今日更新 (2025-05-03)
+## 今日更新 (2025-05-04)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- [探索AIGC未来：通义万相2.1与蓝耘智算平台的完美结合释放AI生产力](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 蓝耘智算平台是一个为高性能计算需求设计的云计算平台，提供强大的计算能力与灵活服务。平台基于领先的基础设施和大规模GPU算力，采用现代化的Kubernetes架构，专为大规模GPU加速工作负载而设计，满...
-- [【AI 大模型】大模型行业融合与技术落地探索 ( 百度千帆模型 模型广场 | Hugging Face 模型广场 | 模型类型简介 | 文本生成模型 | 图像理解模型 | 深度推理模型 )](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 一、大模型类型 简介1、百度千帆模型 模型广场2、千帆模型类型 简介二、 文本生成模型1、模型简介2、文本生成 相关技术领域3、文本生成模型 落地方向三、 深度推理模型四、图像理解模型1、图像理解大模...
-- [2024年最新ComfyUI汉化及manager插件安装详解！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在ComfyUI文生图详解中，学习过如果想要安装相应的模型，需要到模型资源网站（抱抱脸C站魔塔哩布等）下载想要的模型，手动安装到ComfyUI安装目录下对应的目录中。为了简化这个流程，我们需要安装Co...
-- [5 分钟用满血 DeepSeek R1 搭建个人 AI 知识库（含本地部署）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 备注：评论区回复“DeepSeek”，免费领取万字DeepSeek指南。看到这里，相信你已经找到最适合自己的 DeepSeek 个人知识库方案了。如果你和大多数人一样，选择使用官方 API ，那就不用...
-- [Spring Boot整合DeepSeek实现AI对话（API调用和本地部署）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本篇文章会分基于DeepSeek开放平台上的API，以及本地私有化部署DeepSeek R1模型两种方式来整合使用。本地化私有部署可以参考这篇博文。
+- [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) - 新模型在推理能力和上下文窗口方面有显著改进
 
 
 ### 网络安全资讯
@@ -58,22 +54,22 @@ Cline是Visual Studio Code的MCP插件，所以...
 
 ### 技术就业趋势
 
-数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
+远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
 
 ### 科技热点
 
-- [面向大模型时代的云存储架构](https://cloud.tencent.com/developer/article/2517162) - 4 月 20 日，由和腾讯云架构师技术同盟和腾讯云 TVP 联合主办的「AI 时代，程序员只剩架构师——腾讯云架构师技术沙龙」在北京召开。本次沙龙汇聚行业顶尖架构师，多角度深入解析 AI 时代架构设计...
-- [企业数据变革迫在眉睫，TDSQL多模一体化如何支撑企业多业务扩展？](https://cloud.tencent.com/developer/article/2517158) - IDC预测，到2025年，物联网设备日志、社交图谱、人工智能训练集等新型数据占比将超60%。传统关系型数据库的二维表结构，难以应对多模态数据处理需求，无法满足企业复杂的数据管理要求。
 - [智能运维新时代：如何打造你的专属知识库](https://cloud.tencent.com/developer/article/2517172) - 顾黄亮，腾讯云 TVP，畅销书《DevOps 权威指南》和《技术赋能数字化转型的基石》作者，中国商联专家智库入库专家、国家互联网数据中心产业技术创新战略联盟(NIISA)智库专家委员会副主任委员、江苏...
+- [企业数据变革迫在眉睫，TDSQL多模一体化如何支撑企业多业务扩展？](https://cloud.tencent.com/developer/article/2517158) - IDC预测，到2025年，物联网设备日志、社交图谱、人工智能训练集等新型数据占比将超60%。传统关系型数据库的二维表结构，难以应对多模态数据处理需求，无法满足企业复杂的数据管理要求。
+- [Kubernetes 实战：用 Prometheus 提高 K8s 集群弹性伸缩能力的准确性](https://cloud.tencent.com/developer/article/2517170) - 导语：本文主要通过 Prometheus 在观测 Kubernetes 方面的独特优势，来阐述如何利用 Prometheus 提高 kubernetes 自动弹性伸缩能力的准确性。
 
 
 ### GitHub 趋势项目
 
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+- [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+- [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - No description
-- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 
 
 
