@@ -30,15 +30,19 @@
 
 MIT
 
-## 今日更新 (2025-05-04)
+## 今日更新 (2025-05-05)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) - 新模型在推理能力和上下文窗口方面有显著改进
+- [史上最全！一篇文章带你搞懂“AI智能体”（AI Agent）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在科技飞速发展的当下，人工智能正以前所未有的速度改变着我们的生活。而在人工智能的众多领域中，AI 智能体宛如一颗冉冉升起的新星，逐渐成为各界瞩目的焦点。它究竟是什么？又为何能被视作下一代智能革命的引擎...
+- [【人工智能】使用Python的dlib库实现人脸识别技术](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 人脸识别技术已经成为现代技术的重要组成部分，被广泛应用于安全监控、身份验证、智能门禁等领域。随着机器学习和深度学习技术的发展，人脸识别的准确性和应用范围得到了极大提升。本文将介绍人脸识别技术的发展历程...
+- [Deepseek + 即梦，你要的 AI 视频保姆级教程来了](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 大家好呀，前天写的 Deepseek 写 AI 视频脚本的文章小爆。好多朋友留言问用 Deepseek 脚本怎么去做图做视频。今天我就来分享个保姆级教程。之前提到的 Deepseek出视频脚本教程在这...
+- [AI重塑视觉艺术：DeepSeek与蓝耘通义万相2.1的图生视频奇迹](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 近年来，深度学习、计算机视觉和生成模型在多个领域取得了突破性进展。其中，DeepSeek与蓝耘通义万相2.1图生视频的结合为图像生成与视频生成技术提供了新的发展方向。DeepSeek作为一个图像和视频...
+- [给AI装上“万能双手”的协议，小白也能玩转智能工具-一文搞懂MCP](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 首先我们看看MCP的官方架构图：MCP Hosts: Hosts 是指 LLM 启动连接的应用程序，像 Cursor, Claude Desktop、Cline 这样的应用程序。MCP Clients...
 
 
 ### 网络安全资讯
@@ -54,21 +58,21 @@ Cline是Visual Studio Code的MCP插件，所以...
 
 ### 技术就业趋势
 
-远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
+DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
 
 ### 科技热点
 
-- [智能运维新时代：如何打造你的专属知识库](https://cloud.tencent.com/developer/article/2517172) - 顾黄亮，腾讯云 TVP，畅销书《DevOps 权威指南》和《技术赋能数字化转型的基石》作者，中国商联专家智库入库专家、国家互联网数据中心产业技术创新战略联盟(NIISA)智库专家委员会副主任委员、江苏...
 - [企业数据变革迫在眉睫，TDSQL多模一体化如何支撑企业多业务扩展？](https://cloud.tencent.com/developer/article/2517158) - IDC预测，到2025年，物联网设备日志、社交图谱、人工智能训练集等新型数据占比将超60%。传统关系型数据库的二维表结构，难以应对多模态数据处理需求，无法满足企业复杂的数据管理要求。
 - [Kubernetes 实战：用 Prometheus 提高 K8s 集群弹性伸缩能力的准确性](https://cloud.tencent.com/developer/article/2517170) - 导语：本文主要通过 Prometheus 在观测 Kubernetes 方面的独特优势，来阐述如何利用 Prometheus 提高 kubernetes 自动弹性伸缩能力的准确性。
+- [打起来了！MCP VS A2A，谁才是Agent的未来事实标准？](https://cloud.tencent.com/developer/article/2517173) - 谷歌在MCP协议快速发展之际推出A2A协议，定位为智能体Agent间的协调协议。本文通过具体的案例介绍了MCP和A2A的细节，通过同一案例在MCP与A2A两种模式下的实现差异，认为A2A模式下的 Ag...
 
 
 ### GitHub 趋势项目
 
-- [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
-- [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
-- [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
+- [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - No description
 
 
@@ -76,21 +80,21 @@ Cline是Visual Studio Code的MCP插件，所以...
 
 ### AI 研究论文
 
-- [T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level
-  and Token-level CoT](http://arxiv.org/abs/2505.00703v1) - Dongzhi Jiang, Ziyu Guo, Renrui Zhang, Zhuofan Zong, Hao Li, Le Zhuo, Shilin Yan, Pheng-Ann Heng, Hongsheng Li
-  Recent advancements in large language models have demonstrated how
-chain-of-thought (CoT) and reinforcement learning (RL) can improve performance.
-How...
+- [GENMO: A GENeralist Model for Human MOtion](http://arxiv.org/abs/2505.01425v1) - Jiefeng Li, Jinkun Cao, Haotian Zhang, Davis Rempe, Jan Kautz, Umar Iqbal, Ye Yuan
+  Human motion modeling traditionally separates motion generation and
+estimation into distinct tasks with specialized models. Motion generation
+models f...
 
-- [Robotic Visual Instruction](http://arxiv.org/abs/2505.00693v1) - Yanbang Li, Ziyang Gong, Haoyang Li, Haoyang Li, Xiaoqi Huang, Haolan Kang, Guangping Bai, Xianzheng Ma
-  Recently, natural language has been the primary medium for human-robot
-interaction. However, its inherent lack of spatial precision for robotic
-contro...
+- [SIME: Enhancing Policy Self-Improvement with Modal-level Exploration](http://arxiv.org/abs/2505.01396v1) - Yang Jin, Jun Lv, Wenye Yu, Hongjie Fang, Yong-Lu Li, Cewu Lu
+  Self-improvement requires robotic systems to initially learn from
+human-provided data and then gradually enhance their capabilities through
+interactio...
 
-- [Towards Autonomous Micromobility through Scalable Urban Simulation](http://arxiv.org/abs/2505.00690v1) - Wayne Wu, Honglin He, Chaoyuan Zhang, Jack He, Seth Z. Zhao, Ran Gong, Quanyi Li, Bolei Zhou
-  Micromobility, which utilizes lightweight mobile machines moving in urban
-public spaces, such as delivery robots and mobility scooters, emerges as a
-p...
+- [Multimodal Doctor-in-the-Loop: A Clinically-Guided Explainable Framework
+  for Predicting Pathological Response in Non-Small Cell Lung Cancer](http://arxiv.org/abs/2505.01390v1) - Alice Natalina Caragliano, Claudia Tacconi, Carlo Greco, Lorenzo Nibid, Edy Ippolito, Michele Fiore, Giuseppe Perrone, Sara Ramella, Paolo Soda, Valerio Guarrasi
+  This study proposes a novel approach combining Multimodal Deep Learning with
+intrinsic eXplainable Artificial Intelligence techniques to predict
+patho...
 
 
 
