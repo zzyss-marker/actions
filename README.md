@@ -30,71 +30,71 @@
 
 MIT
 
-## 今日更新 (2025-05-06)
+## 今日更新 (2025-05-07)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- [【用ChatGPT学编程】——如何让AI帮你写代码注释和Debug？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在软件开发的道路上，编写清晰的代码注释和高效Debug是每位开发者的必修课。随着人工智能技术的发展，ChatGPT这类强大的语言模型为我们提供了新的学习和工作方式。本文将详细介绍如何借助ChatGPT...
-- [深入详解人工智能数学基础—概率论-KL散度在变分自编码器（VAE）中的应用](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在人工智能领域，概率论为处理不确定性和数据中的随机性提供了坚实的理论基础。Kullback-Leibler散度（KL散度）作为衡量概率分布间差异的关键工具，在变分自编码器（Variational Au...
-- [IntelliJ IDEA 的 AI 编程插件推荐清单，助你高效选择](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 国际插件（如 Copilot）需稳定访问外网，国内插件可直连。：插件市场直接安装，免费版够用，Pro 版支持全代码库学习。：基于 ChatGPT，支持生成测试用例、文档和代码解释。：插件市场搜索安装，...
-- [【ComfyUI】喂饭版-ComfyUI 安装指南：从零开始搭建高性能 AI 绘图环境](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - ComfyUI 是目前最灵活、功能最丰富的 Stable Diffusion 工作流工具之一，它采用节点式设计，可以自由组合各种组件，创建复杂的图像生成流程。与其他工具相比，ComfyUI 的最大优势...
-- [Windsurf：这款全新免费的 AI IDE 击败了Cursor 吗？超强上下文感知 、AI代理和工作流支持](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI在整个过程中完全与你同步。Windsurf的创新之处就是它能够在AI与开发者之间建立实时的协同关系，不需要开发者不断向AI提供工作范围的上下文信息，AI可以根据开发者的最新操作，自动获取上下文，保...
+- [AI对话高效输入指令攻略（三）：使用大忌——“AI味”](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 没有听不懂话的AI，只有不会调教AI的人。当你把AI当人看之后，你就会发现，他是多么好用的高效工具。书接上文，接下来，我们展示使用AI的大忌——“AI味”。
+- [生成式人工智能的未来之路：对话系统与自主代理的交汇与展望](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 生成式人工智能（AI）在对话系统（Chat）和自主代理（Agent）两个领域的发展不仅展示了其多样化的应用场景，也反映了技术的深度与广度。对话系统主要聚焦于通过自然语言处理（NLP）技术，使机器能够理...
+- [问答式数据分析利器 PandasAI 中文教程(最全)](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - PandasAI 是一个 Python 库，它让您可以轻松地使用自然语言向数据提问。除了查询功能外，PandasAI 还提供了通过图表可视化数据、通过处理缺失值来清理数据集以及通过特征生成来提高数据质...
+- [阿里巴巴达摩院人工智能训练师（高级）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 阿里巴巴达摩院人工智能训练师（高级）
+- [HeyGem ai数字人本地部署(服务端linux+客户端windows)](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 启动成功，通过docker ps查看进程进入heygem-tts容器内config目录。
 
 
 ### 网络安全资讯
 
-- [iOS 出现新严重漏洞，仅需一行代码即可导致 iPhone 崩溃](https://www.anquanke.com/post/id/307112) - 安全公告，详情请点击链接查看完整内容
-- [MCP 安全探讨系列（二）—— Cline 安全分析](https://paper.seebug.org/3317/) - 作者：Hcamael@知道创宇404实验室
-日期：2025年4月18日
-1. Cline的实现原理
-1.1 Cline的基础使用指南
-Cline是Visual Studio Code的MCP插件，所以...
-- [苹果“AirBorne”漏洞可能导致零点击 AirPlay RCE 攻击](https://www.4hou.com/posts/YZmM) - 苹果的AirPlay协议和AirPlay软件开发工具包（SDK）中的一系列安全漏洞使未打补丁的第三方和苹果设备暴露于各种攻击中，包括远程代码执行。网络安全公司Oligo Security的安全研究人员...
+- [CVE-2025-25014（CVSS 9.1）：Kibana的原型污染为代码执行打开了大门](https://www.anquanke.com/post/id/307127) - 安全公告，详情请点击链接查看完整内容
+- [高效标记的提示注入攻击：通过自适应标记压缩引发LLM推理中断](https://paper.seebug.org/3318/) - 作者：Yu Cui, Yujun Cai, Yiwei Wang
+译者：知道创宇404实验室翻译组
+原文链接：https://arxiv.org/html/2504.20493v1
+摘要
+尽管推理型大...
+- [“游蛇”黑产攻击肆虐，速启专项排查与处置](https://www.4hou.com/posts/8gNg) - 1 概述“游蛇”黑产团伙（又名“银狐”、“谷堕大盗”、“UTG-Q-1000”等）自2022年下半年开始活跃至今，针对国内用户发起了大量攻击活动，以图窃密和诈骗，对企业及个人造成了一定的损失。该黑产团...
 
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
 
 ### 科技热点
 
-- [打起来了！MCP VS A2A，谁才是Agent的未来事实标准？](https://cloud.tencent.com/developer/article/2517173) - 谷歌在MCP协议快速发展之际推出A2A协议，定位为智能体Agent间的协调协议。本文通过具体的案例介绍了MCP和A2A的细节，通过同一案例在MCP与A2A两种模式下的实现差异，认为A2A模式下的 Ag...
-- [重磅！CodeBuddy腾讯云代码助手「首席试玩官」内容创作大赛，好礼送不停🎁](https://cloud.tencent.com/developer/article/2516978) - 腾讯云代码助手（CodeBuddy）是腾讯自研的AI编程提效工具，凭借腾讯混元与 DeepSeek 混合模型，专为开发者打造。CodeBuddy不仅支持200+编程语言、兼容多种主流IDE，是国内首个...
-- [遇到一例奇葩case如下，必须用就地升级的方式维修](https://cloud.tencent.com/developer/article/2517326) - ①登录卡、关机卡、重启卡、打字卡（敲一个字母得等几秒甚至十几秒才出来）、挪鼠标卡，卡得没法进一步界定问题，且dnscache服务启动报错、网络不正常（黄色感叹号、dhcpclient服务虽然runni...
+- [开源公告｜Kuikly 跨平台开发框架](https://cloud.tencent.com/developer/article/2517161) - Kuikly 是腾讯大前端领域 Oteam（公司级）推出的，面向客户端开发的全新跨端解决方案。Kuikly 基于 Kotlin Multiplatform(KMP) 技术，可以使用 Kotlin 原生...
+- [腾讯云MCP头号玩家征集令｜分享实践方案，赢SWITCH游戏机！](https://cloud.tencent.com/developer/article/2517337) - 在AI技术重构生产力的时代，开发者的核心价值正从“重复编码”转向“场景创新”——  MCP（Model Context Protocol，全称模型上下文协议）
+- [go-channel底层原理](https://cloud.tencent.com/developer/article/2517407) - 在介绍 channel 的底层原理之前， 先回忆一下进程/线程之间交换数据的方式， 无非就是:
 
 
 ### GitHub 趋势项目
 
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 📚 Freely available programming books
-- [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+- [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+- [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 
 
 
 
 ### AI 研究论文
 
-- [LISAT: Language-Instructed Segmentation Assistant for Satellite Imagery](http://arxiv.org/abs/2505.02829v1) - Jerome Quenum, Wen-Han Hsieh, Tsung-Han Wu, Ritwik Gupta, Trevor Darrell, David M. Chan
-  Segmentation models can recognize a pre-defined set of objects in images.
-However, models that can reason over complex user queries that implicitly re...
+- [VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient
+  Large Speech-Language Model](http://arxiv.org/abs/2505.03739v1) - Zuwei Long, Yunhang Shen, Chaoyou Fu, Heting Gao, Lijiang Li, Peixian Chen, Mengdan Zhang, Hang Shao, Jian Li, Jinlong Peng, Haoyu Cao, Ke Li, Rongrong Ji, Xing Sun
+  With the growing requirement for natural human-computer interaction,
+speech-based systems receive increasing attention as speech is one of the most
+co...
 
-- [Privacy Risks and Preservation Methods in Explainable Artificial
-  Intelligence: A Scoping Review](http://arxiv.org/abs/2505.02828v1) - Sonal Allana, Mohan Kankanhalli, Rozita Dara
-  Explainable Artificial Intelligence (XAI) has emerged as a pillar of
-Trustworthy AI and aims to bring transparency in complex models that are opaque
-b...
+- [AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid
+  Whole-Body Control](http://arxiv.org/abs/2505.03738v1) - Jialong Li, Xuxin Cheng, Tianshu Huang, Shiqi Yang, Ri-Zhao Qiu, Xiaolong Wang
+  Humanoid robots derive much of their dexterity from hyper-dexterous
+whole-body movements, enabling tasks that require a large operational
+workspace: s...
 
-- [Towards Dataset Copyright Evasion Attack against Personalized
-  Text-to-Image Diffusion Models](http://arxiv.org/abs/2505.02824v1) - Kuofeng Gao, Yufei Zhu, Yiming Li, Jiawang Bai, Yong Yang, Zhifeng Li, Shu-Tao Xia
-  Text-to-image (T2I) diffusion models have rapidly advanced, enabling
-high-quality image generation conditioned on textual prompts. However, the
-growin...
+- [FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios](http://arxiv.org/abs/2505.03730v1) - Shiyi Zhang, Junhao Zhuang, Zhaoyang Zhang, Ying Shan, Yansong Tang
+  Action customization involves generating videos where the subject performs
+actions dictated by input control signals. Current methods use pose-guided ...
 
 
 
