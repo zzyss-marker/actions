@@ -30,71 +30,66 @@
 
 MIT
 
-## 今日更新 (2025-05-07)
+## 今日更新 (2025-05-09)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- [AI对话高效输入指令攻略（三）：使用大忌——“AI味”](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 没有听不懂话的AI，只有不会调教AI的人。当你把AI当人看之后，你就会发现，他是多么好用的高效工具。书接上文，接下来，我们展示使用AI的大忌——“AI味”。
-- [生成式人工智能的未来之路：对话系统与自主代理的交汇与展望](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 生成式人工智能（AI）在对话系统（Chat）和自主代理（Agent）两个领域的发展不仅展示了其多样化的应用场景，也反映了技术的深度与广度。对话系统主要聚焦于通过自然语言处理（NLP）技术，使机器能够理...
-- [问答式数据分析利器 PandasAI 中文教程(最全)](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - PandasAI 是一个 Python 库，它让您可以轻松地使用自然语言向数据提问。除了查询功能外，PandasAI 还提供了通过图表可视化数据、通过处理缺失值来清理数据集以及通过特征生成来提高数据质...
-- [阿里巴巴达摩院人工智能训练师（高级）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 阿里巴巴达摩院人工智能训练师（高级）
-- [HeyGem ai数字人本地部署(服务端linux+客户端windows)](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 启动成功，通过docker ps查看进程进入heygem-tts容器内config目录。
+- [GeoGPT是一个融合了大语言模型（LLM）和地理空间数据的人工智能助手](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 它的目标是通过利用LLM强大的自然语言理解能力来提升用户体验，并通过一系列可扩展的工具GeoToolsChain（例如基础的爬取数据、缓冲区分析等）来增强LLM的空间认知能力，使其具备地理信息数据的清...
+- [AI角色扮演游戏框架SillyTavern（酒馆）的本地与云服务器搭建](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文介绍SillyTavern（酒馆）AI角色扮演游戏的玩法。并考虑到AI模型服务商API的不稳定性，以及功能限制，本文演示基于本地系统与基于云服务器的AI模型搭建，为SillyTavern的使用提供...
+- [专利相关链接（AI辅助）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 搜索引擎：，，专利检索查询和下载网站：，，AI辅助链接：，，，，开搜，，，，,,通用大模型：，，，个人知识库（智能体）链接：，
+- [Chat2DB 实现：Spring AI MCP 直连数据库](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Spring AI MCP 为模型上下文协议提供 Java 和 Spring 框架集成。它使 Spring AI 应用程序能够通过标准化的接口与不同的数据源和工具进行交互，支持同步和异步通信模式。Sp...
+- [【AI大模型】ELMo模型介绍：深度理解语言模型的嵌入艺术](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - ELMo是2018年3月由华盛顿大学提出的一种预训练模型.ELMo的全称是Embeddings from Language Models.ELMo模型的提出源于论文。
 
 
 ### 网络安全资讯
 
-- [CVE-2025-25014（CVSS 9.1）：Kibana的原型污染为代码执行打开了大门](https://www.anquanke.com/post/id/307127) - 安全公告，详情请点击链接查看完整内容
-- [高效标记的提示注入攻击：通过自适应标记压缩引发LLM推理中断](https://paper.seebug.org/3318/) - 作者：Yu Cui, Yujun Cai, Yiwei Wang
+- [地狱排水器在不断发展的加密攻击中偷走了数百万人](https://www.anquanke.com/post/id/307267) - 安全公告，详情请点击链接查看完整内容
+- [利用通信攻击对基于 LLM 的多智能体系统进行渗透测试](https://paper.seebug.org/3319/) - 作者：Pengfei He, Yupin Lin, Shen Dong, Han Xu, Yue Xing, Hui Liu
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2504.20493v1
-摘要
-尽管推理型大...
-- [“游蛇”黑产攻击肆虐，速启专项排查与处置](https://www.4hou.com/posts/8gNg) - 1 概述“游蛇”黑产团伙（又名“银狐”、“谷堕大盗”、“UTG-Q-1000”等）自2022年下半年开始活跃至今，针对国内用户发起了大量攻击活动，以图窃密和诈骗，对企业及个人造成了一定的损失。该黑产团...
+原文链接：https://arxiv.o...
+- [超过1200个SAP NetWeaver服务器容易受到主动利用漏洞的攻击](https://www.4hou.com/posts/QXG0) - 超过1200个暴露在互联网上的SAP NetWeaver实例容易受到一个高严重程度的未经身份验证文件上传漏洞的攻击，该漏洞允许攻击者劫持服务器。SAP NetWeaver是一个应用服务器和开发平台，可...
 
 
 ### 技术就业趋势
 
-量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
-- [开源公告｜Kuikly 跨平台开发框架](https://cloud.tencent.com/developer/article/2517161) - Kuikly 是腾讯大前端领域 Oteam（公司级）推出的，面向客户端开发的全新跨端解决方案。Kuikly 基于 Kotlin Multiplatform(KMP) 技术，可以使用 Kotlin 原生...
-- [腾讯云MCP头号玩家征集令｜分享实践方案，赢SWITCH游戏机！](https://cloud.tencent.com/developer/article/2517337) - 在AI技术重构生产力的时代，开发者的核心价值正从“重复编码”转向“场景创新”——  MCP（Model Context Protocol，全称模型上下文协议）
-- [go-channel底层原理](https://cloud.tencent.com/developer/article/2517407) - 在介绍 channel 的底层原理之前， 先回忆一下进程/线程之间交换数据的方式， 无非就是:
+- [GPT生成「吉卜力风格」图像不侵权，宫崎骏维权都难成？｜AGI之路](https://cloud.tencent.com/developer/article/2518237) - OpenAI的GPT-4o因其精准生成吉卜力动画风格的图像能力引发热议，用户通过输入简单指令即可复现标志性的柔和色调与奇幻场景。创作者们将《指环王》等经典IP转化为吉卜力画风的二创作品在社交平台病毒式...
+- [CodeBuddy编程神器上线！分享测评100%领福利，开发者专享通道](https://cloud.tencent.com/developer/article/2518334) - [礼物]5.6-5.12期间预约直播并分享如下活动海报不少于5个开发者社群（非腾讯官方社群）参与邀约排行，即可赢 QQfamily 定制帐篷
+- [“3秒克隆周杰伦声音”？普通人也能玩转AI换声，太疯了！](https://cloud.tencent.com/developer/article/2518427) - 如今，通过AI技术克隆声音已经变得非常简单。仅使用开源的代码，几分钟内即可完成快速声音克隆。
 
 
 ### GitHub 趋势项目
 
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-- [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
+- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
 
 
 
 ### AI 研究论文
 
-- [VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient
-  Large Speech-Language Model](http://arxiv.org/abs/2505.03739v1) - Zuwei Long, Yunhang Shen, Chaoyou Fu, Heting Gao, Lijiang Li, Peixian Chen, Mengdan Zhang, Hang Shao, Jian Li, Jinlong Peng, Haoyu Cao, Ke Li, Rongrong Ji, Xing Sun
-  With the growing requirement for natural human-computer interaction,
-speech-based systems receive increasing attention as speech is one of the most
-co...
+- [Flow-GRPO: Training Flow Matching Models via Online RL](http://arxiv.org/abs/2505.05470v1) - Jie Liu, Gongye Liu, Jiajun Liang, Yangguang Li, Jiaheng Liu, Xintao Wang, Pengfei Wan, Di Zhang, Wanli Ouyang
+  We propose Flow-GRPO, the first method integrating online reinforcement
+learning (RL) into flow matching models. Our approach uses two key strategies:...
 
-- [AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid
-  Whole-Body Control](http://arxiv.org/abs/2505.03738v1) - Jialong Li, Xuxin Cheng, Tianshu Huang, Shiqi Yang, Ri-Zhao Qiu, Xiaolong Wang
-  Humanoid robots derive much of their dexterity from hyper-dexterous
-whole-body movements, enabling tasks that require a large operational
-workspace: s...
+- [StreamBridge: Turning Your Offline Video Large Language Model into a
+  Proactive Streaming Assistant](http://arxiv.org/abs/2505.05467v1) - Haibo Wang, Bo Feng, Zhengfeng Lai, Mingze Xu, Shiyu Li, Weifeng Ge, Afshin Dehghan, Meng Cao, Ping Huang
+  We present StreamBridge, a simple yet effective framework that seamlessly
+transforms offline Video-LLMs into streaming-capable models. It addresses tw...
 
-- [FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios](http://arxiv.org/abs/2505.03730v1) - Shiyi Zhang, Junhao Zhuang, Zhaoyang Zhang, Ying Shan, Yansong Tang
-  Action customization involves generating videos where the subject performs
-actions dictated by input control signals. Current methods use pose-guided ...
+- [ComPO: Preference Alignment via Comparison Oracles](http://arxiv.org/abs/2505.05465v1) - Peter Chen, Xi Chen, Wotao Yin, Tianyi Lin
+  Direct alignment methods are increasingly used for aligning large language
+models (LLMs) with human preferences. However, these methods suffer from th...
 
 
 
