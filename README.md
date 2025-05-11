@@ -30,19 +30,19 @@
 
 MIT
 
-## 今日更新 (2025-05-09)
+## 今日更新 (2025-05-11)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- [GeoGPT是一个融合了大语言模型（LLM）和地理空间数据的人工智能助手](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 它的目标是通过利用LLM强大的自然语言理解能力来提升用户体验，并通过一系列可扩展的工具GeoToolsChain（例如基础的爬取数据、缓冲区分析等）来增强LLM的空间认知能力，使其具备地理信息数据的清...
-- [AI角色扮演游戏框架SillyTavern（酒馆）的本地与云服务器搭建](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文介绍SillyTavern（酒馆）AI角色扮演游戏的玩法。并考虑到AI模型服务商API的不稳定性，以及功能限制，本文演示基于本地系统与基于云服务器的AI模型搭建，为SillyTavern的使用提供...
-- [专利相关链接（AI辅助）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 搜索引擎：，，专利检索查询和下载网站：，，AI辅助链接：，，，，开搜，，，，,,通用大模型：，，，个人知识库（智能体）链接：，
-- [Chat2DB 实现：Spring AI MCP 直连数据库](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Spring AI MCP 为模型上下文协议提供 Java 和 Spring 框架集成。它使 Spring AI 应用程序能够通过标准化的接口与不同的数据源和工具进行交互，支持同步和异步通信模式。Sp...
-- [【AI大模型】ELMo模型介绍：深度理解语言模型的嵌入艺术](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - ELMo是2018年3月由华盛顿大学提出的一种预训练模型.ELMo的全称是Embeddings from Language Models.ELMo模型的提出源于论文。
+- [我悟了如何与AI说话！谷歌 69 页官方提示词秘籍全解析，中文版免费下载](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 这就像投票，大多数“路径”都指向的答案，往往就是最靠谱的那个，虽然计算成本高了点（要跑 N 次），但在追求极致准确率的场景下，效果拔群。白皮书甚至提供了一个记录模板。Google 这份白皮书，不是某个...
+- [GTC Taipei 2025 医疗域前瞻：从AI代理到医疗生态，解码医疗健康与生命科学的未来图景](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - GTC Taipei 2025揭示的不仅是技术演进，更是医疗体系的哲学转型：从以医院为中心转向以患者为中心，从疾病治疗转向健康管理，从经验医学转向数据驱动。这一变革的核心在于。
+- [一文了解大模型的三种类型](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 基座模型（base模型）、聊天模型（chat模型）和指令模型（instruct模型）分别是什么？
+- [Python酷库之旅-第三方库Pandas(049)](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 第三方库Pandas(049)
+- [人工智能横行的时代：小体量团队的赛道突围策略](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在AI技术快速普及的时代，小体量团队需要重新思考自己的战略定位和竞争优势。垂直深耕法则：选择专业门槛高但规模适中的细分市场，建立领域知识壁垒数据飞轮法则：设计产品自生成高质量数据的机制，形成改进闭环开...
 
 
 ### 网络安全资讯
@@ -51,27 +51,27 @@ MIT
 - [利用通信攻击对基于 LLM 的多智能体系统进行渗透测试](https://paper.seebug.org/3319/) - 作者：Pengfei He, Yupin Lin, Shen Dong, Han Xu, Yue Xing, Hui Liu
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.o...
-- [超过1200个SAP NetWeaver服务器容易受到主动利用漏洞的攻击](https://www.4hou.com/posts/QXG0) - 超过1200个暴露在互联网上的SAP NetWeaver实例容易受到一个高严重程度的未经身份验证文件上传漏洞的攻击，该漏洞允许攻击者劫持服务器。SAP NetWeaver是一个应用服务器和开发平台，可...
+- [2025Q1企业邮箱安全报告：三大威胁升级，揭秘应对之法](https://www.4hou.com/posts/l0gg) - 2025年5月8日，Coremail CACTER邮件安全联合北京中睿天下信息技术有限公司发布《2025年第一季度企业邮箱安全性研究报告》。（以下简称”报告“）报告显示，企业邮箱安全威胁仍在不断升级，...
 
 
 ### 技术就业趋势
 
-边缘计算和IoT专家在制造业和智能城市项目中需求增加。
+云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
 
 ### 科技热点
 
-- [GPT生成「吉卜力风格」图像不侵权，宫崎骏维权都难成？｜AGI之路](https://cloud.tencent.com/developer/article/2518237) - OpenAI的GPT-4o因其精准生成吉卜力动画风格的图像能力引发热议，用户通过输入简单指令即可复现标志性的柔和色调与奇幻场景。创作者们将《指环王》等经典IP转化为吉卜力画风的二创作品在社交平台病毒式...
-- [CodeBuddy编程神器上线！分享测评100%领福利，开发者专享通道](https://cloud.tencent.com/developer/article/2518334) - [礼物]5.6-5.12期间预约直播并分享如下活动海报不少于5个开发者社群（非腾讯官方社群）参与邀约排行，即可赢 QQfamily 定制帐篷
-- [“3秒克隆周杰伦声音”？普通人也能玩转AI换声，太疯了！](https://cloud.tencent.com/developer/article/2518427) - 如今，通过AI技术克隆声音已经变得非常简单。仅使用开源的代码，几分钟内即可完成快速声音克隆。
+- [做Windows自定义镜像前配置开机后首次自动重启](https://cloud.tencent.com/developer/article/2518598) - Windows公共镜像是sysprep的，买新机器或重装存量机器后，涉及开机后首次自动重启，用process explorer对pid为4的system进程查看加载的驱动，基本就2类：微软、云平台
+- [ChatGPT和大语言模型入门指南](https://cloud.tencent.com/developer/article/2518734) - 近年来，大语言模型可谓是“井喷式”爆发，尤其是 ChatGPT 和 GPT-4 的发布，掀起了整个 AI 圈的技术热潮。各家厂商纷纷卷入其中，而我也抱着“白嫖大模型”的心态持续关注这个领域半年有余，整...
+- [胡泳：在“推荐就是一切”的时代](https://cloud.tencent.com/developer/article/2518771) - “决定你命运的不是机遇，而是选择”，这句格言常被归于琴·尼德奇（Jean Nidetch），堪称亚里士多德伦理学的一种总结（网上有大量的误传，真的相信其为亚里士多德的金句）。尼德奇1963年创立综合性...
 
 
 ### GitHub 趋势项目
 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
-- [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
-- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
-- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+- [voideditor/void](https://github.com/voideditor/void) - No description
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [Peterande/D-FINE](https://github.com/Peterande/D-FINE) - D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement [ICLR 2025 Spotlight]
 
 
 
