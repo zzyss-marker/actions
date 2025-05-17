@@ -30,39 +30,39 @@
 
 MIT
 
-## 今日更新 (2025-05-16)
+## 今日更新 (2025-05-17)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- [Spring Boot3+Vue2极速整合: 10分钟搭建DeepSeek AI对话系统](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 通过本文的实践，我们成功搭建了一个基于 Spring Boot 和 Vue 的 AI 对话系统。实时对话 基于 WebSocket 实现流式响应，带来更流畅的交互体验；优雅展示 支持 Markdown...
-- [马文·李·闵斯基：AI不只是技术，更是思维的延伸](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 《计算机名人堂》第九篇：马文·李·闵斯基
-- [AIGC 新势力：探秘海螺 AI 与蓝耘 MaaS 平台的协同创新之旅](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 蓝耘MaaS平台作为企业级AI模型服务基础设施，以云服务形式为企业开发者、创业者及非技术背景用户提供预训练模型、行业定制化模型及配套工具链。其核心目标在于简化模型部署流程，实现资源弹性扩展，并针对金融...
-- [深度探索GPUGEEK：算力市场AI大模型在线搭建使用全景指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文深度探索 GPUGEEK 平台在算力市场的应用，及大模型配置应用。该平台凭借高性价比算力、便捷使用体验和丰富资源服务，为 AI 开发者与中小企业提供支持。文中详细阐述在平台搭建 AI 大模型的步骤...
-- [Spring AI+DeepSeek快速构建AI智能机器人](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文详细介绍了如何使用Spring AI快速搭建一个具备自然语言处理能力的智能对话机器人，并结合实现前后端交互。关注公众号每天懂点AI,回复机器人获取源码。
+- [跟AI大模型实时语音通话解决方案](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 语音是人类最自然便捷的沟通方式，语音交互大幅降低与 AI 对话的门槛。人们只需说出需求，AI 就能快速理解并反应，无需复杂的操作，都在简单的话语中。越来越多的AI智能助手应用在发展语音实时交流方面有显...
+- [5分钟开发一款小游戏！这款国产 AI 编程工具 Trae 究竟有何魔法？（附详细教程）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 字节跳动推出的 AI 编程工具。目前它集成 Claude 3.5、GPT-4 等模型，支持中文。Trae 有和两种模式，前者可提问获代码建议，后者能自动生成项目代码。还具备智能代码生成与等功能。使用 ...
+- [探索通义万相 2.1：借助蓝耘智算平台开启 AI 创作新旅程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 图生视频，是通过一系列节点的连接与参数设置，将静态图片转化为动态视频。图中的工作流涉及了模型加载、采样处理、视频合成等关键环节。模型相关节点：“WanVideo sampler”和“WanVideoW...
+- [【MCP探索实践】Cherry Studio+MCP实战：3步让AI自动抓网页/读文件/调API](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在人工智能飞速发展的今天，AI 模型的应用场景不断拓展，但同时也面临着诸多挑战，例如如何让 AI 模型更好地与外部资源进行交互和协作。MCP（Model Context Protocol，模型上下文协...
+- [蓝耘科技上线DeepSeek满血版：500万Tokens专享，解锁AI推理新体验](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 该平台通过裸金属调度和容器化技术，为用户提供灵活高效的算力资源管理，同时支持团队协作开发，大幅提升AI模型训练与推理效率。点击运行，稍等您可以在终端窗口中看到模型调用的返回结果。（支持FP16/INT...
 
 
 ### 网络安全资讯
 
-- [突破综述:SAP NetWeaver Flaw吸引黑客](https://www.anquanke.com/post/id/307468) - 安全公告，详情请点击链接查看完整内容
+- [黑客发起全球间谍行动，政府邮箱被利用XSS漏洞入侵](https://www.anquanke.com/post/id/307477) - 安全公告，详情请点击链接查看完整内容
 - [通过自信息重写攻击揭示文本水印的弱点](https://paper.seebug.org/3320/) - 作者：Yixin Cheng,Hongcheng Guo,Yangming Li,Leonid Sigal
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/pdf/25...
-- [Noodlophile恶意软件借AI视频生成工具之名进行传播扩散](https://www.4hou.com/posts/omlB) - 假冒的人工智能视频生成工具正被用来传播一种新的窃取信息的恶意软件，名为“Noodlophile”，它以生成的媒体内容为幌子。这些网站使用“Dream Machine”等名字，并在Facebook上的高...
+- [城市生存 | 个人随身验毒指南](https://www.4hou.com/posts/0My5) - 声明：本文主要为杨叔个人心得分享，仅供交流与参考，谢绝杠精。01 总有刁民想害朕？先引用下“人民网”的文章内容：据不完全统计，每天有20余种新的化学物质进入我们所生活的环境，其中有60多万种化学品实现...
 
 
 ### 技术就业趋势
 
-数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
-- [自签证书的生成与应用举例](https://cloud.tencent.com/developer/article/2519897) - 本方案通过自签证书实现细粒度访问控制，结合非对称加密技术保障数据安全传输。核心功能包括：
-- [基于 pyasn1 的ASN1 编码入门](https://cloud.tencent.com/developer/article/2519887) - ASN.1（抽象语法标记）是一种跨平台数据描述语言，通过TLV结构（类型-Tag、长度-Length、值-Value）实现结构化数据的标准化编码。其特点包括：
-- [前端开发者的 Kotlin 之旅：函数式编程深入](https://cloud.tencent.com/developer/article/2519993) - 纯函数是函数式编程的核心概念：给定相同输入总是返回相同输出，且没有副作用。这使得代码更可预测、更易测试，也更容易进行并行处理。
+- [腾讯云Windows机器自助进救援模式——重置系统账号密码](https://cloud.tencent.com/developer/article/2520111) - 通过腾讯云控制台找到对应的实例，点击要进入救援模式云服务器右边的更多，点击运维与检测，选择进入救援模式
+- [首个多模态统一CoT奖励模型来了，奖励能力大幅跃升，已全面开源](https://cloud.tencent.com/developer/article/2520065) - 在多模态大模型快速发展的当下，如何精准评估其生成内容的质量，正成为多模态大模型与人类偏好对齐的核心挑战。然而，当前主流多模态奖励模型往往只能直接给出评分决策，或仅具备浅层推理能力，缺乏对复杂奖励任务的...
+- [爆火MCP的来时路：LLM开启超进化，从函数调用到通用上下文协议](https://cloud.tencent.com/developer/article/2520068) - 2022年11月30日，ChatGPT的发布正式敲响了大语言模型（LLM，Large Language Models）时代的大门。而后的2023年，自然语言处理（NLP，Netural Languag...
 
 
 ### GitHub 趋势项目
@@ -70,8 +70,8 @@ MIT
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
-- [mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy) - b站 会员购 抢票 漫展 脚本 bilibili 图形化 纯接口 验证码预演练习
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+- [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
 
 
 
