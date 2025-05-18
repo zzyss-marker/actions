@@ -30,7 +30,7 @@
 
 MIT
 
-## 今日更新 (2025-05-17)
+## 今日更新 (2025-05-18)
 
 ### 今日名言
 
@@ -38,11 +38,11 @@ MIT
 
 ### AI 技术动态
 
-- [跟AI大模型实时语音通话解决方案](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 语音是人类最自然便捷的沟通方式，语音交互大幅降低与 AI 对话的门槛。人们只需说出需求，AI 就能快速理解并反应，无需复杂的操作，都在简单的话语中。越来越多的AI智能助手应用在发展语音实时交流方面有显...
-- [5分钟开发一款小游戏！这款国产 AI 编程工具 Trae 究竟有何魔法？（附详细教程）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 字节跳动推出的 AI 编程工具。目前它集成 Claude 3.5、GPT-4 等模型，支持中文。Trae 有和两种模式，前者可提问获代码建议，后者能自动生成项目代码。还具备智能代码生成与等功能。使用 ...
-- [探索通义万相 2.1：借助蓝耘智算平台开启 AI 创作新旅程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 图生视频，是通过一系列节点的连接与参数设置，将静态图片转化为动态视频。图中的工作流涉及了模型加载、采样处理、视频合成等关键环节。模型相关节点：“WanVideo sampler”和“WanVideoW...
-- [【MCP探索实践】Cherry Studio+MCP实战：3步让AI自动抓网页/读文件/调API](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在人工智能飞速发展的今天，AI 模型的应用场景不断拓展，但同时也面临着诸多挑战，例如如何让 AI 模型更好地与外部资源进行交互和协作。MCP（Model Context Protocol，模型上下文协...
-- [蓝耘科技上线DeepSeek满血版：500万Tokens专享，解锁AI推理新体验](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 该平台通过裸金属调度和容器化技术，为用户提供灵活高效的算力资源管理，同时支持团队协作开发，大幅提升AI模型训练与推理效率。点击运行，稍等您可以在终端窗口中看到模型调用的返回结果。（支持FP16/INT...
+- [数字之美：探索人工智能绘画的奇妙世界](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着人工智能技术的快速发展，AI绘画作为一种新兴艺术形式正逐渐引起人们的关注。本文将深入探讨AI绘画的定义、发展历程以及其在不同领域中的应用。
+- [《制造业的AI转型：从富士康的“黑灯工厂”到特斯拉的Optimus》](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 近年来，人工智能（AI）正加速引领新一轮制造业革命。从生产线上的机器人到智能供应链优化，AI正在帮助制造企业实现前所未有的效率提升和质量飞跃。本文聚焦2020-2025年期间两大行业实践——富士康的智...
+- [【AI工作流】Ollama本地化大模型安装](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 为了给以后的工作流和本地模型铺路，有必要说一下Ollama本地大语言后台的安装。
+- [AI对话高效输入指令攻略（三）：使用大忌——“AI味”](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 没有听不懂话的AI，只有不会调教AI的人。当你把AI当人看之后，你就会发现，他是多么好用的高效工具。书接上文，接下来，我们展示使用AI的大忌——“AI味”。
+- [从头到尾，手把手教你使用扣子（coze）搭建自己的AI智能体](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 只要跟着做，就会使用coze搭建智能体
 
 
 ### 网络安全资讯
@@ -51,27 +51,27 @@ MIT
 - [通过自信息重写攻击揭示文本水印的弱点](https://paper.seebug.org/3320/) - 作者：Yixin Cheng,Hongcheng Guo,Yangming Li,Leonid Sigal
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/pdf/25...
-- [城市生存 | 个人随身验毒指南](https://www.4hou.com/posts/0My5) - 声明：本文主要为杨叔个人心得分享，仅供交流与参考，谢绝杠精。01 总有刁民想害朕？先引用下“人民网”的文章内容：据不完全统计，每天有20余种新的化学物质进入我们所生活的环境，其中有60多万种化学品实现...
+- [Linux擦除器恶意软件隐藏在GitHub上的恶意Go模块](https://www.4hou.com/posts/0M7y) - 安全研究人员最新发现，供应链攻击的目标是Linux服务器，其磁盘擦除恶意软件隐藏在GitHub上发布的Golang模块中。该活动于上个月被发现，并依赖于三个恶意Go模块，其中包括“高度混淆的代码”，用...
 
 
 ### 技术就业趋势
 
-具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
+软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
 
 ### 科技热点
 
-- [腾讯云Windows机器自助进救援模式——重置系统账号密码](https://cloud.tencent.com/developer/article/2520111) - 通过腾讯云控制台找到对应的实例，点击要进入救援模式云服务器右边的更多，点击运维与检测，选择进入救援模式
-- [首个多模态统一CoT奖励模型来了，奖励能力大幅跃升，已全面开源](https://cloud.tencent.com/developer/article/2520065) - 在多模态大模型快速发展的当下，如何精准评估其生成内容的质量，正成为多模态大模型与人类偏好对齐的核心挑战。然而，当前主流多模态奖励模型往往只能直接给出评分决策，或仅具备浅层推理能力，缺乏对复杂奖励任务的...
 - [爆火MCP的来时路：LLM开启超进化，从函数调用到通用上下文协议](https://cloud.tencent.com/developer/article/2520068) - 2022年11月30日，ChatGPT的发布正式敲响了大语言模型（LLM，Large Language Models）时代的大门。而后的2023年，自然语言处理（NLP，Netural Languag...
+- [什么是抖动以及如何使用抖动缓冲区来减少抖动？](https://cloud.tencent.com/developer/article/2520203) - 您是否经历过视频通话或观看直播时的不稳定、缓冲、质量下降或音视频不同步等令人沮丧的情况？您可能不得不反复刷新页面，或者感到失望而退出应用程序。这些问题实际上可能是由网络抖动引起的。
+- [腾讯云TVP走进南京航空航天大学，AI与大模型赋能高校数字化变革](https://cloud.tencent.com/developer/article/2520355) - AI 与大模型技术的蓬勃发展，不断为高校数字化建设提供新的技术方向。AI 正以多种创新方式重塑教育行业，实现教育质量与效率的双重飞跃。未来大模型将如何演进，为高校智能化带来哪些创新思路与帮助？AI 浪...
 
 
 ### GitHub 趋势项目
 
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-- [happycola233/tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 
 
