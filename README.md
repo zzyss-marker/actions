@@ -30,67 +30,71 @@
 
 MIT
 
-## 今日更新 (2025-05-18)
+## 今日更新 (2025-05-19)
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- [数字之美：探索人工智能绘画的奇妙世界](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着人工智能技术的快速发展，AI绘画作为一种新兴艺术形式正逐渐引起人们的关注。本文将深入探讨AI绘画的定义、发展历程以及其在不同领域中的应用。
-- [《制造业的AI转型：从富士康的“黑灯工厂”到特斯拉的Optimus》](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 近年来，人工智能（AI）正加速引领新一轮制造业革命。从生产线上的机器人到智能供应链优化，AI正在帮助制造企业实现前所未有的效率提升和质量飞跃。本文聚焦2020-2025年期间两大行业实践——富士康的智...
-- [【AI工作流】Ollama本地化大模型安装](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 为了给以后的工作流和本地模型铺路，有必要说一下Ollama本地大语言后台的安装。
-- [AI对话高效输入指令攻略（三）：使用大忌——“AI味”](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 没有听不懂话的AI，只有不会调教AI的人。当你把AI当人看之后，你就会发现，他是多么好用的高效工具。书接上文，接下来，我们展示使用AI的大忌——“AI味”。
-- [从头到尾，手把手教你使用扣子（coze）搭建自己的AI智能体](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 只要跟着做，就会使用coze搭建智能体
+- [基于腾讯云MCP广场的AI自动化实践：爬取小红书热门话题](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文介绍了如何利用腾讯云MCP广场和超浏览器AI自动化工具，实现小红书热门话题的自动化爬取与分析。通过MCP平台，开发者可以高效整合云能力与AI模型，简化自动化流程。文章详细展示了从工具选型、代码配置...
+- [操作系统级竞争开启：AI Agent 能否成为人形机器人爆发的奇点？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文深入探讨了在人形机器人产业从“机械执行”向“自主决策”跃迁的背景下，实时操作系统（RTOS）与AI Agent融合对突破物理世界响应极限的关键作用，重点分析了望获实时Linux等国产RTOS的技术...
+- [Cephalon端脑云：神经形态计算+边缘AI·重定义云端算力](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 以"AI原生操作系统"为内核，重新定义智能时代的创造力法则。在这里，每个灵感都能通过AI画图引擎瞬间具象化，每段数据都可经由智能训练系统进化出超乎预期的价值。这不仅是工具的升级，更是人类认知维度的突破...
+- [国产开源AI平台Cherry Studio详解：联网搜索升级与ChatBox对比指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Cherry Studio是一款功能强大的国产开源AI工具，支持本地部署、知识库管理、多模型聚合和联网搜索等特性。本文将详细介绍Cherry Studio的核心功能、1.0版本新特性及与ChatBox...
+- [AI 对话高效输入指令攻略（二）：关于豆包的指令](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 没有听不懂话的AI，只有不会调教AI的人。
 
 
 ### 网络安全资讯
 
-- [黑客发起全球间谍行动，政府邮箱被利用XSS漏洞入侵](https://www.anquanke.com/post/id/307477) - 安全公告，详情请点击链接查看完整内容
+- [微软确认5月Windows 10更新触发BitLocker恢复](https://www.anquanke.com/post/id/307519) - 安全公告，详情请点击链接查看完整内容
 - [通过自信息重写攻击揭示文本水印的弱点](https://paper.seebug.org/3320/) - 作者：Yixin Cheng,Hongcheng Guo,Yangming Li,Leonid Sigal
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/pdf/25...
-- [Linux擦除器恶意软件隐藏在GitHub上的恶意Go模块](https://www.4hou.com/posts/0M7y) - 安全研究人员最新发现，供应链攻击的目标是Linux服务器，其磁盘擦除恶意软件隐藏在GitHub上发布的Golang模块中。该活动于上个月被发现，并依赖于三个恶意Go模块，其中包括“高度混淆的代码”，用...
+- [盛邦安全携首份《卫星互联网安全年度报告》与《资产测绘与反测绘年度报告》亮相第十届中国（北京）军博会(内含下载地址）](https://www.4hou.com/posts/OG0Y) - 2025年5月15日，第十届中国（北京）军事智能技术装备博览会暨北京国际低空产业博览会在北京国家会议中心隆重召开。众多行业专家与专业观众汇聚一堂，共同探讨低空产业及相关领域的前沿发展与安全挑战。盛邦安...
 
 
 ### 技术就业趋势
 
-软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
-- [爆火MCP的来时路：LLM开启超进化，从函数调用到通用上下文协议](https://cloud.tencent.com/developer/article/2520068) - 2022年11月30日，ChatGPT的发布正式敲响了大语言模型（LLM，Large Language Models）时代的大门。而后的2023年，自然语言处理（NLP，Netural Languag...
-- [什么是抖动以及如何使用抖动缓冲区来减少抖动？](https://cloud.tencent.com/developer/article/2520203) - 您是否经历过视频通话或观看直播时的不稳定、缓冲、质量下降或音视频不同步等令人沮丧的情况？您可能不得不反复刷新页面，或者感到失望而退出应用程序。这些问题实际上可能是由网络抖动引起的。
-- [腾讯云TVP走进南京航空航天大学，AI与大模型赋能高校数字化变革](https://cloud.tencent.com/developer/article/2520355) - AI 与大模型技术的蓬勃发展，不断为高校数字化建设提供新的技术方向。AI 正以多种创新方式重塑教育行业，实现教育质量与效率的双重飞跃。未来大模型将如何演进，为高校智能化带来哪些创新思路与帮助？AI 浪...
+- [腾讯大模型「整活」，游戏智能NPC「活」了！](https://cloud.tencent.com/developer/article/2520639) - 《碧优蒂的世界》（下称「BUD」）上新的「AI赛季」里，NPC不再是照剧本走的工具人。他们会顶嘴、记仇、掂量利弊、评估风险——甚至你一句话说错，剧情都能拐弯。
+- [go逃逸分析](https://cloud.tencent.com/developer/article/2520821) - go 会在堆(heap, 全局的堆空间用来动态分配内存)和栈(每个 goroutine 的 stack)两个地方分配内存。
+在函数中申请一个对象，如果分配在栈中，函数执行结束时自动回收，如果分配在堆中...
+- [LLM 性能测试实践](https://cloud.tencent.com/developer/article/2520773) - 大模型已在智能客服、代码生成、金融分析等领域爆发式落地，但实际场景的实时交互、高并发需求（如千人同时提问）暴露了性能瓶颈：用户可能因3秒延迟流失，而盲目优化响应速度又会导致GPU资源暴增。
 
 
 ### GitHub 趋势项目
 
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 
 
 
 ### AI 研究论文
 
-- [Neural Thermodynamic Laws for Large Language Model Training](http://arxiv.org/abs/2505.10559v1) - Ziming Liu, Yizhou Liu, Jeff Gore, Max Tegmark
-  Beyond neural scaling laws, little is known about the laws underlying large
-language models (LLMs). We introduce Neural Thermodynamic Laws (NTL) -- a ...
+- [Modeling cognitive processes of natural reading with transformer-based
+  Language Models](http://arxiv.org/abs/2505.11485v1) - Bruno Bianchi, Fermín Travi, Juan E. Kamienkowski
+  Recent advances in Natural Language Processing (NLP) have led to the
+development of highly sophisticated language models for text generation. In
+paral...
 
-- [MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal
-  Mathematical Reasoning](http://arxiv.org/abs/2505.10557v1) - Ke Wang, Junting Pan, Linda Wei, Aojun Zhou, Weikang Shi, Zimu Lu, Han Xiao, Yunqiao Yang, Houxing Ren, Mingjie Zhan, Hongsheng Li
-  Natural language image-caption datasets, widely used for training Large
-Multimodal Models, mainly focus on natural scenarios and overlook the intricat...
+- [MOSAAIC: Managing Optimization towards Shared Autonomy, Authority, and
+  Initiative in Co-creation](http://arxiv.org/abs/2505.11481v1) - Alayt Issak, Jeba Rezwana, Casper Harteveld
+  Striking the appropriate balance between humans and co-creative AI is an open
+research question in computational creativity. Co-creativity, a form of ...
 
-- [Does Feasibility Matter? Understanding the Impact of Feasibility on
-  Synthetic Training Data](http://arxiv.org/abs/2505.10551v1) - Yiwen Liu, Jessica Bader, Jae Myung Kim
-  With the development of photorealistic diffusion models, models trained in
-part or fully on synthetic data achieve progressively better results. Howev...
+- [Improving Assembly Code Performance with Large Language Models via
+  Reinforcement Learning](http://arxiv.org/abs/2505.11480v1) - Anjiang Wei, Tarun Suresh, Huanmi Tan, Yinglun Xu, Gagandeep Singh, Ke Wang, Alex Aiken
+  Large language models (LLMs) have demonstrated strong performance across a
+wide range of programming tasks, yet their potential for code optimization
+...
 
 
 
