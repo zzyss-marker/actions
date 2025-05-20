@@ -30,71 +30,68 @@
 
 MIT
 
-## 今日更新 (2025-05-19)
+## 今日更新 (2025-05-20)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- [基于腾讯云MCP广场的AI自动化实践：爬取小红书热门话题](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文介绍了如何利用腾讯云MCP广场和超浏览器AI自动化工具，实现小红书热门话题的自动化爬取与分析。通过MCP平台，开发者可以高效整合云能力与AI模型，简化自动化流程。文章详细展示了从工具选型、代码配置...
-- [操作系统级竞争开启：AI Agent 能否成为人形机器人爆发的奇点？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文深入探讨了在人形机器人产业从“机械执行”向“自主决策”跃迁的背景下，实时操作系统（RTOS）与AI Agent融合对突破物理世界响应极限的关键作用，重点分析了望获实时Linux等国产RTOS的技术...
-- [Cephalon端脑云：神经形态计算+边缘AI·重定义云端算力](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 以"AI原生操作系统"为内核，重新定义智能时代的创造力法则。在这里，每个灵感都能通过AI画图引擎瞬间具象化，每段数据都可经由智能训练系统进化出超乎预期的价值。这不仅是工具的升级，更是人类认知维度的突破...
-- [国产开源AI平台Cherry Studio详解：联网搜索升级与ChatBox对比指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Cherry Studio是一款功能强大的国产开源AI工具，支持本地部署、知识库管理、多模型聚合和联网搜索等特性。本文将详细介绍Cherry Studio的核心功能、1.0版本新特性及与ChatBox...
-- [AI 对话高效输入指令攻略（二）：关于豆包的指令](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 没有听不懂话的AI，只有不会调教AI的人。
+- [7大支持MCP的AI框架：为LLM和智能代理提供上下文的新标准](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 可以将MCP视为LLM的第三次演进。在第一次演进中，我们拥有能够准确回答用户提示的LLM，前提是它们在训练数据中找到了这些查询。在这个阶段，由于它们无法访问外部工具，因此无法对训练数据之外的提示做出有...
+- [用Dify 3步为你打造专属AI企业知识库（附实操指南）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 基于LLMOps平台-Dify的一站式学习平台。包含不限于：Dify工作流案例、DSL文件分享、模型接入、Dify交流讨论等各类资源分享。知识库建好了，怎么用起来呢？我们需要创建一个AI应用（比如问答...
+- [Python+LLM实战：LangChain本地AI知识库搭建全攻略](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在本次探索中，我们借助 Python 和 LangChain 成功搭建了本地 AI 知识库，这一过程涵盖了多个关键环节。首先是数据加载，通过 LangChain 丰富的 loader 组件，如Dire...
+- [腾讯云AI代码助手：智驭Python，编织代码的诗篇 —— 深度测评体验](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 腾讯云ai编程助手测评，好用的编程导师
+- [一文读懂 AI](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 对于普通人来说，AI是否会取代工作😨？网络上说除双一流以外学校搞不了AI又是什么情况😩？AI产业是否像以前一样互联网程序员一样？
 
 
 ### 网络安全资讯
 
-- [微软确认5月Windows 10更新触发BitLocker恢复](https://www.anquanke.com/post/id/307519) - 安全公告，详情请点击链接查看完整内容
-- [通过自信息重写攻击揭示文本水印的弱点](https://paper.seebug.org/3320/) - 作者：Yixin Cheng,Hongcheng Guo,Yangming Li,Leonid Sigal
+- [CISA最近将Chrome漏洞标记为被积极利用](https://www.anquanke.com/post/id/307583) - 安全公告，详情请点击链接查看完整内容
+- [LlamaFirewall：构建安全 AI 代理的开源防护系统](https://paper.seebug.org/3321/) - 作者：Sahana Chennabasappa,Cyrus Nikolaidis,Daniel Song等
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/pdf/25...
-- [盛邦安全携首份《卫星互联网安全年度报告》与《资产测绘与反测绘年度报告》亮相第十届中国（北京）军博会(内含下载地址）](https://www.4hou.com/posts/OG0Y) - 2025年5月15日，第十届中国（北京）军事智能技术装备博览会暨北京国际低空产业博览会在北京国家会议中心隆重召开。众多行业专家与专业观众汇聚一堂，共同探讨低空产业及相关领域的前沿发展与安全挑战。盛邦安...
+- [玛莎百货遭网络攻击重创客户数据在攻击中被盗](https://www.4hou.com/posts/Bvmk) - 英国最大的跨国商业零售集团玛莎百货（Marks and Spencer）证实，客户数据信息在上个月的一次网络攻击中被盗，当时有人使用勒索软件对服务器进行加密。这次攻击发生在2025年4月22日，严重影...
 
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
 
 ### 科技热点
 
-- [腾讯大模型「整活」，游戏智能NPC「活」了！](https://cloud.tencent.com/developer/article/2520639) - 《碧优蒂的世界》（下称「BUD」）上新的「AI赛季」里，NPC不再是照剧本走的工具人。他们会顶嘴、记仇、掂量利弊、评估风险——甚至你一句话说错，剧情都能拐弯。
-- [go逃逸分析](https://cloud.tencent.com/developer/article/2520821) - go 会在堆(heap, 全局的堆空间用来动态分配内存)和栈(每个 goroutine 的 stack)两个地方分配内存。
-在函数中申请一个对象，如果分配在栈中，函数执行结束时自动回收，如果分配在堆中...
-- [LLM 性能测试实践](https://cloud.tencent.com/developer/article/2520773) - 大模型已在智能客服、代码生成、金融分析等领域爆发式落地，但实际场景的实时交互、高并发需求（如千人同时提问）暴露了性能瓶颈：用户可能因3秒延迟流失，而盲目优化响应速度又会导致GPU资源暴增。
+- [数据湖迈向 Data+AI 一体化平台的演进之路](https://cloud.tencent.com/developer/article/2520998) - 本文将围绕国内市场现状，探讨如何推动数据湖从传统的 Data 模式进入到 Data+AI 一体化平台这一方向。主要内容包括：
+- [「重磅预告」腾讯企点营销云即将推出全新产品](https://cloud.tencent.com/developer/article/2521127) - 本次峰会腾讯企点营销云将推出「腾讯企点营销云智能体」，用AI驱动营销链路实现感知、决策、行动全面升级，加速释放企业经营效能和增长潜力，为企业打造面向未来的智能营销云。
+- [重磅！腾讯智能工作台ima，获信通院AI大模型应用精选案例奖](https://cloud.tencent.com/developer/article/2521002) - 近日,信通院公布首批“开源大模型+”软件创新应用典型案例奖，基于一栈式AI搜索解决方案Elasticsearch Service与大模型打造的腾讯智能工作台ima被评为精选案例。
 
 
 ### GitHub 趋势项目
 
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 
 
 
 
 ### AI 研究论文
 
-- [Modeling cognitive processes of natural reading with transformer-based
-  Language Models](http://arxiv.org/abs/2505.11485v1) - Bruno Bianchi, Fermín Travi, Juan E. Kamienkowski
-  Recent advances in Natural Language Processing (NLP) have led to the
-development of highly sophisticated language models for text generation. In
-paral...
+- [CIE: Controlling Language Model Text Generations Using Continuous
+  Signals](http://arxiv.org/abs/2505.13448v1) - Vinay Samuel, Harshita Diddee, Yiming Zhang, Daphne Ippolito
+  Aligning language models with user intent is becoming increasingly relevant
+to enhance user experience. This calls for designing methods that can allo...
 
-- [MOSAAIC: Managing Optimization towards Shared Autonomy, Authority, and
-  Initiative in Co-creation](http://arxiv.org/abs/2505.11481v1) - Alayt Issak, Jeba Rezwana, Casper Harteveld
-  Striking the appropriate balance between humans and co-creative AI is an open
-research question in computational creativity. Co-creativity, a form of ...
+- [Trust, But Verify: A Self-Verification Approach to Reinforcement
+  Learning with Verifiable Rewards](http://arxiv.org/abs/2505.13445v1) - Xiaoyuan Liu, Tian Liang, Zhiwei He, Jiahao Xu, Wenxuan Wang, Pinjia He, Zhaopeng Tu, Haitao Mi, Dong Yu
+  Large Language Models (LLMs) show great promise in complex reasoning, with
+Reinforcement Learning with Verifiable Rewards (RLVR) being a key enhanceme...
 
-- [Improving Assembly Code Performance with Large Language Models via
-  Reinforcement Learning](http://arxiv.org/abs/2505.11480v1) - Anjiang Wei, Tarun Suresh, Huanmi Tan, Yinglun Xu, Gagandeep Singh, Ke Wang, Alex Aiken
-  Large language models (LLMs) have demonstrated strong performance across a
-wide range of programming tasks, yet their potential for code optimization
-...
+- [VTBench: Evaluating Visual Tokenizers for Autoregressive Image
+  Generation](http://arxiv.org/abs/2505.13439v1) - Huawei Lin, Tong Geng, Zhaozhuo Xu, Weijie Zhao
+  Autoregressive (AR) models have recently shown strong performance in image
+generation, where a critical component is the visual tokenizer (VT) that ma...
 
 
 
