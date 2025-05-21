@@ -30,68 +30,69 @@
 
 MIT
 
-## 今日更新 (2025-05-20)
+## 今日更新 (2025-05-21)
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- [7大支持MCP的AI框架：为LLM和智能代理提供上下文的新标准](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 可以将MCP视为LLM的第三次演进。在第一次演进中，我们拥有能够准确回答用户提示的LLM，前提是它们在训练数据中找到了这些查询。在这个阶段，由于它们无法访问外部工具，因此无法对训练数据之外的提示做出有...
-- [用Dify 3步为你打造专属AI企业知识库（附实操指南）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 基于LLMOps平台-Dify的一站式学习平台。包含不限于：Dify工作流案例、DSL文件分享、模型接入、Dify交流讨论等各类资源分享。知识库建好了，怎么用起来呢？我们需要创建一个AI应用（比如问答...
-- [Python+LLM实战：LangChain本地AI知识库搭建全攻略](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在本次探索中，我们借助 Python 和 LangChain 成功搭建了本地 AI 知识库，这一过程涵盖了多个关键环节。首先是数据加载，通过 LangChain 丰富的 loader 组件，如Dire...
-- [腾讯云AI代码助手：智驭Python，编织代码的诗篇 —— 深度测评体验](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 腾讯云ai编程助手测评，好用的编程导师
-- [一文读懂 AI](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 对于普通人来说，AI是否会取代工作😨？网络上说除双一流以外学校搞不了AI又是什么情况😩？AI产业是否像以前一样互联网程序员一样？
+- [idea Ai工具通义灵码，Copilot我的使用方法以及比较](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 介于篇幅原因我觉得能说上好用的 目前只有两个 一个是阿里的通义灵码和Copilot，我用它来干什么，他们官方的定义是 提高开发效率，帮助你节省一些开发时间，说白了就是协助，但是我觉得他们 还有其他用处...
+- [专家系统的一般结构解析——基于《人工智能原理与方法》的深度拓展](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - （如患者的体温、设备的电压值），与知识库的通用知识（如“正常体温36-37℃”）形成互补。（2）框架库构建：通过Protege等本体工具定义类、槽、侧面，支持继承（如“细菌性肺炎”框架继承“肺炎”框架...
+- [从大模型到通用AI《智能计算系统》带你揭秘大模型背后的智能计算革命](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 全面贯穿人工智能整个软硬件技术栈以大模型为牵引，形成智能领域的系统思维前沿研究与技术实践结合，快速提升智能领域的系统能力第2版的更新内容包括如何构建大模型算法（第2、3章），如何让编程框架支撑海量处理...
+- [Spring AI MCP Client + DeepSeek R1 搭建自定义可扩展的AI助手服务](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - MCP 由 Anthropic 推出的一种开放标准协议，旨在统一大模型（LLM）与外部数据源和工具之间的通信方式。通过 MCP 协议，开发者可以更高效地实现 AI 模型与外部资源的集成，从而提升应用的...
+- [从头到尾，手把手教你使用扣子（coze）搭建自己的AI智能体](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 只要跟着做，就会使用coze搭建智能体
 
 
 ### 网络安全资讯
 
-- [CISA最近将Chrome漏洞标记为被积极利用](https://www.anquanke.com/post/id/307583) - 安全公告，详情请点击链接查看完整内容
-- [LlamaFirewall：构建安全 AI 代理的开源防护系统](https://paper.seebug.org/3321/) - 作者：Sahana Chennabasappa,Cyrus Nikolaidis,Daniel Song等
+- [新的“Defendnot”工具欺骗Windows禁用Microsoft Defender](https://www.anquanke.com/post/id/307626) - 安全公告，详情请点击链接查看完整内容
+- [在高度不平衡数据下增强物联网网络攻击检测](https://paper.seebug.org/3322/) - 作者：Md. Ehsanul Haque, Md. Saymon Hosen Polash, Md Al-Imran等
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/pdf/25...
-- [玛莎百货遭网络攻击重创客户数据在攻击中被盗](https://www.4hou.com/posts/Bvmk) - 英国最大的跨国商业零售集团玛莎百货（Marks and Spencer）证实，客户数据信息在上个月的一次网络攻击中被盗，当时有人使用勒索软件对服务器进行加密。这次攻击发生在2025年4月22日，严重影...
+原文链接：https://arxiv.org/...
+- [黑客在Pwn2Own利用VMware ESXi和Microsoft SharePoint零日漏洞](https://www.4hou.com/posts/EypY) - 在Pwn2Own Berlin 2025的第二天，参赛者利用了微软SharePoint、VMware ESXi、Oracle VirtualBox、红帽企业Linux和Mozilla Firefox等...
 
 
 ### 技术就业趋势
 
-量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
-- [数据湖迈向 Data+AI 一体化平台的演进之路](https://cloud.tencent.com/developer/article/2520998) - 本文将围绕国内市场现状，探讨如何推动数据湖从传统的 Data 模式进入到 Data+AI 一体化平台这一方向。主要内容包括：
-- [「重磅预告」腾讯企点营销云即将推出全新产品](https://cloud.tencent.com/developer/article/2521127) - 本次峰会腾讯企点营销云将推出「腾讯企点营销云智能体」，用AI驱动营销链路实现感知、决策、行动全面升级，加速释放企业经营效能和增长潜力，为企业打造面向未来的智能营销云。
-- [重磅！腾讯智能工作台ima，获信通院AI大模型应用精选案例奖](https://cloud.tencent.com/developer/article/2521002) - 近日,信通院公布首批“开源大模型+”软件创新应用典型案例奖，基于一栈式AI搜索解决方案Elasticsearch Service与大模型打造的腾讯智能工作台ima被评为精选案例。
+- [NETWORK SERVICE、IIS_IUSRS用户没有TEMP权限导致WSUS异常](https://cloud.tencent.com/developer/article/2522089) - WSUS 添加后在post deployment Configuration安装过程中，一直报错
+- [通过 numpy 生成数据的几种常用方式](https://cloud.tencent.com/developer/article/2522114) - NumPy作为Python科学计算的核心库，提供了丰富的数据生成方法。本文将结合实例代码，详细解析7种最常用的数据生成方式。
+- [使用 Matplotlib 绘制函数曲线的编码范式](https://cloud.tencent.com/developer/article/2522117) - 
 
 
 ### GitHub 趋势项目
 
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+- [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course
 
 
 
 
 ### AI 研究论文
 
-- [CIE: Controlling Language Model Text Generations Using Continuous
-  Signals](http://arxiv.org/abs/2505.13448v1) - Vinay Samuel, Harshita Diddee, Yiming Zhang, Daphne Ippolito
-  Aligning language models with user intent is becoming increasingly relevant
-to enhance user experience. This calls for designing methods that can allo...
+- [Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning](http://arxiv.org/abs/2505.14684v1) - Haolei Xu, Yuchen Yan, Yongliang Shen, Wenqi Zhang, Guiyang Hou, Shengpei Jiang, Kaitao Song, Weiming Lu, Jun Xiao, Yueting Zhuang
+  Large language models (LLMs) have achieved remarkable progress on
+mathemati-cal tasks through Chain-of-Thought (CoT) reasoning. However, existing
+math...
 
-- [Trust, But Verify: A Self-Verification Approach to Reinforcement
-  Learning with Verifiable Rewards](http://arxiv.org/abs/2505.13445v1) - Xiaoyuan Liu, Tian Liang, Zhiwei He, Jiahao Xu, Wenxuan Wang, Pinjia He, Zhaopeng Tu, Haitao Mi, Dong Yu
-  Large Language Models (LLMs) show great promise in complex reasoning, with
-Reinforcement Learning with Verifiable Rewards (RLVR) being a key enhanceme...
+- [Two Experts Are All You Need for Steering Thinking: Reinforcing
+  Cognitive Effort in MoE Reasoning Models Without Additional Training](http://arxiv.org/abs/2505.14681v1) - Mengru Wang, Xingyu Chen, Yue Wang, Zhiwei He, Jiahao Xu, Tian Liang, Qiuzhi Liu, Yunzhi Yao, Wenxuan Wang, Ruotian Ma, Haitao Mi, Ningyu Zhang, Zhaopeng Tu, Xiaolong Li, Dong Yu
+  Mixture-of-Experts (MoE) architectures within Large Reasoning Models (LRMs)
+have achieved impressive reasoning capabilities by selectively activating
+...
 
-- [VTBench: Evaluating Visual Tokenizers for Autoregressive Image
-  Generation](http://arxiv.org/abs/2505.13439v1) - Huawei Lin, Tong Geng, Zhaozhuo Xu, Weijie Zhao
-  Autoregressive (AR) models have recently shown strong performance in image
-generation, where a critical component is the visual tokenizer (VT) that ma...
+- [NExT-Search: Rebuilding User Feedback Ecosystem for Generative AI Search](http://arxiv.org/abs/2505.14680v1) - Sunhao Dai, Wenjie Wang, Liang Pang, Jun Xu, See-Kiong Ng, Ji-Rong Wen, Tat-Seng Chua
+  Generative AI search is reshaping information retrieval by offering
+end-to-end answers to complex queries, reducing users' reliance on manually
+browsi...
 
 
 
