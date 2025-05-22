@@ -30,69 +30,68 @@
 
 MIT
 
-## 今日更新 (2025-05-21)
+## 今日更新 (2025-05-22)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- [idea Ai工具通义灵码，Copilot我的使用方法以及比较](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 介于篇幅原因我觉得能说上好用的 目前只有两个 一个是阿里的通义灵码和Copilot，我用它来干什么，他们官方的定义是 提高开发效率，帮助你节省一些开发时间，说白了就是协助，但是我觉得他们 还有其他用处...
-- [专家系统的一般结构解析——基于《人工智能原理与方法》的深度拓展](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - （如患者的体温、设备的电压值），与知识库的通用知识（如“正常体温36-37℃”）形成互补。（2）框架库构建：通过Protege等本体工具定义类、槽、侧面，支持继承（如“细菌性肺炎”框架继承“肺炎”框架...
-- [从大模型到通用AI《智能计算系统》带你揭秘大模型背后的智能计算革命](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 全面贯穿人工智能整个软硬件技术栈以大模型为牵引，形成智能领域的系统思维前沿研究与技术实践结合，快速提升智能领域的系统能力第2版的更新内容包括如何构建大模型算法（第2、3章），如何让编程框架支撑海量处理...
-- [Spring AI MCP Client + DeepSeek R1 搭建自定义可扩展的AI助手服务](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - MCP 由 Anthropic 推出的一种开放标准协议，旨在统一大模型（LLM）与外部数据源和工具之间的通信方式。通过 MCP 协议，开发者可以更高效地实现 AI 模型与外部资源的集成，从而提升应用的...
-- [从头到尾，手把手教你使用扣子（coze）搭建自己的AI智能体](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 只要跟着做，就会使用coze搭建智能体
+- [开发笔记 | 快速上手基于Dify等第三方大模型平台接口实现AI智能聊天](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 前置：1.部署Dify，见官方教程及介绍，本文主要讲基于部署完之后的java实现的调用它的接口实现AI智能聊天，其他AI功能后续有用到再补充，没有就看缘分2.什么是Dify？可以简单理解为集成了各类A...
+- [腾讯云 AI 代码助手编程挑战赛 + 构建开发板垃圾图片识别AI对话的Copilot](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - “腾讯云AI代码助手”是基于腾讯混元代码模型打造的新一代智能编程工具，借助混元代码模型的理解、推理能力，可支持代码解释、技术问答、实时续写、生成单元测试、代码优化与修复、智能CLI等10余项编码功能，...
+- [蓝耘智算携手DeepSeek，共创AI未来](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 通过蓝耘平台搭建DeepSeek-R1模型
+- [大模型之Spring AI实战系列（二）：Spring Boot + OpenAI 打造聊天应用全攻略](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本篇文章是《Spring AI实战》专栏的第一篇开发入门文章，我们将借助一个完整的OpenAI聊天应用示例，详细介绍如何运用Spring Boot和Spring AI快速搭建一个支持OpenAI AP...
+- [智能工单分类系统AI参与环节拆解与技术选型](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 智能工单分类系统AI参与环节拆解与技术选型
 
 
 ### 网络安全资讯
 
-- [新的“Defendnot”工具欺骗Windows禁用Microsoft Defender](https://www.anquanke.com/post/id/307626) - 安全公告，详情请点击链接查看完整内容
+- [Windows 10紧急更新修复了MIDI恢复问题](https://www.anquanke.com/post/id/307671) - 安全公告，详情请点击链接查看完整内容
 - [在高度不平衡数据下增强物联网网络攻击检测](https://paper.seebug.org/3322/) - 作者：Md. Ehsanul Haque, Md. Saymon Hosen Polash, Md Al-Imran等
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/...
-- [黑客在Pwn2Own利用VMware ESXi和Microsoft SharePoint零日漏洞](https://www.4hou.com/posts/EypY) - 在Pwn2Own Berlin 2025的第二天，参赛者利用了微软SharePoint、VMware ESXi、Oracle VirtualBox、红帽企业Linux和Mozilla Firefox等...
+- [内幕 | 那些体育圈的窃密事件](https://www.4hou.com/posts/vw78) - 声明：以下内容符合OSINT国际开源情报搜集定义，不涉及任何非法行为，仅供交流与参考。01 教练室里的窃听器2017年7月，发生了一起足以在国际冰球赛史上留名的丑闻：来自俄罗斯冰球队的教练，在他们的房...
 
 
 ### 技术就业趋势
 
-低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
-- [NETWORK SERVICE、IIS_IUSRS用户没有TEMP权限导致WSUS异常](https://cloud.tencent.com/developer/article/2522089) - WSUS 添加后在post deployment Configuration安装过程中，一直报错
-- [通过 numpy 生成数据的几种常用方式](https://cloud.tencent.com/developer/article/2522114) - NumPy作为Python科学计算的核心库，提供了丰富的数据生成方法。本文将结合实例代码，详细解析7种最常用的数据生成方式。
-- [使用 Matplotlib 绘制函数曲线的编码范式](https://cloud.tencent.com/developer/article/2522117) - 
+- [刚刚，腾讯发布新一代AI浏览器](https://cloud.tencent.com/developer/article/2522256) - 不是打不开网页，而是搜索答案太慢。真正有用的信息，藏在一堆网页和广告里，需要你自己一点点找出来。
+- [parts_to_throw_insert配置检查](https://cloud.tencent.com/developer/article/2522785) - 
+- [腾讯混元上线游戏视觉生成平台，效率提升数十倍](https://cloud.tencent.com/developer/article/2522852) - 今天，腾讯发布混元游戏视觉生成平台。这是一款依托混元大模型打造的AI内容引擎，专为游戏工业级内容生产而生——
 
 
 ### GitHub 趋势项目
 
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-- [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course
+- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 
 
 
 
 ### AI 研究论文
 
-- [Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning](http://arxiv.org/abs/2505.14684v1) - Haolei Xu, Yuchen Yan, Yongliang Shen, Wenqi Zhang, Guiyang Hou, Shengpei Jiang, Kaitao Song, Weiming Lu, Jun Xiao, Yueting Zhuang
-  Large language models (LLMs) have achieved remarkable progress on
-mathemati-cal tasks through Chain-of-Thought (CoT) reasoning. However, existing
-math...
+- [GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI
+  Agents](http://arxiv.org/abs/2505.15810v1) - Yuqi Zhou, Sunhao Dai, Shuai Wang, Kaiwen Zhou, Qinqlin Jia, Junxu
+  Recent Graphical User Interface (GUI) agents replicate the R1-Zero paradigm,
+coupling online Reinforcement Learning (RL) with explicit chain-of-though...
 
-- [Two Experts Are All You Need for Steering Thinking: Reinforcing
-  Cognitive Effort in MoE Reasoning Models Without Additional Training](http://arxiv.org/abs/2505.14681v1) - Mengru Wang, Xingyu Chen, Yue Wang, Zhiwei He, Jiahao Xu, Tian Liang, Qiuzhi Liu, Yunzhi Yao, Wenxuan Wang, Ruotian Ma, Haitao Mi, Ningyu Zhang, Zhaopeng Tu, Xiaolong Li, Dong Yu
-  Mixture-of-Experts (MoE) architectures within Large Reasoning Models (LRMs)
-have achieved impressive reasoning capabilities by selectively activating
-...
+- [Neural Conditional Transport Maps](http://arxiv.org/abs/2505.15808v1) - Carlos Rodriguez-Pardo, Leonardo Chiani, Emanuele Borgonovo, Massimo Tavoni
+  We present a neural framework for learning conditional optimal transport (OT)
+maps between probability distributions. Our approach introduces a condit...
 
-- [NExT-Search: Rebuilding User Feedback Ecosystem for Generative AI Search](http://arxiv.org/abs/2505.14680v1) - Sunhao Dai, Wenjie Wang, Liang Pang, Jun Xu, See-Kiong Ng, Ji-Rong Wen, Tat-Seng Chua
-  Generative AI search is reshaping information retrieval by offering
-end-to-end answers to complex queries, reducing users' reliance on manually
-browsi...
+- [VerifyBench: Benchmarking Reference-based Reward Systems for Large
+  Language Models](http://arxiv.org/abs/2505.15801v1) - Yuchen Yan, Jin Jiang, Zhenbang Ren, Yijun Li, Xudong Cai, Yang Liu, Xin Xu, Mengdi Zhang, Jian Shao, Yongliang Shen, Jun Xiao, Yueting Zhuang
+  Large reasoning models such as OpenAI o1 and DeepSeek-R1 have achieved
+remarkable performance in the domain of reasoning. A key component of their
+tra...
 
 
 
