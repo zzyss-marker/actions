@@ -30,7 +30,7 @@
 
 MIT
 
-## 今日更新 (2025-05-24)
+## 今日更新 (2025-05-25)
 
 ### 今日名言
 
@@ -38,11 +38,11 @@ MIT
 
 ### AI 技术动态
 
-- [LangChain4j 中的 Model Context Protocol (MCP)：实现 AI 模型与工具的高效集成](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文深入探讨了 LangChain4j 中的 Model Context Protocol (MCP)，详细介绍了如何通过 MCP 实现 AI 模型与外部工具的高效集成。MCP 支持 HTTP 和 s...
-- [什么是世界模型World Models | AI大咖说](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 世界模型（World Models）的灵感源于人类自然形成的世界心智模型。人类通过感官获取抽象信息，在大脑中转化为对周围世界的具象理解，这种理解模型早在人类研究AI之前就已存在。基于这些模型，大脑能够...
-- [Programmer&AI—AI辅助编程学习指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着AIGC（AI生成内容）技术的快速发展，诸如ChatGPT、MidJourney和Claude等大语言模型相继涌现，AI辅助编程工具正逐步改变程序员的工作方式。这些工具不仅可以加速代码编写、调试和...
-- [Spring AI Alibaba快速使用](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Spring AI Alibaba快速使用
-- [AI开发者的算力革命：GpuGeek平台全景实战指南（大模型训练/推理/微调全解析）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 文章摘要： 在AI工业化时代，中小企业面临算力成本高、环境配置复杂、资源利用率低等挑战。GpuGeek通过弹性算力、开箱即用和秒级计费等创新方案，显著降低了AI落地的门槛。其核心架构支持智能GPU资源...
+- [还有人不会用AI辅助编程吗？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 人工智能在编程领域的应用可以追溯到20世纪50年代，但真正的突破发生在最近十年。从早期的代码补全工具到如今能够理解上下文、生成完整函数甚至整个项目架构的AI系统，AI编程助手已经经历了革命性的发展。关...
+- [Cephalon端脑云：神经形态计算+边缘AI·重定义云端算力](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 以"AI原生操作系统"为内核，重新定义智能时代的创造力法则。在这里，每个灵感都能通过AI画图引擎瞬间具象化，每段数据都可经由智能训练系统进化出超乎预期的价值。这不仅是工具的升级，更是人类认知维度的突破...
+- [Cursor从小白到高手-掌握Cursor对话能力，从AI菜鸟进化到10倍生产力程序员-AI编程神器-01-04 （系列课程，收藏关注不迷路）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在AI驱动的开发时代，掌握Cursor的对话能力已成为前端工程师的核心竞争力。本文深入剖析Cursor的Chat和Composer两大核心功能，揭示如何利用它们将你的开发效率提升10倍。通过Add C...
+- [构建媲美 ChatGPT 的 AI 交互界面—OpenWebUI](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 是一个开源的 Web 用户界面框架，比 ChartGPT 和 DeepSeek 的聊天界面功能更强大。它主要专注于简化与大型语言模型（如 LLaMA、GPT 等）的交互，提供直观的用户界面，并支持与自...
+- [《DeepSeek 行业应用大全（微课视频版）》人工智能深度剖析：解锁 AIGC 新生产力](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 《DeepSeek 行业应用大全（微课视频版）》人工智能深度剖析：解锁 AIGC 新生产力！在数字化浪潮席卷而来的当下，AIGC（人工智能生成内容）技术正以前所未有的速度重塑各个行业。DeepSeek...
 
 
 ### 网络安全资讯
@@ -56,22 +56,22 @@ MIT
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
-- [关于vscode remote-ssh远程开发的常见问题](https://cloud.tencent.com/developer/article/2522862) - 错误原因是原来用VSCode远程过服务器，后来服务器重装了，再用原来的ssh去连接服务器需要重新添加连接信息
-- [集群存在read only表](https://cloud.tencent.com/developer/article/2523265) - zk不均衡：是指zk集群几个节点上watch相差过大，可从腾讯云控制台查看监控，如下：
-- [实操干货！MCP Server开发从0到1](https://cloud.tencent.com/developer/article/2523025) - 最近 Model Context Protocol ( MCP ) 概念大火，刚好它可以用 Node 或 Python 来编写，作为一名 web 前端程序猿，怎么可以错过这个工具的探索。文章是记录本人...
+- [指标上报的多线程优化和多拉取源点优化](https://cloud.tencent.com/developer/article/2523396) - 我给我们的服务器框架深度集成了一些可观测性的能力。使用 opentelemetry-cpp 作为接入层。 在指标方面，我们允许业务层自由地定制化指标上报和拉取，并以此实现策略控制。上报的时候有Pull...
+- [腾讯汤道生：每个企业都将成为AI公司，每个人都将是“超级个体”](https://cloud.tencent.com/developer/article/2523309) - “AI持续落地，每个企业正在成为AI公司，每个人也将成为AI加持的‘超级个体’。”5月21日，腾讯云AI产业应用峰会在北京举办。腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生表示，模型深度思考...
+- [集群存在alter delete ddl操作](https://cloud.tencent.com/developer/article/2523425) - 
 
 
 ### GitHub 趋势项目
 
-- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
-- [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
+- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 
 
 
