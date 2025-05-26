@@ -30,68 +30,68 @@
 
 MIT
 
-## 今日更新 (2025-05-25)
+## 今日更新 (2025-05-26)
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- [还有人不会用AI辅助编程吗？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 人工智能在编程领域的应用可以追溯到20世纪50年代，但真正的突破发生在最近十年。从早期的代码补全工具到如今能够理解上下文、生成完整函数甚至整个项目架构的AI系统，AI编程助手已经经历了革命性的发展。关...
-- [Cephalon端脑云：神经形态计算+边缘AI·重定义云端算力](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 以"AI原生操作系统"为内核，重新定义智能时代的创造力法则。在这里，每个灵感都能通过AI画图引擎瞬间具象化，每段数据都可经由智能训练系统进化出超乎预期的价值。这不仅是工具的升级，更是人类认知维度的突破...
-- [Cursor从小白到高手-掌握Cursor对话能力，从AI菜鸟进化到10倍生产力程序员-AI编程神器-01-04 （系列课程，收藏关注不迷路）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在AI驱动的开发时代，掌握Cursor的对话能力已成为前端工程师的核心竞争力。本文深入剖析Cursor的Chat和Composer两大核心功能，揭示如何利用它们将你的开发效率提升10倍。通过Add C...
-- [构建媲美 ChatGPT 的 AI 交互界面—OpenWebUI](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 是一个开源的 Web 用户界面框架，比 ChartGPT 和 DeepSeek 的聊天界面功能更强大。它主要专注于简化与大型语言模型（如 LLaMA、GPT 等）的交互，提供直观的用户界面，并支持与自...
-- [《DeepSeek 行业应用大全（微课视频版）》人工智能深度剖析：解锁 AIGC 新生产力](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 《DeepSeek 行业应用大全（微课视频版）》人工智能深度剖析：解锁 AIGC 新生产力！在数字化浪潮席卷而来的当下，AIGC（人工智能生成内容）技术正以前所未有的速度重塑各个行业。DeepSeek...
+- [《制造业的AI转型：从富士康的“黑灯工厂”到特斯拉的Optimus》](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 近年来，人工智能（AI）正加速引领新一轮制造业革命。从生产线上的机器人到智能供应链优化，AI正在帮助制造企业实现前所未有的效率提升和质量飞跃。本文聚焦2020-2025年期间两大行业实践——富士康的智...
+- [KrillinAI安装与配置指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - KrillinAI安装与配置指南 KrillinAI A video translation and dubbing tool powered by LLMs, offering profession...
+- [即梦AI文生图报错 “提示词不支持其他语种“ 的原因](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 【代码】即梦AI文生图报错 "提示词不支持其他语种" 的原因。
+- [个人健康中枢的多元化AI硬件革新与精准健康路径探析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在医疗信息化领域，个人健康中枢正经历着一场由硬件技术革新驱动的深刻变革。随着可穿戴设备、传感器技术和人工智能算法的快速发展，新一代健康监测硬件能够采集前所未有的多维度生物数据，并通过智能分析提供精准的...
+- [大模型之Spring AI实战系列（二）：Spring Boot + OpenAI 打造聊天应用全攻略](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本篇文章是《Spring AI实战》专栏的第一篇开发入门文章，我们将借助一个完整的OpenAI聊天应用示例，详细介绍如何运用Spring Boot和Spring AI快速搭建一个支持OpenAI AP...
 
 
 ### 网络安全资讯
 
-- [美国起诉与勒索软件攻击有关的Qakbot僵尸网络领导人](https://www.anquanke.com/post/id/307718) - 安全公告，详情请点击链接查看完整内容
+- [易安联完成C1轮融资，加速领跑国内零信任安全市场化](https://www.anquanke.com/post/id/307493) - 安全公告，详情请点击链接查看完整内容
 - [使用 LLM 和嵌入模型进行技术识别与威胁行为者归因](https://paper.seebug.org/3323/) - 作者：Kyla Guru, Robert J. Moss, Mykel J. Kochenderfer
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/pdf/2505...
-- [GEEKCON 2025 | 沙·海双城之战  报名开启](https://www.4hou.com/posts/7MBy) - 安全公告，详情请点击链接查看完整内容
+- [NAV“内卷”新战场：谁告警更少，看得更清？](https://www.4hou.com/posts/9jEB) - 近日，国际咨询机构Forrester发布《The Network Analysis And Visibility Solutions Landscape, Q2 2025》报告，对全球网络分析与可视化...
 
 
 ### 技术就业趋势
 
-低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
+云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
 
 ### 科技热点
 
-- [指标上报的多线程优化和多拉取源点优化](https://cloud.tencent.com/developer/article/2523396) - 我给我们的服务器框架深度集成了一些可观测性的能力。使用 opentelemetry-cpp 作为接入层。 在指标方面，我们允许业务层自由地定制化指标上报和拉取，并以此实现策略控制。上报的时候有Pull...
-- [腾讯汤道生：每个企业都将成为AI公司，每个人都将是“超级个体”](https://cloud.tencent.com/developer/article/2523309) - “AI持续落地，每个企业正在成为AI公司，每个人也将成为AI加持的‘超级个体’。”5月21日，腾讯云AI产业应用峰会在北京举办。腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生表示，模型深度思考...
-- [集群存在alter delete ddl操作](https://cloud.tencent.com/developer/article/2523425) - 
+- [Electron以慢著称，腾讯文档却能实现内存优化60%降幅？](https://cloud.tencent.com/developer/article/2523335) - 腾讯文档桌面端新版本已对外发布，该版本中优化了内存占用，Windows 版本内存占用下降了约60%，改善了用户体感，本文对桌面端的部分工作做一个总结。
+- [腾讯大模型战略全景亮相](https://cloud.tencent.com/developer/article/2523308) - 那时，企业刚开始摸索，关心的是能不能用、用在哪儿。一年后，问题变得更具体：大模型如何理解业务？AI如何融入工作流程？
+- [curl.exe做客户端以post方式告知python服务端消息的简单demo](https://cloud.tencent.com/developer/article/2523506) - 客户端：curl.exe cmd命令行执行（注意powershell里的curl跟curl.exe是不一样的，powershell里的curl是Invoke-WebRequest的缩写）
 
 
 ### GitHub 趋势项目
 
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
 
 
 ### AI 研究论文
 
-- [GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation
-  with Reinforcement Learning](http://arxiv.org/abs/2505.17022v1) - Chengqi Duan, Rongyao Fang, Yuqing Wang, Kun Wang, Linjiang Huang, Xingyu Zeng, Hongsheng Li, Xihui Liu
-  Visual generation models have made remarkable progress in creating realistic
-images from text prompts, yet struggle with complex prompts that specify
-...
+- [WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions](http://arxiv.org/abs/2505.18151v1) - Zizhang Li, Hong-Xing Yu, Wei Liu, Yin Yang, Charles Herrmann, Gordon Wetzstein, Jiajun Wu
+  WonderPlay is a novel framework integrating physics simulation with video
+generation for generating action-conditioned dynamic 3D scenes from a single...
 
-- [Let Androids Dream of Electric Sheep: A Human-like Image Implication
-  Understanding and Reasoning Framework](http://arxiv.org/abs/2505.17019v1) - Chenhao Zhang, Yazhe Niu
-  Metaphorical comprehension in images remains a critical challenge for AI
-systems, as existing models struggle to grasp the nuanced cultural, emotional...
+- [Lost in the Haystack: Smaller Needles are More Difficult for LLMs to
+  Find](http://arxiv.org/abs/2505.18148v1) - Owen Bianchi, Mathew J. Koretsky, Maya Willey, Chelsea X. Alvarado, Tanay Nayak, Adi Asija, Nicole Kuznetsov, Mike A. Nalls, Faraz Faghri, Daniel Khashabi
+  Large language models (LLMs) face significant challenges with
+needle-in-a-haystack tasks, where relevant information ("the needle") must be
+drawn from...
 
-- [Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO](http://arxiv.org/abs/2505.17017v1) - Chengzhuo Tong, Ziyu Guo, Renrui Zhang, Wenyu Shan, Xinyu Wei, Zhenghao Xing, Hongsheng Li, Pheng-Ann Heng
-  Recent advancements underscore the significant role of Reinforcement Learning
-(RL) in enhancing the Chain-of-Thought (CoT) reasoning capabilities of l...
+- [Embracing Contradiction: Theoretical Inconsistency Will Not Impede the
+  Road of Building Responsible AI Systems](http://arxiv.org/abs/2505.18139v1) - Gordon Dai, Yunze Xiao
+  This position paper argues that the theoretical inconsistency often observed
+among Responsible AI (RAI) metrics, such as differing fairness definition...
 
 
 
