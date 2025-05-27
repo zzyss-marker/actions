@@ -30,68 +30,69 @@
 
 MIT
 
-## 今日更新 (2025-05-26)
+## 今日更新 (2025-05-27)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- [《制造业的AI转型：从富士康的“黑灯工厂”到特斯拉的Optimus》](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 近年来，人工智能（AI）正加速引领新一轮制造业革命。从生产线上的机器人到智能供应链优化，AI正在帮助制造企业实现前所未有的效率提升和质量飞跃。本文聚焦2020-2025年期间两大行业实践——富士康的智...
-- [KrillinAI安装与配置指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - KrillinAI安装与配置指南 KrillinAI A video translation and dubbing tool powered by LLMs, offering profession...
-- [即梦AI文生图报错 “提示词不支持其他语种“ 的原因](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 【代码】即梦AI文生图报错 "提示词不支持其他语种" 的原因。
-- [个人健康中枢的多元化AI硬件革新与精准健康路径探析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在医疗信息化领域，个人健康中枢正经历着一场由硬件技术革新驱动的深刻变革。随着可穿戴设备、传感器技术和人工智能算法的快速发展，新一代健康监测硬件能够采集前所未有的多维度生物数据，并通过智能分析提供精准的...
-- [大模型之Spring AI实战系列（二）：Spring Boot + OpenAI 打造聊天应用全攻略](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本篇文章是《Spring AI实战》专栏的第一篇开发入门文章，我们将借助一个完整的OpenAI聊天应用示例，详细介绍如何运用Spring Boot和Spring AI快速搭建一个支持OpenAI AP...
+- [支持 MCP 协议的开源 AI Agent 项目](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - MCP 协议由 Anthropic 于 2024 年 11 月开源，旨在标准化大型语言模型（LLM）与外部数据源和工具的交互。它采用客户端-服务器架构，允许 AI 模型通过统一接口访问各种资源，如数据...
+- [视觉 注意力机制——通道注意力、空间注意力、自注意力、交叉注意力](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在计算机视觉领域，注意力机制（Attention Mechanism）已成为提升模型性能的关键技术之一。注意力机制通过模拟人类视觉的选择性注意力，能够在海量数据中自动聚焦于最相关的信息，从而提高模型的...
+- [教你5分钟本地部署部署AI大模型，让你从此以后再也不愁没有AI可用](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着人工智能（AI）和机器学习（ML）技术的迅猛发展，AI模型的规模和复杂度也在不断增加。这些大规模模型，如大型语言模型（LLMs）、计算机视觉模型和复杂的推荐系统，通常需要大量的计算资源来训练和推理...
+- [Ai提示词不会写，看这一篇就够了！（附：套用模板）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - （全套教程文末领取哈）
+- [展望 AIGC 前景：通义万相 2.1 与蓝耘智算平台共筑 AI 生产力高地](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 通义万相2.1和蓝耘平台结合后，为企业提供了强大的AI生成能力，极大提升了内容生产效率。无论是图像、视频，还是3D模型的生成，都能够在短时间内实现高质量输出，并且能够根据不同的行业需求进行灵活调整。
 
 
 ### 网络安全资讯
 
-- [易安联完成C1轮融资，加速领跑国内零信任安全市场化](https://www.anquanke.com/post/id/307493) - 安全公告，详情请点击链接查看完整内容
+- [Vibe编程公司表示，Claude 4将语法错误减少了25%。](https://www.anquanke.com/post/id/307817) - 安全公告，详情请点击链接查看完整内容
 - [使用 LLM 和嵌入模型进行技术识别与威胁行为者归因](https://paper.seebug.org/3323/) - 作者：Kyla Guru, Robert J. Moss, Mykel J. Kochenderfer
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/pdf/2505...
-- [NAV“内卷”新战场：谁告警更少，看得更清？](https://www.4hou.com/posts/9jEB) - 近日，国际咨询机构Forrester发布《The Network Analysis And Visibility Solutions Landscape, Q2 2025》报告，对全球网络分析与可视化...
+- [聚焦前沿趋势，嘶吼2025网络安全产业图谱开启全新篇章](https://www.4hou.com/posts/0Mry) - 数字浪潮奔涌向前，网络安全已成为数字世界稳固发展的核心支撑。从政策法规层面来看，《国家数据基础设施建设指引》《网络数据安全管理条例》等一系列重磅政策法规的出台与实施，为数字经济的安全发展筑牢了坚实根基...
 
 
 ### 技术就业趋势
 
-云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
+软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
 
 ### 科技热点
 
-- [Electron以慢著称，腾讯文档却能实现内存优化60%降幅？](https://cloud.tencent.com/developer/article/2523335) - 腾讯文档桌面端新版本已对外发布，该版本中优化了内存占用，Windows 版本内存占用下降了约60%，改善了用户体感，本文对桌面端的部分工作做一个总结。
-- [腾讯大模型战略全景亮相](https://cloud.tencent.com/developer/article/2523308) - 那时，企业刚开始摸索，关心的是能不能用、用在哪儿。一年后，问题变得更具体：大模型如何理解业务？AI如何融入工作流程？
-- [curl.exe做客户端以post方式告知python服务端消息的简单demo](https://cloud.tencent.com/developer/article/2523506) - 客户端：curl.exe cmd命令行执行（注意powershell里的curl跟curl.exe是不一样的，powershell里的curl是Invoke-WebRequest的缩写）
+- [吴恩达：如何在人工智能领域打造你的职业生涯？](https://cloud.tencent.com/developer/article/2523692) - 这篇文章探讨了如何在人工智能领域建立职业生涯。文章涵盖了从基础技能学习到项目实践，再到找到合适工作的各个方面，并提供了具体的建议和步骤。以下是文章的主要内容：
+- [预告 | 腾讯云存储将亮相中国系统架构师大会·北京站](https://cloud.tencent.com/developer/article/2523753) - 2025年5月23-24日中国系统架构师大会-专题研讨会·北京站，将在北京·朗丽兹西山花园酒店召开。本届大会以“数智赋能 架构演进”为主题，搭建一个高端、开放、互动的交流平台，让来自业界精英汇聚一堂，...
+- [大厂神器？Protobuf编码原理和避坑指南！](https://cloud.tencent.com/developer/article/2523754) - Protobuf 是 Google 出品的序列化框架，可跨平台、跨语言使用，扩展性良好。与 XML， JSON 等序列化框架相同，Protobuf 广泛的应用于数据存储，网络传输，RPC 调用等环境。...
 
 
 ### GitHub 趋势项目
 
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
-- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 
 
 
 
 ### AI 研究论文
 
-- [WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions](http://arxiv.org/abs/2505.18151v1) - Zizhang Li, Hong-Xing Yu, Wei Liu, Yin Yang, Charles Herrmann, Gordon Wetzstein, Jiajun Wu
-  WonderPlay is a novel framework integrating physics simulation with video
-generation for generating action-conditioned dynamic 3D scenes from a single...
+- [Hard Negative Contrastive Learning for Fine-Grained Geometric
+  Understanding in Large Multimodal Models](http://arxiv.org/abs/2505.20152v1) - Kai Sun, Yushi Bai, Zhen Yang, Jiajie Zhang, Ji Qi, Lei Hou, Juanzi Li
+  Benefiting from contrastively trained visual encoders on large-scale natural
+scene images, Large Multimodal Models (LMMs) have achieved remarkable
+per...
 
-- [Lost in the Haystack: Smaller Needles are More Difficult for LLMs to
-  Find](http://arxiv.org/abs/2505.18148v1) - Owen Bianchi, Mathew J. Koretsky, Maya Willey, Chelsea X. Alvarado, Tanay Nayak, Adi Asija, Nicole Kuznetsov, Mike A. Nalls, Faraz Faghri, Daniel Khashabi
-  Large language models (LLMs) face significant challenges with
-needle-in-a-haystack tasks, where relevant information ("the needle") must be
-drawn from...
+- [On the (Non) Injectivity of Piecewise Linear Janossy Pooling](http://arxiv.org/abs/2505.20150v1) - Ilai Reshef, Nadav Dym
+  Multiset functions, which are functions that map multisets to vectors, are a
+fundamental tool in the construction of neural networks for multisets and...
 
-- [Embracing Contradiction: Theoretical Inconsistency Will Not Impede the
-  Road of Building Responsible AI Systems](http://arxiv.org/abs/2505.18139v1) - Gordon Dai, Yunze Xiao
-  This position paper argues that the theoretical inconsistency often observed
-among Responsible AI (RAI) metrics, such as differing fairness definition...
+- [Improvement Strategies for Few-Shot Learning in OCT Image Classification
+  of Rare Retinal Diseases](http://arxiv.org/abs/2505.20149v1) - Cheng-Yu Tai, Ching-Wen Chen, Chi-Chin Wu, Bo-Chen Chiu, Cheng-Hung, Lin, Cheng-Kai Lu, Jia-Kang Wang, Tzu-Lun Huang
+  This paper focuses on using few-shot learning to improve the accuracy of
+classifying OCT diagnosis images with major and rare classes. We used the
+GAN...
 
 
 
