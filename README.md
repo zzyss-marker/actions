@@ -30,7 +30,7 @@
 
 MIT
 
-## 今日更新 (2025-05-27)
+## 今日更新 (2025-05-28)
 
 ### 今日名言
 
@@ -38,61 +38,61 @@ MIT
 
 ### AI 技术动态
 
-- [支持 MCP 协议的开源 AI Agent 项目](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - MCP 协议由 Anthropic 于 2024 年 11 月开源，旨在标准化大型语言模型（LLM）与外部数据源和工具的交互。它采用客户端-服务器架构，允许 AI 模型通过统一接口访问各种资源，如数据...
-- [视觉 注意力机制——通道注意力、空间注意力、自注意力、交叉注意力](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在计算机视觉领域，注意力机制（Attention Mechanism）已成为提升模型性能的关键技术之一。注意力机制通过模拟人类视觉的选择性注意力，能够在海量数据中自动聚焦于最相关的信息，从而提高模型的...
-- [教你5分钟本地部署部署AI大模型，让你从此以后再也不愁没有AI可用](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着人工智能（AI）和机器学习（ML）技术的迅猛发展，AI模型的规模和复杂度也在不断增加。这些大规模模型，如大型语言模型（LLMs）、计算机视觉模型和复杂的推荐系统，通常需要大量的计算资源来训练和推理...
-- [Ai提示词不会写，看这一篇就够了！（附：套用模板）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - （全套教程文末领取哈）
-- [展望 AIGC 前景：通义万相 2.1 与蓝耘智算平台共筑 AI 生产力高地](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 通义万相2.1和蓝耘平台结合后，为企业提供了强大的AI生成能力，极大提升了内容生产效率。无论是图像、视频，还是3D模型的生成，都能够在短时间内实现高质量输出，并且能够根据不同的行业需求进行灵活调整。
+- [AI数字人：人类身份与意识的终极思考（10/10）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 当数字人在技术上不断逼近人类，能够完美模拟人类的语言、表情与决策逻辑时，我们需要从哲学层面重新审视和定义「人类独特性」的核心维度。创意涌现是人类独特性的重要体现之一，AI 在诗歌创作方面已经取得了一定...
+- [Trae 宝藏功能实测：从 Mcp 搭建天气系统，到 AI 重塑 Excel 数据处理](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 最近随着Mcp的爆火，我也开始研究在这个小玩意，但是由于当时好像只能在cursor上面配置MCP，本身由于不喜欢使用cursor，加上不会使用，就没有继续研究这个MCP了，但是呢，最近trae出了MC...
+- [AI 入侵编程界，此次 “大变革”下，程序员的焦虑与突围之路](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI 越来越厉害，以后程序员可能都得转型当架构师，学会从整体规划系统，用技术让各模块协同工作 。
+- [GpuGeek 实操指南：So-VITS-SVC 语音合成与 Stable Diffusion 文生图双模型搭建，融合即梦 AI 的深度实践](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - GpuGeek 实操指南：So-VITS-SVC 语音合成与 Stable Diffusion 文生图双模型搭建，融合即梦 AI 的深度实践
+- [小白避坑指南：国内用Colossal-AI微调DeepSeek 1.5B的完整踩坑记录（附镜像加速方案）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 使用Colossalai+Lora进行sft微调deepseek蒸馏模型
 
 
 ### 网络安全资讯
 
-- [Vibe编程公司表示，Claude 4将语法错误减少了25%。](https://www.anquanke.com/post/id/307817) - 安全公告，详情请点击链接查看完整内容
+- [央视报道：360溯源台湾省黑客组织对广州某科技公司网络攻击](https://www.anquanke.com/post/id/307925) - 安全公告，详情请点击链接查看完整内容
 - [使用 LLM 和嵌入模型进行技术识别与威胁行为者归因](https://paper.seebug.org/3323/) - 作者：Kyla Guru, Robert J. Moss, Mykel J. Kochenderfer
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/pdf/2505...
-- [聚焦前沿趋势，嘶吼2025网络安全产业图谱开启全新篇章](https://www.4hou.com/posts/0Mry) - 数字浪潮奔涌向前，网络安全已成为数字世界稳固发展的核心支撑。从政策法规层面来看，《国家数据基础设施建设指引》《网络数据安全管理条例》等一系列重磅政策法规的出台与实施，为数字经济的安全发展筑牢了坚实根基...
+- [NPM索引上有数十个恶意软件包正在收集主机和网络数据](https://www.4hou.com/posts/8gDg) - 最新发现，安全研究人员在NPM索引中发现了60个试图收集敏感主机和网络数据并将其发送到由威胁者控制的Discord webhook的软件包。根据Socket威胁研究团队的说法，这些软件包从5月12日开...
 
 
 ### 技术就业趋势
 
-软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
+人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
 
 ### 科技热点
 
-- [吴恩达：如何在人工智能领域打造你的职业生涯？](https://cloud.tencent.com/developer/article/2523692) - 这篇文章探讨了如何在人工智能领域建立职业生涯。文章涵盖了从基础技能学习到项目实践，再到找到合适工作的各个方面，并提供了具体的建议和步骤。以下是文章的主要内容：
-- [预告 | 腾讯云存储将亮相中国系统架构师大会·北京站](https://cloud.tencent.com/developer/article/2523753) - 2025年5月23-24日中国系统架构师大会-专题研讨会·北京站，将在北京·朗丽兹西山花园酒店召开。本届大会以“数智赋能 架构演进”为主题，搭建一个高端、开放、互动的交流平台，让来自业界精英汇聚一堂，...
-- [大厂神器？Protobuf编码原理和避坑指南！](https://cloud.tencent.com/developer/article/2523754) - Protobuf 是 Google 出品的序列化框架，可跨平台、跨语言使用，扩展性良好。与 XML， JSON 等序列化框架相同，Protobuf 广泛的应用于数据存储，网络传输，RPC 调用等环境。...
+- [腾讯云与南网数研院达成业务合作，推动打造能源产业新生态](https://cloud.tencent.com/developer/article/2524522) - 5月13日，腾讯云计算（北京）有限责任公司（以下简称“腾讯云”）与南方电网数字电网研究院股份有限公司（以下简称“南网数研院”）签署业务合作协议，双方将充分发挥腾讯云的技术产品、资源生态等方面的领先能力...
+- [腾讯云TVP走进泸州老窖，解码AI数智未来](https://cloud.tencent.com/developer/article/2524524) - 人工智能已渗透各行各业，尤其是在制造业领域，人工智能深度融入研发、生产、供应、销售与服务等环节，加速企业数智化转型进程。作为中国传统工艺的代表，白酒行业正结合人工智能技术创新，迎来新的发展机遇。当传统...
+- [【专家说】游欣：国产大数据平台建设实践](https://cloud.tencent.com/developer/article/2524523) - 随着自主创新工作的持续深入，构建国产大数据平台对于数据要素的价值释放和数据安全保障都具有重要意义。国产大数据生态可以为数据全生命周期管理提供稳定可靠的底层支持，推动形成统一的数据治理框架，并集成AI等...
 
 
 ### GitHub 趋势项目
 
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
-- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
+- [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+- [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) - Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
 
 
 
 
 ### AI 研究论文
 
-- [Hard Negative Contrastive Learning for Fine-Grained Geometric
-  Understanding in Large Multimodal Models](http://arxiv.org/abs/2505.20152v1) - Kai Sun, Yushi Bai, Zhen Yang, Jiajie Zhang, Ji Qi, Lei Hou, Juanzi Li
-  Benefiting from contrastively trained visual encoders on large-scale natural
-scene images, Large Multimodal Models (LMMs) have achieved remarkable
-per...
+- [How does Alignment Enhance LLMs' Multilingual Capabilities? A Language
+  Neurons Perspective](http://arxiv.org/abs/2505.21505v1) - Shimao Zhang, Zhejian Lai, Xiang Liu, Shuaijie She, Xiao Liu, Yeyun Gong, Shujian Huang, Jiajun Chen
+  Multilingual Alignment is an effective and representative paradigm to enhance
+LLMs' multilingual capabilities, which transfers the capabilities from t...
 
-- [On the (Non) Injectivity of Piecewise Linear Janossy Pooling](http://arxiv.org/abs/2505.20150v1) - Ilai Reshef, Nadav Dym
-  Multiset functions, which are functions that map multisets to vectors, are a
-fundamental tool in the construction of neural networks for multisets and...
+- [Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs
+  via Catfish Agent for Clinical Decision Making](http://arxiv.org/abs/2505.21503v1) - Yihan Wang, Qiao Yan, Zhenghao Xing, Lihao Liu, Junjun He, Chi-Wing Fu, Xiaowei Hu, Pheng-Ann Heng
+  Large language models (LLMs) have demonstrated strong potential in clinical
+question answering, with recent multi-agent frameworks further improving
+d...
 
-- [Improvement Strategies for Few-Shot Learning in OCT Image Classification
-  of Rare Retinal Diseases](http://arxiv.org/abs/2505.20149v1) - Cheng-Yu Tai, Ching-Wen Chen, Chi-Chin Wu, Bo-Chen Chiu, Cheng-Hung, Lin, Cheng-Kai Lu, Jia-Kang Wang, Tzu-Lun Huang
-  This paper focuses on using few-shot learning to improve the accuracy of
-classifying OCT diagnosis images with major and rare classes. We used the
-GAN...
+- [ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in
+  Vision-Language Models](http://arxiv.org/abs/2505.21500v1) - Dingming Li, Hongxing Li, Zixuan Wang, Yuchen Yan, Hang Zhang, Siqi Chen, Guiyang Hou, Shengpei Jiang, Wenqi Zhang, Yongliang Shen, Weiming Lu, Yueting Zhuang
+  Vision-language models (VLMs) have demonstrated remarkable capabilities in
+understanding and reasoning about visual content, but significant challenge...
 
 
 
