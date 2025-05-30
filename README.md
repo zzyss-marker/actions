@@ -30,69 +30,67 @@
 
 MIT
 
-## 今日更新 (2025-05-29)
+## 今日更新 (2025-05-30)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- [AI 驱动 + 亮数据赋能：揭秘亚马逊电商数据高效爬取的技术密码](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 亮数据（Bright Data）是一款专注于提供先进网络数据抓取和解析服务的平台，它为用户提供了多种工具和技术，帮助他们在复杂的数据收集环境中快速、准确地获取所需的数据。通过亮数据的服务，用户可以轻松...
-- [Android Studio的AI工具插件使用介绍](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - iFlyCode 智能编程助手，基于讯飞星火大模型，提供代码生成、补全、纠错等功能，支持 Python、Java 等主流编程语言，数据集广泛，语言支持全面。文心快码是基于百度文心大模型的智能代码助手，...
-- [Manus 技术报告：全球首款通用AI Agent工作方式拆解](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Manus 在工程层面做了很多工作，整体交互比其他产品好很多。技术层面，没什么壁垒，开源复刻版已经出来（OpenManusManus 对模型有比较深的依赖：也许有个小模型，做任务执行前的意图识别任务规...
-- [SpringAI学习及搭建AI原生应用](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - SpringAI的推出被认为是Java开发领域的一大福音，因为它结合了Spring生态系统的设计原则和模块化的概念，降低了接入大型语言模型（LLM）的学习成本。此外，在输入封装和输出处理等配套类的帮助...
-- [【微服务】SpringBoot整合LangChain4j 操作AI大模型实战详解](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - SpringBoot 整合 LangChain4j 操作实战详解
+- [爱斯维尔投稿流程，以Journal of Stored Products Research为例](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 这里需要注意，所在机构你打的可能和他提供的不一样，不选他提供的会有警告，但是没事也可以保存提交。填好的作者信息是这样，点击小笔图标可以修改，反应有点慢，也可以拖拽改变作者顺序。
+- [AI智能体|扣子(Coze)全网最详细讲解（保姆级）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 想象一下，你需要在知乎上回答一个专业问题。传统方式是：搜索资料、制定大纲、编写内容、校对修改，耗时耗力。而单纯使用大模型（如ChatGPT）直接提问，又常常得到不够准确或过时的答案。为什么？大模型无法...
+- [SpringAI 大模型应用开发篇-纯 Prompt 开发（舔狗模拟器）、Function Calling（智能客服）、RAG （知识库 ChatPDF）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文介绍了大模型应用开发的四种主要技术框架：1. 纯Prompt模式：通过精心设计的提示词工程实现应用功能，详解了指令优化、任务拆解、输出格式控制等核心策略，以及防范提示注入、越狱攻击等安全措施。2....
+- [Claude 4深夜爆更：OpenAI都沉默了，这才是AI的天花板！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 当全世界都在卷画图、整活、蹭热度时，Claude 反其道而行：“我不陪你热闹，我陪你深思。这或许才是 AI 未来真正该走的方向 ——更稳，更聪明，更像人。📌 如果你想看「Claude vs GPT 多...
+- [告别选择困难！Dify、Coze、RAGFlow、fastgpt、文心智能体，五大 AI 平台终极选型指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在 AI 应用构建的热潮中，选择合适的平台至关重要。本文将直接依据 Dify、Coze (扣子)、RAGFlow、fastgpt 和文心智能体平台的官方文档，为您深度剖析这五个平台的真实能力、核心侧重...
 
 
 ### 网络安全资讯
 
-- [WordPress TI WooCommerce Wishlist 插件漏洞使 100,000+ 网站遭受网络攻击](https://www.anquanke.com/post/id/307980) - 安全公告，详情请点击链接查看完整内容
+- [AI 大脑如何被 “套路”?— 揭秘大模型提示词攻防](https://www.anquanke.com/post/id/307983) - 安全公告，详情请点击链接查看完整内容
 - [根除隐形威胁：检测、利用及修复跨 GitHub 的路径遍历漏洞](https://paper.seebug.org/3324/) - 作者：Jafar Akhoundali, Hamidreza Hamidi, Kristian Rietveld, Olga Gadyatskaya
 译者：知道创宇404实验室翻译组
 原文链接：htt...
-- [网络犯罪分子利用假冒KeePass密码管理器进行ESXi勒索软件攻击](https://www.4hou.com/posts/QX80) - 至少8个月以来，攻击者一直在分发木马版本的KeePass密码管理器，以安装Cobalt Strike信标、窃取凭证，并最终在被入侵的网络上部署勒索软件。WithSecure的威胁情报团队在调查一起勒索...
+- [黑客在Cetus Protocol加密货币抢劫案中窃取了2.23亿美元](https://www.4hou.com/posts/gy9G) - 去中心化交易所Cetus Protocol宣布，黑客窃取了2.23亿美元的加密货币。同时，Cetus Protocol提出了协议，表示如果资金被归还，将停止一切法律行动。该项目还宣布悬赏500万美元，...
 
 
 ### 技术就业趋势
 
-DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
-- [首个高考Agent「AI高考通」，上线！](https://cloud.tencent.com/developer/article/2524810) - 高考倒计时14天，考生在冲刺，家长在紧张。还有一道关键题，大家心照不宣地开始准备了——志愿填报。
-- [ICDE2025论文解读丨如何解决数据库隔离性检测效率低难题？](https://cloud.tencent.com/developer/article/2525127) - 近日，数据库领域顶会ICDE 2025在香港举办。腾讯云TDSQL团队与国内外高校合作的3项研究成果成功入选。这些成果聚焦数据库隔离性验证、在线事务检测和跨地域事务处理等实际应用中的技术难点，相关技术...
-- [腾讯云X文博会：20年的积累，AI了！](https://cloud.tencent.com/developer/article/2525120) - 由腾讯云联合文博会共同打造的「文小博」，依托「腾讯混元+DeepSeek」双模驱动，基于腾讯云智能体开发平台构建而成。不光能聊天答疑、智能推荐合作方，还能翻译、生成文案，参考价格，预判风险。
+- [游戏服务的可观测性能力建设（C++生态）](https://cloud.tencent.com/developer/article/2525166) - 近年来可观测性领域越来越成熟，游戏服务的可观测性能力建设日益成为提升产品质量与运维效率的关键环节。随着游戏系统架构的不断复杂化，传统的监控和故障排查方式已难以满足业务高可用和用户体验优化的需求。通过健...
+- [“AI的真正价值不在于有多酷，而在于多有用、多可靠”](https://cloud.tencent.com/developer/article/2525121) - 5月22日下午，由腾讯研究院和新加坡管理大学数字法研究中心（SMU Centre for Digital Law）联合主办的AI与社会研讨会——“生成式 AI 进展：应用、治理与社会影响”，在新加坡管...
+- [【运维自动化-标准运维】如何实现在不同步骤间传递参数](https://cloud.tencent.com/developer/article/2525324) - 使用场景就是在脚本里使用标准运维的标记符号""，将要传递的数据以key/value对的形式包含在标记符号中，并使用echo/print等打印到作业平台的日志中，shell和Python都可以。
 
 
 ### GitHub 趋势项目
 
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
-- [duixcom/Duix.mobile](https://github.com/duixcom/Duix.mobile) - No description
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+- [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Lightweight full-featured typescript/javascript WhatsApp Web API
+- [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
+- [livestorejs/livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
 
 
 
 
 ### AI 研究论文
 
-- [Maximizing Confidence Alone Improves Reasoning](http://arxiv.org/abs/2505.22660v1) - Mihir Prabhudesai, Lili Chen, Alex Ippoliti, Katerina Fragkiadaki, Hao Liu, Deepak Pathak
-  Reinforcement learning (RL) has enabled machine learning models to achieve
-significant advances in many fields. Most recently, RL has empowered fronti...
+- [From Chat Logs to Collective Insights: Aggregative Question Answering](http://arxiv.org/abs/2505.23765v1) - Wentao Zhang, Woojeong Kim, Yuntian Deng
+  Conversational agents powered by large language models (LLMs) are rapidly
+becoming integral to our daily interactions, generating unprecedented amount...
 
-- [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large
-  Language Model](http://arxiv.org/abs/2505.22657v1) - Wenbo Hu, Yining Hong, Yanjun Wang, Leison Gao, Zibu Wei, Xingcheng Yao, Nanyun Peng, Yonatan Bitton, Idan Szpektor, Kai-Wei Chang
-  Humans excel at performing complex tasks by leveraging long-term memory
-across temporal and spatial experiences. In contrast, current Large Language
-M...
+- [ZeroGUI: Automating Online GUI Learning at Zero Human Cost](http://arxiv.org/abs/2505.23762v1) - Chenyu Yang, Shiqian Su, Shi Liu, Xuan Dong, Yue Yu, Weijie Su, Xuehui Wang, Zhaoyang Liu, Jinguo Zhu, Hao Li, Wenhai Wang, Yu Qiao, Xizhou Zhu, Jifeng Dai
+  The rapid advancement of large Vision-Language Models (VLMs) has propelled
+the development of pure-vision-based GUI Agents, capable of perceiving and
+...
 
-- [Position: Uncertainty Quantification Needs Reassessment for
-  Large-language Model Agents](http://arxiv.org/abs/2505.22655v1) - Michael Kirchhof, Gjergji Kasneci, Enkelejda Kasneci
-  Large-language models (LLMs) and chatbot agents are known to provide wrong
-outputs at times, and it was recently found that this can never be fully
-pr...
+- [Differential Information: An Information-Theoretic Perspective on
+  Preference Optimization](http://arxiv.org/abs/2505.23761v1) - Yunjae Won, Hyunji Lee, Hyeonbin Hwang, Minjoon Seo
+  Direct Preference Optimization (DPO) has become a standard technique for
+aligning language models with human preferences in a supervised manner. Despi...
 
 
 
