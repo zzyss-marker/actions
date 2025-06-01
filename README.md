@@ -30,19 +30,19 @@
 
 MIT
 
-## 今日更新 (2025-05-31)
+## 今日更新 (2025-06-01)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- [【大模型】Browser-Use AI驱动的浏览器自动化工具](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Browser-Use AI驱动的浏览器自动化工具
-- [AI智能体|扣子(Coze)搭建【自动生成小红书爆款笔记】工作流保姆级教学](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 需求的背景大家好，我是偶然，AI洞察，AI智能体，AI工作流分享上期发布之后，收到了一些小伙伴的反应，一方面是搭建流程不够保姆级，一方面就是内容还不够完善。之前发布的没那么完整，主要是因为我想让大家慢...
-- [在Visual Studio开发平台使用通义灵码：AI代码助手的深度实践指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在Visual Studio中引入通义灵码，绝非简单的工具叠加，而是开发范式的根本性变革。通过本文的实践指南，开发者可快速掌握AI辅助编码的核心方法，在保证代码质量的同时，将重复性工作交给机器，聚焦于...
-- [ESP-SPARKBOT AI 智能机器人：v1.2 全流程复刻指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文介绍 ESP-SPARKBOT AI 智能机器人 v1.2 版本的全流程复刻，包含 PCB 、3D 打印、固件烧录、常见问题解决、参考资料等
-- [AI训练数据告急：马斯克的警示与行业破局之路](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 近期马斯克的一番言论，如同一颗重磅炸弹，在 AI 领域掀起了轩然大波。他直言，用于训练 AI 模型的真实世界数据几近耗尽。这一观点的提出，瞬间引发了整个科技界的广泛关注和激烈讨论。马斯克表示，截至 2...
+- [Manus和Genspark深度测评：第1次体会到被AI替代的恐惧！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 前段时间，Manus 火得一塌糊涂，邀请码在网上一码难求。我好不容易搞到码，却发现高峰期算力根本不够用，创建任务动不动就失败，那叫一个恼火！最近 Manus 总算稳定了点，还推出了会员功能。当然，注册...
+- [浅析AI大模型为何需要向量数据库？【入门基础】](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 传统数据库通过精确匹配和索引来检索数据，而向量数据库则专门设计用于处理高维向量数据，支持基于相似性的模糊查询。高维向量存储：通常处理128维到2048维的密集向量近似最近邻(ANN)搜索：牺牲少量精度...
+- [本地搭建AI开发平台Dify并使用Ollama添加大语言模型保姆级教程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本篇文章介绍如何将Dify本地私有化部署，并且接入Ollama部署本地模型，实现在本地环境中部署和管理LLM，再结合cpolar内网穿透实现公网远程访问Dify。
+- [大厂发力浏览器插件，3 款AI插件效率直接拉满（附安装使用步骤）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 侧边栏模式和全局浮窗模式可在插件设置页自由切换。侧边栏打开后，直接可以对网页进行总结，也可以直接提问。
+- [小智AI（ESP32-S3)添加IOT功能、导入外部库 + HomeAssistant + MQTT + ESP8266 = 物联网（基于vscode上的ESP-IDF）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 声明：本人是零基础小白（大四了，为了做毕设才开始学的，之前只学了两个月C++，没搞过电控，纯小镇做题家），全是根据网上视频、咨询各种大佬、自己摸索尝试学来的，从3.4开始零基础学，3.31正式完工，通...
 
 
 ### 网络安全资讯
@@ -56,7 +56,7 @@ MIT
 
 ### 技术就业趋势
 
-人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
@@ -68,10 +68,10 @@ MIT
 ### GitHub 趋势项目
 
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
-- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 
 
