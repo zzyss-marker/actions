@@ -30,19 +30,19 @@
 
 MIT
 
-## 今日更新 (2025-06-01)
+## 今日更新 (2025-06-02)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- [Manus和Genspark深度测评：第1次体会到被AI替代的恐惧！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 前段时间，Manus 火得一塌糊涂，邀请码在网上一码难求。我好不容易搞到码，却发现高峰期算力根本不够用，创建任务动不动就失败，那叫一个恼火！最近 Manus 总算稳定了点，还推出了会员功能。当然，注册...
-- [浅析AI大模型为何需要向量数据库？【入门基础】](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 传统数据库通过精确匹配和索引来检索数据，而向量数据库则专门设计用于处理高维向量数据，支持基于相似性的模糊查询。高维向量存储：通常处理128维到2048维的密集向量近似最近邻(ANN)搜索：牺牲少量精度...
-- [本地搭建AI开发平台Dify并使用Ollama添加大语言模型保姆级教程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本篇文章介绍如何将Dify本地私有化部署，并且接入Ollama部署本地模型，实现在本地环境中部署和管理LLM，再结合cpolar内网穿透实现公网远程访问Dify。
-- [大厂发力浏览器插件，3 款AI插件效率直接拉满（附安装使用步骤）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 侧边栏模式和全局浮窗模式可在插件设置页自由切换。侧边栏打开后，直接可以对网页进行总结，也可以直接提问。
-- [小智AI（ESP32-S3)添加IOT功能、导入外部库 + HomeAssistant + MQTT + ESP8266 = 物联网（基于vscode上的ESP-IDF）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 声明：本人是零基础小白（大四了，为了做毕设才开始学的，之前只学了两个月C++，没搞过电控，纯小镇做题家），全是根据网上视频、咨询各种大佬、自己摸索尝试学来的，从3.4开始零基础学，3.31正式完工，通...
+- [除了DeepSeek之外，Kimi、文思、豆包等9款你必须知道的国产AI工具](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Kimi智能助手是一款多功能的人工智能助手，具备联网搜索功能，能实时整合互联网信息，为用户提供准确详尽的答案。可灵视频AI是AI视频生成工具，能够通过文本或图片输入生成最长3分钟的高清视频，并支持视频...
+- [人工智能在PET-CT中的应用方向探析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 人工智能与PET-CT的深度融合，不仅推动了影像设备从“图像采集工具”向“智能诊疗平台”的演进，更在癌症的早期发现、分型诊断、疗效评估和预后预测等关键环节中发挥了颠覆性作用。通过深度学习算法对大规模P...
+- [Google 全新 AI UI 设计工具亮相：Stitch 一句话生成完整 UI 和完整前端代码](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在Google I/O 2025大会上，Google Labs团队推出了新一代UI设计生成工具Stitch，这是GalileoAI被Google收购后的升级版本。Stitch整合了Google Dee...
+- [【2024年8月】盘点国内可用的 Web Search API，仅此一家 —— 博查AI搜索，可平替Bing Search API](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 博查AI搜索专为AI打造搜索引擎，上线60天已被调用超30万次。其提供Web Search API、AI Search API及Agent Search API三种服务，满足AI对实时信息的需求。主要...
+- [NVIDIA Earth-2 AI 天气模型 DLI 课程：解锁全球风云的未来之匙](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 视频的内容整理成思维导图方便各位读者能够尽快看清和梳理知识点：本次“应用 NVIDIA Earth-2 的 AI 天气模型”工作坊将通过四个部分的课程内容，带领大家深入了解 AI 在天气预报中的应用，...
 
 
 ### 网络安全资讯
@@ -56,41 +56,42 @@ MIT
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
 
 ### 科技热点
 
-- [如何在网络带宽和设备性能有限的环境下实现流畅直播，减少卡顿、提升清晰度](https://cloud.tencent.com/developer/article/2525501) - RTC 实时音视频技术迅速发展，不断打卡新应用，渗透新场景。先进技术为线上场景带来巨大增长的同时，用户也对体验提出了更高要求，希望应用更低延时、更高画质、更加顺畅。
-- [理解并解决高丢包率问题，构建清晰流畅的实时音视频通话](https://cloud.tencent.com/developer/article/2525498) - 丢包作为数字通信中的重要干扰因素，常常潜伏在表面之下，却严重影响性能，将清晰的对话变的模糊不清，将连贯的演示变的断断续续。因此，对音视频通话相关应用的开发者来说，理解丢包率非常重要。
+- [基于 sympy 的代数运算入门](https://cloud.tencent.com/developer/article/2525720) - 本文将以factor、expand和equals三个核心函数为切入点，帮助初学者快速掌握SymPy的基本代数操作。
 - [前端开发](https://cloud.tencent.com/developer/article/2525785) - 前端性能优化是提升用户体验、提高页面加载速度和响应速度的关键步骤。以下是一些核心优化策略和具体实现方法：
+- [胡泳：超级能动性——如何将人类潜能提升到新高度](https://cloud.tencent.com/developer/article/2525819) - 历史已经多次表明，每一次重大经济和技术的变迁，都是企业兴衰更替的关键时刻。40 多年前，互联网诞生。从那以后，包括 Alphabet（谷歌母公司）、亚马逊、苹果、Meta 和微软在内的一些企业成长为市...
 
 
 ### GitHub 趋势项目
 
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
+- [anthropics/courses](https://github.com/anthropics/courses) - Anthropic's educational courses
+- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV
-- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 
 
 
 ### AI 研究论文
 
-- [From Chat Logs to Collective Insights: Aggregative Question Answering](http://arxiv.org/abs/2505.23765v1) - Wentao Zhang, Woojeong Kim, Yuntian Deng
-  Conversational agents powered by large language models (LLMs) are rapidly
-becoming integral to our daily interactions, generating unprecedented amount...
+- [Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and
+  Benchmarking Multimodal LLM Agents](http://arxiv.org/abs/2505.24878v1) - Yaxin Luo, Zhaoyi Li, Jiacheng Liu, Jiacheng Cui, Xiaohan Zhao, Zhiqiang Shen
+  CAPTCHAs have been a critical bottleneck for deploying web agents in
+real-world applications, often blocking them from completing end-to-end
+automatio...
 
-- [ZeroGUI: Automating Online GUI Learning at Zero Human Cost](http://arxiv.org/abs/2505.23762v1) - Chenyu Yang, Shiqian Su, Shi Liu, Xuan Dong, Yue Yu, Weijie Su, Xuehui Wang, Zhaoyang Liu, Jinguo Zhu, Hao Li, Wenhai Wang, Yu Qiao, Xizhou Zhu, Jifeng Dai
-  The rapid advancement of large Vision-Language Models (VLMs) has propelled
-the development of pure-vision-based GUI Agents, capable of perceiving and
-...
+- [ProxyThinker: Test-Time Guidance through Small Visual Reasoners](http://arxiv.org/abs/2505.24872v1) - Zilin Xiao, Jaywon Koo, Siru Ouyang, Jefferson Hernandez, Yu Meng, Vicente Ordonez
+  Recent advancements in reinforcement learning with verifiable rewards have
+pushed the boundaries of the visual reasoning capabilities in large
+vision-...
 
-- [Differential Information: An Information-Theoretic Perspective on
-  Preference Optimization](http://arxiv.org/abs/2505.23761v1) - Yunjae Won, Hyunji Lee, Hyeonbin Hwang, Minjoon Seo
-  Direct Preference Optimization (DPO) has become a standard technique for
-aligning language models with human preferences in a supervised manner. Despi...
+- [Time Blindness: Why Video-Language Models Can't See What Humans Can?](http://arxiv.org/abs/2505.24867v1) - Ujjwal Upadhyay, Mukul Ranjan, Zhiqiang Shen, Mohamed Elhoseiny
+  Recent advances in vision-language models (VLMs) have made impressive strides
+in understanding spatio-temporal relationships in videos. However, when ...
 
 
 
