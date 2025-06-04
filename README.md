@@ -30,68 +30,69 @@
 
 MIT
 
-## 今日更新 (2025-06-03)
+## 今日更新 (2025-06-04)
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- [人工智能的未来发展趋势（2025-2035年）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 人工智能（AI）作为21世纪最具变革性的技术力量，其发展已从实验室走向社会生产生活的各个领域。截至2025年，全球AI市场规模突破万亿美元，中国在算法创新、硬件突破和应用落地等方面已占据重要地位‌34...
-- [2025年 AI 圈最火的五个话题，普通人也能看懂！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 排名热点话题简单一句话说明1️⃣智能体 Agent会自己跑任务的 AI2️⃣RAG 技术AI 回答前先查资料，靠谱多了3️⃣多模态大模型同时能看图、听声、读文字的 AI4️⃣AI+行业应用医疗、教育、...
-- [在京东做AI的95后：我们这样搞定技术难题](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 虽然应用的算法有差异，但是同为深度学习相关任务，提升模型性能时的优化思路、训练技巧乃至模块实现方式都有很多共通之处，其技术迭代的方向和角度，也往往能带给我很多启发，跨领域的知识迁移，往往能碰撞出意想不...
-- [AI 写作（八）实战项目一：自动写作助手（8/10）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 高效便捷：自动写作助手极大地提高了写作效率，节省了用户的时间和精力。无论是专业的学术论文、新闻报道，还是日常的社交媒体动态、博客文章，都能在短时间内生成高质量的内容。例如，一位新闻工作者在使用自动写作...
-- [巧用AI大模型轻松学会Python金融数据分析：从入门到实战](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在当今AI时代，金融数据分析正经历着前所未有的变革。传统的数据分析方式虽然依然有效，但AI大模型如ChatGPT的出现，为金融数据分析师提供了全新的工具和方法。本文将带您探索如何巧妙运用AI大模型来轻...
+- [RTX 5070显卡深度评测：GDDR7显存如何提升AI训练与游戏体验？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - RTX 5070显卡深度评测：GDDR7显存如何提升AI训练与游戏体验？
+- [AI自动化代码编程--Pycharm安装continue框架使用deepseek自动编码](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在中添加：jsonCopy"prompt": "为以下代码生成单元测试：
+{{selected_code}}",
+- [【AIGC】AI工作流workflow实践：构建日报](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 工作流是 LLM 非常重要的概念，它可以帮助 LLM 更高效地完成工作，同时帮助 LLM 去拆解问题复杂度，达到化繁为简的效果。希望这篇文章可以帮助你更深地理解工作流。
+- [AI的“饭碗“焦虑：当“白领打工人“站在了被替代的悬崖边](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - "未来五年，一半的初级白领岗位，可能会被AI吞噬，失业率恐怕要飙到20%！这话不是危言耸听的科幻小说台词，而是出自AI技术风暴核心的人物——Anthropic公司（开发出知名AI模型Claude的公司...
+- [Open WebUI：打造友好且强大的自托管 AI 平台](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着人工智能技术的飞速发展，越来越多的开发者和企业希望将 AI 能力集成到自己的应用和服务中。然而，部署和管理 AI 模型往往需要复杂的技术栈和高昂的成本。Open WebUI 的出现，为这一问题提供...
 
 
 ### 网络安全资讯
 
-- [泰国将于6月28日封锁Bybit、OKK和其他加密货币交易所](https://www.anquanke.com/post/id/308063) - 安全公告，详情请点击链接查看完整内容
-- [根除隐形威胁：检测、利用及修复跨 GitHub 的路径遍历漏洞](https://paper.seebug.org/3324/) - 作者：Jafar Akhoundali, Hamidreza Hamidi, Kristian Rietveld, Olga Gadyatskaya
+- [美国 CISA 将华硕 RT-AX55 设备、Craft CMS 和 ConnectWise ScreenConnect 缺陷列入已知漏洞目录](https://www.anquanke.com/post/id/308112) - 安全公告，详情请点击链接查看完整内容
+- [达尔文哥德尔机器：自我改进智能体的开放演化](https://paper.seebug.org/3325/) - 作者：Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune
 译者：知道创宇404实验室翻译组
-原文链接：htt...
-- [丈八网安荣登2024年度科技行业高成长企业系列榜单](https://www.4hou.com/posts/nl9E) - 近日，国内领先的科技产业研究机构第一新声正式发布【2024年度科技行业最佳CEO及高成长企业榜】。在众多优秀企业的激烈角逐中，丈八网安凭借在网络仿真领域卓越的自主创新实力与爆发式市场增长表现，成功登榜...
+原文链接：https://arxiv.o...
+- [微步入选Gartner®首份NDR魔力象限报告](https://www.4hou.com/posts/xyWq) - 历时近1年调研评估，Gartner于5月29日发布首份《网络检测与响应魔力象限》报告（Magic Quadrant™ for Network Detection and Response），微步在线（...
 
 
 ### 技术就业趋势
 
-敏捷和Scrum认证在项目管理角色中价值提升。
+可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
 
 ### 科技热点
 
-- [重新理解Agent的边界与潜力｜AI转型访谈录](https://cloud.tencent.com/developer/article/2526290) - 2025年被誉为“Agent元年”，从企业级AI助手到个人规划工具，各类Agent如雨后春笋般涌现。然而，尽管市场热情高涨，Agent仍未形成统一的定义——它究竟是“下一代App”，还是更接近“智能协...
-- [4090或4090d显卡驱动跟Server2025系统可能不太兼容，建议Server2022](https://cloud.tencent.com/developer/article/2526466) - 结论先行：4090或4090d显卡驱动跟Server2025系统可能不太兼容，建议Server2022
-- [Spark写入ES报错403|Forbidden问题处理](https://cloud.tencent.com/developer/article/2526551) - 本文描述问题及解决方法同样适用于 腾讯云 Elasticsearch Service（ES）。
+- [1天400万次访问！我的网站又被盗刷了](https://cloud.tencent.com/developer/article/2526822) - 我真的服了，网站又被刷了：1天访问400万次，平时一天最多10万次，增加了40倍！
+- [面试题：在spring框架下面，Bean的属性lazy-init有什么作用，默认值是多少](https://cloud.tencent.com/developer/article/2527151) - 非常感谢您的提问，作为面试者，我很乐意解答关于Spring框架中Bean属性lazy-init的问题。
+- [流计算中的流式SQL是什么？请解释其作用和用途。](https://cloud.tencent.com/developer/article/2527152) - 流式SQL是一种用于流计算的编程模型，它结合了传统的SQL查询语言和流处理的特性，可以对无界数据流进行实时的查询和分析。流式SQL的作用是提供一种简洁而强大的方式来处理实时数据流，使开发者能够以熟悉的...
 
 
 ### GitHub 趋势项目
 
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
+- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 
 
 
 ### AI 研究论文
 
-- [Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and
-  Benchmarking Multimodal LLM Agents](http://arxiv.org/abs/2505.24878v1) - Yaxin Luo, Zhaoyi Li, Jiacheng Liu, Jiacheng Cui, Xiaohan Zhao, Zhiqiang Shen
-  CAPTCHAs have been a critical bottleneck for deploying web agents in
-real-world applications, often blocking them from completing end-to-end
-automatio...
+- [IllumiCraft: Unified Geometry and Illumination Diffusion for
+  Controllable Video Generation](http://arxiv.org/abs/2506.03150v1) - Yuanze Lin, Yi-Wen Chen, Yi-Hsuan Tsai, Ronald Clark, Ming-Hsuan Yang
+  Although diffusion-based models can generate high-quality and high-resolution
+video sequences from textual or image inputs, they lack explicit integra...
 
-- [ProxyThinker: Test-Time Guidance through Small Visual Reasoners](http://arxiv.org/abs/2505.24872v1) - Zilin Xiao, Jaywon Koo, Siru Ouyang, Jefferson Hernandez, Yu Meng, Vicente Ordonez
-  Recent advancements in reinforcement learning with verifiable rewards have
-pushed the boundaries of the visual reasoning capabilities in large
-vision-...
+- [Causal Estimation of Tokenisation Bias](http://arxiv.org/abs/2506.03149v1) - Pietro Lesci, Clara Meister, Thomas Hofmann, Andreas Vlachos, Tiago Pimentel
+  Modern language models are typically trained over subword sequences, but
+ultimately define probabilities over character-strings. Ideally, the choice o...
 
-- [Time Blindness: Why Video-Language Models Can't See What Humans Can?](http://arxiv.org/abs/2505.24867v1) - Ujjwal Upadhyay, Mukul Ranjan, Zhiqiang Shen, Mohamed Elhoseiny
-  Recent advances in vision-language models (VLMs) have made impressive strides
-in understanding spatio-temporal relationships in videos. However, when ...
+- [UniWorld: High-Resolution Semantic Encoders for Unified Visual
+  Understanding and Generation](http://arxiv.org/abs/2506.03147v1) - Bin Lin, Zongjian Li, Xinhua Cheng, Yuwei Niu, Yang Ye, Xianyi He, Shenghai Yuan, Wangbo Yu, Shaodong Wang, Yunyang Ge, Yatian Pang, Li Yuan
+  Although existing unified models deliver strong performance on
+vision-language understanding and text-to-image generation, their models are
+limited in...
 
 
 
