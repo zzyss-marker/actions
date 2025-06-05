@@ -30,48 +30,47 @@
 
 MIT
 
-## 今日更新 (2025-06-04)
+## 今日更新 (2025-06-05)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- [RTX 5070显卡深度评测：GDDR7显存如何提升AI训练与游戏体验？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - RTX 5070显卡深度评测：GDDR7显存如何提升AI训练与游戏体验？
-- [AI自动化代码编程--Pycharm安装continue框架使用deepseek自动编码](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在中添加：jsonCopy"prompt": "为以下代码生成单元测试：
-{{selected_code}}",
-- [【AIGC】AI工作流workflow实践：构建日报](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 工作流是 LLM 非常重要的概念，它可以帮助 LLM 更高效地完成工作，同时帮助 LLM 去拆解问题复杂度，达到化繁为简的效果。希望这篇文章可以帮助你更深地理解工作流。
-- [AI的“饭碗“焦虑：当“白领打工人“站在了被替代的悬崖边](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - "未来五年，一半的初级白领岗位，可能会被AI吞噬，失业率恐怕要飙到20%！这话不是危言耸听的科幻小说台词，而是出自AI技术风暴核心的人物——Anthropic公司（开发出知名AI模型Claude的公司...
-- [Open WebUI：打造友好且强大的自托管 AI 平台](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着人工智能技术的飞速发展，越来越多的开发者和企业希望将 AI 能力集成到自己的应用和服务中。然而，部署和管理 AI 模型往往需要复杂的技术栈和高昂的成本。Open WebUI 的出现，为这一问题提供...
+- [程序员鱼皮最新项目-----AI超级智能体教程（一）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 1.前言1.什么是AI大模型2.什么是多模态3.阿里云百炼平台介绍3.1文本调试展示3.2阿里云和dashscope的关系3.3平台智能体应用3.4工作流的创建3.5智能体编排应用
+- [调用硅基流动API生成图像：使用DeepSeek-AI的Janus-Pro-7B模型（该模型限免）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 硅基流动是一个提供多种AI模型接口的平台，允许开发者通过简单的API调用来使用先进的AI技术。通过硅基流动，用户可以轻松地集成如Janus-Pro-7B这样的高级模型到自己的应用或服务中。Janus-...
+- [Chatbox多端配置指南：快速接入主流AI模型](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 通过上述详细的配置步骤，无论你是使用Windows、MacOS、iOS还是安卓系统，都可以轻松地通过Chatbox多端一键配置，接入Claude、GPT、DeepSeek等主流AI模型。希望这篇文章能...
+- [AI能力倍增器：10大最受欢迎的MCP服务器推荐与功能详解](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 我最近刚刚发现了MCP（模型上下文协议，Model Context Protocol）服务器所引发的热潮，于是决定亲自体验一下，看看它们到底有多厉害。我尝试了Spotify MCP服务器，并结合Cla...
+- [【AI】AI白日梦+ChatGPT 三分钟生成爆款短视频](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI白日梦+ChatGPT 三分钟创作短视频
 
 
 ### 网络安全资讯
 
-- [美国 CISA 将华硕 RT-AX55 设备、Craft CMS 和 ConnectWise ScreenConnect 缺陷列入已知漏洞目录](https://www.anquanke.com/post/id/308112) - 安全公告，详情请点击链接查看完整内容
+- [乌克兰军事情报机构从图波列夫公司窃取 4.4GB 高度机密内部数据](https://www.anquanke.com/post/id/308167) - 安全公告，详情请点击链接查看完整内容
 - [达尔文哥德尔机器：自我改进智能体的开放演化](https://paper.seebug.org/3325/) - 作者：Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.o...
-- [微步入选Gartner®首份NDR魔力象限报告](https://www.4hou.com/posts/xyWq) - 历时近1年调研评估，Gartner于5月29日发布首份《网络检测与响应魔力象限》报告（Magic Quadrant™ for Network Detection and Response），微步在线（...
+- [奢侈时尚品牌卡地亚遭遇网络攻击 客户数据被泄露](https://www.4hou.com/posts/yzWP) - 奢侈时尚品牌卡地亚（Cartier）近期其系统遭遇黑客入侵，致使客户个人信息被泄露。卡地亚在数据泄露通知中表示：“一个未经授权方临时访问了我们的系统，并获得了有限的客户信息。”据卡地亚称，泄露的信息包...
 
 
 ### 技术就业趋势
 
-可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
+人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
 
 ### 科技热点
 
-- [1天400万次访问！我的网站又被盗刷了](https://cloud.tencent.com/developer/article/2526822) - 我真的服了，网站又被刷了：1天访问400万次，平时一天最多10万次，增加了40倍！
-- [面试题：在spring框架下面，Bean的属性lazy-init有什么作用，默认值是多少](https://cloud.tencent.com/developer/article/2527151) - 非常感谢您的提问，作为面试者，我很乐意解答关于Spring框架中Bean属性lazy-init的问题。
-- [流计算中的流式SQL是什么？请解释其作用和用途。](https://cloud.tencent.com/developer/article/2527152) - 流式SQL是一种用于流计算的编程模型，它结合了传统的SQL查询语言和流处理的特性，可以对无界数据流进行实时的查询和分析。流式SQL的作用是提供一种简洁而强大的方式来处理实时数据流，使开发者能够以熟悉的...
+- [三角函数的导数与极限总结](https://cloud.tencent.com/developer/article/2527745) - 
+- [ChaCha20-Poly1305 算法介绍](https://cloud.tencent.com/developer/article/2528025) - ChaCha20 的核心是一个基于 ARX（Addition-Rotation-XOR，加法-循环移位-异或）操作的伪随机函数。它通过迭代一个称为“四分之一轮”的操作来生成密钥流。
+- [腾讯司晓：大模型时代，内容产业智变新浪潮](https://cloud.tencent.com/developer/article/2528060) - 在5月27日闭幕的第二十一届中国（深圳）国际文化产业博览交易会上，腾讯集团副总裁、腾讯研究院院长司晓以《大模型时代文化内容生产的范式革命》为题发表主旨演讲，系统阐述了大模型技术对文化内容生产、传播及产...
 
 
 ### GitHub 趋势项目
 
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
-- [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
-- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 
@@ -79,20 +78,18 @@ MIT
 
 ### AI 研究论文
 
-- [IllumiCraft: Unified Geometry and Illumination Diffusion for
-  Controllable Video Generation](http://arxiv.org/abs/2506.03150v1) - Yuanze Lin, Yi-Wen Chen, Yi-Hsuan Tsai, Ronald Clark, Ming-Hsuan Yang
-  Although diffusion-based models can generate high-quality and high-resolution
-video sequences from textual or image inputs, they lack explicit integra...
+- [Object-centric 3D Motion Field for Robot Learning from Human Videos](http://arxiv.org/abs/2506.04227v1) - Zhao-Heng Yin, Sherry Yang, Pieter Abbeel
+  Learning robot control policies from human videos is a promising direction
+for scaling up robot learning. However, how to extract action knowledge (or...
 
-- [Causal Estimation of Tokenisation Bias](http://arxiv.org/abs/2506.03149v1) - Pietro Lesci, Clara Meister, Thomas Hofmann, Andreas Vlachos, Tiago Pimentel
-  Modern language models are typically trained over subword sequences, but
-ultimately define probabilities over character-strings. Ideally, the choice o...
+- [Efficient Knowledge Editing via Minimal Precomputation](http://arxiv.org/abs/2506.04226v1) - Akshat Gupta, Maochuan Lu, Thomas Hartvigsen, Gopala Anumanchipalli
+  Knowledge editing methods like MEMIT are able to make data and compute
+efficient updates of factual knowledge by using a single sentence to update
+fac...
 
-- [UniWorld: High-Resolution Semantic Encoders for Unified Visual
-  Understanding and Generation](http://arxiv.org/abs/2506.03147v1) - Bin Lin, Zongjian Li, Xinhua Cheng, Yuwei Niu, Yang Ye, Xianyi He, Shenghai Yuan, Wangbo Yu, Shaodong Wang, Yunyang Ge, Yatian Pang, Li Yuan
-  Although existing unified models deliver strong performance on
-vision-language understanding and text-to-image generation, their models are
-limited in...
+- [Pseudo-Simulation for Autonomous Driving](http://arxiv.org/abs/2506.04218v1) - Wei Cao, Marcel Hallgarten, Tianyu Li, Daniel Dauner, Xunjiang Gu, Caojun Wang, Yakov Miron, Marco Aiello, Hongyang Li, Igor Gilitschenski, Boris Ivanovic, Marco Pavone, Andreas Geiger, Kashyap Chitta
+  Existing evaluation paradigms for Autonomous Vehicles (AVs) face critical
+limitations. Real-world evaluation is often challenging due to safety concer...
 
 
 
