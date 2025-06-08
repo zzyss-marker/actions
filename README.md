@@ -30,19 +30,19 @@
 
 MIT
 
-## 今日更新 (2025-06-07)
+## 今日更新 (2025-06-08)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- [使用Spring AI 构建MCP服务](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Spring AI 中的 MCP（Model Calling Protocol）是一种标准化的模型调用协议，支持通过统一接口与不同模型服务交互。本文详细介绍了如何在 Spring AI 中配置 MCP...
-- [毕业党必看！论文AI率从50%到10%实战攻略：4大指令+3招搞定【降AI率工具】全解析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 每个学科都有“小众行话”，比如社会学用“场域博弈”，教育学用“认知负荷”。：方法部分用被动语态（“实验数据被采集”），结论用主动语态（“我们发现”），比例控制在4:3:3。比如“方法论”换成“研究范式...
-- [生成式人工智能的未来之路：对话系统与自主代理的交汇与展望](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 生成式人工智能（AI）在对话系统（Chat）和自主代理（Agent）两个领域的发展不仅展示了其多样化的应用场景，也反映了技术的深度与广度。对话系统主要聚焦于通过自然语言处理（NLP）技术，使机器能够理...
-- [华为云Flexus+DeepSeek征文｜云服务器单机部署基于Dify平台实现AI Agent的一键式部署与开发](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 华为云Flexus+DeepSeek征文｜云服务器单机部署基于Dify平台实现AI Agent的一键式部署与开发
-- [BrowserTools MCP：比Playwright更高效的AI驱动浏览器自动化工具](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - BrowserTools MCP不仅是一款工具，更是AI与开发工具融合的缩影。无论是调试复杂应用、优化SEO，还是快速响应用户需求，BrowserTools都在重新定义“高效开发”的边界。相比传统的P...
+- [华为云Flexus+DeepSeek征文｜依托华为云生态：Dify 平台 AI Agent 开发的场景化实践](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文主要介绍在华为云平台部署Dify并创建AI Agent的实践，展示了低代码开发的便捷性。从空白应用创建到模型配置和提示词编排，流程清晰。
+- [从0到1彻底掌握Trae：手把手带你实战开发AI Chatbot，提升开发效率的必备指南！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Trae是由字节跳动推出的一款免费的AI集成的开发环境，集成了Claude3.5与GPT-4o等主流AI模型，提供AI问答、智能代码生成、智能代码补全，多模态输入等功能。支持界面全中文化，为中文开发者...
+- [数据采集助力AI大模型训练](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文通过两个具体案例展示了亮数据的实际应用：一是利用抓取浏览器动态采集eBay商品数据，从配置到代码实现全程演示；二是直接选购YouTube评论数据集，快速获取结构化数据。这两种方式各具优势，既能满足...
+- [零基础制作tiktok音乐领域热门短视频分析Ai agent](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在数字化浪潮汹涌澎湃的当下，TikTok 无疑成为了全球瞩目的焦点，尤其在音乐领域，其短视频承载着海量流量与巨大影响力。对于音乐创作者而言，这是展示才华、获得认可的绝佳舞台；对于营销人员来说，是推广音...
+- [2025开年，这些AI科研神器帮你快速搞定文献综述](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 从这篇单一的论文开始，Inciteful创建了一个引用网络，不仅揭示了引用你选择的文章的论文，还有那些通过共同引用和引用关系在上下文中相关的论文。向你展示了与你的课题相关的研究趋势和发展的“大局”。S...
 
 
 ### 网络安全资讯
@@ -58,22 +58,22 @@ MIT
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+网络安全人才缺口扩大，零信任安全模型专家需求激增。
 
 ### 科技热点
 
-- [存在超10min的mutations](https://cloud.tencent.com/developer/article/2528181) - 
-- [记一次Win11系统优化过程](https://cloud.tencent.com/developer/article/2528111) - 原本是提前买了一个优盘并用hotpe制作了启动盘，并下载好了win10 ltsc 2021的iso准备给重装系统的
-- [腾讯应用宝，冲出手机屏幕](https://cloud.tencent.com/developer/article/2528203) - 人们用电脑聊天、购物、看视频、工作、学习......在电脑的黄金时代，电脑屏幕是数字世界的中心舞台。
+- [如何让一个emb一步收敛至另外一个emb](https://cloud.tencent.com/developer/article/2528346) - ​（比如LLM的词向量、多模态的特征emb），没法直接塞进新模型的Lookup Table里初始化。
+- [Java与Golang语法核心区别](https://cloud.tencent.com/developer/article/2528399) - 
+- [功能设计-如何设计一个回调功能](https://cloud.tencent.com/developer/article/2528427) - 回调(Callback)是一种常见的异步编程模式，主要用于服务间的异步通信。当服务A需要服务B执行某个耗时操作时，服务A不会一直等待服务B完成，而是提供一个回调地址，服务B完成操作后主动通知服务A。
 
 
 ### GitHub 趋势项目
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 5 lines of code
-- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
 
 
 
