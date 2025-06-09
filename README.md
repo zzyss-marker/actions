@@ -30,19 +30,19 @@
 
 MIT
 
-## 今日更新 (2025-06-08)
+## 今日更新 (2025-06-09)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- [华为云Flexus+DeepSeek征文｜依托华为云生态：Dify 平台 AI Agent 开发的场景化实践](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文主要介绍在华为云平台部署Dify并创建AI Agent的实践，展示了低代码开发的便捷性。从空白应用创建到模型配置和提示词编排，流程清晰。
-- [从0到1彻底掌握Trae：手把手带你实战开发AI Chatbot，提升开发效率的必备指南！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Trae是由字节跳动推出的一款免费的AI集成的开发环境，集成了Claude3.5与GPT-4o等主流AI模型，提供AI问答、智能代码生成、智能代码补全，多模态输入等功能。支持界面全中文化，为中文开发者...
-- [数据采集助力AI大模型训练](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文通过两个具体案例展示了亮数据的实际应用：一是利用抓取浏览器动态采集eBay商品数据，从配置到代码实现全程演示；二是直接选购YouTube评论数据集，快速获取结构化数据。这两种方式各具优势，既能满足...
-- [零基础制作tiktok音乐领域热门短视频分析Ai agent](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在数字化浪潮汹涌澎湃的当下，TikTok 无疑成为了全球瞩目的焦点，尤其在音乐领域，其短视频承载着海量流量与巨大影响力。对于音乐创作者而言，这是展示才华、获得认可的绝佳舞台；对于营销人员来说，是推广音...
-- [2025开年，这些AI科研神器帮你快速搞定文献综述](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 从这篇单一的论文开始，Inciteful创建了一个引用网络，不仅揭示了引用你选择的文章的论文，还有那些通过共同引用和引用关系在上下文中相关的论文。向你展示了与你的课题相关的研究趋势和发展的“大局”。S...
+- [AI智能体｜文本格式错乱？扣子（Coze）一键秒出Word、Excel、PPT神器来助你](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI智能体｜文本格式错乱？扣子（Coze）一键秒出Word、Excel、PPT神器来助你
+- [【云馨AI-大模型】2025年5月首周AI领域三大突破：人形机器人量产启动、脑机接口临床获批、AI立法框架全球热议](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 2025年5月，AI领域迎来多项重大突破。全球首条人形机器人全自动化生产线在深圳投产，单日产能达500台，主要应用于工业和家庭场景，特斯拉Optimus Gen3版本也开启预售，价格降至2万美元，标志...
+- [探索高性能AI识别和边缘计算 | NVIDIA Jetson Orin Nano 8GB 开发套件的全面测评](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文对NVIDIA Jetson Orin Nano 8GB开发板进行了详细测评，包括配置解析、YOLOv5物体识别算法实测及与Raspberry Pi 4B和Raspberry Pi 5的横向性能对...
+- [AI技术前沿：蓝耘元生代智算云快速入门教程详解，与其他云人工智能大模型深度对比](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI技术前沿：蓝耘元生代智算云快速入门教程详解，与其他主流云服务人工智能大模型深度对比，随着人工智能和大数据技术的飞速发展，对于计算能力的需求呈指数级增长。智算云作为一种新型的计算服务模式，为科研人员...
+- [Manus通用AI智能体完全使用指南（2025最新版）——从注册到高阶技巧全解析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Manus通用AI智能体完全使用指南（2025最新版）——从注册到高阶技巧全解析
 
 
 ### 网络安全资讯
@@ -53,48 +53,45 @@ MIT
 1. 背景
 1.1 组织介绍
 海莲花（OceanLotus），又称 APT32，是一个具有国家背景的高级持续性威胁（APT）组织，该组织...
-- [ISC.AI 2025创新独角兽沙盒大赛开启，招募安全与AI全域创新力量](https://www.4hou.com/posts/PGqW) - 伴随着席卷而至的数字化浪潮，AI正以前所未有的速度全面赋能传统业态的重构与新兴业态的孵化。这场由技术跃迁引发的范式革命，不仅持续拓展着人类认知的边界，更将创新力转化为推动产业升级的澎湃动能，成为未来智...
+- [新的PumaBot僵尸网络暴力破解SSH凭据以破坏设备](https://www.4hou.com/posts/jB9l) - 一种新发现的基于Go的Linux僵尸网络恶意软件名为PumaBot，它通过暴力破解嵌入式物联网设备上的SSH凭证来部署恶意负载。PumaBot 的针对性也体现在它根据从命令和控制 (C2) 服务器获取...
 
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
 
 ### 科技热点
 
-- [如何让一个emb一步收敛至另外一个emb](https://cloud.tencent.com/developer/article/2528346) - ​（比如LLM的词向量、多模态的特征emb），没法直接塞进新模型的Lookup Table里初始化。
-- [Java与Golang语法核心区别](https://cloud.tencent.com/developer/article/2528399) - 
-- [功能设计-如何设计一个回调功能](https://cloud.tencent.com/developer/article/2528427) - 回调(Callback)是一种常见的异步编程模式，主要用于服务间的异步通信。当服务A需要服务B执行某个耗时操作时，服务A不会一直等待服务B完成，而是提供一个回调地址，服务B完成操作后主动通知服务A。
+- [Golang GMP模型解析](https://cloud.tencent.com/developer/article/2529538) - 
+- [PySide6 GUI 编程（1）: 环境准备与示例代码](https://cloud.tencent.com/developer/article/2529556) - PySide6与PyQt6都是Qt框架在Python中的绑定库，功能高度相似但存在关键差异。
+- [重视你人生的复利效应](https://cloud.tencent.com/developer/article/2529516) - 你听过“稳扎稳打方能制胜”这句话吗？或者至少听过龟兔赛跑的故事吧？女士们，先生们，我就是那只乌龟。给我足够的时间，我几乎可以在任何时候、任何比赛中击败任何人。为什么？不是因为我最优秀、最聪明或速度最快...
 
 
 ### GitHub 趋势项目
 
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 5 lines of code
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
-- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 5 lines of code
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 
 
 
 
 ### AI 研究论文
 
-- [Refer to Anything with Vision-Language Prompts](http://arxiv.org/abs/2506.05342v1) - Shengcao Cao, Zijun Wei, Jason Kuen, Kangning Liu, Lingzhi Zhang, Jiuxiang Gu, HyunJoon Jung, Liang-Yan Gui, Yu-Xiong Wang
-  Recent image segmentation models have advanced to segment images into
-high-quality masks for visual entities, and yet they cannot provide
-comprehensiv...
+- [Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias](http://arxiv.org/abs/2506.06280v1) - Yuanzhe Hu, Kinshuk Goel, Vlad Killiakov, Yaoqing Yang
+  Diagnosing deep neural networks (DNNs) through the eigenspectrum of weight
+matrices has been an active area of research in recent years. At a high lev...
 
-- [Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via
-  Spatial Reasoning](http://arxiv.org/abs/2506.05341v1) - Xingjian Ran, Yixuan Li, Linning Xu, Mulin Yu, Bo Dai
-  Realistic 3D indoor scene synthesis is vital for embodied AI and digital
-content creation. It can be naturally divided into two subtasks: object
-gener...
+- [Distillation Robustifies Unlearning](http://arxiv.org/abs/2506.06278v1) - Bruce W. Lee, Addie Foote, Alex Infanger, Leni Shor, Harish Kamath, Jacob Goldman-Wetzler, Bryce Woodworth, Alex Cloud, Alexander Matt Turner
+  Current LLM unlearning methods are not robust: they can be reverted easily
+with a few steps of finetuning. This is true even for the idealized unlearn...
 
-- [Exploring Diffusion Transformer Designs via Grafting](http://arxiv.org/abs/2506.05340v1) - Keshigeyan Chandrasegaran, Michael Poli, Daniel Y. Fu, Dongjun Kim, Lea M. Hadzic, Manling Li, Agrim Gupta, Stefano Massaroli, Azalia Mirhoseini, Juan Carlos Niebles, Stefano Ermon, Li Fei-Fei
-  Designing model architectures requires decisions such as selecting operators
-(e.g., attention, convolution) and configurations (e.g., depth, width).
-H...
+- [Cartridges: Lightweight and general-purpose long context representations
+  via self-study](http://arxiv.org/abs/2506.06266v1) - Sabri Eyuboglu, Ryan Ehrlich, Simran Arora, Neel Guha, Dylan Zinsley, Emily Liu, Will Tennien, Atri Rudra, James Zou, Azalia Mirhoseini, Christopher Re
+  Large language models are often used to answer queries grounded in large text
+corpora (e.g. codebases, legal documents, or chat histories) by placing ...
 
 
 
