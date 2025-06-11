@@ -30,71 +30,71 @@
 
 MIT
 
-## 今日更新 (2025-06-10)
+## 今日更新 (2025-06-11)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- [和 AI 玩海龟汤差点崩溃：它永远比我多知道 100 个隐藏真相](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 开发过程中，蓝耘 API 的高效响应为谜题秒级生成提供支持，灵活的接口适配让玩法设计不受束缚，超大调用量与亲民价格，则为游戏的持续优化与迭代保驾护航。学生时代敢想敢做的冲劲，配合技术工具的赋能，让这款...
-- [云平台结合DeepSeek的AI模型优化实践：技术突破与应用革新](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在人工智能技术高速发展的当下，蓝耘平台与DeepSeek的协同合作，正通过算力资源的高效调度与算法模型的深度优，为行业智能化转型提供了全新的解决方案。本文将从技术架构、应用场景、优化策略及未来趋势等维...
-- [手把手拆解：使用vue3打造超酷AI对话页面](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - /提示词//结果//页面错误提示//是否加载中// 结果容器元素// 当前激活的历史记录索引// 历史记录// 复制成功提示这里定义了一堆响应式变量，这些变量就像是页面的“小管家”，它们的值一变，页面...
-- [【GitHub开源AI精选】WhisperX：70倍实时语音转录、革命性词级时间戳与多说话人分离技术](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - WhisperX 是一个基于 OpenAI Whisper 模型的开源自动语音识别（ASR）项目，通过引入批量推理、强制音素对齐和语音活动检测等技术，显著提升了语音识别的效率和精度。该项目支持多语言处...
-- [Java程序员的AI之LangChain4j（一）从零到企业级AI开发](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 让JAVA程序员更快的理解AI接入的LangChain4j
+- [Topaz Photo AI：移除工具（基于生成式 AI）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - （Remove Tool） 是一项基于生成式人工智能（Generative AI）的内容替换与补全系统，它不仅用于移除图像中不需要的对象，同时也可完成画布扩展中的区域填充。系统分析用户标注的区域，并利...
+- [NSFW的AI情感陪伴类在线工具如何做好SEO？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - NSFW 是 "Not Safe For Work" 的缩写，意思是“不适合在工作场所浏览”。它通常用于标记包含以下内容的网络内容：色情内容：任何具有性暗示或露骨色情的内容。暴力内容：包含血腥、暴力或...
+- [AI部署架构：A100、H100、A800、H800、H20的差异以及如何选型？开发、测试、生产环境如何进行AI大模型部署架构？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI部署架构：A100、H100、A800、H800、H20的差异以及如何选型？开发、测试、生产环境如何进行AI大模型部署架构？
+- [数学建模革命性工具：MathModelAgent - 让AI自动生成获奖级论文](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 是一款专为数学建模竞赛设计的自动化智能体系统（GitHub开源项目），能将原本需要3天的建模过程压缩至1小时，直接输出符合学术规范的完整论文。项目通过多智能体协作框架，实现问题分析→数学建模→代码编写...
+- [GitHub 上 10 大热门开源 AI Agent 项目综述（2025 最新）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 通过对这 10 个Github热门开源 AI Agent 项目的详细介绍，我们可以看到 AI Agent 技术正在快速发展，并在各个领域展现出巨大的潜力。从通用型的自主 Agent 如 AutoGPT...
 
 
 ### 网络安全资讯
 
+- [Stealth Falcon 在复杂的网络间谍活动中利用新的零日漏洞 (CVE-2025-33053)](https://www.anquanke.com/post/id/308352) - 安全公告，详情请点击链接查看完整内容
 - [海莲花组织疑似针对国产操作系统及 IOT 设备发起攻击](https://paper.seebug.org/3328/) - 作者：知道创宇404高级威胁情报团队
 时间：2025年6月6日
 1. 背景
 1.1 组织介绍
 海莲花（OceanLotus），又称 APT32，是一个具有国家背景的高级持续性威胁（APT）组织，该组织...
-- [恶意RubyGems冒充Fastlane窃取Telegram API数据](https://www.4hou.com/posts/vwpX) - 两个恶意的RubyGems包伪装成流行的Fastlane CI/CD插件，将Telegram API请求重定向到攻击者控制的服务器，以拦截和窃取数据。RubyGems是Ruby编程语言的官方包管理器，...
-- [DeepSeek-671B纯CPU部署经验分享(一)](https://xlab.tencent.com/cn/2025/03/16/DeepSeek-671B%E7%BA%AFCPU%E9%83%A8%E7%BD%B2%E5%AE%9E%E8%B7%B5%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB(%E4%B8%80)/) - 
-私有化部署大模型能够有效保护数据隐私、便于开展大模型安全研究和知识蒸馏。目前主流部署方式包括纯 GPU、CPU/GPU 混合以及纯 CPU 三种部署方式。本文介绍了我们针对 DeepSeek 大模型...
+- [双项殊荣｜梆梆安全入选2025年度 “中国数据安全50强” 及 “价值图谱代表企业”](https://www.4hou.com/posts/5Mov) - 近日，国内权威咨询机构数世咨询发布《中国数据安全50强（2025）》与《中国数字安全价值图谱》，梆梆安全基于技术能力、产品落地性及市场表现等核心维度的综合评估，入选“中国数据安全50强-综合实力榜单”...
 
 
 ### 技术就业趋势
 
-DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
+量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
 
 ### 科技热点
 
-- [TVP专家谈CodeBuddy：助力高效编程，潜力无限](https://cloud.tencent.com/developer/article/2529717) - 导语 | 近日，由腾讯云 TVP 携手腾讯云代码助手 CodeBuddy 团队精心打造 TVP 吐槽大会腾讯云 CodeBuddy 专题线上研讨会圆满落幕，7 位资深的行业专家深度体验 CodeBud...
-- [深度解析 RocketMQ 核心组件：ConsumeQueue 的设计与实现](https://cloud.tencent.com/developer/article/2529714) - 在分布式消息队列 RocketMQ 中，ConsumeQueue（消费队列） 是消息消费的核心组件之一。它作为  CommitLog 的索引机制，帮助消费者快速定位并拉取消息。如果没有 Consume...
-- [黑科技“抓娃娃机”亮相大阪世博会，腾讯云实时音视频展现“远程”新可能](https://cloud.tencent.com/developer/article/2529708) - 作为全球最高规格的综合性国际博览会，世博会是展示经济文化成果、促进国际交流合作的核心平台。最近，以“开放深圳 创享未来”为主题的2025年日本大阪世博会中国馆深圳活动周，在日本大阪“梦洲”人工岛世博园...
+- [EdgeOne 服务总览页焕新，管理更便捷！](https://cloud.tencent.com/developer/article/2529838) - 为给广大用户带来更便捷的使用体验，腾讯云 EdgeOne 对服务总览页面进行了全新改版。新版页面不仅能够根据业务场景选择适配的接入方式，还可以快速查看当前已添加的所有网站加速资源及 Pages 项目，...
+- [低版本Windows Server无法突破vCPU核数＞128，Server2019要支持128＜vCPU核数＜256的话，需要补丁状态≥2022年11月](https://cloud.tencent.com/developer/article/2529892) - 低版本Windows Server无法突破vCPU核数＞128，Server2019要支持128＜vCPU核数＜256的话，需要补丁状态≥2022年11月，目前更建议使用Server2022（Serv...
+- [一个简单的指数函数极限问题竟要动用两大 AI 共同分析？看两大 AI 在数学问题上各显神通](https://cloud.tencent.com/developer/article/2529919) - 最近，我们在测试 SymPy 计算指数极限的诡异 Bug 时，发现 Gemini 和 DeepSeek 给出了完全不同的分析深度：
 
 
 ### GitHub 趋势项目
 
-- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+- [jwohlwend/boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz biomolecular interaction models
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
-- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 5 lines of code
-- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+- [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 
 
 
 ### AI 研究论文
 
-- [StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning
-  from Partially Annotated Synthetic Datasets](http://arxiv.org/abs/2506.08013v1) - Anh-Quan Cao, Ivan Lopes, Raoul de Charette
-  Multi-task learning for dense prediction is limited by the need for extensive
-annotation for every task, though recent works have explored training wi...
+- [ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm
+  Engineering](http://arxiv.org/abs/2506.09050v1) - Yuki Imajuku, Kohki Horie, Yoichi Iwata, Kensho Aoki, Naohiro Takahashi, Takuya Akiba
+  How well do AI systems perform in algorithm engineering for hard optimization
+problems in domains such as package-delivery routing, crew scheduling, f...
 
-- [Vision Transformers Don't Need Trained Registers](http://arxiv.org/abs/2506.08010v1) - Nick Jiang, Amil Dravid, Alexei Efros, Yossi Gandelsman
-  We investigate the mechanism underlying a previously identified phenomenon in
-Vision Transformers -- the emergence of high-norm tokens that lead to no...
+- [VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement
+  Learning](http://arxiv.org/abs/2506.09049v1) - Li Kang, Xiufeng Song, Heng Zhou, Yiran Qin, Jie Yang, Xiaohong Liu, Philip Torr, Lei Bai, Zhenfei Yin
+  Coordinating multiple embodied agents in dynamic environments remains a core
+challenge in artificial intelligence, requiring both perception-driven
+re...
 
-- [GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection
-  Behavior](http://arxiv.org/abs/2506.08012v1) - Penghao Wu, Shengnan Ma, Bo Wang, Jiaheng Yu, Lewei Lu, Ziwei Liu
-  Multimodal Large Language Models (MLLMs) have shown great potential in
-revolutionizing Graphical User Interface (GUI) automation. However, existing
-GU...
+- [Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual
+  Backpropagation](http://arxiv.org/abs/2506.09046v1) - Xiaowen Ma, Chenyang Lin, Yao Zhang, Volker Tresp, Yunpu Ma
+  Leveraging multiple Large Language Models(LLMs) has proven effective for
+addressing complex, high-dimensional tasks, but current approaches often rely...
 
 
 
