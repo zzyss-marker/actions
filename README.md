@@ -30,7 +30,7 @@
 
 MIT
 
-## 今日更新 (2025-06-11)
+## 今日更新 (2025-06-12)
 
 ### 今日名言
 
@@ -38,63 +38,64 @@ MIT
 
 ### AI 技术动态
 
-- [Topaz Photo AI：移除工具（基于生成式 AI）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - （Remove Tool） 是一项基于生成式人工智能（Generative AI）的内容替换与补全系统，它不仅用于移除图像中不需要的对象，同时也可完成画布扩展中的区域填充。系统分析用户标注的区域，并利...
-- [NSFW的AI情感陪伴类在线工具如何做好SEO？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - NSFW 是 "Not Safe For Work" 的缩写，意思是“不适合在工作场所浏览”。它通常用于标记包含以下内容的网络内容：色情内容：任何具有性暗示或露骨色情的内容。暴力内容：包含血腥、暴力或...
-- [AI部署架构：A100、H100、A800、H800、H20的差异以及如何选型？开发、测试、生产环境如何进行AI大模型部署架构？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI部署架构：A100、H100、A800、H800、H20的差异以及如何选型？开发、测试、生产环境如何进行AI大模型部署架构？
-- [数学建模革命性工具：MathModelAgent - 让AI自动生成获奖级论文](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 是一款专为数学建模竞赛设计的自动化智能体系统（GitHub开源项目），能将原本需要3天的建模过程压缩至1小时，直接输出符合学术规范的完整论文。项目通过多智能体协作框架，实现问题分析→数学建模→代码编写...
-- [GitHub 上 10 大热门开源 AI Agent 项目综述（2025 最新）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 通过对这 10 个Github热门开源 AI Agent 项目的详细介绍，我们可以看到 AI Agent 技术正在快速发展，并在各个领域展现出巨大的潜力。从通用型的自主 Agent 如 AutoGPT...
+- [Spring AI+MCP强强联合：三步打造智能体开发王炸组合！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 注意，它连接的不是物理设备，而是AI模型和外部的数据源、工具等。有了MCP，AI模型就能更方便地获取外部的信息，完成更多的任务。比如，通过MCP，AI模型可以操作电脑读写文件，或者模拟浏览器操作等。
+- [Monaco-Editor 助力 AI 开发平台：浏览器直接变身“类 IDE”！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Monaco-Editor 的引入，无疑为 AI 开发平台的前端架构提供了一种轻量化却功能强大的方案。它像一把“瑞士军刀”，帮助开发者在浏览器端就能获得类似于 VS Code 的编辑体验——高亮、自动...
+- [AI视频自动生成本地部署，完美实现“剪映”图文成片功能](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI视频自动生成本地部署，完美实现“剪映”图文成片功能
+- [[AI]从零开始的DeepSeek本地部署及本地API调用教程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 讲解了使用LM Studio与Ollama部署DeepSeek并且完成API调用！
+- [让孩子轻松爱上AI：《人工智能真好玩》开启未来科技启蒙之旅](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 这是一部专为中小学生打造的通识科普书。在人与AI日益交织的时代，本书帮助孩子们找准自己的定位，从容迎接未来挑战。在人工智能深刻改变我们生活的今天，人与AI的关系或许可以归结为四种角色：使用者、竞争者、...
 
 
 ### 网络安全资讯
 
-- [Stealth Falcon 在复杂的网络间谍活动中利用新的零日漏洞 (CVE-2025-33053)](https://www.anquanke.com/post/id/308352) - 安全公告，详情请点击链接查看完整内容
+- [微软 Office 漏洞允许攻击者执行远程代码](https://www.anquanke.com/post/id/308412) - 安全公告，详情请点击链接查看完整内容
 - [海莲花组织疑似针对国产操作系统及 IOT 设备发起攻击](https://paper.seebug.org/3328/) - 作者：知道创宇404高级威胁情报团队
 时间：2025年6月6日
 1. 背景
 1.1 组织介绍
 海莲花（OceanLotus），又称 APT32，是一个具有国家背景的高级持续性威胁（APT）组织，该组织...
-- [双项殊荣｜梆梆安全入选2025年度 “中国数据安全50强” 及 “价值图谱代表企业”](https://www.4hou.com/posts/5Mov) - 近日，国内权威咨询机构数世咨询发布《中国数据安全50强（2025）》与《中国数字安全价值图谱》，梆梆安全基于技术能力、产品落地性及市场表现等核心维度的综合评估，入选“中国数据安全50强-综合实力榜单”...
+- [恶意软件Crocodilus利用虚假通讯录联系人进行网络攻击](https://www.4hou.com/posts/wxqM) - 最新版本的“Crocodilus”安卓恶意软件引入了一种新机制，该机制会在受感染设备的联系人列表中添加一个虚假联系人，以便在收到威胁者的电话时利用虚假联系人欺骗受害者。该功能与其他几个功能一起推出，主...
 
 
 ### 技术就业趋势
 
-量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
+软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
 
 ### 科技热点
 
-- [EdgeOne 服务总览页焕新，管理更便捷！](https://cloud.tencent.com/developer/article/2529838) - 为给广大用户带来更便捷的使用体验，腾讯云 EdgeOne 对服务总览页面进行了全新改版。新版页面不仅能够根据业务场景选择适配的接入方式，还可以快速查看当前已添加的所有网站加速资源及 Pages 项目，...
-- [低版本Windows Server无法突破vCPU核数＞128，Server2019要支持128＜vCPU核数＜256的话，需要补丁状态≥2022年11月](https://cloud.tencent.com/developer/article/2529892) - 低版本Windows Server无法突破vCPU核数＞128，Server2019要支持128＜vCPU核数＜256的话，需要补丁状态≥2022年11月，目前更建议使用Server2022（Serv...
-- [一个简单的指数函数极限问题竟要动用两大 AI 共同分析？看两大 AI 在数学问题上各显神通](https://cloud.tencent.com/developer/article/2529919) - 最近，我们在测试 SymPy 计算指数极限的诡异 Bug 时，发现 Gemini 和 DeepSeek 给出了完全不同的分析深度：
+- [指数函数与对数函数的特性总结](https://cloud.tencent.com/developer/article/2530176) - 
+- [重磅！支持纯血鸿蒙！腾讯视频ovCompose跨平台框架发布](https://cloud.tencent.com/developer/article/2530095) - 随着纯血鸿蒙的推出，客户端跨平台需求被推到了前所未有的高度，单纯的 UI 跨端已无法满足业务诉求，构建Android/iOS/鸿蒙平台的全跨端APP能够最大幅度的降低业务开发成本，提升人效。并且行业内...
+- [腾讯×广发证券：下一个七年更加「AI」](https://cloud.tencent.com/developer/article/2530316) - 这一次，我们将全面拥抱AI原生时代，共同探索AI大模型的智能体创新和生态共建，同时深化IT基础设施及自主创新、数字化运营、金融业务等领域的合作。
 
 
 ### GitHub 趋势项目
 
-- [jwohlwend/boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz biomolecular interaction models
-- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [jwohlwend/boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz biomolecular interaction models
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
 
 
 
 
 ### AI 研究论文
 
-- [ALE-Bench: A Benchmark for Long-Horizon Objective-Driven Algorithm
-  Engineering](http://arxiv.org/abs/2506.09050v1) - Yuki Imajuku, Kohki Horie, Yoichi Iwata, Kensho Aoki, Naohiro Takahashi, Takuya Akiba
-  How well do AI systems perform in algorithm engineering for hard optimization
-problems in domains such as package-delivery routing, crew scheduling, f...
+- [DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular
+  Videos](http://arxiv.org/abs/2506.09997v1) - Chieh Hubert Lin, Zhaoyang Lv, Songyin Wu, Zhen Xu, Thu Nguyen-Phuoc, Hung-Yu Tseng, Julian Straub, Numair Khan, Lei Xiao, Ming-Hsuan Yang, Yuheng Ren, Richard Newcombe, Zhao Dong, Zhengqin Li
+  We introduce the Deformable Gaussian Splats Large Reconstruction Model
+(DGS-LRM), the first feed-forward method predicting deformable 3D Gaussian
+spla...
 
-- [VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement
-  Learning](http://arxiv.org/abs/2506.09049v1) - Li Kang, Xiufeng Song, Heng Zhou, Yiran Qin, Jie Yang, Xiaohong Liu, Philip Torr, Lei Bai, Zhenfei Yin
-  Coordinating multiple embodied agents in dynamic environments remains a core
-challenge in artificial intelligence, requiring both perception-driven
-re...
+- [Text-Aware Image Restoration with Diffusion Models](http://arxiv.org/abs/2506.09993v1) - Jaewon Min, Jin Hyeon Kim, Paul Hyunbin Cho, Jaeeun Lee, Jihye Park, Minkyu Park, Sangpil Kim, Hyunhee Park, Seungryong Kim
+  Image restoration aims to recover degraded images. However, existing
+diffusion-based restoration methods, despite great success in natural image
+resto...
 
-- [Agentic Neural Networks: Self-Evolving Multi-Agent Systems via Textual
-  Backpropagation](http://arxiv.org/abs/2506.09046v1) - Xiaowen Ma, Chenyang Lin, Yao Zhang, Volker Tresp, Yunpu Ma
-  Leveraging multiple Large Language Models(LLMs) has proven effective for
-addressing complex, high-dimensional tasks, but current approaches often rely...
+- [eFlesh: Highly customizable Magnetic Touch Sensing using Cut-Cell
+  Microstructures](http://arxiv.org/abs/2506.09994v1) - Venkatesh Pattabiraman, Zizhou Huang, Daniele Panozzo, Denis Zorin, Lerrel Pinto, Raunaq Bhirangi
+  If human experience is any guide, operating effectively in unstructured
+environments -- like homes and offices -- requires robots to sense the forces
+...
 
 
 
