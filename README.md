@@ -30,49 +30,54 @@
 
 MIT
 
-## 今日更新 (2025-06-12)
+## 今日更新 (2025-06-13)
 
 ### 今日名言
 
-> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- [Spring AI+MCP强强联合：三步打造智能体开发王炸组合！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 注意，它连接的不是物理设备，而是AI模型和外部的数据源、工具等。有了MCP，AI模型就能更方便地获取外部的信息，完成更多的任务。比如，通过MCP，AI模型可以操作电脑读写文件，或者模拟浏览器操作等。
-- [Monaco-Editor 助力 AI 开发平台：浏览器直接变身“类 IDE”！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - Monaco-Editor 的引入，无疑为 AI 开发平台的前端架构提供了一种轻量化却功能强大的方案。它像一把“瑞士军刀”，帮助开发者在浏览器端就能获得类似于 VS Code 的编辑体验——高亮、自动...
-- [AI视频自动生成本地部署，完美实现“剪映”图文成片功能](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI视频自动生成本地部署，完美实现“剪映”图文成片功能
-- [[AI]从零开始的DeepSeek本地部署及本地API调用教程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 讲解了使用LM Studio与Ollama部署DeepSeek并且完成API调用！
-- [让孩子轻松爱上AI：《人工智能真好玩》开启未来科技启蒙之旅](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 这是一部专为中小学生打造的通识科普书。在人与AI日益交织的时代，本书帮助孩子们找准自己的定位，从容迎接未来挑战。在人工智能深刻改变我们生活的今天，人与AI的关系或许可以归结为四种角色：使用者、竞争者、...
+- [Claude 4：一场AI代理革命的起点](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 值得关注的是，Claude 4的定价策略（Opus 4每百万Token输入15美元/输出75美元）虽高于OpenAI o3-mini（同类场景成本降低40%），但其API新增代码执行工具、文件缓存等企...
+- [【AI大模型】大型语言模型LLM基础概览：技术原理、发展历程与未来展望](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 大语言模型 (英文：Large Language Model，缩写LLM) 是一种人工智能模型, 旨在理解和生成人类语言. 大语言模型可以处理多种自然语言任务，如文本分类、问答、翻译、对话等等.
+- [【AI】Spring AI+MCP实战：零代码改造将传统服务接入大模型生态](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 未来可考虑开发MCP代理服务，通过简单配置即可将现有业务转换为MCP Server，为AI智能体提供更广泛的服务接入能力。MCP目前仍处于发展初期，生态构建是当前的重点。通过统一标准构建的生态将促进整...
+- [Kimi-免费的PPT生成AI工具](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 一键生成PPT的AI工具-Kimi
+- [n8n 中文系列教程_01. 简单易懂的现代AI魔法：n8n快速入门与核心概念解析（文末有彩蛋）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在AI技术爆发的今天，你是否还在为复杂的API对接发愁？或是面对海量数据却困在Excel公式里？n8n正在重塑自动化工具的边界——无需编程基础，通过可视化拖拽即可构建AI工作流。本文为你揭秘：✅ 如何...
 
 
 ### 网络安全资讯
 
-- [微软 Office 漏洞允许攻击者执行远程代码](https://www.anquanke.com/post/id/308412) - 安全公告，详情请点击链接查看完整内容
+- [新的Crocodilus恶意软件完全控制Android设备](https://www.anquanke.com/post/id/308460) - 安全公告，详情请点击链接查看完整内容
 - [海莲花组织疑似针对国产操作系统及 IOT 设备发起攻击](https://paper.seebug.org/3328/) - 作者：知道创宇404高级威胁情报团队
 时间：2025年6月6日
 1. 背景
 1.1 组织介绍
 海莲花（OceanLotus），又称 APT32，是一个具有国家背景的高级持续性威胁（APT）组织，该组织...
-- [恶意软件Crocodilus利用虚假通讯录联系人进行网络攻击](https://www.4hou.com/posts/wxqM) - 最新版本的“Crocodilus”安卓恶意软件引入了一种新机制，该机制会在受感染设备的联系人列表中添加一个虚假联系人，以便在收到威胁者的电话时利用虚假联系人欺骗受害者。该功能与其他几个功能一起推出，主...
+- [【附下载】重庆信通设计院：政务数据共享-全攻略](https://www.4hou.com/posts/gyW3) - 本期要点《政务数据共享条例》重点解析《政务数据共享条例》思维导图（附件）条例原文（附件）各地政务数据目录（附件）公共数据示范场景清单70+（附件）各地政务公共数据管理办法（附件）条例出台的战略意义1、...
 
 
 ### 技术就业趋势
 
-软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- [指数函数与对数函数的特性总结](https://cloud.tencent.com/developer/article/2530176) - 
-- [重磅！支持纯血鸿蒙！腾讯视频ovCompose跨平台框架发布](https://cloud.tencent.com/developer/article/2530095) - 随着纯血鸿蒙的推出，客户端跨平台需求被推到了前所未有的高度，单纯的 UI 跨端已无法满足业务诉求，构建Android/iOS/鸿蒙平台的全跨端APP能够最大幅度的降低业务开发成本，提升人效。并且行业内...
-- [腾讯×广发证券：下一个七年更加「AI」](https://cloud.tencent.com/developer/article/2530316) - 这一次，我们将全面拥抱AI原生时代，共同探索AI大模型的智能体创新和生态共建，同时深化IT基础设施及自主创新、数字化运营、金融业务等领域的合作。
+- [云顾问 x Redis实践攻略：轻松应对618“秒杀抢购”](https://cloud.tencent.com/developer/article/2530416) - 618大促流量洪峰来袭！秒杀抢购、库存扣减、订单缓存... 每一次点击都是对核心组件Redis的极限施压。
+- [商品推荐系统-FAISS召回](https://cloud.tencent.com/developer/article/2530460) - 在互联网电商、内容平台等实际业务中，商品库动辄百万量级，如何为每位用户从海量商品中迅速召回个性化、高相关的候选商品，是推荐系统最基础也最关键的一环。 如果只依赖商品的原始属性（如标题、描述）匹配，不仅...
+- [sql中left join、right join、inner join区别](https://cloud.tencent.com/developer/article/2530461) - aID aNum
+ 1　　　　　a0111
+ 2　　　　　a0112
+ 3　　　　　a0113
+ 4　　　　　a0114
+ 5　　　　　a0115
 
 
 ### GitHub 趋势项目
 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [jwohlwend/boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz biomolecular interaction models
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing
+- [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
 
 
@@ -80,22 +85,18 @@ MIT
 
 ### AI 研究论文
 
-- [DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular
-  Videos](http://arxiv.org/abs/2506.09997v1) - Chieh Hubert Lin, Zhaoyang Lv, Songyin Wu, Zhen Xu, Thu Nguyen-Phuoc, Hung-Yu Tseng, Julian Straub, Numair Khan, Lei Xiao, Ming-Hsuan Yang, Yuheng Ren, Richard Newcombe, Zhao Dong, Zhengqin Li
-  We introduce the Deformable Gaussian Splats Large Reconstruction Model
-(DGS-LRM), the first feed-forward method predicting deformable 3D Gaussian
-spla...
+- [Rethinking Losses for Diffusion Bridge Samplers](http://arxiv.org/abs/2506.10982v1) - Sebastian Sanokowski, Lukas Gruber, Christoph Bartmann, Sepp Hochreiter, Sebastian Lehner
+  Diffusion bridges are a promising class of deep-learning methods for sampling
+from unnormalized distributions. Recent works show that the Log Variance...
 
-- [Text-Aware Image Restoration with Diffusion Models](http://arxiv.org/abs/2506.09993v1) - Jaewon Min, Jin Hyeon Kim, Paul Hyunbin Cho, Jaeeun Lee, Jihye Park, Minkyu Park, Sangpil Kim, Hyunhee Park, Seungryong Kim
-  Image restoration aims to recover degraded images. However, existing
-diffusion-based restoration methods, despite great success in natural image
-resto...
+- [Fine-Grained Perturbation Guidance via Attention Head Selection](http://arxiv.org/abs/2506.10978v1) - Donghoon Ahn, Jiwon Kang, Sanghyun Lee, Minjae Kim, Jaewon Min, Wooseok Jang, Saungwu Lee, Sayak Paul, Susung Hong, Seungryong Kim
+  Recent guidance methods in diffusion models steer reverse sampling by
+perturbing the model to construct an implicit weak model and guide generation
+aw...
 
-- [eFlesh: Highly customizable Magnetic Touch Sensing using Cut-Cell
-  Microstructures](http://arxiv.org/abs/2506.09994v1) - Venkatesh Pattabiraman, Zizhou Huang, Daniele Panozzo, Denis Zorin, Lerrel Pinto, Raunaq Bhirangi
-  If human experience is any guide, operating effectively in unstructured
-environments -- like homes and offices -- requires robots to sense the forces
-...
+- [AutoMind: Adaptive Knowledgeable Agent for Automated Data Science](http://arxiv.org/abs/2506.10974v1) - Yixin Ou, Yujie Luo, Jingsheng Zheng, Lanning Wei, Shuofei Qiao, Jintian Zhang, Da Zheng, Huajun Chen, Ningyu Zhang
+  Large Language Model (LLM) agents have shown great potential in addressing
+real-world data science problems. LLM-driven data science agents promise to...
 
 
 
