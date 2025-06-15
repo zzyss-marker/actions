@@ -30,19 +30,19 @@
 
 MIT
 
-## 今日更新 (2025-06-13)
+## 今日更新 (2025-06-15)
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- [Claude 4：一场AI代理革命的起点](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 值得关注的是，Claude 4的定价策略（Opus 4每百万Token输入15美元/输出75美元）虽高于OpenAI o3-mini（同类场景成本降低40%），但其API新增代码执行工具、文件缓存等企...
-- [【AI大模型】大型语言模型LLM基础概览：技术原理、发展历程与未来展望](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 大语言模型 (英文：Large Language Model，缩写LLM) 是一种人工智能模型, 旨在理解和生成人类语言. 大语言模型可以处理多种自然语言任务，如文本分类、问答、翻译、对话等等.
-- [【AI】Spring AI+MCP实战：零代码改造将传统服务接入大模型生态](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 未来可考虑开发MCP代理服务，通过简单配置即可将现有业务转换为MCP Server，为AI智能体提供更广泛的服务接入能力。MCP目前仍处于发展初期，生态构建是当前的重点。通过统一标准构建的生态将促进整...
-- [Kimi-免费的PPT生成AI工具](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 一键生成PPT的AI工具-Kimi
-- [n8n 中文系列教程_01. 简单易懂的现代AI魔法：n8n快速入门与核心概念解析（文末有彩蛋）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 在AI技术爆发的今天，你是否还在为复杂的API对接发愁？或是面对海量数据却困在Excel公式里？n8n正在重塑自动化工具的边界——无需编程基础，通过可视化拖拽即可构建AI工作流。本文为你揭秘：✅ 如何...
+- [教程丨免费离线AI大模型，断网也能用](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 我们一般聊的大模型，基本都是闭源的，比如ChatGPT、Bard、Claude、文心一言、智谱清言等等。我们登录别人的网站就可以使用。现在还有一些模型是开源的，这些一般可以本地部署，就是你不上网也可以...
+- [【人工智能】AI时代程序员----是缔造AI程序员，还是AI缔造程序员？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着AIGC（如ChatGPT、MidJourney、Claude等）大语言模型的涌现，AI辅助编程工具日益普及，程序员的工作方式正在发生深刻变革。随着一系列AI产品的兴起，我们也可以看到在各个不同领...
+- [【人工智能数学基础—微积分】深入详解梯度与梯度下降：掌握梯度下降法及其变种及模型参数的优化](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 【人工智能数学基础—微积分】深入详解梯度与梯度下降：掌握梯度下降法及其变种及模型参数的优化
+- [AI终结传统编程？未来程序员必看](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI重塑编程领域：效率提升与职业转型 当前AI技术正在深刻改变软件开发行业。AI编程工具使代码产出量提升5-10倍，显著降低了编程门槛。高阶程序员将借助AI增强生产力，而基础编码人员面临转型压力。典型...
+- [跨模态对齐与跨领域学习：提升AI泛化与理解能力的研究](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文详细讨论了跨模态对齐与跨领域学习的理论基础与实现方法，介绍了如何使用对比学习实现跨模态对齐，以及如何通过对抗性训练实现领域适应。通过结合这两种方法，我们能够构建出更为强大的模型，在不同模态和领域之...
 
 
 ### 网络安全资讯
@@ -58,18 +58,13 @@ MIT
 
 ### 技术就业趋势
 
-敏捷和Scrum认证在项目管理角色中价值提升。
+量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
 
 ### 科技热点
 
-- [云顾问 x Redis实践攻略：轻松应对618“秒杀抢购”](https://cloud.tencent.com/developer/article/2530416) - 618大促流量洪峰来袭！秒杀抢购、库存扣减、订单缓存... 每一次点击都是对核心组件Redis的极限施压。
-- [商品推荐系统-FAISS召回](https://cloud.tencent.com/developer/article/2530460) - 在互联网电商、内容平台等实际业务中，商品库动辄百万量级，如何为每位用户从海量商品中迅速召回个性化、高相关的候选商品，是推荐系统最基础也最关键的一环。 如果只依赖商品的原始属性（如标题、描述）匹配，不仅...
-- [sql中left join、right join、inner join区别](https://cloud.tencent.com/developer/article/2530461) - aID aNum
- 1　　　　　a0111
- 2　　　　　a0112
- 3　　　　　a0113
- 4　　　　　a0114
- 5　　　　　a0115
+- [破冰！腾讯云数据库TDSQL核心技术首获中国专利金奖](https://cloud.tencent.com/developer/article/2530795) - 腾讯在基础软件领域的持续重投入结出硕果。最近，国家知识产权局公布第二十五届专利获奖结果。其中，腾讯云数据库TDSQL的核心专利“数据库事务处理方法、装置及服务器”荣获中国专利金奖，成为数据库技术首次问...
+- [3个趋势，看AI到底是怎么重构广告行业的？](https://cloud.tencent.com/developer/article/2530740) - 在刚结束的I/O 2025大会上，谷歌CEO Sundar Pichai用一句话点明了谷歌AI战略的转向：“所有这些进展意味着我们正处于AI平台转型的新阶段。”伴随Gemini 2.5和Flash模型...
+- [中国专利金奖，拿下！](https://cloud.tencent.com/developer/article/2530737) - 最近，国家知识产权局公布了第25届专利金奖名单。腾讯云数据库TDSQL的一项核心专利——“数据库事务处理方法、装置及服务器”——成功入选，拿下中国专利金奖。
 
 
 ### GitHub 趋势项目
