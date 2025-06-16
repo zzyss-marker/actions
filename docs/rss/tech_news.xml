@@ -3,7 +3,7 @@
   <channel>
     <title>科技热点</title>
     <description>科技行业的热点新闻和趋势</description>
-    <link>https://your-username.github.io/actions</link>
+    <link>https://zzyss-marker.github.io/actions</link>
     <language>zh-CN</language>
     <copyright>Copyright 2025 技术视野助手</copyright>
     <managingEditor>tech-insights@example.com</managingEditor>
@@ -12,13 +12,13 @@
     <generator>技术视野助手 RSS Generator v1.0</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <ttl>60</ttl>
-    <lastBuildDate>Mon, 16 Jun 2025 21:26:43 +0000</lastBuildDate>
-    <pubDate>Mon, 16 Jun 2025 21:26:43 +0000</pubDate>
-    <atom:link href="https://your-username.github.io/actions/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jun 2025 21:44:34 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Jun 2025 21:44:34 +0000</pubDate>
+    <atom:link href="https://zzyss-marker.github.io/actions/rss.xml" rel="self" type="application/rss+xml" />
     <image>
-      <url>https://your-username.github.io/actions/assets/logo.png</url>
+      <url>https://zzyss-marker.github.io/actions/assets/logo.png</url>
       <title>科技热点</title>
-      <link>https://your-username.github.io/actions</link>
+      <link>https://zzyss-marker.github.io/actions</link>
       <width>144</width>
       <height>144</height>
     </image>
@@ -27,7 +27,7 @@
       <link>https://apple.com/</link>
       <guid>https://apple.com/</guid>
       <description>性能大幅提升</description>
-      <pubDate>Mon, 16 Jun 2025 21:26:43 +0000</pubDate>
+      <pubDate>Mon, 16 Jun 2025 21:44:34 +0000</pubDate>
       <category>科技热点</category>
     </item>
     <item>
@@ -35,7 +35,7 @@
       <link>https://microsoft.com/</link>
       <guid>https://microsoft.com/</guid>
       <description>云计算服务升级</description>
-      <pubDate>Mon, 16 Jun 2025 21:26:43 +0000</pubDate>
+      <pubDate>Mon, 16 Jun 2025 21:44:34 +0000</pubDate>
       <category>科技热点</category>
     </item>
   </channel>

@@ -11,7 +11,7 @@ class RSSGenerator:
         self.channel_info = {
             'title': '技术视野助手',
             'description': '每日技术资讯聚合，AI驱动的技术新闻和趋势分析',
-            'link': 'https://your-username.github.io/actions',
+            'link': 'https://zzyss-marker.github.io/actions',
             'language': 'zh-CN',
             'copyright': 'Copyright 2025 技术视野助手',
             'managingEditor': 'tech-insights@example.com',

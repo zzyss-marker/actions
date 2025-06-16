@@ -234,21 +234,21 @@ fetch('/api/ai_news.json')
 import requests
 
 # 获取所有数据
-response = requests.get('https://your-domain.com/api/all.json')
+response = requests.get('https://zzyss-marker.github.io/actions/api/all.json')
 data = response.json()
 
 print(f"总新闻数: {data['statistics']['total_news']}")
 for news in data['data']['ai_news']:
     print(f"- {news['title']}")
         </div>
-        
+
         <h3>cURL</h3>
         <div class="json-example">
 # 获取所有数据
-curl -X GET "https://your-domain.com/api/all.json"
+curl -X GET "https://zzyss-marker.github.io/actions/api/all.json"
 
 # 获取AI新闻
-curl -X GET "https://your-domain.com/api/ai_news.json"
+curl -X GET "https://zzyss-marker.github.io/actions/api/ai_news.json"
         </div>
     </div>
     
@@ -268,7 +268,7 @@ curl -X GET "https://your-domain.com/api/ai_news.json"
         <p>
             <a href="../" class="try-button">返回主页</a>
             <a href="../rss/" class="try-button">RSS订阅</a>
-            <a href="https://github.com/your-username/tech-insights" class="try-button">GitHub项目</a>
+            <a href="https://github.com/zzyss-marker/actions" class="try-button">GitHub项目</a>
         </p>
     </div>
 </body>

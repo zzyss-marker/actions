@@ -1,6 +1,6 @@
 title: 技术视野助手
 description: 每日技术资讯聚合平台，AI驱动的技术新闻和趋势分析
-url: "https://your-username.github.io"
+url: "https://zzyss-marker.github.io"
 baseurl: "/actions"
 
 # GitHub Pages settings
@@ -13,7 +13,7 @@ plugins:
 lang: zh-CN
 author: 技术视野助手
 twitter:
-  username: your_twitter
+  username: zzyss_marker
   card: summary
 
 # Navigation
