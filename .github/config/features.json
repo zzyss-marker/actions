@@ -1,0 +1,86 @@
+{
+  "features": {
+    "core_news": {
+      "enabled": true,
+      "priority": 1,
+      "description": "核心技术资讯功能"
+    },
+    "tech_stocks": {
+      "enabled": true,
+      "priority": 2,
+      "description": "科技股票追踪",
+      "symbols": ["AAPL", "GOOGL", "MSFT", "TSLA", "NVDA", "META", "AMZN", "NFLX"]
+    },
+    "dev_tools": {
+      "enabled": true,
+      "priority": 3,
+      "description": "开发者工具推荐"
+    },
+    "coding_challenge": {
+      "enabled": true,
+      "priority": 4,
+      "description": "每日编程挑战"
+    },
+    "mobile_dev": {
+      "enabled": true,
+      "priority": 5,
+      "description": "移动开发动态"
+    },
+    "tech_trivia": {
+      "enabled": true,
+      "priority": 6,
+      "description": "技术趣闻"
+    },
+    "book_recommendation": {
+      "enabled": true,
+      "priority": 7,
+      "description": "技术书籍推荐"
+    },
+    "cloud_pricing": {
+      "enabled": false,
+      "priority": 8,
+      "description": "云服务价格监控"
+    },
+    "tech_conferences": {
+      "enabled": false,
+      "priority": 9,
+      "description": "技术会议日历"
+    },
+    "salary_report": {
+      "enabled": false,
+      "priority": 10,
+      "description": "技术薪资报告"
+    }
+  },
+  "settings": {
+    "max_items_per_section": 5,
+    "request_timeout": 15,
+    "retry_attempts": 3,
+    "cache_duration": 3600
+  },
+  "rss_sources": {
+    "ai_news": [
+      "https://api.dbot.pp.ua/v1/rss/csdn/ai",
+      "https://rsshub.app/36kr/search/人工智能"
+    ],
+    "security_news": [
+      "https://api.dbot.pp.ua/v1/rss/anquanke",
+      "https://api.dbot.pp.ua/v1/rss/seebug",
+      "https://api.dbot.pp.ua/v1/rss/4hou"
+    ],
+    "tech_news": [
+      "https://api.dbot.pp.ua/v1/rss/tencent_cloud",
+      "https://api.dbot.pp.ua/v1/rss/cnbeta",
+      "https://rsshub.app/36kr/technology"
+    ],
+    "mobile_dev": [
+      "https://rsshub.app/juejin/category/android",
+      "https://rsshub.app/juejin/category/ios"
+    ]
+  },
+  "api_endpoints": {
+    "github_trending": "https://github.com/trending",
+    "arxiv_api": "http://export.arxiv.org/api/query",
+    "yahoo_finance": "https://query1.finance.yahoo.com/v8/finance/chart/"
+  }
+}

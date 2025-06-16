@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API文档 - 技术视野助手</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f8f9fa;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .api-section {
+            background: white;
+            padding: 25px;
+            margin: 20px 0;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .endpoint {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 10px 0;
+            border-left: 4px solid #667eea;
+        }
+        
+        .endpoint h4 {
+            margin: 0 0 10px 0;
+            color: #667eea;
+        }
+        
+        .endpoint code {
+            background: #e9ecef;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Monaco', 'Consolas', monospace;
+        }
+        
+        .json-example {
+            background: #2d3748;
+            color: #e2e8f0;
+            padding: 20px;
+            border-radius: 5px;
+            overflow-x: auto;
+            font-family: 'Monaco', 'Consolas', monospace;
+            font-size: 14px;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin: 20px 0;
+        }
+        
+        .stat-card {
+            background: #667eea;
+            color: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        
+        .try-button {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            margin: 5px;
+        }
+        
+        .try-button:hover {
+            background: #218838;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🚀 技术视野助手 API</h1>
+        <p>获取最新技术资讯的RESTful API接口</p>
+        <p>版本: v1.0 | 更新频率: 每日 08:00 (UTC+8)</p>
+    </div>
+    
+    <div class="stats-grid">
+        <div class="stat-card">
+            <div class="stat-number">6</div>
+            <div>API端点</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">15+</div>
+            <div>每日新闻</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">100%</div>
+            <div>免费使用</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">24/7</div>
+            <div>可用性</div>
+        </div>
+    </div>
+    
+    <div class="api-section">
+        <h2>📋 API端点列表</h2>
+        
+        <div class="endpoint">
+            <h4>获取所有数据</h4>
+            <code>GET /api/all.json</code>
+            <p>返回所有类别的完整数据，包括元数据和统计信息</p>
+            <a href="all.json" class="try-button" target="_blank">试用</a>
+        </div>
+        
+        <div class="endpoint">
+            <h4>AI技术动态</h4>
+            <code>GET /api/ai_news.json</code>
+            <p>返回最新的AI技术相关新闻和动态</p>
+            <a href="ai_news.json" class="try-button" target="_blank">试用</a>
+        </div>
+        
+        <div class="endpoint">
+            <h4>科技热点</h4>
+            <code>GET /api/tech_news.json</code>
+            <p>返回科技行业的热点新闻</p>
+            <a href="tech_news.json" class="try-button" target="_blank">试用</a>
+        </div>
+        
+        <div class="endpoint">
+            <h4>GitHub趋势项目</h4>
+            <code>GET /api/github_repos.json</code>
+            <p>返回GitHub上的趋势开源项目</p>
+            <a href="github_repos.json" class="try-button" target="_blank">试用</a>
+        </div>
+        
+        <div class="endpoint">
+            <h4>技术热词趋势</h4>
+            <code>GET /api/tech_trends.json</code>
+            <p>返回技术关键词的热度趋势分析</p>
+            <a href="tech_trends.json" class="try-button" target="_blank">试用</a>
+        </div>
+        
+        <div class="endpoint">
+            <h4>开发者工具推荐</h4>
+            <code>GET /api/dev_tools.json</code>
+            <p>返回推荐的开发者工具和资源</p>
+            <a href="dev_tools.json" class="try-button" target="_blank">试用</a>
+        </div>
+    </div>
+    
+    <div class="api-section">
+        <h2>📊 响应示例</h2>
+        <h3>主API响应结构</h3>
+        <div class="json-example">
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-06-16T21:30:00",
+    "update_frequency": "daily",
+    "total_sources": 6,
+    "status": "active"
+  },
+  "data": {
+    "ai_news": [...],
+    "tech_news": [...],
+    "security_news": [...],
+    "github_repos": [...],
+    "tech_trends": [...],
+    "dev_tools": [...]
+  },
+  "statistics": {
+    "total_news": 15,
+    "ai_news_count": 5,
+    "tech_news_count": 5,
+    "sentiment_analysis": {
+      "positive": 8,
+      "negative": 2,
+      "neutral": 5
+    }
+  }
+}
+        </div>
+    </div>
+    
+    <div class="api-section">
+        <h2>🔧 使用示例</h2>
+        
+        <h3>JavaScript</h3>
+        <div class="json-example">
+// 获取所有数据
+fetch('/api/all.json')
+  .then(response => response.json())
+  .then(data => {
+    console.log('总新闻数:', data.statistics.total_news);
+    console.log('AI新闻:', data.data.ai_news);
+  });
+
+// 获取特定类别
+fetch('/api/ai_news.json')
+  .then(response => response.json())
+  .then(data => {
+    data.data.forEach(news => {
+      console.log(news.title);
+    });
+  });
+        </div>
+        
+        <h3>Python</h3>
+        <div class="json-example">
+import requests
+
+# 获取所有数据
+response = requests.get('https://your-domain.com/api/all.json')
+data = response.json()
+
+print(f"总新闻数: {data['statistics']['total_news']}")
+for news in data['data']['ai_news']:
+    print(f"- {news['title']}")
+        </div>
+        
+        <h3>cURL</h3>
+        <div class="json-example">
+# 获取所有数据
+curl -X GET "https://your-domain.com/api/all.json"
+
+# 获取AI新闻
+curl -X GET "https://your-domain.com/api/ai_news.json"
+        </div>
+    </div>
+    
+    <div class="api-section">
+        <h2>📝 注意事项</h2>
+        <ul>
+            <li><strong>更新频率</strong>: 数据每日更新一次</li>
+            <li><strong>缓存</strong>: 建议客户端缓存数据，避免频繁请求</li>
+            <li><strong>CORS</strong>: API支持跨域请求</li>
+            <li><strong>免费使用</strong>: 当前API完全免费，无需认证</li>
+            <li><strong>数据格式</strong>: 所有响应均为JSON格式，UTF-8编码</li>
+        </ul>
+    </div>
+    
+    <div class="api-section">
+        <h2>🔗 相关链接</h2>
+        <p>
+            <a href="../" class="try-button">返回主页</a>
+            <a href="../rss/" class="try-button">RSS订阅</a>
+            <a href="https://github.com/your-username/tech-insights" class="try-button">GitHub项目</a>
+        </p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "category": "tech_trends",
+    "title": "技术热词趋势",
+    "generated_at": "2025-06-16T21:27:07.200291",
+    "count": 2
+  },
+  "data": [
+    {
+      "keyword": "AI",
+      "trend": "🔥",
+      "change": "+15%",
+      "description": "人工智能持续火热"
+    },
+    {
+      "keyword": "Rust",
+      "trend": "🚀",
+      "change": "+12%",
+      "description": "系统编程语言崛起"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "category": "ai_news",
+    "title": "AI技术动态",
+    "generated_at": "2025-06-16T21:27:07.199290",
+    "count": 2
+  },
+  "data": [
+    {
+      "title": "OpenAI发布GPT-4 Turbo",
+      "url": "https://openai.com/blog/",
+      "description": "新模型在推理能力和上下文窗口方面有显著改进"
+    },
+    {
+      "title": "Google发布Gemini 2.0",
+      "url": "https://google.com/",
+      "description": "Google最新AI模型发布"
+    }
+  ]
+}

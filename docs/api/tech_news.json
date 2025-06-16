@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "category": "tech_news",
+    "title": "科技热点",
+    "generated_at": "2025-06-16T21:27:07.199290",
+    "count": 2
+  },
+  "data": [
+    {
+      "title": "苹果发布新一代M3芯片",
+      "url": "https://apple.com/",
+      "description": "性能大幅提升"
+    },
+    {
+      "title": "微软Azure新功能",
+      "url": "https://microsoft.com/",
+      "description": "云计算服务升级"
+    }
+  ]
+}

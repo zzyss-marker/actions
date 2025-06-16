@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "category": "github_repos",
+    "title": "GitHub趋势项目",
+    "generated_at": "2025-06-16T21:27:07.200291",
+    "count": 2
+  },
+  "data": [
+    {
+      "name": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "代码编辑器"
+    },
+    {
+      "name": "facebook/react",
+      "url": "https://github.com/facebook/react",
+      "description": "JavaScript库"
+    }
+  ]
+}

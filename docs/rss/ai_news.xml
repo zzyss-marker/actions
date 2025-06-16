@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI技术动态</title>
+    <description>AI技术相关的最新动态和新闻</description>
+    <link>https://your-username.github.io/actions</link>
+    <language>zh-CN</language>
+    <copyright>Copyright 2025 技术视野助手</copyright>
+    <managingEditor>tech-insights@example.com</managingEditor>
+    <webMaster>tech-insights@example.com</webMaster>
+    <category>Technology</category>
+    <generator>技术视野助手 RSS Generator v1.0</generator>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <ttl>60</ttl>
+    <lastBuildDate>Mon, 16 Jun 2025 21:26:43 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Jun 2025 21:26:43 +0000</pubDate>
+    <atom:link href="https://your-username.github.io/actions/rss.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>https://your-username.github.io/actions/assets/logo.png</url>
+      <title>AI技术动态</title>
+      <link>https://your-username.github.io/actions</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <item>
+      <title>OpenAI发布GPT-4 Turbo</title>
+      <link>https://openai.com/blog/</link>
+      <guid>https://openai.com/blog/</guid>
+      <description>新模型在推理能力和上下文窗口方面有显著改进</description>
+      <pubDate>Mon, 16 Jun 2025 21:26:43 +0000</pubDate>
+      <category>AI技术动态</category>
+    </item>
+    <item>
+      <title>Google发布Gemini 2.0</title>
+      <link>https://google.com/</link>
+      <guid>https://google.com/</guid>
+      <description>Google最新AI模型发布</description>
+      <pubDate>Mon, 16 Jun 2025 21:26:43 +0000</pubDate>
+      <category>AI技术动态</category>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RSS订阅 - 技术视野助手</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 40px; }
+        .container { max-width: 800px; margin: 0 auto; }
+        .rss-item { background: #f8f9fa; padding: 20px; margin: 15px 0; border-radius: 8px; }
+        .rss-item h3 { color: #333; margin-bottom: 10px; }
+        .rss-item a { color: #007bff; text-decoration: none; }
+        .rss-item a:hover { text-decoration: underline; }
+        .copy-btn { background: #28a745; color: white; border: none; padding: 5px 10px; border-radius: 4px; cursor: pointer; margin-left: 10px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 技术视野助手 RSS 订阅</h1>
+        <p>选择您感兴趣的RSS订阅源，获取最新的技术资讯。</p>
+        
+        <div class="rss-item">
+            <h3>📰 全部资讯</h3>
+            <p>包含所有类别的技术资讯</p>
+            <a href="all.xml">all.xml</a>
+            <button class="copy-btn" onclick="copyToClipboard('https://your-username.github.io/actions/rss/all.xml')">复制链接</button>
+        </div>
+
+        <div class="rss-item">
+            <h3>🤖 AI技术动态</h3>
+            <p>AI技术相关的最新动态和新闻</p>
+            <a href="ai_news.xml">ai_news.xml</a>
+            <button class="copy-btn" onclick="copyToClipboard('https://your-username.github.io/actions/rss/ai_news.xml')">复制链接</button>
+        </div>
+
+        <div class="rss-item">
+            <h3>🔥 科技热点</h3>
+            <p>科技行业的热点新闻和趋势</p>
+            <a href="tech_news.xml">tech_news.xml</a>
+            <button class="copy-btn" onclick="copyToClipboard('https://your-username.github.io/actions/rss/tech_news.xml')">复制链接</button>
+        </div>
+
+        <div class="rss-item">
+            <h3>🔒 网络安全资讯</h3>
+            <p>网络安全相关的资讯和警报</p>
+            <a href="security_news.xml">security_news.xml</a>
+            <button class="copy-btn" onclick="copyToClipboard('https://your-username.github.io/actions/rss/security_news.xml')">复制链接</button>
+        </div>
+
+    </div>
+    
+    <script>
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(function() {
+                alert('RSS链接已复制到剪贴板！');
+            });
+        }
+    </script>
+</body>
+</html>

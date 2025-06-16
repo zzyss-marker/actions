@@ -22,14 +22,15 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 markdown feedparser
+        pip install requests beautifulsoup4 markdown feedparser python-dateutil pytz
         
     - name: Update README with latest tech insights
       run: |
         python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 markdown feedparser
+        pip install requests beautifulsoup4 markdown feedparser python-dateutil pytz
         python .github/scripts/update_readme.py
-        cat README.md | tail -n 50  # 显示更新后的README末尾内容
+        echo "=== README更新完成，显示末尾内容 ==="
+        cat README.md | tail -n 100  # 显示更新后的README末尾内容
       
     - name: Commit and push if changed
       run: |

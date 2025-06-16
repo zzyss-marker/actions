@@ -1,0 +1,36 @@
+title: 技术视野助手
+description: 每日技术资讯聚合平台，AI驱动的技术新闻和趋势分析
+url: "https://your-username.github.io"
+baseurl: "/actions"
+
+# GitHub Pages settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# SEO settings
+lang: zh-CN
+author: 技术视野助手
+twitter:
+  username: your_twitter
+  card: summary
+
+# Navigation
+header_pages:
+  - index.html
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Exclude files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

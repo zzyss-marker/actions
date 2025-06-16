@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2025-06-16T21:27:07.198283",
+    "update_frequency": "daily",
+    "next_update": "2025-06-16T08:00:00",
+    "total_sources": 5,
+    "status": "active"
+  },
+  "data": {
+    "ai_news": [
+      {
+        "title": "OpenAI发布GPT-4 Turbo",
+        "url": "https://openai.com/blog/",
+        "description": "新模型在推理能力和上下文窗口方面有显著改进"
+      },
+      {
+        "title": "Google发布Gemini 2.0",
+        "url": "https://google.com/",
+        "description": "Google最新AI模型发布"
+      }
+    ],
+    "tech_news": [
+      {
+        "title": "苹果发布新一代M3芯片",
+        "url": "https://apple.com/",
+        "description": "性能大幅提升"
+      },
+      {
+        "title": "微软Azure新功能",
+        "url": "https://microsoft.com/",
+        "description": "云计算服务升级"
+      }
+    ],
+    "tech_trends": [
+      {
+        "keyword": "AI",
+        "trend": "🔥",
+        "change": "+15%",
+        "description": "人工智能持续火热"
+      },
+      {
+        "keyword": "Rust",
+        "trend": "🚀",
+        "change": "+12%",
+        "description": "系统编程语言崛起"
+      }
+    ],
+    "dev_tools": [
+      {
+        "name": "GitHub Copilot",
+        "url": "https://github.com/features/copilot",
+        "category": "AI工具",
+        "description": "AI代码助手"
+      },
+      {
+        "name": "Docker",
+        "url": "https://docker.com/",
+        "category": "部署工具",
+        "description": "容器化平台"
+      }
+    ],
+    "github_repos": [
+      {
+        "name": "microsoft/vscode",
+        "url": "https://github.com/microsoft/vscode",
+        "description": "代码编辑器"
+      },
+      {
+        "name": "facebook/react",
+        "url": "https://github.com/facebook/react",
+        "description": "JavaScript库"
+      }
+    ]
+  },
+  "statistics": {
+    "total_news": 4,
+    "ai_news_count": 2,
+    "tech_news_count": 2,
+    "security_news_count": 0,
+    "github_repos_count": 2,
+    "tech_trends_count": 2,
+    "dev_tools_count": 2,
+    "sentiment_analysis": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 0
+    }
+  },
+  "endpoints": {
+    "all": "/api/all.json",
+    "ai_news": "/api/ai_news.json",
+    "tech_news": "/api/tech_news.json",
+    "security_news": "/api/security_news.json",
+    "github_trending": "/api/github_trending.json",
+    "tech_trends": "/api/tech_trends.json",
+    "dev_tools": "/api/dev_tools.json"
+  }
+}
