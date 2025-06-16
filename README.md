@@ -30,30 +30,26 @@
 
 MIT
 
-## 今日更新 (2025-06-15)
+## 今日更新 (2025-06-16)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- [教程丨免费离线AI大模型，断网也能用](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 我们一般聊的大模型，基本都是闭源的，比如ChatGPT、Bard、Claude、文心一言、智谱清言等等。我们登录别人的网站就可以使用。现在还有一些模型是开源的，这些一般可以本地部署，就是你不上网也可以...
-- [【人工智能】AI时代程序员----是缔造AI程序员，还是AI缔造程序员？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 随着AIGC（如ChatGPT、MidJourney、Claude等）大语言模型的涌现，AI辅助编程工具日益普及，程序员的工作方式正在发生深刻变革。随着一系列AI产品的兴起，我们也可以看到在各个不同领...
-- [【人工智能数学基础—微积分】深入详解梯度与梯度下降：掌握梯度下降法及其变种及模型参数的优化](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 【人工智能数学基础—微积分】深入详解梯度与梯度下降：掌握梯度下降法及其变种及模型参数的优化
-- [AI终结传统编程？未来程序员必看](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - AI重塑编程领域：效率提升与职业转型 当前AI技术正在深刻改变软件开发行业。AI编程工具使代码产出量提升5-10倍，显著降低了编程门槛。高阶程序员将借助AI增强生产力，而基础编码人员面临转型压力。典型...
-- [跨模态对齐与跨领域学习：提升AI泛化与理解能力的研究](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) - 本文详细讨论了跨模态对齐与跨领域学习的理论基础与实现方法，介绍了如何使用对比学习实现跨模态对齐，以及如何通过对抗性训练实现领域适应。通过结合这两种方法，我们能够构建出更为强大的模型，在不同模态和领域之...
+- [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) - 新模型在推理能力和上下文窗口方面有显著改进
 
 
 ### 网络安全资讯
 
-- [新的Crocodilus恶意软件完全控制Android设备](https://www.anquanke.com/post/id/308460) - 安全公告，详情请点击链接查看完整内容
+- [AI Deepfakes去年推动了40%的高价值加密货币欺诈：报告](https://www.anquanke.com/post/id/308498) - 安全公告，详情请点击链接查看完整内容
 - [海莲花组织疑似针对国产操作系统及 IOT 设备发起攻击](https://paper.seebug.org/3328/) - 作者：知道创宇404高级威胁情报团队
 时间：2025年6月6日
 1. 背景
 1.1 组织介绍
 海莲花（OceanLotus），又称 APT32，是一个具有国家背景的高级持续性威胁（APT）组织，该组织...
-- [【附下载】重庆信通设计院：政务数据共享-全攻略](https://www.4hou.com/posts/gyW3) - 本期要点《政务数据共享条例》重点解析《政务数据共享条例》思维导图（附件）条例原文（附件）各地政务数据目录（附件）公共数据示范场景清单70+（附件）各地政务公共数据管理办法（附件）条例出台的战略意义1、...
+- [7月暑期活动 | 日本 • 青少年侦探夏日营二期](https://www.4hou.com/posts/0MjK) - 虽然市面上有一些关于如何应对的理论性课程，但实际大家更关心如何实质性提高和加强同学们自身的隐私保护能力与安全意识。本训练营的创建初衷，即在符合当地法律法规的前提下，同学们可以直接跟随具备数十年以上行业...
 
 
 ### 技术就业趋势
@@ -69,29 +65,31 @@ MIT
 
 ### GitHub 趋势项目
 
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
 
 
 
 
 ### AI 研究论文
 
-- [Rethinking Losses for Diffusion Bridge Samplers](http://arxiv.org/abs/2506.10982v1) - Sebastian Sanokowski, Lukas Gruber, Christoph Bartmann, Sepp Hochreiter, Sebastian Lehner
-  Diffusion bridges are a promising class of deep-learning methods for sampling
-from unnormalized distributions. Recent works show that the Log Variance...
+- [EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction](http://arxiv.org/abs/2506.12015v1) - Hsi-Che Lin, Yu-Chu Yu, Kai-Po Chang, Yu-Chiang Frank Wang
+  Open-source foundation models have seen rapid adoption and development,
+enabling powerful general-purpose capabilities across diverse domains. However...
 
-- [Fine-Grained Perturbation Guidance via Attention Head Selection](http://arxiv.org/abs/2506.10978v1) - Donghoon Ahn, Jiwon Kang, Sanghyun Lee, Minjae Kim, Jaewon Min, Wooseok Jang, Saungwu Lee, Sayak Paul, Susung Hong, Seungryong Kim
-  Recent guidance methods in diffusion models steer reverse sampling by
-perturbing the model to construct an implicit weak model and guide generation
-aw...
+- [code_transformed: The Influence of Large Language Models on Code](http://arxiv.org/abs/2506.12014v1) - Yuliang Xu, Siming Huang, Mingmeng Geng, Yao Wan, Xuanhua Shi, Dongping Chen
+  Coding remains one of the most fundamental modes of interaction between
+humans and machines. With the rapid advancement of Large Language Models
+(LLMs...
 
-- [AutoMind: Adaptive Knowledgeable Agent for Automated Data Science](http://arxiv.org/abs/2506.10974v1) - Yixin Ou, Yujie Luo, Jingsheng Zheng, Lanning Wei, Shuofei Qiao, Jintian Zhang, Da Zheng, Huajun Chen, Ningyu Zhang
-  Large Language Model (LLM) agents have shown great potential in addressing
-real-world data science problems. LLM-driven data science agents promise to...
+- [Tracing LLM Reasoning Processes with Strategic Games: A Framework for
+  Planning, Revision, and Resource-Constrained Decision Making](http://arxiv.org/abs/2506.12012v1) - Xiaopeng Yuan, Xingjian Zhang, Ke Xu, Yifan Xu, Lijun Yu, Jindong Wang, Yushun Dong, Haohan Wang
+  Large language models (LLMs) are increasingly used for tasks that require
+complex reasoning. Most benchmarks focus on final outcomes but overlook the
+...
 
 
 
