@@ -55,65 +55,69 @@
 
 MIT
 
-## 今日更新 (2025-06-16)
+## 今日更新 (2025-06-17)
 
 ### 今日名言
 
-> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) - 新模型在推理能力和上下文窗口方面有显著改进
+- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
+  新模型在推理能力和上下文窗口方面有显著改进
 
 
 ### 网络安全资讯
 
-- [AI Deepfakes去年推动了40%的高价值加密货币欺诈：报告](https://www.anquanke.com/post/id/308498) - 安全公告，详情请点击链接查看完整内容
+- [黑客积极利用LangFlow RCE漏洞部署Flodrix僵尸网络](https://www.anquanke.com/post/id/308540) - 安全公告，详情请点击链接查看完整内容
 - [海莲花组织疑似针对国产操作系统及 IOT 设备发起攻击](https://paper.seebug.org/3328/) - 作者：知道创宇404高级威胁情报团队
 时间：2025年6月6日
 1. 背景
 1.1 组织介绍
 海莲花（OceanLotus），又称 APT32，是一个具有国家背景的高级持续性威胁（APT）组织，该组织...
-- [7月暑期活动 | 日本 • 青少年侦探夏日营二期](https://www.4hou.com/posts/0MjK) - 虽然市面上有一些关于如何应对的理论性课程，但实际大家更关心如何实质性提高和加强同学们自身的隐私保护能力与安全意识。本训练营的创建初衷，即在符合当地法律法规的前提下，同学们可以直接跟随具备数十年以上行业...
+- [我们尝试把这11款家用摄像头变成“偷拍神器”，结果发现…](https://www.4hou.com/posts/pnWN) - 我们评测发现，一些主流家用摄像头由于存在安全漏洞，可能被轻易劫持，导致近百万用户家庭面临隐私泄露风险，哺乳、育儿等画面都可能被“现场直播”……看娃、看家、看长辈……摄像头早已经成为我们守护家庭的“标配...
 
 
 ### 技术就业趋势
 
-量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- [破冰！腾讯云数据库TDSQL核心技术首获中国专利金奖](https://cloud.tencent.com/developer/article/2530795) - 腾讯在基础软件领域的持续重投入结出硕果。最近，国家知识产权局公布第二十五届专利获奖结果。其中，腾讯云数据库TDSQL的核心专利“数据库事务处理方法、装置及服务器”荣获中国专利金奖，成为数据库技术首次问...
-- [3个趋势，看AI到底是怎么重构广告行业的？](https://cloud.tencent.com/developer/article/2530740) - 在刚结束的I/O 2025大会上，谷歌CEO Sundar Pichai用一句话点明了谷歌AI战略的转向：“所有这些进展意味着我们正处于AI平台转型的新阶段。”伴随Gemini 2.5和Flash模型...
-- [中国专利金奖，拿下！](https://cloud.tencent.com/developer/article/2530737) - 最近，国家知识产权局公布了第25届专利金奖名单。腾讯云数据库TDSQL的一项核心专利——“数据库事务处理方法、装置及服务器”——成功入选，拿下中国专利金奖。
+- 😊 [黄铁军对大模型的四个预判：洗牌、安全核爆、GPT-5与再造DeepSeek](https://cloud.tencent.com/developer/article/2531429) 🔥🔥 很热
+  4月份，李飞飞教授领先编制的《2025年人工智能指数报告》提供的数据显示，2024年全年具有特殊影响力的模型（Notable AI models）当中，排名前5的几乎都来自美国、中国的科技巨头。
+- 😊 [【Linux File Systems for Windows】是【ExtFS for Windows】的升级版，出自同一家](https://cloud.tencent.com/developer/article/2531215) 📊 普通
+  对整盘比如/dev/vdb直接格式化成某个Linux文件系统挂到Windows机器上，只有http://www.diskinternals.com/download/Linux_Reader.exe ...
+- 😐 [【运维自动化-标准运维】如何设置代理执行人](https://cloud.tencent.com/developer/article/2531410) 📊 普通
+  配置了执行代理人的项目下的流程，无论是谁执行都会以代理人身份请求第三方接口，白名单中的用户执行流程时代理人不生效。
 
 
 ### GitHub 趋势项目
 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing
-- [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
+- [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 
 
 
 ### AI 研究论文
 
-- [EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction](http://arxiv.org/abs/2506.12015v1) - Hsi-Che Lin, Yu-Chu Yu, Kai-Po Chang, Yu-Chiang Frank Wang
-  Open-source foundation models have seen rapid adoption and development,
-enabling powerful general-purpose capabilities across diverse domains. However...
+- [Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss
+  Value](http://arxiv.org/abs/2506.13763v1) - Yixian Xu, Shengjie Luo, Liwei Wang, Di He, Chang Liu
+  Diffusion models have achieved remarkable success in generative modeling.
+Despite more stable training, the loss of diffusion models is not indicative...
 
-- [code_transformed: The Influence of Large Language Models on Code](http://arxiv.org/abs/2506.12014v1) - Yuliang Xu, Siming Huang, Mingmeng Geng, Yao Wan, Xuanhua Shi, Dongping Chen
-  Coding remains one of the most fundamental modes of interaction between
-humans and machines. With the rapid advancement of Large Language Models
-(LLMs...
+- [Discrete Diffusion in Large Language and Multimodal Models: A Survey](http://arxiv.org/abs/2506.13759v1) - Runpeng Yu, Qi Li, Xinchao Wang
+  In this work, we provide a systematic survey of Discrete Diffusion Language
+Models (dLLMs) and Discrete Diffusion Multimodal Language Models (dMLLMs)....
 
-- [Tracing LLM Reasoning Processes with Strategic Games: A Framework for
-  Planning, Revision, and Resource-Constrained Decision Making](http://arxiv.org/abs/2506.12012v1) - Xiaopeng Yuan, Xingjian Zhang, Ke Xu, Yifan Xu, Lijun Yu, Jindong Wang, Yushun Dong, Haohan Wang
-  Large language models (LLMs) are increasingly used for tasks that require
-complex reasoning. Most benchmarks focus on final outcomes but overlook the
+- [VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion
+  Models](http://arxiv.org/abs/2506.13754v1) - Edward Li, Zichen Wang, Jiahe Huang, Jeong Joon Park
+  We present a unified framework for solving partial differential equations
+(PDEs) using video-inpainting diffusion transformer models. Unlike existing
 ...
 
 
@@ -138,99 +142,122 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $150.25 📈 +2.15 (+1.5%)
-- **GOOGL**: $2,750.80 📉 -15.20 (-0.5%)
-- **MSFT**: $420.90 📈 +8.45 (+2.0%)
+- **AAPL**: $198.42 📈 +1.97 (+1.0%)
+- **GOOGL**: $176.77 📈 +2.10 (+1.2%)
+- **MSFT**: $479.14 📈 +4.18 (+0.9%)
+
 
 ### 🛠️ 开发者工具推荐
 
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+将两个升序链表合并为一个新的升序链表
 
-标签: 数组, 哈希表
+标签: 链表, 递归
+
 
 ### 📱 移动开发动态
 
-- [Flutter 3.0 发布重大更新](https://flutter.dev/) - Google发布Flutter 3.0，带来更好的性能和新特性
-- [iOS 17 开发者预览版发布](https://developer.apple.com/) - 苹果发布iOS 17开发者预览版，包含多项新功能
+- [Rust 学习之变量的可变与不可变](https://juejin.cn/post/7514344092769009702) - 1 Rust中变量的不可变
+
+代码示例1
+
+fn main() {
+    let x = 5;
+    println!("The value of x is: {x}");
+    x = 6;
+...
+- [Android音视频学习(二) — FFmpeg常用的命令(查询命令)](https://juejin.cn/post/7514310793833054246) - 一、编译的系统环境和FFmpeg的版本
+系统：MacOS 15.1
+FFmpeg 版本：7.1.1
+
+二、FFmpeg查询命令
+1.查看 FFmpeg 版本和配置信息命令
+ffmpeg -versio...
+
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《Kubernetes权威指南》** - 龚正等
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+容器编排平台的完整指南 (分类: 云原生)
+
 
 ### 🌍 即将举行的技术会议
 
-- **Google I/O 2025** (2025-05-14) - Mountain View, CA
-  主题: AI, Android, Web | 还有 -32 天
-- **Microsoft Build 2025** (2025-05-21) - Seattle, WA
-  主题: Azure, AI, .NET | 还有 -25 天
+- 暂无即将举行的会议信息
+
 
 ### 🚀 创业公司动态
 
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
+
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Synthwave Mix** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
+
 
 ### 🏆 本周技术挑战
 
-**算法优化挑战** (难度: 中等)
+**微服务架构设计** (难度: 高级)
 
-优化一个排序算法，使其在大数据集上的性能提升50%
+设计一个电商系统的微服务架构，包含用户、订单、支付等服务
 
-🏷️ 标签: 算法, 性能优化 | ⏱️ 预计时间: 2-4小时 | 🎯 奖励积分: 100
+🏷️ 标签: 架构设计, 微服务 | ⏱️ 预计时间: 4-8小时 | 🎯 奖励积分: 150
+
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
+
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**使用版本控制**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+git add .
+git commit -m "Add user authentication feature"
 ```
+
 
 ### 🚀 职业发展建议
 
@@ -238,11 +265,13 @@ const a = 25;
 
 📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
+
 ### 🏅 今日挑战徽章
 
-🧠 算法大师
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `a1b2c3` | 日期: 2025-06-16
+挑战ID: `831b27` | 日期: 2025-06-17
+
 
 ### 📊 技术话题投票
 
@@ -256,21 +285,24 @@ const a = 25;
 
 💬 在Issues中参与讨论和投票！
 
+
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
+
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-使用Rust构建跨平台桌面应用
+现代Web应用框架
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 编译时优化，运行时性能优异
+
 
 ### 💰 技术薪资快报
 
@@ -278,9 +310,11 @@ const a = 25;
 
 薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
+
 ### 😄 程序员笑话
 
-为什么程序员喜欢黑暗？因为光会产生bug！
+程序员的口头禅：在我的机器上运行得很好！
+
 
 ### 🐙 GitHub 生态统计
 
@@ -290,27 +324,30 @@ const a = 25;
 - 🌐 编程语言: 500+
 - 🔓 开源项目: 28M+
 
+
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-06-16 16:30:45
+- 📅 更新时间: 2025-06-17 08:14:21
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
+
 
 ### 📈 今日新闻分析
 
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 4
-- 😊 积极新闻: 2 (50.0%)
-- 😟 消极新闻: 1 (25.0%)
-- 🔥 平均热度: 12.5/100
+- 😊 积极新闻: 3 (75.0%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 15.5/100
 
 🏷️ **热门关键词**:
 - AI (2次)
-- 数据库 (1次)
+- GPT (2次)
+- 人工智能 (1次)
+- OpenAI (1次)
 
----
 
 ### 🤖 关于此项目
 
