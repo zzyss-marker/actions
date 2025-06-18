@@ -55,39 +55,45 @@
 
 MIT
 
-## 今日更新 (2025-06-17)
+## 今日更新 (2025-06-18)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
-  新模型在推理能力和上下文窗口方面有显著改进
+- 😊 [蓝耘科技上线DeepSeek满血版：500万Tokens专享，解锁AI推理新体验](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  该平台通过裸金属调度和容器化技术，为用户提供灵活高效的算力资源管理，同时支持团队协作开发，大幅提升AI模型训练与推理效率。点击运行，稍等您可以在终端窗口中看到模型调用的返回结果。（支持FP16/INT...
+- 😊 [解锁MCP：AI大模型的万能工具箱](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  MCP（ModelContextProtocol）是由Anthropic公司于2024年11月开源发布的一项技术，旨在作为AI大模型与外部数据、工具之间沟通的“通用语言”或“万能插座”。MCP通过标准...
+- 😊 [如何使用AI高效读论文，照做这些方法和指令你也可以一天阅读50篇](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  哈佛教授分享如何使用AI阅读论文，照做这些方法和指令你也可以一天阅读50篇
+- 😊 [【AI智能体】Spring AI MCP 从使用到操作实战详解](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  Spring AI MCP 从使用到操作实战详解
+- 😐 [Python在AI虚拟教学视频开发中的核心技术与前景展望](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  Python在AI虚拟教学视频开发中的核心技术与前景展望
 
 
 ### 网络安全资讯
 
-- [黑客积极利用LangFlow RCE漏洞部署Flodrix僵尸网络](https://www.anquanke.com/post/id/308540) - 安全公告，详情请点击链接查看完整内容
-- [海莲花组织疑似针对国产操作系统及 IOT 设备发起攻击](https://paper.seebug.org/3328/) - 作者：知道创宇404高级威胁情报团队
-时间：2025年6月6日
-1. 背景
-1.1 组织介绍
-海莲花（OceanLotus），又称 APT32，是一个具有国家背景的高级持续性威胁（APT）组织，该组织...
-- [我们尝试把这11款家用摄像头变成“偷拍神器”，结果发现…](https://www.4hou.com/posts/pnWN) - 我们评测发现，一些主流家用摄像头由于存在安全漏洞，可能被轻易劫持，导致近百万用户家庭面临隐私泄露风险，哺乳、育儿等画面都可能被“现场直播”……看娃、看家、看长辈……摄像头早已经成为我们守护家庭的“标配...
+- [KimJongRAT攻击再次来袭：新的PE和PowerShell变种通过cdn窃取加密和浏览器数据](https://www.anquanke.com/post/id/308598) - 安全公告，详情请点击链接查看完整内容
+- [有多隐蔽才算隐蔽？研究现实世界中黑盒对抗攻击的有效性](https://paper.seebug.org/3329/) - 作者：Francesco Panebianco, Mario D’Onghia, Stefano Zanero, Michele Carminati
+译者：知道创宇404实验室翻译组
+原文链接：htt...
+- [超过84000个Roundcube网络邮件安装受到RCE漏洞影响](https://www.4hou.com/posts/XPBA) - 最新发现，超过84000个Roundcube网络邮件安装容易受到CVE-2025-49113的攻击，CVE-2025-49113是一个严重的远程代码执行（RCE）漏洞，可公开利用。该漏洞影响了Roun...
 
 
 ### 技术就业趋势
 
-敏捷和Scrum认证在项目管理角色中价值提升。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
 - 😊 [黄铁军对大模型的四个预判：洗牌、安全核爆、GPT-5与再造DeepSeek](https://cloud.tencent.com/developer/article/2531429) 🔥🔥 很热
   4月份，李飞飞教授领先编制的《2025年人工智能指数报告》提供的数据显示，2024年全年具有特殊影响力的模型（Notable AI models）当中，排名前5的几乎都来自美国、中国的科技巨头。
-- 😊 [【Linux File Systems for Windows】是【ExtFS for Windows】的升级版，出自同一家](https://cloud.tencent.com/developer/article/2531215) 📊 普通
-  对整盘比如/dev/vdb直接格式化成某个Linux文件系统挂到Windows机器上，只有http://www.diskinternals.com/download/Linux_Reader.exe ...
+- 😊 [Efficiently Compiling Efficient Query Plans for Modern Hardware（解读）](https://cloud.tencent.com/developer/article/2531441) 📈 关注
+  但是效率相比手写（专家）差的较多，通过LLVM将树形执行逻辑（OptimizedPlan）进行二次优化转成机器码执行，进一步提高效率；
 - 😐 [【运维自动化-标准运维】如何设置代理执行人](https://cloud.tencent.com/developer/article/2531410) 📊 普通
   配置了执行代理人的项目下的流程，无论是谁执行都会以代理人身份请求第三方接口，白名单中的用户执行流程时代理人不生效。
 
@@ -95,30 +101,29 @@ MIT
 ### GitHub 趋势项目
 
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
 
 
 
 
 ### AI 研究论文
 
-- [Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss
-  Value](http://arxiv.org/abs/2506.13763v1) - Yixian Xu, Shengjie Luo, Liwei Wang, Di He, Chang Liu
-  Diffusion models have achieved remarkable success in generative modeling.
-Despite more stable training, the loss of diffusion models is not indicative...
+- [A Variational Framework for Improving Naturalness in Generative Spoken
+  Language Models](http://arxiv.org/abs/2506.14767v1) - Li-Wei Chen, Takuya Higuchi, Zakaria Aldeneh, Ahmed Hussen Abdelaziz, Alexander Rudnicky
+  The success of large language models in text processing has inspired their
+adaptation to speech modeling. However, since speech is continuous and comp...
 
-- [Discrete Diffusion in Large Language and Multimodal Models: A Survey](http://arxiv.org/abs/2506.13759v1) - Runpeng Yu, Qi Li, Xinchao Wang
-  In this work, we provide a systematic survey of Discrete Diffusion Language
-Models (dLLMs) and Discrete Diffusion Multimodal Language Models (dMLLMs)....
+- [From Bytes to Ideas: Language Modeling with Autoregressive U-Nets](http://arxiv.org/abs/2506.14761v1) - Mathurin Videau, Badr Youbi Idrissi, Alessandro Leite, Marc Schoenauer, Olivier Teytaud, David Lopez-Paz
+  Tokenization imposes a fixed granularity on the input text, freezing how a
+language model operates on data and how far in the future it predicts. Byte...
 
-- [VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion
-  Models](http://arxiv.org/abs/2506.13754v1) - Edward Li, Zichen Wang, Jiahe Huang, Jeong Joon Park
-  We present a unified framework for solving partial differential equations
-(PDEs) using video-inpainting diffusion transformer models. Unlike existing
-...
+- [Optimizing Length Compression in Large Reasoning Models](http://arxiv.org/abs/2506.14755v1) - Zhengxiang Cheng, Dongping Chen, Mingyang Fu, Tianyi Zhou
+  Large Reasoning Models (LRMs) have achieved remarkable success, yet they
+often suffer from producing unnecessary and verbose reasoning chains. We
+iden...
 
 
 
@@ -142,57 +147,43 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $198.42 📈 +1.97 (+1.0%)
-- **GOOGL**: $176.77 📈 +2.10 (+1.2%)
-- **MSFT**: $479.14 📈 +4.18 (+0.9%)
+- **AAPL**: $195.64 📉 -2.78 (-1.4%)
+- **GOOGL**: $175.95 📉 -0.82 (-0.5%)
+- **MSFT**: $478.04 📉 -1.10 (-0.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-将两个升序链表合并为一个新的升序链表
+给定字符串，找出其中最长的回文子串
 
-标签: 链表, 递归
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
 
-- [Rust 学习之变量的可变与不可变](https://juejin.cn/post/7514344092769009702) - 1 Rust中变量的不可变
-
-代码示例1
-
-fn main() {
-    let x = 5;
-    println!("The value of x is: {x}");
-    x = 6;
-...
-- [Android音视频学习(二) — FFmpeg常用的命令(查询命令)](https://juejin.cn/post/7514310793833054246) - 一、编译的系统环境和FFmpeg的版本
-系统：MacOS 15.1
-FFmpeg 版本：7.1.1
-
-二、FFmpeg查询命令
-1.查看 FFmpeg 版本和配置信息命令
-ffmpeg -versio...
+- [Flutter 3.0 发布重大更新](https://flutter.dev/) - Google发布Flutter 3.0，带来更好的性能和新特性
+- [iOS 17 开发者预览版发布](https://developer.apple.com/) - 苹果发布iOS 17开发者预览版，包含多项新功能
 
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《设计模式》** - Gang of Four
 
-容器编排平台的完整指南 (分类: 云原生)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -209,21 +200,21 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 ### 🎨 设计资源推荐
 
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -237,25 +228,27 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**写测试用例**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
@@ -268,28 +261,28 @@ git commit -m "Add user authentication feature"
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `831b27` | 日期: 2025-06-17
+挑战ID: `f58d91` | 日期: 2025-06-18
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
@@ -313,7 +306,7 @@ git commit -m "Add user authentication feature"
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -327,7 +320,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-06-17 08:14:21
+- 📅 更新时间: 2025-06-18 08:14:04
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -337,16 +330,16 @@ git commit -m "Add user authentication feature"
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 4
-- 😊 积极新闻: 3 (75.0%)
+- 📰 新闻总数: 8
+- 😊 积极新闻: 6 (75.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 15.5/100
+- 🔥 平均热度: 12.2/100
 
 🏷️ **热门关键词**:
-- AI (2次)
-- GPT (2次)
+- AI (6次)
 - 人工智能 (1次)
-- OpenAI (1次)
+- GPT (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
