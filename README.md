@@ -55,75 +55,75 @@
 
 MIT
 
-## 今日更新 (2025-06-18)
+## 今日更新 (2025-06-19)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- 😊 [蓝耘科技上线DeepSeek满血版：500万Tokens专享，解锁AI推理新体验](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  该平台通过裸金属调度和容器化技术，为用户提供灵活高效的算力资源管理，同时支持团队协作开发，大幅提升AI模型训练与推理效率。点击运行，稍等您可以在终端窗口中看到模型调用的返回结果。（支持FP16/INT...
-- 😊 [解锁MCP：AI大模型的万能工具箱](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  MCP（ModelContextProtocol）是由Anthropic公司于2024年11月开源发布的一项技术，旨在作为AI大模型与外部数据、工具之间沟通的“通用语言”或“万能插座”。MCP通过标准...
-- 😊 [如何使用AI高效读论文，照做这些方法和指令你也可以一天阅读50篇](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  哈佛教授分享如何使用AI阅读论文，照做这些方法和指令你也可以一天阅读50篇
-- 😊 [【AI智能体】Spring AI MCP 从使用到操作实战详解](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  Spring AI MCP 从使用到操作实战详解
-- 😐 [Python在AI虚拟教学视频开发中的核心技术与前景展望](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  Python在AI虚拟教学视频开发中的核心技术与前景展望
+- 😊 [AI语音识别神器Openai Whisper对中文的支持如何？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  语音识别一直以来都是人工智能领域中一个不容忽视的技术，随着大模型时代的到来，这项技术也发生了质的变化。凡是在AI相关的讨论中，语音识别绝对是一个高热的话题。目前开源的语音识别软件中，Openai Wh...
+- 😊 [什么是Agentic AI（代理型人工智能）？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  什么是Agentic AI（代理型人工智能）？什么是Agentic AI（代理型人工智能）？什么是Agentic AI（代理型人工智能）？什么是Agentic AI（代理型人工智能）？Agentic ...
+- 😊 [法律AI的“幻觉”治理：大模型如何重塑司法公正与效率](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  在传统律师事务所中，一位律师审查一份50页的商业合同平均需要3小时；而在引入法律大模型后，这一时间被缩短至20分钟。效率提升的背后，是一场正在席卷全球法律体系的智能化革命——。
+- 😊 [【AI智能体】coze实战-热门短视频文案转小红书笔记+飞书多维表格](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  使用coze从0开始打造我们的智能体，并以实际案例：抖音热门短视频文案提取并转成小红书笔记并生成图文，再到飞书多维表格中
+- 😐 [[AI]YOLO如何训练对象检测模型（详细）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  讲解了YOLO模型的特点，以及YOLO数据集的构建和训练。
 
 
 ### 网络安全资讯
 
-- [KimJongRAT攻击再次来袭：新的PE和PowerShell变种通过cdn窃取加密和浏览器数据](https://www.anquanke.com/post/id/308598) - 安全公告，详情请点击链接查看完整内容
+- [CISA警告攻击者利用Linux漏洞进行攻击](https://www.anquanke.com/post/id/308641) - 安全公告，详情请点击链接查看完整内容
 - [有多隐蔽才算隐蔽？研究现实世界中黑盒对抗攻击的有效性](https://paper.seebug.org/3329/) - 作者：Francesco Panebianco, Mario D’Onghia, Stefano Zanero, Michele Carminati
 译者：知道创宇404实验室翻译组
 原文链接：htt...
-- [超过84000个Roundcube网络邮件安装受到RCE漏洞影响](https://www.4hou.com/posts/XPBA) - 最新发现，超过84000个Roundcube网络邮件安装容易受到CVE-2025-49113的攻击，CVE-2025-49113是一个严重的远程代码执行（RCE）漏洞，可公开利用。该漏洞影响了Roun...
+- [从Snowflake攻击中窃取的Ticketmaster数据再次被出售](https://www.4hou.com/posts/YZDn) - 近期，Arkana安全勒索团伙简要列出了似乎是新被盗的Ticketmaster数据，但实际上是2024年Snowflake盗窃攻击期间被盗的数据。该勒索组织发布了据称被盗数据的截图，并发布了超过569...
 
 
 ### 技术就业趋势
 
-具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
+云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
 
 ### 科技热点
 
-- 😊 [黄铁军对大模型的四个预判：洗牌、安全核爆、GPT-5与再造DeepSeek](https://cloud.tencent.com/developer/article/2531429) 🔥🔥 很热
-  4月份，李飞飞教授领先编制的《2025年人工智能指数报告》提供的数据显示，2024年全年具有特殊影响力的模型（Notable AI models）当中，排名前5的几乎都来自美国、中国的科技巨头。
-- 😊 [Efficiently Compiling Efficient Query Plans for Modern Hardware（解读）](https://cloud.tencent.com/developer/article/2531441) 📈 关注
-  但是效率相比手写（专家）差的较多，通过LLVM将树形执行逻辑（OptimizedPlan）进行二次优化转成机器码执行，进一步提高效率；
-- 😐 [【运维自动化-标准运维】如何设置代理执行人](https://cloud.tencent.com/developer/article/2531410) 📊 普通
-  配置了执行代理人的项目下的流程，无论是谁执行都会以代理人身份请求第三方接口，白名单中的用户执行流程时代理人不生效。
+- 😐 [AI 时代的 Prompt 工程入门](https://cloud.tencent.com/developer/article/2532015) 📈 关注
+  网络有句话流行的话—— “未来，淘汰你的不是AI，而是掌握了AI的人”。那我们应该怎么掌握AI？我自己的理解是学会面向AI提问，利用好AI工具为我们的工作提效和赋能。毕竟我们普通人不太可能直接去开发大...
+- 😊 [CVPR传来好消息，腾讯混元3D 2.1全链路开源](https://cloud.tencent.com/developer/article/2531564) 📊 普通
+  6月14日，在计算机视觉领域国际顶级会议CVPR 2025上，腾讯混元3D 2.1大模型正式对外开源，这也是首个全链路开源的工业级3D生成大模型。
+- 😐 [本地私有化部署 DeepSeek &amp; Dify ，告别“服务器繁忙，请稍后再试”](https://cloud.tencent.com/developer/article/2532016) 📊 普通
+  DeepSeek 最近实在太火爆了，导致官网对话访问经常提示“服务器繁忙，请稍后再试”。 如下图所示：
 
 
 ### GitHub 趋势项目
 
+- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP) - DeepEP: an efficient expert-parallel communication library
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
 
 
 
 
 ### AI 研究论文
 
-- [A Variational Framework for Improving Naturalness in Generative Spoken
-  Language Models](http://arxiv.org/abs/2506.14767v1) - Li-Wei Chen, Takuya Higuchi, Zakaria Aldeneh, Ahmed Hussen Abdelaziz, Alexander Rudnicky
-  The success of large language models in text processing has inspired their
-adaptation to speech modeling. However, since speech is continuous and comp...
+- [Dense SAE Latents Are Features, Not Bugs](http://arxiv.org/abs/2506.15679v1) - Xiaoqing Sun, Alessandro Stolfo, Joshua Engels, Ben Wu, Senthooran Rajamanoharan, Mrinmaya Sachan, Max Tegmark
+  Sparse autoencoders (SAEs) are designed to extract interpretable features
+from language models by enforcing a sparsity constraint. Ideally, training a...
 
-- [From Bytes to Ideas: Language Modeling with Autoregressive U-Nets](http://arxiv.org/abs/2506.14761v1) - Mathurin Videau, Badr Youbi Idrissi, Alessandro Leite, Marc Schoenauer, Olivier Teytaud, David Lopez-Paz
-  Tokenization imposes a fixed granularity on the input text, freezing how a
-language model operates on data and how far in the future it predicts. Byte...
+- [Embodied Web Agents: Bridging Physical-Digital Realms for Integrated
+  Agent Intelligence](http://arxiv.org/abs/2506.15677v1) - Yining Hong, Rui Sun, Bingxuan Li, Xingcheng Yao, Maxine Wu, Alexander Chien, Da Yin, Ying Nian Wu, Zhecan James Wang, Kai-Wei Chang
+  AI agents today are mostly siloed - they either retrieve and reason over vast
+amount of digital information and knowledge obtained online; or interact...
 
-- [Optimizing Length Compression in Large Reasoning Models](http://arxiv.org/abs/2506.14755v1) - Zhengxiang Cheng, Dongping Chen, Mingyang Fu, Tianyi Zhou
-  Large Reasoning Models (LRMs) have achieved remarkable success, yet they
-often suffer from producing unnecessary and verbose reasoning chains. We
-iden...
+- [Sekai: A Video Dataset towards World Exploration](http://arxiv.org/abs/2506.15675v1) - Zhen Li, Chuanhao Li, Xiaofeng Mao, Shaoheng Lin, Ming Li, Shitian Zhao, Zhaopan Xu, Xinyue Li, Yukang Feng, Jianwen Sun, Zizhen Li, Fanrui Zhang, Jiaxin Ai, Zhixiang Wang, Yuwei Wu, Tong He, Jiangmiao Pang, Yu Qiao, Yunde Jia, Kaipeng Zhang
+  Video generation techniques have made remarkable progress, promising to be
+the foundation of interactive world exploration. However, existing video
+ge...
 
 
 
@@ -147,25 +147,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $195.64 📉 -2.78 (-1.4%)
-- **GOOGL**: $175.95 📉 -0.82 (-0.5%)
-- **MSFT**: $478.04 📉 -1.10 (-0.2%)
+- **AAPL**: $196.58 📈 +0.94 (+0.5%)
+- **GOOGL**: $173.32 📉 -2.63 (-1.5%)
+- **MSFT**: $480.24 📈 +2.20 (+0.5%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**两数之和** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 字符串, 动态规划
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -176,14 +176,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
+Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《代码整洁之道》** - Robert C. Martin
 
-面向对象设计的经典模式 (分类: 软件设计)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -193,28 +193,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Synthwave Mix** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -254,38 +254,38 @@ test('should calculate tax correctly', () => {
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `f58d91` | 日期: 2025-06-18
+挑战ID: `045c57` | 日期: 2025-06-19
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
-- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
@@ -299,14 +299,14 @@ test('should calculate tax correctly', () => {
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**安全工程师** (中级) 📈
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -320,7 +320,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-06-18 08:14:04
+- 📅 更新时间: 2025-06-19 08:14:13
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -331,15 +331,14 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
+- 😊 积极新闻: 5 (62.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 12.2/100
+- 🔥 平均热度: 14.0/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- 人工智能 (1次)
-- GPT (1次)
-- AR (1次)
+- 人工智能 (2次)
+- OpenAI (1次)
 
 
 ### 🤖 关于此项目
