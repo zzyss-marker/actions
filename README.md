@@ -55,58 +55,58 @@
 
 MIT
 
-## 今日更新 (2025-06-20)
+## 今日更新 (2025-06-21)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [【人工智能 | 大数据】基于人工智能的大数据分析方法](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
-  本文主要讲解基于人工智能的大数据分析方法。介绍了大数据下的智能数据分析方法，包括基于机器学习、深度学习和计算智能的大数据分析方法。最后总结人工智能与大数据结合的必要性和具体案例。
-- 😐 [Spring AI ChatClient API 使用指南：从基础到实战（附完整代码示例）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  本文为Spring AI中ChatClient API的使用指南，介绍其核心功能与实战技巧。ChatClient通过流畅API简化与AI模型交互，支持同步调用和流式响应。创建方式有自动配置（推荐）和编...
-- 😊 [2024-2025年AI领域重大事件盘点：技术突破、应用落地与未来趋势](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  2024-2025年，AI技术从实验室走向大规模应用，生成式AI、多模态融合与具身智能成为核心驱动力。然而，技术突破也伴随伦理、隐私与能源消耗的挑战。未来，AI将不仅是工具，更是人类智慧的延伸，需在创...
+- 😊 [AI 3D建模革命！HoloPart技术开源：一键拆分、智能补全，设计师的“效率核弹”来了！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  小白友好提示：**非技术用户可直接用Tripo AI的集成功能，一键体验AI拆解+编辑。
+- 😐 [AI 模型运行参数详解：Temperature 和 Top P 在 Gemini 2.5 Pro 中的应用！！！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  在 AI 模型如 Gemini 2.5 Pro 中，Temperature（温度） 和 Top P（核采样概率） 是两个关键参数，用于控制生成文本的随机性和多样性。Temperature 调整概率分布...
+- 😊 [【AI大模型前沿】TxGemma：谷歌推出的高效药物研发大模型，临床试验预测准确率超90%](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  在药物研发领域，高成本和高风险一直是困扰科学家们的难题。传统的药物研发过程繁琐且耗时，常常需要数年时间才能取得突破性进展。为了加速这一进程，谷歌推出了TxGemma，这是一款基于Gemma 2的高效、...
 - 😊 [AI神器实测：Debug效率提升300%](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
   本文探讨了AI工具如何助力Java开发中常见错误的高效诊断与修复。文章首先分析了三种典型Java错误：空指针异常、数组越界异常和类型转换异常，并给出示例代码说明。随后详细介绍了使用DeepSeek、C...
-- 😊 [分享几个IDEA中可免费使用的 AI 代码提示插件【建议收藏】](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  IntelliJ IDEA 中可【免费使用】的 AI 代码提示插件推荐，方便快捷IDEA 插件市场搜索即可找到并安装，free!!!free!!!free!!!
+- 😐 [【AI大模型】为什么说更倾向于使用DeepSeek，清爽简洁，输出内容质量高，清晰明了得思考过程，真的值得拥有](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  在使用deepseek之前，先让TA进行自我介绍下。自我介绍非常言简意赅，就像TA的创始人一样低调。
 
 
 ### 网络安全资讯
 
-- [CISA警告攻击者利用Linux漏洞进行攻击](https://www.anquanke.com/post/id/308641) - 安全公告，详情请点击链接查看完整内容
-- [Confucius 组织最新组件化后门 anondoor 披露](https://paper.seebug.org/3331/) - 作者：知道创宇404高级威胁情报团队
-时间：2025年6月20日
-1. 背景
-1.1 组织介绍
-Confucius组织（又称“魔罗桫”）于2016年被国外安全厂商披露，据悉最初的攻击活动可追溯到201...
-- [DanaBleed新漏洞使 DanaBot恶意软件即服务平台浮出水面](https://www.4hou.com/posts/8grL) - 在2022年6月更新的DanaBot恶意软件操作中引入的最新漏洞，导致其在最近的执法行动中被识别并拆解了他们的操作。DanaBot是一个从2018年到2025年活跃的恶意软件即服务（MaaS）平台，用...
+- [AntiDot Android木马：新的MaaS恶意软件记录屏幕，拦截短信，并窃取财务数据](https://www.anquanke.com/post/id/308722) - 安全公告，详情请点击链接查看完整内容
+- [Anondoor discloses - The latest componentized backdoor of the Confucius](https://paper.seebug.org/3332/) - Author: Knownsec 404 Advanced Threat Intelligence Team
+中文版：https://paper.seebug.org/3331/
+1. Backgro...
+- [【附下载】一表看清 等保高风险判定 25版与20版变化](https://www.4hou.com/posts/NGrp) - 本文要点20与25版具体事项对比新增的判例清单删除的判例清单20、25版原文近期，公安部发布了《网络安全等级保护测评高风险判定实施指引（试行）》。与20版本对比后，本文梳理出判例变化项40+，删减项2...
 
 
 ### 技术就业趋势
 
-敏捷和Scrum认证在项目管理角色中价值提升。
+区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
 
 ### 科技热点
 
-- 😐 [人类高考“封王”的大模型，离真正的“AI状元”还有多远？](https://cloud.tencent.com/developer/article/2532076) 📈 关注
-  DeepSeek、腾讯混元、字节豆包、阿里通义千问、百度文心、讯飞星火等大模型纷纷被“请”进同款试卷的线上战场，掀起了一波“AI赶考”的刷屏热潮，“千军万马过独木桥”的竞赛在硅基世界中重演。
-- 😐 [5分钟手把手教你开发一个MCP服务](https://cloud.tencent.com/developer/article/2532021) 📊 普通
-  开发一个MCP（Model Context Protocol）服务器需要遵循标准协议，结合代码实现和工具配置。以下是基于Python技术栈的MCP Server开发步骤及关键要点，综合了多个实践案例与...
-- 😐 [Windows服务器更新报错0x80244022](https://cloud.tencent.com/developer/article/2532206) 📊 普通
-  单看0x80244022的说明看不出啥，检查Update相关服务也都是运行中，检查注册表也没有发现啥异常，最后咋解决的？
+- 😐 [程序员版「长安的荔枝」：别当职场软柿子，掌握核心竞争力](https://cloud.tencent.com/developer/article/2532613) 📊 普通
+  唐天宝年间，长安城内，杨贵妃对岭南荔枝念念不忘。为了博得佳人一笑，唐玄宗下旨：要在三日之内，将新鲜的荔枝从千里之外的岭南运到长安。这个看似不可能的任务，最终落在了驿站小吏李善德的头上。
+
+李善德面对的...
+- 😐 [从一朵棉花到6100万会员：腾讯企点如何助力全棉时代精细化突围](https://cloud.tencent.com/developer/article/2532777) 📊 普通
+  决定全面数字化的全棉时代选择与腾讯企点营销云一起探索数字营销，从2021年的1.0版本营销云，到2024年已经迭代到4.0，1.0着力于实现2800万私域用户ID的统一；到2024年的4.0时期，已经...
+- 😐 [登录时出现"User Profile Service 服务未能登录，无法加载用户配置文件"、"Group Policy Client 服务未能登录，拒绝访问"](https://cloud.tencent.com/developer/article/2532867) 📊 普通
+  云服务器登录时出现"User Profile Service 服务未能登录，无法加载用户配置文件"、"Group Policy Client 服务未能登录，拒绝访问"
 
 
 ### GitHub 趋势项目
 
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
+- [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) - Experimental menu for GTA 5: Enhanced
 
 
 
@@ -149,43 +149,43 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $196.58 📈 +0.94 (+0.5%)
-- **GOOGL**: $173.32 📉 -2.63 (-1.5%)
-- **MSFT**: $480.24 📈 +2.20 (+0.5%)
+- **AAPL**: $201.00 📈 +4.42 (+2.2%)
+- **GOOGL**: $166.64 📉 -6.68 (-3.9%)
+- **MSFT**: $477.40 📉 -2.84 (-0.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-将两个升序链表合并为一个新的升序链表
+给定字符串，找出其中最长的回文子串
 
-标签: 链表, 递归
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
 
-- [Flutter 3.0 发布重大更新](https://flutter.dev/) - Google发布Flutter 3.0，带来更好的性能和新特性
-- [iOS 17 开发者预览版发布](https://developer.apple.com/) - 苹果发布iOS 17开发者预览版，包含多项新功能
+- [【HarmonyOS 5】鸿蒙分布式协同应用开发详解](https://juejin.cn/post/7516739283766214690) - 【HarmonyOS 5】鸿蒙分布式协同应用开发详解 一、前言 为什么需要分布式协同应用？ 首先是因为当今社会，围绕电子产品生态，人们迫切希望，周边的电子设备可以协同操作。例如手机，手表，电视机，汽车...
+- [鸿蒙开发：资讯项目实战之项目初始化搭建](https://juejin.cn/post/7516729363015188517) - 目前来说，我们的资讯项目只是往前迈了很小的一步，仅仅实现了项目创建，步虽小，但概念性的知识很多，这也是这个项目的初衷，让大家不仅仅可以掌握日常的技术开发，也能让大家理解实际的项目开发知识。...
 
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《代码整洁之道》** - Robert C. Martin
 
-深度学习领域的权威教材 (分类: 人工智能)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -195,21 +195,21 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
@@ -230,40 +230,42 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**使用有意义的变量名**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：💡 创新者
 
-挑战ID: `e600d3` | 日期: 2025-06-20
+挑战ID: `83095d` | 日期: 2025-06-21
 
 
 ### 📊 技术话题投票
@@ -282,19 +284,19 @@ git commit -m "Add user authentication feature"
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Zed** (Rust) - ⭐ 25k+
 
-使用Rust构建跨平台桌面应用
+高性能代码编辑器
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
@@ -306,7 +308,7 @@ git commit -m "Add user authentication feature"
 
 ### 😄 程序员笑话
 
-世界上有10种人：懂二进制的和不懂二进制的。
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -320,7 +322,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-06-20 08:14:45
+- 📅 更新时间: 2025-06-21 08:11:49
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -331,16 +333,13 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
+- 😊 积极新闻: 3 (37.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 13.5/100
+- 🔥 平均热度: 8.8/100
 
 🏷️ **热门关键词**:
 - AI (5次)
-- 人工智能 (1次)
-- 机器学习 (1次)
-- 深度学习 (1次)
-- 大数据 (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
