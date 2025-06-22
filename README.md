@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2025-06-21)
+## 今日更新 (2025-06-22)
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- 😊 [AI 3D建模革命！HoloPart技术开源：一键拆分、智能补全，设计师的“效率核弹”来了！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  小白友好提示：**非技术用户可直接用Tripo AI的集成功能，一键体验AI拆解+编辑。
-- 😐 [AI 模型运行参数详解：Temperature 和 Top P 在 Gemini 2.5 Pro 中的应用！！！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  在 AI 模型如 Gemini 2.5 Pro 中，Temperature（温度） 和 Top P（核采样概率） 是两个关键参数，用于控制生成文本的随机性和多样性。Temperature 调整概率分布...
-- 😊 [【AI大模型前沿】TxGemma：谷歌推出的高效药物研发大模型，临床试验预测准确率超90%](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  在药物研发领域，高成本和高风险一直是困扰科学家们的难题。传统的药物研发过程繁琐且耗时，常常需要数年时间才能取得突破性进展。为了加速这一进程，谷歌推出了TxGemma，这是一款基于Gemma 2的高效、...
-- 😊 [AI神器实测：Debug效率提升300%](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  本文探讨了AI工具如何助力Java开发中常见错误的高效诊断与修复。文章首先分析了三种典型Java错误：空指针异常、数组越界异常和类型转换异常，并给出示例代码说明。随后详细介绍了使用DeepSeek、C...
-- 😐 [【AI大模型】为什么说更倾向于使用DeepSeek，清爽简洁，输出内容质量高，清晰明了得思考过程，真的值得拥有](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  在使用deepseek之前，先让TA进行自我介绍下。自我介绍非常言简意赅，就像TA的创始人一样低调。
+- 😊 [华为云Flexus+DeepSeek征文｜基于Dify平台tiktok音乐领域热门短视频分析Ai agent](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  在当今数字化快速发展的时代，人工智能技术尤其是大模型的应用，正逐渐成为推动各行业创新与变革的关键力量。大模型凭借其强大的语言理解、生成和逻辑推理能力，为企业和开发者提供了全新的解决方案和应用可能性。然...
+- 😊 [关于 人工智能（AI）发展简史 的详细梳理，按时间阶段划分，涵盖关键里程碑、技术突破、重要人物及挑战](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  关于 人工智能（AI）发展简史 的详细梳理，按时间阶段划分，涵盖关键里程碑、技术突破、重要人物及挑战
+- 😐 [AI本地部署全流程指南（2025年3月更新）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  本文整合了Ollama官方文档、深度求索技术白皮书、清华大学实践案例等权威资料，如需获取完整部署脚本和测试数据集，可访问CSDN资源库获取最新工具包。建议技术团队优先选择7B/32B模型进行商业化部署...
+- 😐 [6款AI表格工具，各类图表一键生成，快来收藏吧！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  此外，它还支持上传Excel文件，但有一定的使用限制。当你需要一边搜索公开信息，一边将内容绘制成图表时，这款AI智能体能根据你的需求，一站式完成信息检索、提取及图表生成的工作，支持折线图、饼状图、柱状...
+- 😐 [AI如何实际应用到自动化测试-实战篇](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  AI如何实际应用到自动化测试，利用AI继续实现0基础编程，AI自动编写自动化测试用例
 
 
 ### 网络安全资讯
@@ -86,14 +86,12 @@ MIT
 
 ### 技术就业趋势
 
-区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
+可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
 
 ### 科技热点
 
-- 😐 [程序员版「长安的荔枝」：别当职场软柿子，掌握核心竞争力](https://cloud.tencent.com/developer/article/2532613) 📊 普通
-  唐天宝年间，长安城内，杨贵妃对岭南荔枝念念不忘。为了博得佳人一笑，唐玄宗下旨：要在三日之内，将新鲜的荔枝从千里之外的岭南运到长安。这个看似不可能的任务，最终落在了驿站小吏李善德的头上。
-
-李善德面对的...
+- 😐 [胡泳：人工智能会夺走我们的生活意义吗？](https://cloud.tencent.com/developer/article/2532931) 📈 关注
+  上一次读尼克·博斯特罗姆（Nick Bostrom）的书，还是他2014年的大作《超级智能：路线图、危险性与应对策略》（Superintelligence: Paths, Dangers, Strat...
 - 😐 [从一朵棉花到6100万会员：腾讯企点如何助力全棉时代精细化突围](https://cloud.tencent.com/developer/article/2532777) 📊 普通
   决定全面数字化的全棉时代选择与腾讯企点营销云一起探索数字营销，从2021年的1.0版本营销云，到2024年已经迭代到4.0，1.0着力于实现2800万私域用户ID的统一；到2024年的4.0时期，已经...
 - 😐 [登录时出现"User Profile Service 服务未能登录，无法加载用户配置文件"、"Group Policy Client 服务未能登录，拒绝访问"](https://cloud.tencent.com/developer/article/2532867) 📊 普通
@@ -102,11 +100,11 @@ MIT
 
 ### GitHub 趋势项目
 
-- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
-- [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
-- [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) - Experimental menu for GTA 5: Enhanced
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 
 
@@ -156,36 +154,36 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**两数之和** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 字符串, 动态规划
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
 
-- [【HarmonyOS 5】鸿蒙分布式协同应用开发详解](https://juejin.cn/post/7516739283766214690) - 【HarmonyOS 5】鸿蒙分布式协同应用开发详解 一、前言 为什么需要分布式协同应用？ 首先是因为当今社会，围绕电子产品生态，人们迫切希望，周边的电子设备可以协同操作。例如手机，手表，电视机，汽车...
-- [鸿蒙开发：资讯项目实战之项目初始化搭建](https://juejin.cn/post/7516729363015188517) - 目前来说，我们的资讯项目只是往前迈了很小的一步，仅仅实现了项目创建，步虽小，但概念性的知识很多，这也是这个项目的初衷，让大家不仅仅可以掌握日常的技术开发，也能让大家理解实际的项目开发知识。...
+- [Flutter 3.0 发布重大更新](https://flutter.dev/) - Google发布Flutter 3.0，带来更好的性能和新特性
+- [iOS 17 开发者预览版发布](https://developer.apple.com/) - 苹果发布iOS 17开发者预览版，包含多项新功能
 
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《设计模式》** - Gang of Four
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -195,28 +193,28 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🚀 创业公司动态
 
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -242,15 +240,13 @@ D. 面向对象
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**使用版本控制**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
@@ -265,18 +261,18 @@ const a = 25;
 
 今日挑战徽章：💡 创新者
 
-挑战ID: `83095d` | 日期: 2025-06-21
+挑战ID: `f78a50` | 日期: 2025-06-22
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
@@ -285,30 +281,30 @@ const a = 25;
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-高性能代码编辑器
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**全栈开发** (中级) 📊
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+如果调试是去除bug的过程，那么编程就是放入bug的过程。
 
 
 ### 🐙 GitHub 生态统计
@@ -322,7 +318,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-06-21 08:11:49
+- 📅 更新时间: 2025-06-22 08:12:04
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -333,13 +329,13 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
+- 😊 积极新闻: 2 (25.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 8.8/100
+- 🔥 平均热度: 12.9/100
 
 🏷️ **热门关键词**:
 - AI (5次)
-- AR (1次)
+- 人工智能 (3次)
 
 
 ### 🤖 关于此项目
