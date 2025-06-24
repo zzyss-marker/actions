@@ -55,77 +55,76 @@
 
 MIT
 
-## 今日更新 (2025-06-23)
+## 今日更新 (2025-06-24)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [深度解析六大AI爬虫工具：crawl4ai、FireCrawl、Scrapegraph-ai、Jina、SearXNG、Tavily技术对比与实战指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥🔥 超热
-  在AI大模型时代，数据获取与处理是构建智能应用的核心环节。传统爬虫面临技术门槛高、反爬应对复杂、动态内容处理困难等挑战，而AI驱动的爬虫工具通过融合大语言模型（LLM）、图神经网络、自动化解析等技术，...
-- 😊 [YOLOv8开源揭秘：AI视觉技术在智能设备与系统全景应用](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  YOLOv8 是 YOLO（You Only Look Once）系列的最新版本，它在图像或视频帧中能够快速准确地识别和定位多个对象，并能够跟踪它们的移动，同时将其分类。YOLOv8 还可以区分对象的...
-- 😐 [多模态RAG实战指南：完整Python代码实现AI同时理解图片、表格和文本](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  本文提出的多模态RAG方法采用模态特定处理、后期融合和关系保留的技术架构，在性能表现、准确性指标和实现复杂度之间实现了最佳平衡。通过遵循该技术路线，能够构建一个有效处理复杂文档中全部信息的RAG系统。
-- 😊 [人工智能数学基础实验（二）：奇异值分解（SVD）-图像处理](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  本实验通过奇异值分解(SVD)实现图像压缩处理，主要步骤包括：1) 读取RGB图像并分离三通道；2) 对各通道矩阵进行SVD分解，保留前k个奇异值重构图像；3) 分析不同k值对图像质量的影响。实验结果...
-- 😐 [AI在制造业的实践：预测性维护与工业4.0转型](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📊 普通
-  AI在制造业的实践：预测性维护与工业4.0转型
+- 😐 [黄仁勋在2025年巴黎VivaTech大会上的GTC演讲：AI工厂驱动的工业革命(上)](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  2025年6月12日，在巴黎VivaTech大会上，英伟达创始人兼CEO黄仁勋发表了题为"AI工厂驱动的工业革命"的GTC主题演讲。这场持续约1小时35分钟的演讲不仅详细阐述了英伟达在AI基础设施、智...
+- 😊 [灵办AI助手Chrome插件全面评测：PC Web端的智能办公利器](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  灵办AI助手是一款功能强大的办公工具插件，支持Chrome、Edge、360等主流浏览器，并且在Mac OS上表现尤为出色。本文将深入评测其网页翻译、AI对话、AI续写、AI阅读等核心功能，展示其在实...
+- 😊 [AI时代从0到1的破局密码：24堂设计思维课，重塑科技人的创新基因](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  本书分五篇，分别为设计思维基础、全面理解、求异思维、交付价值和迭代推动进展。本书首先概述了设计思维模型的各个阶段；其次介绍了设计思维的内容、方式、时间、原因和对象，提出了设计思维四阶段模型，并说明了该...
+- 😐 [AI大模型：最新排行榜](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  AI大模型最新排名榜，Chatbot Arena社区对最佳LLM和AI聊天机器人进行排名。
+- 😐 [Trae手动配置MCP详细流程（以即梦AI为例）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  本文介绍了如何在Trae中手动配置MCP，以实现自动激活环境并运行图像生成服务。首先，确保安装必要的软件和依赖项，包括Python、npm、nodejs和uv等工具。。
 
 
 ### 网络安全资讯
 
-- [71% 的新员工会在 3 个月内点击钓鱼邮件](https://www.anquanke.com/post/id/308786) - 安全公告，详情请点击链接查看完整内容
+- [严重漏洞 CVE-2025-52562（CVSS 10.0）：KVM 服务器上的未认证远程代码执行风险！](https://www.anquanke.com/post/id/308859) - 安全公告，详情请点击链接查看完整内容
 - [Anondoor discloses - The latest componentized backdoor of the Confucius](https://paper.seebug.org/3332/) - Author: Knownsec 404 Advanced Threat Intelligence Team
 中文版：https://paper.seebug.org/3331/
 1. Backgro...
-- [梆梆安全鸿蒙应用加固双路径发布：源码级与二进制级精准防护](https://www.4hou.com/posts/RXyK) - 随着鸿蒙生态的高速发展，其应用承载的核心业务价值持续攀升，吸引了全球不法分子的针对性研究与攻击。鸿蒙应用面临的逆向分析、代码窃取、二次打包、模拟运行及调试攻击等风险随之加剧。作为开发企业，必须部署有效...
+- [超过46000个Grafana实例暴露于账户接管漏洞](https://www.4hou.com/posts/kgWE) - 超过46000个暴露在互联网上的Grafana实例未打补丁，面临客户端开放重定向漏洞的威胁，该漏洞允许执行恶意插件并进行账户接管。该漏洞被追踪为CVE-2025-4123，并影响用于监控和可视化基础设...
 
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
 
 ### 科技热点
 
-- 😐 [胡泳：人工智能会夺走我们的生活意义吗？](https://cloud.tencent.com/developer/article/2532931) 📈 关注
-  上一次读尼克·博斯特罗姆（Nick Bostrom）的书，还是他2014年的大作《超级智能：路线图、危险性与应对策略》（Superintelligence: Paths, Dangers, Strat...
-- 😐 [登录时出现"User Profile Service 服务未能登录，无法加载用户配置文件"、"Group Policy Client 服务未能登录，拒绝访问"](https://cloud.tencent.com/developer/article/2532867) 📊 普通
-  云服务器登录时出现"User Profile Service 服务未能登录，无法加载用户配置文件"、"Group Policy Client 服务未能登录，拒绝访问"
-- 😊 [分享一个讲透任意知识点的万能框架，程序员提升个人技术影响力必备！](https://cloud.tencent.com/developer/article/2532906) 📊 普通
-  准备 30–50 分钟技术分享，想让新人听得懂，老鸟也不嫌浅？从下列框架挑一个套用就行。
+- 😊 [干货报告｜业内首个！《从VMware到分布式云：企业虚拟化转型实战指南》重磅发布](https://cloud.tencent.com/developer/article/2533195) 📈 关注
+  近日，腾讯云联名国际权威技术研究机构Omdia发布业内首个《从VMware到分布式云：企业虚拟化转型实战指南》。该指南基于国际权威调研机构Omdia的全球调研及腾讯云多年技术积淀，为企业提供从虚拟化转...
+- 😐 [Windows系统下，如何确认nvme ssd的PCI BDF(Bus总线,Device设备,Function功能)](https://cloud.tencent.com/developer/article/2533083) 📊 普通
+  方案一：不借助第三方工具的话，可以通过设备管理器下图"存储控制器"→ “标准NVM Express 控制器”→ 右键属性→ 常规标签和事件标签→ 常规页签中的"位置"以及事件页签中的（垂直滚动条最上面...
+- 😐 [热点技术有奖征文｜“荔”刻出发！用“算法”运送 长安的荔枝？](https://cloud.tencent.com/developer/article/2533082) 📊 普通
+  目标：使用以下城市图，用你熟悉的算法（如 Dijkstra、A*）找出从深圳→西安的最优路线，并输出路径和总代价
 
 
 ### GitHub 趋势项目
 
-- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-- [mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy) - b站会员购购票辅助工具
+- [voideditor/void](https://github.com/voideditor/void) - No description
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
 
 
 
 
 ### AI 研究论文
 
-- [No Free Lunch: Rethinking Internal Feedback for LLM Reasoning](http://arxiv.org/abs/2506.17219v1) - Yanzhi Zhang, Zhaoxi Zhang, Haoxiang Guan, Yilin Cheng, Yitong Duan, Chen Wang, Yue Wang, Shuxin Zheng, Jiyan He
-  Reinforcement learning has emerged as a powerful paradigm for post-training
-large language models (LLMs) to improve reasoning. Approaches like
-Reinfor...
+- [jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual
+  Retrieval](http://arxiv.org/abs/2506.18902v1) - Michael Günther, Saba Sturua, Mohammad Kalim Akram, Isabelle Mohr, Andrei Ungureanu, Sedigheh Eslami, Scott Martens, Bo Wang, Nan Wang, Han Xiao
+  We introduce jina-embeddings-v4, a 3.8 billion parameter multimodal embedding
+model that unifies text and image representations through a novel archit...
 
-- [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual
-  Tokens](http://arxiv.org/abs/2506.17218v1) - Zeyuan Yang, Xueyang Yu, Delin Chen, Maohao Shen, Chuang Gan
-  Vision-language models (VLMs) excel at multimodal understanding, yet their
-text-only decoding forces them to verbalize visual reasoning, limiting
-perf...
+- [Vision as a Dialect: Unifying Visual Understanding and Generation via
+  Text-Aligned Representations](http://arxiv.org/abs/2506.18898v1) - Jiaming Han, Hao Chen, Yang Zhao, Hanyu Wang, Qi Zhao, Ziyan Yang, Hao He, Xiangyu Yue, Lu Jiang
+  This paper presents a multimodal framework that attempts to unify visual
+understanding and generation within a shared discrete semantic representation...
 
-- [Long-term Traffic Simulation with Interleaved Autoregressive Motion and
-  Scenario Generation](http://arxiv.org/abs/2506.17213v1) - Xiuyu Yang, Shuhan Tan, Philipp Krähenbühl
-  An ideal traffic simulator replicates the realistic long-term point-to-point
-trip that a self-driving system experiences during deployment. Prior mode...
+- [MinD: Unified Visual Imagination and Control via Hierarchical World
+  Models](http://arxiv.org/abs/2506.18897v1) - Xiaowei Chi, Kuangzhi Ge, Jiaming Liu, Siyuan Zhou, Peidong Jia, Zichen He, Yuzhen Liu, Tingguang Li, Lei Han, Sirui Han, Shanghang Zhang, Yike Guo
+  Video generation models (VGMs) offer a promising pathway for unified world
+modeling in robotics by integrating simulation, prediction, and manipulatio...
 
 
 
@@ -149,25 +148,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $201.00 📈 +4.42 (+2.2%)
-- **GOOGL**: $166.64 📉 -6.68 (-3.9%)
-- **MSFT**: $477.40 📉 -2.84 (-0.6%)
+- **AAPL**: $201.50 📈 +0.50 (+0.2%)
+- **GOOGL**: $165.19 📉 -1.45 (-0.9%)
+- **MSFT**: $486.00 📈 +8.60 (+1.8%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+给定二叉树，找出其最大深度
 
-标签: 链表, 递归
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -183,9 +182,9 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《深度学习》** - Ian Goodfellow
 
-面向对象设计的经典模式 (分类: 软件设计)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -195,28 +194,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -230,27 +229,27 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
@@ -263,52 +262,52 @@ const a = 25;
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `6ffcc9` | 日期: 2025-06-23
+挑战ID: `64bd86` | 日期: 2025-06-24
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
-- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-高性能代码编辑器
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**安全工程师** (中级) 📈
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+世界上有10种人：懂二进制的和不懂二进制的。
 
 
 ### 🐙 GitHub 生态统计
@@ -322,7 +321,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-06-23 08:15:13
+- 📅 更新时间: 2025-06-24 08:14:15
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -333,15 +332,13 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
+- 😊 积极新闻: 3 (37.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 13.2/100
+- 🔥 平均热度: 8.6/100
 
 🏷️ **热门关键词**:
-- AI (4次)
-- 人工智能 (2次)
-- 神经网络 (1次)
-- AR (1次)
+- AI (5次)
+- AR (2次)
 
 
 ### 🤖 关于此项目
