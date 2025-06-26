@@ -55,76 +55,76 @@
 
 MIT
 
-## 今日更新 (2025-06-24)
+## 今日更新 (2025-06-26)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😐 [黄仁勋在2025年巴黎VivaTech大会上的GTC演讲：AI工厂驱动的工业革命(上)](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  2025年6月12日，在巴黎VivaTech大会上，英伟达创始人兼CEO黄仁勋发表了题为"AI工厂驱动的工业革命"的GTC主题演讲。这场持续约1小时35分钟的演讲不仅详细阐述了英伟达在AI基础设施、智...
-- 😊 [灵办AI助手Chrome插件全面评测：PC Web端的智能办公利器](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  灵办AI助手是一款功能强大的办公工具插件，支持Chrome、Edge、360等主流浏览器，并且在Mac OS上表现尤为出色。本文将深入评测其网页翻译、AI对话、AI续写、AI阅读等核心功能，展示其在实...
-- 😊 [AI时代从0到1的破局密码：24堂设计思维课，重塑科技人的创新基因](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  本书分五篇，分别为设计思维基础、全面理解、求异思维、交付价值和迭代推动进展。本书首先概述了设计思维模型的各个阶段；其次介绍了设计思维的内容、方式、时间、原因和对象，提出了设计思维四阶段模型，并说明了该...
-- 😐 [AI大模型：最新排行榜](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  AI大模型最新排名榜，Chatbot Arena社区对最佳LLM和AI聊天机器人进行排名。
-- 😐 [Trae手动配置MCP详细流程（以即梦AI为例）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  本文介绍了如何在Trae中手动配置MCP，以实现自动激活环境并运行图像生成服务。首先，确保安装必要的软件和依赖项，包括Python、npm、nodejs和uv等工具。。
+- 😟 [华为云Flexus+DeepSeek征文 | 当大模型遇见边缘计算：Flexus赋能低延迟AI Agent](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥🔥 超热
+  随着人工智能技术的飞速发展，大语言模型（LLM）已经成为AI应用的核心驱动力。然而，传统的云端部署模式在面对实时性要求较高的场景时，往往存在网络延迟、带宽限制等问题。边缘计算的兴起为解决这一困境提供了...
+- 😐 [Qwen-3 微调实战：用 Python 和 Unsloth 打造专属 AI 模型](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  本文详细介绍了如何利用 Python 和 Unsloth 对 Qwen-3 模型进行微调，以打造专属的 AI 模型。文章首先强调了 Qwen-3 在各项基准测试中的出色表现，随后详细阐述了微调所需的 ...
+- 😊 [AI智能体的智能记忆系统：Agentic Memory](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  详细介绍了三种记忆类型：短期记忆（工作记忆）用于维持当前对话上下文；长期记忆包括程序性记忆（行为模式）、情景记忆（具体经历）和语义记忆（事实知识）。通过LangGraph框架，展示了如何在生产环境中实...
+- 😐 [BOSS直聘爬虫分析：Bright Data + PandasAI 洞察招聘市场的薪资动态与职位趋势](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  本文将通过Python以及使用Bright Data 代理对BOSS直聘招聘平台进行数据抓取，并结合 PandasAI来分析当前互联网岗位的薪资动态与职位趋势。
+- 😐 [Python编程语言：2025年AI浪潮下的技术统治与学习红利](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  本书详尽而系统地介绍了Python语言程序设计的方方面面，通过大量的示例、伪代码、流程图和其他工具，使读者更容易学习程序设计逻辑。本书清晰、简明、友好的表述风格，可以让读者轻松掌握Python编程理论...
 
 
 ### 网络安全资讯
 
-- [严重漏洞 CVE-2025-52562（CVSS 10.0）：KVM 服务器上的未认证远程代码执行风险！](https://www.anquanke.com/post/id/308859) - 安全公告，详情请点击链接查看完整内容
-- [Anondoor discloses - The latest componentized backdoor of the Confucius](https://paper.seebug.org/3332/) - Author: Knownsec 404 Advanced Threat Intelligence Team
-中文版：https://paper.seebug.org/3331/
-1. Backgro...
-- [超过46000个Grafana实例暴露于账户接管漏洞](https://www.4hou.com/posts/kgWE) - 超过46000个暴露在互联网上的Grafana实例未打补丁，面临客户端开放重定向漏洞的威胁，该漏洞允许执行恶意插件并进行账户接管。该漏洞被追踪为CVE-2025-4123，并影响用于监控和可视化基础设...
+- [Quest修补了关键的VCE SM缺陷，包括CVSS10身份验证绕过](https://www.anquanke.com/post/id/309042) - 安全公告，详情请点击链接查看完整内容
+- [AI 原生安全 CheckList](https://paper.seebug.org/3333/) - 作者：知道创宇404实验室  
+前言
+近年来，人工智能（AI）技术迅猛发展，广泛应用于金融、医疗、交通、教育、安防等各个领域，推动了社会效率与生产力的深刻变革。与此同时，AI 系统在带来巨大价值的同时...
+- [Sitecore内容管理系统漏洞链始于在设置硬编码密码时的疏漏](https://www.4hou.com/posts/xy0q) - Sitecore Experience Platform （XP）漏洞链允许攻击者在没有身份验证的情况下执行远程代码执行（RCE）来破坏和劫持服务器。Sitecore是一个流行的企业CMS，用于企业创...
 
 
 ### 技术就业趋势
 
-人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
+数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
 
 ### 科技热点
 
-- 😊 [干货报告｜业内首个！《从VMware到分布式云：企业虚拟化转型实战指南》重磅发布](https://cloud.tencent.com/developer/article/2533195) 📈 关注
-  近日，腾讯云联名国际权威技术研究机构Omdia发布业内首个《从VMware到分布式云：企业虚拟化转型实战指南》。该指南基于国际权威调研机构Omdia的全球调研及腾讯云多年技术积淀，为企业提供从虚拟化转...
-- 😐 [Windows系统下，如何确认nvme ssd的PCI BDF(Bus总线,Device设备,Function功能)](https://cloud.tencent.com/developer/article/2533083) 📊 普通
-  方案一：不借助第三方工具的话，可以通过设备管理器下图"存储控制器"→ “标准NVM Express 控制器”→ 右键属性→ 常规标签和事件标签→ 常规页签中的"位置"以及事件页签中的（垂直滚动条最上面...
-- 😐 [热点技术有奖征文｜“荔”刻出发！用“算法”运送 长安的荔枝？](https://cloud.tencent.com/developer/article/2533082) 📊 普通
-  目标：使用以下城市图，用你熟悉的算法（如 Dijkstra、A*）找出从深圳→西安的最优路线，并输出路径和总代价
+- 😐 [斯坦福最新研究：硅谷的AI创业潮，其实是一场大型的资源错配](https://cloud.tencent.com/developer/article/2533402) 📈 关注
+  2025年1月到5月间，斯坦福大学的研究团队完成了一项本应在AI热潮开始时就进行的调查。他们采访了1500名美国员工和52名AI专家，评估了104个职业中的844项具体任务。这项由经济学家Erik B...
+- 😊 [StarRocks 查询优化&执行调度](https://cloud.tencent.com/developer/article/2533357) 📈 关注
+  ，表示一个优化器操作节点/算子。OptExpression主要是用在传递计划树的接口上，在Memo/Group/GroupExpression中都不会存在该结构。
+- 😟 [大模型应用开发基础-Prompt工程](https://cloud.tencent.com/developer/article/2533715) 📈 关注
+  Prompt（提示词）是用户输入给AI模型的指令或问题，用于引导模型生成特定输出。
 
 
 ### GitHub 趋势项目
 
-- [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
-- [voideditor/void](https://github.com/voideditor/void) - No description
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 
 
 
 ### AI 研究论文
 
-- [jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual
-  Retrieval](http://arxiv.org/abs/2506.18902v1) - Michael Günther, Saba Sturua, Mohammad Kalim Akram, Isabelle Mohr, Andrei Ungureanu, Sedigheh Eslami, Scott Martens, Bo Wang, Nan Wang, Han Xiao
-  We introduce jina-embeddings-v4, a 3.8 billion parameter multimodal embedding
-model that unifies text and image representations through a novel archit...
+- [Inside you are many wolves: Using cognitive models to interpret value
+  trade-offs in LLMs](http://arxiv.org/abs/2506.20666v1) - Sonia K. Murthy, Rosie Zhao, Jennifer Hu, Sham Kakade, Markus Wulfmeier, Peng Qian, Tomer Ullman
+  Navigating everyday social situations often requires juggling conflicting
+goals, such as conveying a harsh truth, maintaining trust, all while still
+b...
 
-- [Vision as a Dialect: Unifying Visual Understanding and Generation via
-  Text-Aligned Representations](http://arxiv.org/abs/2506.18898v1) - Jiaming Han, Hao Chen, Yang Zhao, Hanyu Wang, Qi Zhao, Ziyan Yang, Hao He, Xiangyu Yue, Lu Jiang
-  This paper presents a multimodal framework that attempts to unify visual
-understanding and generation within a shared discrete semantic representation...
+- [The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](http://arxiv.org/abs/2506.20664v1) - Andrei Lupu, Timon Willi, Jakob Foerster
+  As Large Language Models (LLMs) gain agentic abilities, they will have to
+navigate complex multi-agent scenarios, interacting with human users and oth...
 
-- [MinD: Unified Visual Imagination and Control via Hierarchical World
-  Models](http://arxiv.org/abs/2506.18897v1) - Xiaowei Chi, Kuangzhi Ge, Jiaming Liu, Siyuan Zhou, Peidong Jia, Zichen He, Yuzhen Liu, Tingguang Li, Lei Han, Sirui Han, Shanghang Zhang, Yike Guo
-  Video generation models (VGMs) offer a promising pathway for unified world
-modeling in robotics by integrating simulation, prediction, and manipulatio...
+- [Disentangled representations of microscopy images](http://arxiv.org/abs/2506.20649v1) - Jacopo Dapueto, Vito Paolo Pastore, Nicoletta Noceti, Francesca Odone
+  Microscopy image analysis is fundamental for different applications, from
+diagnosis to synthetic engineering and environmental monitoring. Modern
+acqu...
 
 
 
@@ -148,25 +148,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $201.50 📈 +0.50 (+0.2%)
-- **GOOGL**: $165.19 📉 -1.45 (-0.9%)
-- **MSFT**: $486.00 📈 +8.60 (+1.8%)
+- **AAPL**: $201.56 📈 +1.26 (+0.6%)
+- **GOOGL**: $170.68 📈 +3.91 (+2.3%)
+- **MSFT**: $492.27 📈 +2.16 (+0.4%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**二叉树的最大深度** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-给定二叉树，找出其最大深度
+将两个升序链表合并为一个新的升序链表
 
-标签: 树, 递归
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -177,14 +177,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-世界上第一个域名是symbolics.com，注册于1985年3月15日
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《代码整洁之道》** - Robert C. Martin
 
-深度学习领域的权威教材 (分类: 人工智能)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -194,28 +194,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Brain.fm Focus** - Brain.fm
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -229,12 +229,12 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
@@ -255,16 +255,16 @@ test('should calculate tax correctly', () => {
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🛡️ 安全卫士
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `64bd86` | 日期: 2025-06-24
+挑战ID: `02bf42` | 日期: 2025-06-26
 
 
 ### 📊 技术话题投票
@@ -284,30 +284,30 @@ test('should calculate tax correctly', () => {
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Tauri** (Rust) - ⭐ 70k+
 
-现代JavaScript/TypeScript运行时
+使用Rust构建跨平台桌面应用
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-世界上有10种人：懂二进制的和不懂二进制的。
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -321,7 +321,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-06-24 08:14:15
+- 📅 更新时间: 2025-06-26 08:13:54
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -332,13 +332,15 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 8.6/100
+- 😊 积极新闻: 2 (25.0%)
+- 😟 消极新闻: 2 (25.0%)
+- 🔥 平均热度: 16.0/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- AR (2次)
+- AI (7次)
+- 人工智能 (1次)
+- 边缘计算 (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
