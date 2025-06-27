@@ -55,76 +55,77 @@
 
 MIT
 
-## 今日更新 (2025-06-26)
+## 今日更新 (2025-06-27)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😟 [华为云Flexus+DeepSeek征文 | 当大模型遇见边缘计算：Flexus赋能低延迟AI Agent](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥🔥 超热
-  随着人工智能技术的飞速发展，大语言模型（LLM）已经成为AI应用的核心驱动力。然而，传统的云端部署模式在面对实时性要求较高的场景时，往往存在网络延迟、带宽限制等问题。边缘计算的兴起为解决这一困境提供了...
-- 😐 [Qwen-3 微调实战：用 Python 和 Unsloth 打造专属 AI 模型](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  本文详细介绍了如何利用 Python 和 Unsloth 对 Qwen-3 模型进行微调，以打造专属的 AI 模型。文章首先强调了 Qwen-3 在各项基准测试中的出色表现，随后详细阐述了微调所需的 ...
-- 😊 [AI智能体的智能记忆系统：Agentic Memory](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  详细介绍了三种记忆类型：短期记忆（工作记忆）用于维持当前对话上下文；长期记忆包括程序性记忆（行为模式）、情景记忆（具体经历）和语义记忆（事实知识）。通过LangGraph框架，展示了如何在生产环境中实...
-- 😐 [BOSS直聘爬虫分析：Bright Data + PandasAI 洞察招聘市场的薪资动态与职位趋势](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  本文将通过Python以及使用Bright Data 代理对BOSS直聘招聘平台进行数据抓取，并结合 PandasAI来分析当前互联网岗位的薪资动态与职位趋势。
-- 😐 [Python编程语言：2025年AI浪潮下的技术统治与学习红利](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  本书详尽而系统地介绍了Python语言程序设计的方方面面，通过大量的示例、伪代码、流程图和其他工具，使读者更容易学习程序设计逻辑。本书清晰、简明、友好的表述风格，可以让读者轻松掌握Python编程理论...
+- 😊 [《DeepSeek 行业应用大全（微课视频版）》人工智能深度剖析：解锁 AIGC 新生产力](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  《DeepSeek 行业应用大全（微课视频版）》人工智能深度剖析：解锁 AIGC 新生产力！在数字化浪潮席卷而来的当下，AIGC（人工智能生成内容）技术正以前所未有的速度重塑各个行业。DeepSeek...
+- 😐 [AI新手入门解锁元生代MaaS平台：API工作流调用全攻略](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  《蓝耘元生代MaaS平台实践指南》摘要：本文详细介绍了蓝耘元生代MaaS平台的使用体验，该平台提供包括NLP、CV等多个领域的预训练模型服务，并赠送千万Token福利。文章涵盖从注册获取APIKey到...
+- 😊 [AI安全挑战与全球应对：从ComfyUI漏洞谈起](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  AI安全是一个持续演进的领域，需要政府、企业、研究机构和开源社区的共同努力。从ComfyUI的漏洞事件中，我们不仅看到了AI工具在安全方面的不足，也看到了全球各方在应对AI安全挑战时的积极行动。未来，...
+- 😐 [Cursor 中的AI模型到底怎么选 ？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  不使用Auto模式的原因很简单：**没有掌控感**，官方开设这个选项目的是想让消耗，能力，速度之间达成某种平衡，但实话一分钱一分货，消耗能力和速度本身是不可能三角。与其让Cursor自动分配到垃圾模型...
+- 😊 [AI 编程工具合集](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  在科技飞速发展的当下，AI 编程工具如璀璨之星闪耀登场。它们以强大的智能算法和高效的开发能力，为程序员打开新的编程天地。让我们一同探索这些工具，感受 AI 赋予编程的无限可能，开启高效、创新的编程之旅...
 
 
 ### 网络安全资讯
 
-- [Quest修补了关键的VCE SM缺陷，包括CVSS10身份验证绕过](https://www.anquanke.com/post/id/309042) - 安全公告，详情请点击链接查看完整内容
-- [AI 原生安全 CheckList](https://paper.seebug.org/3333/) - 作者：知道创宇404实验室  
-前言
-近年来，人工智能（AI）技术迅猛发展，广泛应用于金融、医疗、交通、教育、安防等各个领域，推动了社会效率与生产力的深刻变革。与此同时，AI 系统在带来巨大价值的同时...
-- [Sitecore内容管理系统漏洞链始于在设置硬编码密码时的疏漏](https://www.4hou.com/posts/xy0q) - Sitecore Experience Platform （XP）漏洞链允许攻击者在没有身份验证的情况下执行远程代码执行（RCE）来破坏和劫持服务器。Sitecore是一个流行的企业CMS，用于企业创...
+- [黑客滥用 Microsoft ClickOnce 和 AWS 服务进行隐蔽攻击](https://www.anquanke.com/post/id/309056) - 安全公告，详情请点击链接查看完整内容
+- [Smart-LLaMA-DPO：用于可解释智能合约漏洞检测的强化大型语言模型](https://paper.seebug.org/3334/) - 作者：Lei Yu, Zhirong Huang, Hang Yuan, Shiqi Cheng等
+译者：知道创宇404实验室翻译组
+原文链接：https://arxiv.org/html/2506....
+- [力推创新普惠，ISC.AI携手光华基金会启动“阅读Agent”创作赛事](https://www.4hou.com/posts/7Mxr) - 数字时代，阅读本该是穿透年龄、地域与认知边界的璀璨星光。可当泛黄起皱的教辅书页堆满偏远山区孩童的课桌，当视障少年指尖划过盲文凸点渴望听见文字背后的星辰大海，当银发族在智能设备前因操作困惑蹙起眉头，当城...
 
 
 ### 技术就业趋势
 
-数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
+区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
 
 ### 科技热点
 
-- 😐 [斯坦福最新研究：硅谷的AI创业潮，其实是一场大型的资源错配](https://cloud.tencent.com/developer/article/2533402) 📈 关注
-  2025年1月到5月间，斯坦福大学的研究团队完成了一项本应在AI热潮开始时就进行的调查。他们采访了1500名美国员工和52名AI专家，评估了104个职业中的844项具体任务。这项由经济学家Erik B...
-- 😊 [StarRocks 查询优化&执行调度](https://cloud.tencent.com/developer/article/2533357) 📈 关注
-  ，表示一个优化器操作节点/算子。OptExpression主要是用在传递计划树的接口上，在Memo/Group/GroupExpression中都不会存在该结构。
-- 😟 [大模型应用开发基础-Prompt工程](https://cloud.tencent.com/developer/article/2533715) 📈 关注
-  Prompt（提示词）是用户输入给AI模型的指令或问题，用于引导模型生成特定输出。
+- 😊 [腾讯云全球数据库正式上线，三大核心能力驱动全球业务无界体验](https://cloud.tencent.com/developer/article/2533797) 📊 普通
+  今天，腾讯云TDSQL-C全球数据库服务（Global Database，简称GD）正式上线，围绕日志级传输、可用区快速切换与写入请求智能转发三大核心能力，帮助企业打造高性能、强可用、全球一致的数据底...
+- 😊 [11亿，具身智能单笔最大融资出现，我们独家对话了银河通用创始人王鹤](https://cloud.tencent.com/developer/article/2533809) 📊 普通
+  6月23日，北京银河通用机器人有限公司（以下简称“银河通用”）宣布正式完成由宁德时代及溥泉资本领投的11亿元人民币新一轮融资，这也是目前为止国内具身智能领域单笔最大融资。
+- 😐 [腾讯首款数字疗法进入临床应用](https://cloud.tencent.com/developer/article/2533808) 📊 普通
+  腾讯自主研发的认知功能训练软件「腾讯脑力锻炼」，获批广东省药监局颁发的医疗器械注册证，将进入临床应用阶段，可以帮助轻度认知障碍患者有效改善认知能力。
 
 
 ### GitHub 趋势项目
 
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
+- [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 
 
 
 
 ### AI 研究论文
 
-- [Inside you are many wolves: Using cognitive models to interpret value
-  trade-offs in LLMs](http://arxiv.org/abs/2506.20666v1) - Sonia K. Murthy, Rosie Zhao, Jennifer Hu, Sham Kakade, Markus Wulfmeier, Peng Qian, Tomer Ullman
-  Navigating everyday social situations often requires juggling conflicting
-goals, such as conveying a harsh truth, maintaining trust, all while still
-b...
+- [Whole-Body Conditioned Egocentric Video Prediction](http://arxiv.org/abs/2506.21552v1) - Yutong Bai, Danny Tran, Amir Bar, Yann LeCun, Trevor Darrell, Jitendra Malik
+  We train models to Predict Ego-centric Video from human Actions (PEVA), given
+the past video and an action represented by the relative 3D body pose. B...
 
-- [The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind](http://arxiv.org/abs/2506.20664v1) - Andrei Lupu, Timon Willi, Jakob Foerster
-  As Large Language Models (LLMs) gain agentic abilities, they will have to
-navigate complex multi-agent scenarios, interacting with human users and oth...
+- [mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and
+  Model Selection at Scale](http://arxiv.org/abs/2506.21550v1) - Xiaona Zhou, Constantin Brif, Ismini Lourentzou
+  Multivariate time series anomaly detection (MTS-AD) is critical in domains
+like healthcare, cybersecurity, and industrial monitoring, yet remains
+chal...
 
-- [Disentangled representations of microscopy images](http://arxiv.org/abs/2506.20649v1) - Jacopo Dapueto, Vito Paolo Pastore, Nicoletta Noceti, Francesca Odone
-  Microscopy image analysis is fundamental for different applications, from
-diagnosis to synthetic engineering and environmental monitoring. Modern
-acqu...
+- [HalluSegBench: Counterfactual Visual Reasoning for Segmentation
+  Hallucination Evaluation](http://arxiv.org/abs/2506.21546v1) - Xinzhuo Li, Adheesh Juvekar, Xingyou Liu, Muntasir Wahed, Kiet A. Nguyen, Ismini Lourentzou
+  Recent progress in vision-language segmentation has significantly advanced
+grounded visual understanding. However, these models often exhibit
+hallucin...
 
 
 
@@ -148,25 +149,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $201.56 📈 +1.26 (+0.6%)
-- **GOOGL**: $170.68 📈 +3.91 (+2.3%)
-- **MSFT**: $492.27 📈 +2.16 (+0.4%)
+- **AAPL**: $201.00 📉 -0.56 (-0.3%)
+- **GOOGL**: $173.54 📈 +2.86 (+1.7%)
+- **MSFT**: $497.45 📈 +5.18 (+1.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+判断字符串中的括号是否有效匹配
 
-标签: 链表, 递归
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -177,7 +178,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
@@ -200,22 +201,22 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Ambient Coding** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -229,85 +230,85 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🧠 算法大师
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `02bf42` | 日期: 2025-06-26
+挑战ID: `3b428f` | 日期: 2025-06-27
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-使用Rust构建跨平台桌面应用
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**安全工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-真正的程序员不需要注释，代码就是最好的文档。
+世界上有10种人：懂二进制的和不懂二进制的。
 
 
 ### 🐙 GitHub 生态统计
@@ -321,7 +322,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-06-26 08:13:54
+- 📅 更新时间: 2025-06-27 08:13:49
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -332,15 +333,13 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 2 (25.0%)
-- 😟 消极新闻: 2 (25.0%)
-- 🔥 平均热度: 16.0/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 10.4/100
 
 🏷️ **热门关键词**:
-- AI (7次)
+- AI (5次)
 - 人工智能 (1次)
-- 边缘计算 (1次)
-- AR (1次)
 
 
 ### 🤖 关于此项目
