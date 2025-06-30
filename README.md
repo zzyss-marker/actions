@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2025-06-29)
+## 今日更新 (2025-06-30)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- 😊 [奇异值分解（SVD）：线性代数在AI大模型中的核心工具](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
-  摘要： 人工智能（AI）大模型的理论基础建立在线性代数、概率统计和微积分之上，其中线性代数为数据表示、模型计算和优化提供了核心工具。奇异值分解（Singular Value Decomposition...
-- 😊 [Chatbox AI｜程序员救星！一个API调用GPT、Claude、deepseek等多个大模型！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
-  Chatbox AI 是一款 AI 客户端应用和智能助手，支持众多先进的 AI 模型和 API，可在 Windows、MacOS、Android、iOS、Linux 和网页版上使用。
-- 😊 [飞算JavaAI：精准切中开发者痛点，专治“AI生成代码不可用、逻辑混乱”的顽疾](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  飞算JavaAI精准切中开发者痛点，专治“AI生成代码不可用、逻辑混乱”的顽疾。它通过高可靠性的需求理解与代码生成，极大降低调试成本与心智负担，让开发者告别面对“不靠谱AI”的挫败感。高效生成可直接集...
-- 😊 [SuperMemory：最强大的AI知识管理工具？打造第二大脑](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  是一款结合了 AI 技术的智能书签管理工具。它通过 Chrome 插件导入推文或网页，并借助智能搜索和 AI 辅助，帮助用户快速提取和复习信息。无论是保存灵感、管理知识，还是进行写作辅助，SuperM...
-- 😊 [基于腾讯云MCP广场的AI自动化实践：爬取小红书热门话题](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  本文介绍了如何利用腾讯云MCP广场和超浏览器AI自动化工具，实现小红书热门话题的自动化爬取与分析。通过MCP平台，开发者可以高效整合云能力与AI模型，简化自动化流程。文章详细展示了从工具选型、代码配置...
+- 😐 [联邦学习架构深度分析：支持多家医院协作训练AI模型方案分析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  医疗联邦学习：隐私保护下的多中心AI协作 摘要：联邦学习通过"数据不动模型动"的分布式架构，解决了医疗数据隐私保护与协同训练的矛盾。其核心采用三层拓扑结构（边缘节点-区域协调-中央调度），结合梯度同态...
+- 😊 [【GitHub开源AI精选】ebook2audiobook：AI驱动的电子书转有声书利器，支持1107种语言+语音克隆](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  **ebook2audiobook** 是一个开源项目，旨在将电子书（eBooks）转换为有声书（audiobooks）。该项目利用先进的文本到语音（Text-to-Speech, TTS）技术，将电...
+- 😊 [MDPI期刊汇总（AI方向）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  本blog统计了计算机和工程领域的期刊，常见分区包括三种，中科院分区，JCR分区，CiteScore分区，下面分别介绍这三种分区的区别：1. 中科院分区中科院分区是中国科学院发布的期刊评价体系，涵盖了...
+- 😐 [Bright Data网页抓取工具实战：BOSS直聘爬虫 + PandasAI分析洞察前端岗位市场趋势](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  BOSS直聘爬虫 + PandasAI分析洞察前端岗位市场趋势
+- 😐 [即梦AI文生图报错 “提示词不支持其他语种“ 的原因](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  【代码】即梦AI文生图报错 "提示词不支持其他语种" 的原因。
 
 
 ### 网络安全资讯
@@ -81,51 +81,51 @@ MIT
 - [Smart-LLaMA-DPO：用于可解释智能合约漏洞检测的强化大型语言模型](https://paper.seebug.org/3334/) - 作者：Lei Yu, Zhirong Huang, Hang Yuan, Shiqi Cheng等
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html/2506....
-- [力推创新普惠，ISC.AI携手光华基金会启动“阅读Agent”创作赛事](https://www.4hou.com/posts/7Mxr) - 数字时代，阅读本该是穿透年龄、地域与认知边界的璀璨星光。可当泛黄起皱的教辅书页堆满偏远山区孩童的课桌，当视障少年指尖划过盲文凸点渴望听见文字背后的星辰大海，当银发族在智能设备前因操作困惑蹙起眉头，当城...
+- [行业严选 | 梆梆安全两款产品入选《中国网络安全细分领域产品名录》](https://www.4hou.com/posts/9jzZ) - 近日，嘶吼安全产业研究院发布《中国网络安全细分领域产品名录》。作为移动安全与物联网安全领域的代表厂商，梆梆安全凭借自主研发的“应用安全测评平台”及“物联网加固平台”两款产品，在核心技术优势、卓越产品性...
 
 
 ### 技术就业趋势
 
-云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
-- 😐 [从LSP到MCP：基础架构、核心组件和协议未来](https://cloud.tencent.com/developer/article/2534767) 📈 关注
-  本文系统性地介绍了MCP（Model Context Protocol）协议的设计理念、核心架构及技术实现，旨在通过标准化AI大模型与外部系统的交互方式，解决大模型工具调用和实时信息获取的行业痛点。文...
-- 😐 [腾讯云 TDP 第五届线上发展交流大会邀您 | 共赴开发者之约](https://cloud.tencent.com/developer/article/2534700) 📈 关注
-  时光的指针划过TDP的星河航程， 每一次代码的跃动、每一次反馈的碰撞，都在为云计算的疆域拓印下属于开发者的足迹。2025 年已悄然走过半年，回望这过去的半年，我们依然秉持着为开发者拓展更广阔产品体验与...
-- 😐 [无缝互操作：腾讯云KMS在SM2国密算法上与 EasyGmSSL 的兼容实践](https://cloud.tencent.com/developer/article/2534764) 📊 普通
-  国密算法SM2作为我国自主知识产权的非对称密钥标准，在金融、政务等领域广泛应用。实际开发中，常需本地工具与云服务协同工作，兼容性成为关键痛点。本文通过完整互操作验证，展示EasyGmSSL库与腾讯云K...
+- 😐 [从理论到实战！MCP看这一篇就够了](https://cloud.tencent.com/developer/article/2534765) 📈 关注
+  这些文章将带你从协议原理到实战落地全方位吃透这个AI工具集成神器。开发者们在让AI对接各类工具时，是否都经历过这些“暗黑时刻”？调用天气 API 要写一套代码，接入数据库又得重写逻辑，仿佛每次都要教 ...
+- 😐 [混元这6篇论文，入选国际顶级学术会议ICML2025](https://cloud.tencent.com/developer/article/2535032) 📈 关注
+  作为全球机器学习三大顶会之一，ICML2025聚焦机器学习前沿领域，将于今年7月中旬在温哥华召开，目前大会接收的论文结果已经出炉。
+- 😊 [2025暑期教师专属：Docker 免费训练营开启报名，让我们一起赶考新时代！](https://cloud.tencent.com/developer/article/2535002) 📊 普通
+  清华OpenCamp × 腾讯云CNB联袂打造｜带领您的创新教师工作室紧跟技术发展最前沿
 
 
 ### GitHub 趋势项目
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
-- [adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
-- [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+- [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) - No description
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 
 
 
 
 ### AI 研究论文
 
-- [Whole-Body Conditioned Egocentric Video Prediction](http://arxiv.org/abs/2506.21552v1) - Yutong Bai, Danny Tran, Amir Bar, Yann LeCun, Trevor Darrell, Jitendra Malik
-  We train models to Predict Ego-centric Video from human Actions (PEVA), given
-the past video and an action represented by the relative 3D body pose. B...
+- [CLoVE: Personalized Federated Learning through Clustering of Loss Vector
+  Embeddings](http://arxiv.org/abs/2506.22427v1) - Randeep Bhatia, Nikos Papadis, Murali Kodialam, TV Lakshman, Sayak Chakrabarty
+  We propose CLoVE (Clustering of Loss Vector Embeddings), a novel algorithm
+for Clustered Federated Learning (CFL). In CFL, clients are naturally group...
 
-- [mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and
-  Model Selection at Scale](http://arxiv.org/abs/2506.21550v1) - Xiaona Zhou, Constantin Brif, Ismini Lourentzou
-  Multivariate time series anomaly detection (MTS-AD) is critical in domains
-like healthcare, cybersecurity, and industrial monitoring, yet remains
-chal...
+- [The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT
+  Improvements](http://arxiv.org/abs/2506.22419v1) - Bingchen Zhao, Despoina Magka, Minqi Jiang, Xian Li, Roberta Raileanu, Tatiana Shavrina, Jean-Christophe Gagnon-Audet, Kelvin Niu, Shagun Sodhani, Michael Shvartsman, Andrei Lupu, Alisia Lupidi, Edan Toledo, Karen Hambardzumyan, Martin Josifoski, Thomas Foster, Lucia Cipolina-Kun, Abhishek Charnalia, Derek Dunfield, Alexander H. Miller, Oisin Mac Aodha, Jakob Foerster, Yoram Bachrach
+  Rapid advancements in large language models (LLMs) have the potential to
+assist in scientific progress. A critical capability toward this endeavor is
+...
 
-- [HalluSegBench: Counterfactual Visual Reasoning for Segmentation
-  Hallucination Evaluation](http://arxiv.org/abs/2506.21546v1) - Xinzhuo Li, Adheesh Juvekar, Xingyou Liu, Muntasir Wahed, Kiet A. Nguyen, Ismini Lourentzou
-  Recent progress in vision-language segmentation has significantly advanced
-grounded visual understanding. However, these models often exhibit
-hallucin...
+- [HyperCLOVA X THINK Technical Report](http://arxiv.org/abs/2506.22403v1) - NAVER Cloud HyperCLOVA X Team
+  We introduce HyperCLOVA X THINK, the first reasoning-focused large language
+model in the HyperCLOVA X family, pre-trained on roughly $6$ trillion
+high...
 
 
 
@@ -158,16 +158,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**有效的括号** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+判断字符串中的括号是否有效匹配
 
-标签: 字符串, 动态规划
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -178,7 +178,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
 
 
 ### 📚 技术书籍推荐
@@ -195,119 +195,120 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Brain.fm Focus** - Brain.fm
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
 
-**AI模型部署** (难度: 中等)
+**安全漏洞修复** (难度: 高级)
 
-将一个机器学习模型部署到云端，实现API调用
+识别并修复一个Web应用中的安全漏洞
 
-🏷️ 标签: AI, 部署, 云计算 | ⏱️ 预计时间: 3-6小时 | 🎯 奖励积分: 120
+🏷️ 标签: 安全, Web开发 | ⏱️ 预计时间: 2-5小时 | 🎯 奖励积分: 130
 
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**使用有意义的变量名**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `32d7d3` | 日期: 2025-06-29
+挑战ID: `0a9f9a` | 日期: 2025-06-30
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代Web应用框架
+高性能代码编辑器
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**安全工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -321,7 +322,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-06-29 08:12:04
+- 📅 更新时间: 2025-06-30 08:15:05
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -332,16 +333,15 @@ function formatCurrency(amount) { ... }
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
+- 😊 积极新闻: 3 (37.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 16.8/100
+- 🔥 平均热度: 11.1/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- 人工智能 (1次)
-- AR (1次)
-- GPT (1次)
-- 云计算 (1次)
+- 隐私保护 (1次)
+- 机器学习 (1次)
+- Docker (1次)
 
 
 ### 🤖 关于此项目
