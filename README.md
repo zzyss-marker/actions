@@ -55,77 +55,68 @@
 
 MIT
 
-## 今日更新 (2025-06-30)
+## 今日更新 (2025-07-01)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- 😐 [联邦学习架构深度分析：支持多家医院协作训练AI模型方案分析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  医疗联邦学习：隐私保护下的多中心AI协作 摘要：联邦学习通过"数据不动模型动"的分布式架构，解决了医疗数据隐私保护与协同训练的矛盾。其核心采用三层拓扑结构（边缘节点-区域协调-中央调度），结合梯度同态...
-- 😊 [【GitHub开源AI精选】ebook2audiobook：AI驱动的电子书转有声书利器，支持1107种语言+语音克隆](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  **ebook2audiobook** 是一个开源项目，旨在将电子书（eBooks）转换为有声书（audiobooks）。该项目利用先进的文本到语音（Text-to-Speech, TTS）技术，将电...
-- 😊 [MDPI期刊汇总（AI方向）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  本blog统计了计算机和工程领域的期刊，常见分区包括三种，中科院分区，JCR分区，CiteScore分区，下面分别介绍这三种分区的区别：1. 中科院分区中科院分区是中国科学院发布的期刊评价体系，涵盖了...
-- 😐 [Bright Data网页抓取工具实战：BOSS直聘爬虫 + PandasAI分析洞察前端岗位市场趋势](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  BOSS直聘爬虫 + PandasAI分析洞察前端岗位市场趋势
-- 😐 [即梦AI文生图报错 “提示词不支持其他语种“ 的原因](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  【代码】即梦AI文生图报错 "提示词不支持其他语种" 的原因。
+- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
+  新模型在推理能力和上下文窗口方面有显著改进
 
 
 ### 网络安全资讯
 
-- [黑客滥用 Microsoft ClickOnce 和 AWS 服务进行隐蔽攻击](https://www.anquanke.com/post/id/309056) - 安全公告，详情请点击链接查看完整内容
+- [论韧性数字安全体系（第十三章）](https://www.anquanke.com/post/id/309219) - 安全公告，详情请点击链接查看完整内容
 - [Smart-LLaMA-DPO：用于可解释智能合约漏洞检测的强化大型语言模型](https://paper.seebug.org/3334/) - 作者：Lei Yu, Zhirong Huang, Hang Yuan, Shiqi Cheng等
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html/2506....
-- [行业严选 | 梆梆安全两款产品入选《中国网络安全细分领域产品名录》](https://www.4hou.com/posts/9jzZ) - 近日，嘶吼安全产业研究院发布《中国网络安全细分领域产品名录》。作为移动安全与物联网安全领域的代表厂商，梆梆安全凭借自主研发的“应用安全测评平台”及“物联网加固平台”两款产品，在核心技术优势、卓越产品性...
+- [ISC.AI 2025 展区抢&quot;鲜&quot;看！解锁AI版商超市集的N种玩法](https://www.4hou.com/posts/mkzr) - 在AI浪潮奔涌向前的2025年，8月6-7日，ISC.AI 2025 这场全球“AI+安全”双域盛会将于北京国家会议中心启幕。大会不仅是汇集全球智慧、探讨前沿趋势的思想殿堂，其展区更是以颠覆性创新亮点...
 
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
-- 😐 [从理论到实战！MCP看这一篇就够了](https://cloud.tencent.com/developer/article/2534765) 📈 关注
-  这些文章将带你从协议原理到实战落地全方位吃透这个AI工具集成神器。开发者们在让AI对接各类工具时，是否都经历过这些“暗黑时刻”？调用天气 API 要写一套代码，接入数据库又得重写逻辑，仿佛每次都要教 ...
-- 😐 [混元这6篇论文，入选国际顶级学术会议ICML2025](https://cloud.tencent.com/developer/article/2535032) 📈 关注
+- 😊 [直播预告：TCS异构算力管理与成本优化](https://cloud.tencent.com/developer/article/2535356) 📈 关注
+  为了进一步帮助工业与能源企业搭建企业知识引擎与AI智能体，实现企业知识的高效利用，腾讯云重磅推出《从0到1搭建企业级AI知识中枢》工业&能源企业大模型知识管理实战研修营，助力企业实现从“文档仓库”到“...
+- 😐 [混元这6篇论文，入选国际顶级学术会议ICML2025](https://cloud.tencent.com/developer/article/2535358) 📈 关注
   作为全球机器学习三大顶会之一，ICML2025聚焦机器学习前沿领域，将于今年7月中旬在温哥华召开，目前大会接收的论文结果已经出炉。
-- 😊 [2025暑期教师专属：Docker 免费训练营开启报名，让我们一起赶考新时代！](https://cloud.tencent.com/developer/article/2535002) 📊 普通
-  清华OpenCamp × 腾讯云CNB联袂打造｜带领您的创新教师工作室紧跟技术发展最前沿
+- 😊 [腾讯云RayData全新推出“行业解决方案模板”，一键快捷制作3D数据可视化作品](https://cloud.tencent.com/developer/article/2535367) 📊 普通
+  有了RayData工具，您还在发愁设计门槛高、视觉效果不知道怎么做？别急，RayData全新推出可视化行业解决方案模板，让您一键抄作业！
 
 
 ### GitHub 趋势项目
 
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+- [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
 - [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) - No description
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 
 
 
 
 ### AI 研究论文
 
-- [CLoVE: Personalized Federated Learning through Clustering of Loss Vector
-  Embeddings](http://arxiv.org/abs/2506.22427v1) - Randeep Bhatia, Nikos Papadis, Murali Kodialam, TV Lakshman, Sayak Chakrabarty
-  We propose CLoVE (Clustering of Loss Vector Embeddings), a novel algorithm
-for Clustered Federated Learning (CFL). In CFL, clients are naturally group...
+- [FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation](http://arxiv.org/abs/2506.24125v1) - Jiacheng Cui, Xinyue Bi, Yaxin Luo, Xiaohan Zhao, Jiacheng Liu, Zhiqiang Shen
+  Residual connection has been extensively studied and widely applied at the
+model architecture level. However, its potential in the more challenging
+da...
 
-- [The Automated LLM Speedrunning Benchmark: Reproducing NanoGPT
-  Improvements](http://arxiv.org/abs/2506.22419v1) - Bingchen Zhao, Despoina Magka, Minqi Jiang, Xian Li, Roberta Raileanu, Tatiana Shavrina, Jean-Christophe Gagnon-Audet, Kelvin Niu, Shagun Sodhani, Michael Shvartsman, Andrei Lupu, Alisia Lupidi, Edan Toledo, Karen Hambardzumyan, Martin Josifoski, Thomas Foster, Lucia Cipolina-Kun, Abhishek Charnalia, Derek Dunfield, Alexander H. Miller, Oisin Mac Aodha, Jakob Foerster, Yoram Bachrach
-  Rapid advancements in large language models (LLMs) have the potential to
-assist in scientific progress. A critical capability toward this endeavor is
-...
+- [Data Uniformity Improves Training Efficiency and More, with a
+  Convergence Framework Beyond the NTK Regime](http://arxiv.org/abs/2506.24120v1) - Yuqing Wang, Shangding Gu
+  Data selection plays a crucial role in data-driven decision-making, including
+in large language models (LLMs), and is typically task-dependent. Proper...
 
-- [HyperCLOVA X THINK Technical Report](http://arxiv.org/abs/2506.22403v1) - NAVER Cloud HyperCLOVA X Team
-  We introduce HyperCLOVA X THINK, the first reasoning-focused large language
-model in the HyperCLOVA X family, pre-trained on roughly $6$ trillion
-high...
+- [SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via
+  Multi-Agent Multi-Turn Reinforcement Learning](http://arxiv.org/abs/2506.24119v1) - Bo Liu, Leon Guertler, Simon Yu, Zichen Liu, Penghui Qi, Daniel Balcells, Mickel Liu, Cheston Tan, Weiyan Shi, Min Lin, Wee Sun Lee, Natasha Jaques
+  Recent advances in reinforcement learning have shown that language models can
+develop sophisticated reasoning through training on tasks with verifiabl...
 
 
 
@@ -149,25 +140,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $201.08 📈 +0.08 (+0.0%)
-- **GOOGL**: $178.53 📈 +4.99 (+2.9%)
-- **MSFT**: $495.94 📉 -1.51 (-0.3%)
+- **AAPL**: $205.17 📈 +4.09 (+2.0%)
+- **GOOGL**: $176.23 📉 -2.30 (-1.3%)
+- **MSFT**: $497.41 📈 +1.47 (+0.3%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+将两个升序链表合并为一个新的升序链表
 
-标签: 栈, 字符串
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -178,14 +169,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《Python编程：从入门到实践》** - Eric Matthes
 
-容器编排平台的完整指南 (分类: 云原生)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -196,20 +187,20 @@ satellite communication systems has elevated the importance of secure vide...
 ### 🚀 创业公司动态
 
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
@@ -230,85 +221,83 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**使用版本控制**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🛡️ 安全卫士
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `0a9f9a` | 日期: 2025-06-30
+挑战ID: `a8bf77` | 日期: 2025-07-01
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
-- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Tauri** (Rust) - ⭐ 70k+
 
-高性能代码编辑器
+使用Rust构建跨平台桌面应用
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -322,7 +311,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-06-30 08:15:05
+- 📅 更新时间: 2025-07-01 08:14:43
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -332,16 +321,16 @@ const a = 25;
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
+- 📰 新闻总数: 4
+- 😊 积极新闻: 3 (75.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 11.1/100
+- 🔥 平均热度: 8.5/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- 隐私保护 (1次)
+- AI (2次)
+- GPT (1次)
+- OpenAI (1次)
 - 机器学习 (1次)
-- Docker (1次)
 
 
 ### 🤖 关于此项目
