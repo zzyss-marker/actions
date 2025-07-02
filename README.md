@@ -55,48 +55,56 @@
 
 MIT
 
-## 今日更新 (2025-07-01)
+## 今日更新 (2025-07-02)
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
-  新模型在推理能力和上下文窗口方面有显著改进
+- 😊 [【人工智能机器学习基础篇】——深入详解监督学习之回归与分类：理解线性回归、逻辑回归、支持向量机（SVM）、决策树、随机森林、梯度提升机（GBM）等算法](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  【人工智能机器学习基础篇】——深入详解监督学习之回归与分类：理解线性回归、逻辑回归、支持向量机（SVM）、决策树、随机森林、梯度提升机（GBM）等算法
+- 😐 [华为云Flexus+DeepSeek征文｜基于Dify平台打造“AI法律合同审查助手”实战指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  在法律行业，合同审查是一项高频、高成本且容错率极低的工作。传统人工审查不仅耗时（平均每份合同需30-60分钟），且容易因疲劳或经验不足导致条款遗漏。根据《2023年中国法律科技白皮书》，：R1版本相比...
+- 😊 [程序员救星！AI聚合型工具一键实现复杂代码优化+专业图像生成](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  AI持续的持续火热，各种AI工具大模型层出不穷，让人看到眼花缭乱。偶然间听到在bat其中一家公司任职的哥们说到他们同事都在讨论一款叫ChatboxAI的工具，应用效果挺好，基本上所有的功能都覆盖了，还...
+- 😊 [MDPI期刊汇总（AI方向）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  本blog统计了计算机和工程领域的期刊，常见分区包括三种，中科院分区，JCR分区，CiteScore分区，下面分别介绍这三种分区的区别：1. 中科院分区中科院分区是中国科学院发布的期刊评价体系，涵盖了...
+- 😐 [海光k100_ai使用vllm方式部署deepseek32b](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  海光k100_ai使用vllm方式部署deepseek32b
 
 
 ### 网络安全资讯
 
-- [论韧性数字安全体系（第十三章）](https://www.anquanke.com/post/id/309219) - 安全公告，详情请点击链接查看完整内容
+- [苹果确认：iOS 26 多项新功能将不在欧盟上线，因涉安全与监管冲突](https://www.anquanke.com/post/id/309317) - 安全公告，详情请点击链接查看完整内容
 - [Smart-LLaMA-DPO：用于可解释智能合约漏洞检测的强化大型语言模型](https://paper.seebug.org/3334/) - 作者：Lei Yu, Zhirong Huang, Hang Yuan, Shiqi Cheng等
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html/2506....
-- [ISC.AI 2025 展区抢&quot;鲜&quot;看！解锁AI版商超市集的N种玩法](https://www.4hou.com/posts/mkzr) - 在AI浪潮奔涌向前的2025年，8月6-7日，ISC.AI 2025 这场全球“AI+安全”双域盛会将于北京国家会议中心启幕。大会不仅是汇集全球智慧、探讨前沿趋势的思想殿堂，其展区更是以颠覆性创新亮点...
+- [链接式网络钓鱼：可信域如何成为威胁载体](https://www.4hou.com/posts/Eyg0) - 网络钓鱼仍然是网络安全最持久的威胁之一，不是因为防御者没有进化，而是因为攻击者适应的速度更快。如今，最有效的广告活动不仅仅是建立在欺骗电子邮件或可疑域名的基础上。他们采用了一些更为隐秘方式：信任我们每...
 
 
 ### 技术就业趋势
 
-低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
+DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
 
 ### 科技热点
 
-- 😊 [直播预告：TCS异构算力管理与成本优化](https://cloud.tencent.com/developer/article/2535356) 📈 关注
-  为了进一步帮助工业与能源企业搭建企业知识引擎与AI智能体，实现企业知识的高效利用，腾讯云重磅推出《从0到1搭建企业级AI知识中枢》工业&能源企业大模型知识管理实战研修营，助力企业实现从“文档仓库”到“...
-- 😐 [混元这6篇论文，入选国际顶级学术会议ICML2025](https://cloud.tencent.com/developer/article/2535358) 📈 关注
-  作为全球机器学习三大顶会之一，ICML2025聚焦机器学习前沿领域，将于今年7月中旬在温哥华召开，目前大会接收的论文结果已经出炉。
-- 😊 [腾讯云RayData全新推出“行业解决方案模板”，一键快捷制作3D数据可视化作品](https://cloud.tencent.com/developer/article/2535367) 📊 普通
-  有了RayData工具，您还在发愁设计门槛高、视觉效果不知道怎么做？别急，RayData全新推出可视化行业解决方案模板，让您一键抄作业！
+- 😊 [腾讯云联合 Gartner 权威发布《Data+AI下一代数智平台建设指南》「附下载」](https://cloud.tencent.com/developer/article/2535369) 🔥 热门
+  6月27日，腾讯云与Gartner联合发布《Data+AI 下一代数智平台建设指南》，深度剖析生成式AI时代企业数据管理痛点，明确构建下一代数据智能平台需重点发展的六大关键能力方向，并全景展示腾讯云D...
+- 😐 [腾讯技术创作特训营特别场——极客创作茶话会](https://cloud.tencent.com/developer/article/2535375) 📊 普通
+  这是一场专为开发者与技术创作者打造的夏日茶话会。在这里，我们将分享技术文章的创作经验与构建个人知识库的技巧，交流如何通过技术文章、知识号运营，打造个人影响力，拓宽职业路径。
+- 😊 [「2025腾讯犀牛鸟开源人才培养计划」正式发布，欢迎报名！](https://cloud.tencent.com/developer/article/2535362) 📊 普通
+  自2021年以来，腾讯持续开展“犀牛鸟开源人才培养计划”，响应国家开源政策，打造面向高校学生的开源课程和开源实践培养方案。该计划由教育部计算机类专业教学指导委员会、教育部软件工程专业教学指导委员会、教...
 
 
 ### GitHub 趋势项目
 
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
-- [midday-ai/midday](https://github.com/midday-ai/midday) - Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen) - No description
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
 
 
 
@@ -114,7 +122,7 @@ da...
 in large language models (LLMs), and is typically task-dependent. Proper...
 
 - [SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via
-  Multi-Agent Multi-Turn Reinforcement Learning](http://arxiv.org/abs/2506.24119v1) - Bo Liu, Leon Guertler, Simon Yu, Zichen Liu, Penghui Qi, Daniel Balcells, Mickel Liu, Cheston Tan, Weiyan Shi, Min Lin, Wee Sun Lee, Natasha Jaques
+  Multi-Agent Multi-Turn Reinforcement Learning](http://arxiv.org/abs/2506.24119v2) - Bo Liu, Leon Guertler, Simon Yu, Zichen Liu, Penghui Qi, Daniel Balcells, Mickel Liu, Cheston Tan, Weiyan Shi, Min Lin, Wee Sun Lee, Natasha Jaques
   Recent advances in reinforcement learning have shown that language models can
 develop sophisticated reasoning through training on tasks with verifiabl...
 
@@ -140,25 +148,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $205.17 📈 +4.09 (+2.0%)
-- **GOOGL**: $176.23 📉 -2.30 (-1.3%)
-- **MSFT**: $497.41 📈 +1.47 (+0.3%)
+- **AAPL**: $207.82 📈 +2.65 (+1.3%)
+- **GOOGL**: $175.84 📉 -0.39 (-0.2%)
+- **MSFT**: $492.05 📉 -5.36 (-1.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+判断字符串中的括号是否有效匹配
 
-标签: 链表, 递归
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -169,14 +177,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《设计模式》** - Gang of Four
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -186,28 +194,28 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -233,39 +241,41 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**写测试用例**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**网络建设**: 参加技术会议和meetup，建立专业人脉网络
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 每月参加至少一次技术聚会或在线会议
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🧠 算法大师
+今日挑战徽章：💡 创新者
 
-挑战ID: `a8bf77` | 日期: 2025-07-01
+挑战ID: `ce3296` | 日期: 2025-07-02
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
@@ -275,24 +285,24 @@ git commit -m "Add user authentication feature"
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-使用Rust构建跨平台桌面应用
+现代Web应用框架
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**AI工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
@@ -311,7 +321,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-01 08:14:43
+- 📅 更新时间: 2025-07-02 08:14:17
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -321,16 +331,16 @@ git commit -m "Add user authentication feature"
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 4
-- 😊 积极新闻: 3 (75.0%)
+- 📰 新闻总数: 8
+- 😊 积极新闻: 5 (62.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 8.5/100
+- 🔥 平均热度: 13.4/100
 
 🏷️ **热门关键词**:
-- AI (2次)
-- GPT (1次)
-- OpenAI (1次)
+- AI (5次)
+- 人工智能 (1次)
 - 机器学习 (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
