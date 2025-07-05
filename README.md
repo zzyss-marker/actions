@@ -55,16 +55,24 @@
 
 MIT
 
-## 今日更新 (2025-07-04)
+## 今日更新 (2025-07-05)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
-  新模型在推理能力和上下文窗口方面有显著改进
+- 😐 [【AI知识点】小世界网络（Small-World Networks）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  小世界网络（Small-World Networks） 是一种具有独特拓扑结构的网络模型，广泛应用于研究社交网络、神经网络、互联网以及其他复杂系统中的节点间连接方式。小世界网络的特点是节点之间的平均路...
+- 😊 [Selenium 4.0 + AI：重构自动化测试的智能革命](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  《AI赋能的Selenium 4.0智能测试框架演进》 摘要：本文探讨了在DevOps时代传统自动化测试面临的三大痛点，并详细解析了Selenium 4.0与AI技术融合的创新解决方案。文章首先展示了...
+- 😐 [Spring AI（5）——通过嵌入模型进行数据的向量化处理](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  嵌入是文本、图像或视频的数值表示，用于捕获输入之间的关系。嵌入的工作原理是将文本、图像和视频转换为浮点数数组，称为向量。这些向量旨在捕获文本、图像和视频的含义。嵌入数组的长度称为向量的维度。通过计算两...
+- 😊 [Spring AI如何调用本地部署的大模型](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  通过 Spring AI + Ollama，开发者能以低代码方式快速集成本地大模型，同时享受 Spring 生态的高并发、安全性和企业级维护能力。此方案适用于数据隐私敏感、需要离线部署或定制化微调的场...
+- 😟 [从报名到领证：软考中级系统集成项目管理工程师考试全流程指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📊 普通
+  本文共计11564字，预计阅读38分钟。包括七个篇章：报名、准考证打印、备考、考试、成绩查询、证书领取及常见问题。
 
 
 ### 网络安全资讯
@@ -78,25 +86,25 @@ MIT
 
 ### 技术就业趋势
 
-远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
+软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
 
 ### 科技热点
 
-- 😊 [腾讯云联合 Gartner 权威发布《Data+AI下一代数智平台建设指南》「附下载」](https://cloud.tencent.com/developer/article/2536648) 🔥 热门
-  6月27日，腾讯云与Gartner联合发布《Data+AI 下一代数智平台建设指南》，深度剖析生成式AI时代企业数据管理痛点，明确构建下一代数据智能平台需重点发展的六大关键能力方向，并全景展示腾讯云D...
-- 😊 [腾讯混元首款开源混合推理MoE模型发布，性能优异，激活参数仅13B](https://cloud.tencent.com/developer/article/2536652) 📊 普通
-  6月27日，我们正式带来腾讯混元首个开源的混合推理MoE模型 「Hunyuan-A13B」，总参数80B，激活参数仅13B，效果比肩同等架构领先开源模型，但是推理速度更快，性价比更高。这意味着，开发者...
-- 😐 [腾讯云X新网银行：金融风控大奖，拿下！](https://cloud.tencent.com/developer/article/2536662) 📊 普通
-  这是亚太地区最具影响力的金融奖项之一，专注评选金融数字化和风控领域的突出项目。这次获奖的，是新网银行与我们联合申报的「全自动化信贷反欺诈多模态智控平台」。
+- 😐 [斯坦福对话：硅谷在用“新故事”收割全世界](https://cloud.tencent.com/developer/article/2537059) 📈 关注
+  在斯坦福商学院最新一期的网络节目《权力与真相》中，斯坦福大学教授、企业与社会倡议（CASI）项目主任Anat Admati（音译：阿纳特·阿德马蒂）与《大西洋》月刊获奖记者Karen Hao（音译：郝...
+- 😟 [TDSQL-C MySQL 版数据高可用升级：从误操作到精准恢复的范式革新](https://cloud.tencent.com/developer/article/2537304) 📊 普通
+  企业数字化浪潮下，数据库作为核心数据资产的载体，正遭遇硬件故障、逻辑错误、人为误操作等多重威胁。这些风险不仅可能导致金融交易系统瘫痪，扰乱电商订单流程，更会危及医疗数据的完整与机密。传统数据恢复技术在...
+- 😐 [程序员核心竞争力：怎么做需求才能有成长？](https://cloud.tencent.com/developer/article/2537312) 📊 普通
+  在技术迭代与业务变革的快车道上，程序员如何跳出 “需求执行者” 的惯性？真正的成长藏在需求背后 —— 当代码开始理解业务逻辑，当技术方案能为商业目标造血，当需求对接成为驱动业务进化的支点，每一次踩坑都...
 
 
 ### GitHub 趋势项目
 
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab) - Unified framework for robot learning built on NVIDIA Isaac Sim
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 
 
 
@@ -146,18 +154,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-判断字符串中的括号是否有效匹配
+给定字符串，找出其中最长的回文子串
 
-标签: 栈, 字符串
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -168,14 +176,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Kubernetes权威指南》** - 龚正等
 
-面向对象设计的经典模式 (分类: 软件设计)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -185,28 +193,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Ambient Coding** - Various Artists
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -220,53 +228,52 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**遵循单一职责原则**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**网络建设**: 参加技术会议和meetup，建立专业人脉网络
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 每月参加至少一次技术聚会或在线会议
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `2f1581` | 日期: 2025-07-04
+挑战ID: `b96d07` | 日期: 2025-07-05
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
@@ -275,30 +282,30 @@ test('should calculate tax correctly', () => {
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Serverless** ☁️ +7% - 无服务器架构普及
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Zed** (Rust) - ⭐ 25k+
 
-使用Rust构建跨平台桌面应用
+高性能代码编辑器
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**云架构师** (高级) 🚀
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -312,7 +319,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-04 08:14:01
+- 📅 更新时间: 2025-07-05 08:12:34
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -323,12 +330,14 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 12.0/100
+- 😊 积极新闻: 2 (25.0%)
+- 😟 消极新闻: 2 (25.0%)
+- 🔥 平均热度: 10.6/100
 
 🏷️ **热门关键词**:
-- AI (6次)
+- AI (4次)
+- 神经网络 (1次)
+- DevOps (1次)
 - AR (1次)
 
 
