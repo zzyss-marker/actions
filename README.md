@@ -55,75 +55,75 @@
 
 MIT
 
-## 今日更新 (2025-07-07)
+## 今日更新 (2025-07-08)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- 😊 [选择合适的AI模型：解析Trae编辑器中的多款模型及其应用场景](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
-  Trae编辑器集成了多种先进的AI模型，包括Claude、Gemini、GPT和DeepSeek系列，以满足不同场景下的多样化需求。Claude系列模型如Claude-3.5-Sonnet和Claud...
-- 😊 [国产五大AI模型哪家强？DeepSeek、豆包、Kimi、智谱清言、通义千问深度解析！哪款大模型更适合你？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  比如搞学术研究，我们问专业领域的复杂问题，它可以快速翻找资料，整理出关键信息，条理清晰地解答，帮我们省下不少时间。采用以KVCache为中心的创新架构，分离预填充与解码集群，充分利用GPU资源，推理吞...
-- 😊 [AI 编码新王炸，Augment （SWE-bench 冠军）免费登场，专治复杂大项目，硬刚 Cursor？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  我们是实打实地构建了一个真正的上下文引擎，它深度理解企业级代码库，动态检索最相关的信息，喂给 LLM 最需要的东西，从而给出高质量、高相关的建议。更坑的是，模型选择器可能带来意外成本。跟 LeetCo...
-- 😊 [Java开发新变革！飞算JavaAI深度剖析与实战指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  飞算JavaAI重塑Java开发效率新标杆 摘要：飞算JavaAI作为全球首款Java智能开发助手，通过自然语言/语音输入、全流程自动化等技术革新，将开发效率提升10倍。其核心优势在于：1）完整工程源...
-- 😊 [AlphaGenome：基因组学领域的人工智能革命](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  AlphaGenome模型标志着基因组研究的重大突破，它通过创新的混合架构统一了长序列处理与高精度分析，首次实现对百万碱基序列的单碱基分辨率预测。该模型的多模态联合预测能力可同步输出11类调控模态信息...
+- 😊 [AIGC前沿：如何训练一个会角色扮演的AI大模型？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  随着AIGC（人工智能生成内容）技术的快速发展，具备角色扮演能力的AI大模型在虚拟助手、游戏娱乐、教育辅导等领域展现出巨大应用潜力。如何让AI理解并遵循特定角色的人设（性格、背景、语言风格）如何在多轮...
+- 😊 [Copilot for Xcode (iOS的 AI辅助编程)](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  摘要： 本文介绍了Copilot for Xcode的安装与使用体验。该工具能智能补全代码，提升开发效率，尤其在重复性代码编写中表现突出。安装需满足Xcode 14+和macOS 12+的要求，下载后...
+- 😐 [【利用Deepseek+即梦AI生成海报】](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  技能： 熟悉海报设计的构图、色彩搭配、字体风格等视觉要素。能够根据不同主题生成富有创意的提示语，涵盖风格、细节、灯光等描述。适配多种设计风格，如极简、高端、赛博朋克、国潮、手绘、复古等。输出格式: 完...
+- 😐 [Ai提示词不会写，看这一篇就够了！（附：套用模板）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  如果你已探索过豆包Ai、Kimi、智谱清言等生成式AI工具，那么你对“prompt”（提示词）这一核心概念一定有自己的认知和理解。这里所谓的提示词，其实就是人和AI交互时的输入，是连接你与AI创意源泉...
+- 😐 [FastAPI + Ollama AI提示词角色参数设定详细教程与示例](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  FastAPI + Ollama AI提示词角色参数设定详细教程与示例。
 
 
 ### 网络安全资讯
 
-- [微软提醒用户忽略 Windows 防火墙配置错误提示](https://www.anquanke.com/post/id/309447) - 安全公告，详情请点击链接查看完整内容
-- [Smart-LLaMA-DPO：用于可解释智能合约漏洞检测的强化大型语言模型](https://paper.seebug.org/3334/) - 作者：Lei Yu, Zhirong Huang, Hang Yuan, Shiqi Cheng等
-译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2506....
+- [当校园安全遇上智能体，重庆大学如何让攻击无处遁形？](https://www.anquanke.com/post/id/309492) - 安全公告，详情请点击链接查看完整内容
+- [CyberRAG: 一种基于智能代理的 RAG 网络攻击分类与报告工具](https://paper.seebug.org/3335/) - 作者：Francesco Blefari, Cristian Cosentino, Francesco Aurelio Pironti, Angelo Furfaro, Fabrizio Marozz...
 - [CoinMarketCap通过虚假的Web3弹出窗口短暂地窃取了加密钱包](https://www.4hou.com/posts/VWDW) - 最近，流行的加密货币价格跟踪网站CoinMarketCap遭受了网站供应链攻击，使网站访客暴露在钱包榨取活动下，以窃取访客的加密货币。1月，CoinMarketCap的访问者开始看到Web3弹出窗口，...
 
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
-- 😊 [业内首发「Data+AI 下一代数智平台建设指南」](https://cloud.tencent.com/developer/article/2537310) 🔥 热门
-  6月27日，TechoDay 腾讯云技术开放日活动中，腾讯云联合 Gartner 权威发布业内首个「Data+AI 下一代数智平台建设指南」，助力企业释放海量多模态数据价值、打破数据孤岛，构建高质量可...
-- 😐 [程序员核心竞争力：怎么做需求才能有成长？](https://cloud.tencent.com/developer/article/2537312) 📊 普通
-  在技术迭代与业务变革的快车道上，程序员如何跳出 “需求执行者” 的惯性？真正的成长藏在需求背后 —— 当代码开始理解业务逻辑，当技术方案能为商业目标造血，当需求对接成为驱动业务进化的支点，每一次踩坑都...
-- 😐 [还原未来战场的沟通张力，GME助力《解限机》打造真实沉浸的机战交流体验](https://cloud.tencent.com/developer/article/2537309) 📊 普通
-  十年磨一剑！7月2日，西山居倾力打造的科幻机甲对战游戏《解限机》正式开启全球公测，登陆PC、Steam、Xbox等多平台。自项目曝光以来，《解限机》便以其独特的XYZ三轴战斗系统、丰富的6V6团战玩法...
+- 😊 [预训练通往AGI之路已死？杨立昆揭示了LLM无法跨越的认知鸿沟](https://cloud.tencent.com/developer/article/2537770) 🔥 热门
+  多年来，人工智能领域的三巨头之一、Meta首席AI科学家杨立昆（Yann LeCun）一直对主流大型语言模型（LLM）背后技术路线持怀疑态度。
+- 😊 [MCP广场开源版权声明](https://cloud.tencent.com/developer/article/2537547) 🔥 热门
+  project is built on and with the aid of the following open source projects. Credits are given to the...
+- 😐 [设置元素样式](https://cloud.tencent.com/developer/article/2537767) 📊 普通
+  现代浏览器支持通过 JS 修改 CSS 变量（自定义属性），间接控制元素样式，适合需要​
 
 
 ### GitHub 趋势项目
 
-- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO alternative.
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
-- [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on non-NVIDIA GPUs
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
 
 
 
 ### AI 研究论文
 
-- [Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer
-  Memory](http://arxiv.org/abs/2507.02863v1) - Yuqi Wu, Wenzhao Zheng, Jie Zhou, Jiwen Lu
-  Dense 3D scene reconstruction from an ordered sequence or unordered image
-collections is a critical step when bringing research in computer vision int...
+- [Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions](http://arxiv.org/abs/2507.05257v1) - Yuanzhe Hu, Yu Wang, Julian McAuley
+  Recent benchmarks for Large Language Model (LLM) agents primarily focus on
+evaluating reasoning, planning, and execution capabilities, while another
+c...
 
-- [LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans](http://arxiv.org/abs/2507.02861v1) - Zhening Huang, Xiaoyang Wu, Fangcheng Zhong, Hengshuang Zhao, Matthias Nießner, Joan Lasenby
-  We propose LiteReality, a novel pipeline that converts RGB-D scans of indoor
-environments into compact, realistic, and interactive 3D virtual replicas...
+- [From Marginal to Joint Predictions: Evaluating Scene-Consistent
+  Trajectory Prediction Approaches for Automated Driving](http://arxiv.org/abs/2507.05254v1) - Fabian Konstantinidis, Ariel Dallari Guerreiro, Raphael Trumpp, Moritz Sackmann, Ulrich Hofmann, Marco Caccamo, Christoph Stiller
+  Accurate motion prediction of surrounding traffic participants is crucial for
+the safe and efficient operation of automated vehicles in dynamic enviro...
 
-- [Answer Matching Outperforms Multiple Choice for Language Model
-  Evaluation](http://arxiv.org/abs/2507.02856v1) - Nikhil Chandak, Shashwat Goel, Ameya Prabhu, Moritz Hardt, Jonas Geiping
-  Multiple choice benchmarks have long been the workhorse of language model
-evaluation because grading multiple choice is objective and easy to automate...
+- [Action Space Reduction Strategies for Reinforcement Learning in
+  Autonomous Driving](http://arxiv.org/abs/2507.05251v1) - Elahe Delavari, Feeza Khan Khanzada, Jaerock Kwon
+  Reinforcement Learning (RL) offers a promising framework for autonomous
+driving by enabling agents to learn control policies through interaction with
+...
 
 
 
@@ -147,25 +147,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $213.55 📈 +1.11 (+0.5%)
-- **GOOGL**: $179.53 📈 +0.89 (+0.5%)
-- **MSFT**: $498.84 📈 +7.75 (+1.6%)
+- **AAPL**: $209.95 📉 -3.60 (-1.7%)
+- **GOOGL**: $176.79 📉 -2.74 (-1.5%)
+- **MSFT**: $497.72 📉 -1.12 (-0.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+判断字符串中的括号是否有效匹配
 
-标签: 数组, 哈希表
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -176,14 +176,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《代码整洁之道》** - Robert C. Martin
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -193,14 +193,14 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
@@ -212,9 +212,9 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Ambient Coding** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -228,61 +228,62 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**遵循单一职责原则**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🛡️ 安全卫士
+今日挑战徽章：💡 创新者
 
-挑战ID: `2a6729` | 日期: 2025-07-07
+挑战ID: `4b8fe5` | 日期: 2025-07-08
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
@@ -297,14 +298,14 @@ git commit -m "Add user authentication feature"
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**全栈开发** (中级) 📊
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-真正的程序员不需要注释，代码就是最好的文档。
+程序员的口头禅：在我的机器上运行得很好！
 
 
 ### 🐙 GitHub 生态统计
@@ -318,7 +319,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-07 08:15:20
+- 📅 更新时间: 2025-07-08 08:14:52
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -329,15 +330,14 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
+- 😊 积极新闻: 4 (50.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 13.9/100
+- 🔥 平均热度: 15.1/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- GPT (1次)
+- AI (7次)
+- 人工智能 (2次)
 - AR (1次)
-- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
