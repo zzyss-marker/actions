@@ -55,75 +55,74 @@
 
 MIT
 
-## 今日更新 (2025-07-08)
+## 今日更新 (2025-07-09)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- 😊 [AIGC前沿：如何训练一个会角色扮演的AI大模型？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
-  随着AIGC（人工智能生成内容）技术的快速发展，具备角色扮演能力的AI大模型在虚拟助手、游戏娱乐、教育辅导等领域展现出巨大应用潜力。如何让AI理解并遵循特定角色的人设（性格、背景、语言风格）如何在多轮...
-- 😊 [Copilot for Xcode (iOS的 AI辅助编程)](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  摘要： 本文介绍了Copilot for Xcode的安装与使用体验。该工具能智能补全代码，提升开发效率，尤其在重复性代码编写中表现突出。安装需满足Xcode 14+和macOS 12+的要求，下载后...
-- 😐 [【利用Deepseek+即梦AI生成海报】](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  技能： 熟悉海报设计的构图、色彩搭配、字体风格等视觉要素。能够根据不同主题生成富有创意的提示语，涵盖风格、细节、灯光等描述。适配多种设计风格，如极简、高端、赛博朋克、国潮、手绘、复古等。输出格式: 完...
-- 😐 [Ai提示词不会写，看这一篇就够了！（附：套用模板）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  如果你已探索过豆包Ai、Kimi、智谱清言等生成式AI工具，那么你对“prompt”（提示词）这一核心概念一定有自己的认知和理解。这里所谓的提示词，其实就是人和AI交互时的输入，是连接你与AI创意源泉...
-- 😐 [FastAPI + Ollama AI提示词角色参数设定详细教程与示例](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  FastAPI + Ollama AI提示词角色参数设定详细教程与示例。
+- 😊 [Linux本地部署开源项目OpenHands基于AI的软件开发代理平台及公网访问](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  本篇文章介绍如何在 Linux 本地部署开源项目 OpenHands 基于人工智能的软件开发代理平台，并结合 cpolar 实现公网访问。OpenHands（此前称为 OpenDevin）是一个基于人...
+- 😊 [使用 Spring AI OpenAI Starter 快速集成指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  使用 Spring AI OpenAI Starter 快速集成指南 Spring AI 的 spring-ai-openai-spring-boot-starter 提供了与 OpenAI 模型（如...
+- 😊 [Sonic× 蓝耘：AI 界 “王炸” 组合，肖像动画 “炫技” 出圈！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  Sonic 作为前沿的音频驱动肖像动画生成框架，由腾讯和浙江大学联合开发，致力于革新肖像动画领域。蓝耘科技在云计算、数据处理等方面实力雄厚。二者携手聚焦全局音频感知，突破传统局限，解决长视频生成难题，...
+- 😊 [Suna 开源 AI Agent 安装配置过程全解析（输出与交互详解）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  温馨提示：本次笔记记录的比较详尽，请结合目录查看，谢谢！ 代码输出对照： 1、系统版本： 说明：Windows 10 预览版（Build 27871），需确保 Docker Desktop 启用 WS...
+- 😐 [零基础2分钟掌握！AI一键生成ECharts折线/柱状图/饼图/雷达图等等图表实战指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  零基础2分钟掌握！AI一键生成ECharts折线/柱状图/饼图/雷达图等等图表实战指南
 
 
 ### 网络安全资讯
 
-- [当校园安全遇上智能体，重庆大学如何让攻击无处遁形？](https://www.anquanke.com/post/id/309492) - 安全公告，详情请点击链接查看完整内容
-- [CyberRAG: 一种基于智能代理的 RAG 网络攻击分类与报告工具](https://paper.seebug.org/3335/) - 作者：Francesco Blefari, Cristian Cosentino, Francesco Aurelio Pironti, Angelo Furfaro, Fabrizio Marozz...
-- [CoinMarketCap通过虚假的Web3弹出窗口短暂地窃取了加密钱包](https://www.4hou.com/posts/VWDW) - 最近，流行的加密货币价格跟踪网站CoinMarketCap遭受了网站供应链攻击，使网站访客暴露在钱包榨取活动下，以窃取访客的加密货币。1月，CoinMarketCap的访问者开始看到Web3弹出窗口，...
+- [Linux启动漏洞可绕过Secure Boot：攻击者仅需物理接触即可植入持久木马](https://www.anquanke.com/post/id/309592) - 安全公告，详情请点击链接查看完整内容
+- [MGC：利用对齐的大型语言模型中的组合性盲点进行恶意软件生成的编译器框架](https://paper.seebug.org/3336/) - 作者：Lu Yan, Zhuo Zhang, Xiangzhe Xu, Shengwei An, Guangyu Shen, Zhou Xuan, Xuan Chen, Xiangyu Zhang
+译...
+- [性能提升200%！第六代计算机取证塔全新亮相，一站式破解实验室取证难题](https://www.4hou.com/posts/l0l5) - 在执法人员办案过程中，面对大量的计算机硬盘、移动硬盘，如何实现高效取证，快速发现涉案线索？2025年6月18日，国投智能第二季度产品发布会顺利举办，“可能是最快的”介质取证装备正式揭开神秘面纱——第六...
 
 
 ### 技术就业趋势
 
-具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- 😊 [预训练通往AGI之路已死？杨立昆揭示了LLM无法跨越的认知鸿沟](https://cloud.tencent.com/developer/article/2537770) 🔥 热门
-  多年来，人工智能领域的三巨头之一、Meta首席AI科学家杨立昆（Yann LeCun）一直对主流大型语言模型（LLM）背后技术路线持怀疑态度。
-- 😊 [MCP广场开源版权声明](https://cloud.tencent.com/developer/article/2537547) 🔥 热门
-  project is built on and with the aid of the following open source projects. Credits are given to the...
-- 😐 [设置元素样式](https://cloud.tencent.com/developer/article/2537767) 📊 普通
-  现代浏览器支持通过 JS 修改 CSS 变量（自定义属性），间接控制元素样式，适合需要​
+- 😟 [AI 时代：它正在改变搜索，但远未取代搜索](https://cloud.tencent.com/developer/article/2537795) 🔥🔥 很热
+  现在真的太依赖于AI助手去回答问题了。AI助手如 ChatGPT、DeepSeek 等确实正在 改变人们的信息获取方式，但还远没有全面取代传统搜索引擎。
+- 😐 [【0代码革命】我用「CloudBase AI ToolKit」一天做出“网络热词”小程序](https://cloud.tencent.com/developer/article/2537907) 📈 关注
+  咱这次就拿CodeBuddy助手来搞小程序开发，再配上「CloudBase AI ToolKit」一起用。这个CodeBuddy助手啊，就是个AI编程小帮手，能从头到尾帮你搞定软件开发。至于「Clou...
+- 😐 [大模型多模态统一架构全景](https://cloud.tencent.com/developer/article/2537869) 📊 普通
+  目前大模型在处理多模态的时候，都统一化成了 token 的形式进行处理。我们首先先来看看目前常规主流的大模型是怎么统一多模态的
 
 
 ### GitHub 趋势项目
 
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO alternative.
-- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+- [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 
 
 
 
 ### AI 研究论文
 
-- [Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions](http://arxiv.org/abs/2507.05257v1) - Yuanzhe Hu, Yu Wang, Julian McAuley
-  Recent benchmarks for Large Language Model (LLM) agents primarily focus on
-evaluating reasoning, planning, and execution capabilities, while another
-c...
-
-- [From Marginal to Joint Predictions: Evaluating Scene-Consistent
-  Trajectory Prediction Approaches for Automated Driving](http://arxiv.org/abs/2507.05254v1) - Fabian Konstantinidis, Ariel Dallari Guerreiro, Raphael Trumpp, Moritz Sackmann, Ulrich Hofmann, Marco Caccamo, Christoph Stiller
-  Accurate motion prediction of surrounding traffic participants is crucial for
-the safe and efficient operation of automated vehicles in dynamic enviro...
-
-- [Action Space Reduction Strategies for Reinforcement Learning in
-  Autonomous Driving](http://arxiv.org/abs/2507.05251v1) - Elahe Delavari, Feeza Khan Khanzada, Jaerock Kwon
-  Reinforcement Learning (RL) offers a promising framework for autonomous
-driving by enabling agents to learn control policies through interaction with
+- [Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving](http://arxiv.org/abs/2507.06229v1) - Xiangru Tang, Tianrui Qin, Tianhao Peng, Ziyang Zhou, Daniel Shao, Tingting Du, Xinming Wei, Peng Xia, Fang Wu, He Zhu, Ge Zhang, Jiaheng Liu, Xingyao Wang, Sirui Hong, Chenglin Wu, Hao Cheng, Chi Wang, Wangchunshu Zhou
+  As language agents tackle increasingly complex tasks, they struggle with
+effective error correction and experience reuse across domains. We introduce
 ...
+
+- [EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled
+  Videos via Embodiment-Centric Flow](http://arxiv.org/abs/2507.06224v1) - Yixiang Chen, Peiyan Li, Yan Huang, Jiabing Yang, Kehan Chen, Liang Wang
+  Current language-guided robotic manipulation systems often require low-level
+action-labeled datasets for imitation learning. While object-centric flow...
+
+- [Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers](http://arxiv.org/abs/2507.06223v1) - Zhiyuan Peng, Ting-ruen Wei, Tingyu Song, Yilun Zhao, Yi Fang
+  Large Language Models (LLMs) have recently been applied to reranking tasks in
+information retrieval, achieving strong performance. However, their high...
 
 
 
@@ -147,16 +146,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $209.95 📉 -3.60 (-1.7%)
-- **GOOGL**: $176.79 📉 -2.74 (-1.5%)
-- **MSFT**: $497.72 📉 -1.12 (-0.2%)
+- **AAPL**: $210.01 📈 +0.06 (+0.0%)
+- **GOOGL**: $174.36 📉 -2.43 (-1.4%)
+- **MSFT**: $496.62 📉 -1.10 (-0.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
@@ -176,7 +175,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 
 ### 📚 技术书籍推荐
@@ -194,27 +193,27 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 ### 🚀 创业公司动态
 
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Synthwave Mix** - Various Artists
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -228,26 +227,27 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**使用有意义的变量名**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
@@ -260,52 +260,52 @@ function formatCurrency(amount) { ... }
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `4b8fe5` | 日期: 2025-07-08
+挑战ID: `9a2995` | 日期: 2025-07-09
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-使用Rust构建跨平台桌面应用
+现代Web应用框架
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**云架构师** (高级) 🚀
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -319,7 +319,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-08 08:14:52
+- 📅 更新时间: 2025-07-09 08:13:55
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -331,13 +331,15 @@ function formatCurrency(amount) { ... }
 
 - 📰 新闻总数: 8
 - 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 15.1/100
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 25.8/100
 
 🏷️ **热门关键词**:
 - AI (7次)
-- 人工智能 (2次)
-- AR (1次)
+- AR (3次)
+- 人工智能 (1次)
+- OpenAI (1次)
+- ChatGPT (1次)
 
 
 ### 🤖 关于此项目
