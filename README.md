@@ -55,75 +55,76 @@
 
 MIT
 
-## 今日更新 (2025-07-10)
+## 今日更新 (2025-07-11)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😊 [AI神器DeepSeek免费帮你画CAD图，小白秒变大神，还免费下载！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
-  随着人工智能（AI）技术的飞速发展，其在各个领域的应用日益广泛，尤其是在设计和工程领域。计算机辅助设计（CAD）作为现代工程设计的重要工具，正逐渐与AI技术深度融合，开启了智能设计的新篇章。AI绘制C...
-- 😊 [一站式开源AI平台Cherry Studio本地部署与远程调用本地大模型](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  本文主要介绍如何在 Windows 系统电脑本地安装开源 AI 客户端 Cherry Studio，并结合 cpolar 内网穿透工具轻松实现随时随地远程调用本地部署的各种 AI 大语言模型，无需公网...
-- 😊 [AI生成代码不可用？飞算JavaAI用全流程智能引导重塑Java开发范式](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  三大颠覆性价值：💥 专治“祖传项目”：语义分析+智能合并 → 告别“屎山恐惧症”🛡️ 代码安全双保险：本地处理+规则引擎 → 企业级安心🚀 十倍提效流水线：从需求到上线，周期压缩70%开发者新哲学：“...
-- 😐 [【Cursor实战】AI 赋能 Chrome 插件开发：从零打造豆包图片去水印插件](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  Cursor作为VS Code衍生编辑器，核心优势在于实时双向交互与上下文深度理解：支持自然语言指令生成代码、动态调试建议及跨文件逻辑关联，大幅降低复杂功能的实现门槛。本文聚焦基于Cursor编辑器，...
-- 😐 [Ai大模型学习第一课：增量微调中的适配器微调（Adapter）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  增量微调（Incremental Fine-tuning）是一种针对预训练模型的持续学习技术，旨在通过逐步调整模型参数，使其在保留原有知识的同时适应新任务或新数据。与传统微调相比，增量微调分阶段调整参...
+- 😊 [深度学习可解释性-SHAP值解密：博弈论如何赋予AI可解释性灵魂？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥🔥 超热
+  SHAP（SHapley Additive exPlanations）是一种基于博弈论的可解释人工智能方法，它将机器学习模型的每个预测都视为一场"特征博弈"，精确量化每个特征对预测结果的贡献。想象一个...
+- 😊 [50道AI面试题](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  解题思路过拟合：模型在训练集表现好，测试集差（过度记忆噪声）。欠拟合：模型在训练集和测试集均表现差（未捕获数据规律）。防止过拟合：正则化（L1/L2）、交叉验证、Dropout（深度学习）、数据增强、...
+- 😐 [AI大模型探索之路-训练篇25：ChatGLM3微调实战-基于LLaMA-Factory微调改造企业级知识库](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  在当前信息技术迅猛发展的时代，知识库的构建与应用已成为企业竞争的关键。随着自然语言处理技术的不断进步，基于微调的企业级知识库改造落地方案受到越来越多的关注。在前面的系列篇章中我们分别实践了基于CVP架...
+- 😐 [AI图文带货，手把手教学，傻瓜操作，轻松日入500+，小白教程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  通过自媒体的力量，帮助普通人成为企业家。建立自己的财富事业，用你的影响力帮助更多的人。从而实现你更加自由的生活方式。
+- 😐 [IDA Pro+MCP+DeepSeek逆向小实战:构建AI逆向分析工作流](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  本文通过IDA Pro+MCP+DeepSeek构建AI逆向分析工作流，并有逆向小实战的实操
 
 
 ### 网络安全资讯
 
-- [某电动汽车充电控制器曝严重漏洞，可被远程控制](https://www.anquanke.com/post/id/309651) - 安全公告，详情请点击链接查看完整内容
+- [Wing FTP Server危险远程代码执行漏洞（CVE-2025-47812）正被积极利用](https://www.anquanke.com/post/id/309891) - 安全公告，详情请点击链接查看完整内容
 - [MGC：利用对齐的大型语言模型中的组合性盲点进行恶意软件生成的编译器框架](https://paper.seebug.org/3336/) - 作者：Lu Yan, Zhuo Zhang, Xiangzhe Xu, Shengwei An, Guangyu Shen, Zhou Xuan, Xuan Chen, Xiangyu Zhang
 译...
-- [技术缺失的影视剧，正在悄然改变央妈的形象努力](https://www.4hou.com/posts/wxzR) - 篇首语：最近全国各地都纷纷推进国家安全与保密教育，从电视新闻到各大媒体短视频，都在教授人们如何识别各类密拍密录器材，防范各种各样的非法窃听窃密行为。在央妈带头的安全保密科普下，一些以前很少公之于众的窃...
+- [《2025年Q2移动应用安全风险报告》披露，超七成APP涉隐私违规，违规收集、超范围收集、强制推送仍为重灾区](https://www.4hou.com/posts/ArzO) - 梆梆安全发布《2025年Q2移动应用安全风险报告》。本报告基于梆梆安全移动应用监管平台在2025年第二季度的威胁监测数据与深度安全分析成果，系统梳理当前国内移动应用面临的新型攻击技术演进与安全趋势变化...
 
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
-- 😐 [一个案例演示什么是RAG+Prompt工程](https://cloud.tencent.com/developer/article/2538278) 📈 关注
-  本文将通过一个"算命大师"的案例，演示如何利用RAG技术和精心设计的Prompt来创建一个既有趣又实用的AI应用。
-- 😊 [基于多Agents大语言模型的金融交易框架](https://cloud.tencent.com/developer/article/2538296) 📊 普通
-  最近在github上发现了一个比较有趣的项目，是一个Agent的金融交易开源项目。
-- 😐 [CNB上极致简化当地离线代码分析](https://cloud.tencent.com/developer/article/2538361) 📊 普通
-  官网地址：（点击最下方【阅读原文】可直达）https://tca.tencent.com/
+- 😐 [解锁Python高并发：asyncio核心机制与实战应用精讲](https://cloud.tencent.com/developer/article/2538355) 📈 关注
+  上面的示例代码通用 asyncio.run 库函数来运行一个异步任务函数，通用await关键字获取异步函数运行后的结果。
+- 😐 [中国广告法的数字转型之思：从“全链条管制”到“分类治理”](https://cloud.tencent.com/developer/article/2538358) 📊 普通
+  引言：
+本文是新《中华人民共和国广告法》实施十周年系列文章的第一篇。十年来，中国广告业在法治保障下实现了规模与质量的双重跃升，逐步构建起健康有序的市场生态。市场监管总局针对互联网广告、医疗美容、明星代...
+- 😊 [微信更新！聊天记录终于有救了](https://cloud.tencent.com/developer/article/2538356) 📊 普通
+  优化后，你可以将手机聊天记录备份至外部存储设备，如U盘、移动硬盘、电脑等，释放手机空间。
 
 
 ### GitHub 趋势项目
 
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO alternative.
-- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
-- [putyy/res-downloader](https://github.com/putyy/res-downloader) - 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+- [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
+- [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer
+- [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
 
 
 
 
 ### AI 研究论文
 
-- [An AI Approach for Learning the Spectrum of the Laplace-Beltrami
-  Operator](http://arxiv.org/abs/2507.07073v1) - Yulin An, Enrique del Castillo
-  The spectrum of the Laplace-Beltrami (LB) operator is central in geometric
-deep learning tasks, capturing intrinsic properties of the shape of the obj...
+- [Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and
+  Methodology](http://arxiv.org/abs/2507.07999v1) - Haochen Wang, Xiangtai Li, Zilong Huang, Anran Wang, Jiacong Wang, Tao Zhang, Jiani Zheng, Sule Bai, Zijian Kang, Jiashi Feng, Zhuochen Wang, Zhaoxiang Zhang
+  Models like OpenAI-o3 pioneer visual grounded reasoning by dynamically
+referencing visual regions, just like human "thinking with images". However, no...
 
-- [A Novel Hybrid Deep Learning Technique for Speech Emotion Detection
-  using Feature Engineering](http://arxiv.org/abs/2507.07046v1) - Shahana Yasmin Chowdhury, Bithi Banik, Md Tamjidul Hoque, Shreya Banerjee
-  Nowadays, speech emotion recognition (SER) plays a vital role in the field of
-human-computer interaction (HCI) and the evolution of artificial intelli...
+- [PyVision: Agentic Vision with Dynamic Tooling](http://arxiv.org/abs/2507.07998v1) - Shitian Zhao, Haoquan Zhang, Shaoheng Lin, Ming Li, Qilong Wu, Kaipeng Zhang, Chen Wei
+  LLMs are increasingly deployed as agents, systems capable of planning,
+reasoning, and dynamically calling external tools. However, in visual
+reasoning...
 
-- [Surrogate Model for Heat Transfer Prediction in Impinging Jet Arrays
-  using Dynamic Inlet/Outlet and Flow Rate Control](http://arxiv.org/abs/2507.07034v1) - Mikael Vaillant, Victor Oliveira Ferreira, Wiebke Mainville, Jean-Michel Lamarre, Vincent Raymond, Moncef Chioua, Bruno Blais
-  This study presents a surrogate model designed to predict the Nusselt number
-distribution in an enclosed impinging jet arrays, where each jet function...
+- [Single-pass Adaptive Image Tokenization for Minimum Program Search](http://arxiv.org/abs/2507.07995v1) - Shivam Duggal, Sanghyun Byun, William T. Freeman, Antonio Torralba, Phillip Isola
+  According to Algorithmic Information Theory (AIT) -- Intelligent
+representations compress data into the shortest possible program that can
+reconstruct...
 
 
 
@@ -147,25 +148,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $211.14 📈 +1.13 (+0.5%)
-- **GOOGL**: $176.62 📈 +2.26 (+1.3%)
-- **MSFT**: $503.51 📈 +6.89 (+1.4%)
+- **AAPL**: $212.41 📈 +1.27 (+0.6%)
+- **GOOGL**: $177.62 📈 +1.00 (+0.6%)
+- **MSFT**: $501.48 📉 -2.03 (-0.4%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-判断字符串中的括号是否有效匹配
+给定字符串，找出其中最长的回文子串
 
-标签: 栈, 字符串
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -176,14 +177,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《深度学习》** - Ian Goodfellow
 
-容器编排平台的完整指南 (分类: 云原生)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -194,27 +195,27 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 ### 🚀 创业公司动态
 
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Synthwave Mix** - Various Artists
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -240,13 +241,15 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**写测试用例**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
@@ -259,20 +262,20 @@ git commit -m "Add user authentication feature"
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🥷 代码忍者
+今日挑战徽章：💡 创新者
 
-挑战ID: `362717` | 日期: 2025-07-10
+挑战ID: `ff89de` | 日期: 2025-07-11
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
@@ -280,9 +283,9 @@ git commit -m "Add user authentication feature"
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
@@ -297,14 +300,14 @@ git commit -m "Add user authentication feature"
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**AI工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
 
-世界上有10种人：懂二进制的和不懂二进制的。
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -318,7 +321,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-10 08:14:25
+- 📅 更新时间: 2025-07-11 08:14:04
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -329,14 +332,15 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
+- 😊 积极新闻: 3 (37.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 13.6/100
+- 🔥 平均热度: 15.6/100
 
 🏷️ **热门关键词**:
 - AI (6次)
+- 深度学习 (2次)
 - 人工智能 (1次)
-- AR (1次)
+- 机器学习 (1次)
 
 
 ### 🤖 关于此项目
