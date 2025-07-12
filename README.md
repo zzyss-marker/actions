@@ -55,32 +55,33 @@
 
 MIT
 
-## 今日更新 (2025-07-11)
+## 今日更新 (2025-07-12)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- 😊 [深度学习可解释性-SHAP值解密：博弈论如何赋予AI可解释性灵魂？](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥🔥 超热
-  SHAP（SHapley Additive exPlanations）是一种基于博弈论的可解释人工智能方法，它将机器学习模型的每个预测都视为一场"特征博弈"，精确量化每个特征对预测结果的贡献。想象一个...
-- 😊 [50道AI面试题](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  解题思路过拟合：模型在训练集表现好，测试集差（过度记忆噪声）。欠拟合：模型在训练集和测试集均表现差（未捕获数据规律）。防止过拟合：正则化（L1/L2）、交叉验证、Dropout（深度学习）、数据增强、...
-- 😐 [AI大模型探索之路-训练篇25：ChatGLM3微调实战-基于LLaMA-Factory微调改造企业级知识库](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  在当前信息技术迅猛发展的时代，知识库的构建与应用已成为企业竞争的关键。随着自然语言处理技术的不断进步，基于微调的企业级知识库改造落地方案受到越来越多的关注。在前面的系列篇章中我们分别实践了基于CVP架...
-- 😐 [AI图文带货，手把手教学，傻瓜操作，轻松日入500+，小白教程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  通过自媒体的力量，帮助普通人成为企业家。建立自己的财富事业，用你的影响力帮助更多的人。从而实现你更加自由的生活方式。
-- 😐 [IDA Pro+MCP+DeepSeek逆向小实战:构建AI逆向分析工作流](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  本文通过IDA Pro+MCP+DeepSeek构建AI逆向分析工作流，并有逆向小实战的实操
+- 😐 [【结肠息肉AI论文集】Polyper:BoundarySensitivePolypSegmentation](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  我们提出了一种新的针对息肉分割的边界敏感框架，名为Polyper。我们的方法受到一种临床方法的启发，经验丰富的医学从业者常常利用息肉内部区域的固有特征来处理模糊的边界。受此启发，我们提出明确利用息肉区...
+- 😊 [飞算JavaAI：精准切中开发者痛点，专治“AI生成代码不可用、逻辑混乱”的顽疾](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  飞算JavaAI精准切中开发者痛点，专治“AI生成代码不可用、逻辑混乱”的顽疾。它通过高可靠性的需求理解与代码生成，极大降低调试成本与心智负担，让开发者告别面对“不靠谱AI”的挫败感。高效生成可直接集...
+- 😊 [飞算 JavaAI：我的编程强力助推引擎](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  飞算JavaAI：Java开发的智能革命 摘要：飞算JavaAI（CalEx-JavaAI）作为专为Java开发者打造的智能助手，显著提升了开发效率。它深度整合Spring Boot、MyBatis等...
+- 😐 [【AI大模型】ELMo模型介绍：深度理解语言模型的嵌入艺术](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  ELMo是2018年3月由华盛顿大学提出的一种预训练模型.ELMo的全称是Embeddings from Language Models.ELMo模型的提出源于论文。
+- 😊 [AI智能体｜扣子（Coze）搭建工作流入门教程，看完这篇你也可以！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  简单来说，就是把大模型，插件，工具等连接在一起让它们帮你自动完成多个步骤的任务。
 
 
 ### 网络安全资讯
 
-- [Wing FTP Server危险远程代码执行漏洞（CVE-2025-47812）正被积极利用](https://www.anquanke.com/post/id/309891) - 安全公告，详情请点击链接查看完整内容
 - [MGC：利用对齐的大型语言模型中的组合性盲点进行恶意软件生成的编译器框架](https://paper.seebug.org/3336/) - 作者：Lu Yan, Zhuo Zhang, Xiangzhe Xu, Shengwei An, Guangyu Shen, Zhou Xuan, Xuan Chen, Xiangyu Zhang
 译...
 - [《2025年Q2移动应用安全风险报告》披露，超七成APP涉隐私违规，违规收集、超范围收集、强制推送仍为重灾区](https://www.4hou.com/posts/ArzO) - 梆梆安全发布《2025年Q2移动应用安全风险报告》。本报告基于梆梆安全移动应用监管平台在2025年第二季度的威胁监测数据与深度安全分析成果，系统梳理当前国内移动应用面临的新型攻击技术演进与安全趋势变化...
+- [DeepSeek-671B纯CPU部署经验分享(一)](https://xlab.tencent.com/cn/2025/03/16/DeepSeek-671B%E7%BA%AFCPU%E9%83%A8%E7%BD%B2%E5%AE%9E%E8%B7%B5%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB(%E4%B8%80)/) - 
+私有化部署大模型能够有效保护数据隐私、便于开展大模型安全研究和知识蒸馏。目前主流部署方式包括纯 GPU、CPU/GPU 混合以及纯 CPU 三种部署方式。本文介绍了我们针对 DeepSeek 大模型...
 
 
 ### 技术就业趋势
@@ -89,22 +90,21 @@ MIT
 
 ### 科技热点
 
-- 😐 [解锁Python高并发：asyncio核心机制与实战应用精讲](https://cloud.tencent.com/developer/article/2538355) 📈 关注
-  上面的示例代码通用 asyncio.run 库函数来运行一个异步任务函数，通用await关键字获取异步函数运行后的结果。
-- 😐 [中国广告法的数字转型之思：从“全链条管制”到“分类治理”](https://cloud.tencent.com/developer/article/2538358) 📊 普通
-  引言：
-本文是新《中华人民共和国广告法》实施十周年系列文章的第一篇。十年来，中国广告业在法治保障下实现了规模与质量的双重跃升，逐步构建起健康有序的市场生态。市场监管总局针对互联网广告、医疗美容、明星代...
-- 😊 [微信更新！聊天记录终于有救了](https://cloud.tencent.com/developer/article/2538356) 📊 普通
-  优化后，你可以将手机聊天记录备份至外部存储设备，如U盘、移动硬盘、电脑等，释放手机空间。
+- 😊 [15年首次，腾讯「生肖鹅公仔」开放AI共创](https://cloud.tencent.com/developer/article/2539059) 📈 关注
+  原定于2026年发布的「马年」生肖企鹅，本应如往年一样，由鹅厂设计师手搓上线。然而，它至今仍未「现身」，处于「待定义形态」。
+- 😐 [Linux流量分析：tcpdump&amp;wireshark](https://cloud.tencent.com/developer/article/2539253) 📈 关注
+  最近因为工作需要，研究了下如何使用tcpdump和wireshark分析业务流量。如果要使用tcpdump分析具体的HTTP请求耗时，需捕获网络数据包并分析时间戳信息，重点关注TCP连接的建立、HTT...
+- 😐 [如何设计一个支付系统：核心交易系统架构丨架构师系列文集](https://cloud.tencent.com/developer/article/2539090) 📊 普通
+  在上一篇文章如何设计一个支付系统丨架构师系列文集中，我们主要讲解了支付系统的设计全貌，为了帮助大家进一步深入理解支付系统的设计细节，腾讯云开发者社区联合原作者产出系列深度文章。本文将主要介绍支付系统在...
 
 
 ### GitHub 趋势项目
 
-- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
-- [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [LMCache/LMCache](https://github.com/LMCache/LMCache) - Supercharge Your LLM with the Fastest KV Cache Layer
-- [forthespada/CS-Books](https://github.com/forthespada/CS-Books) - 🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
+- [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
+- [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
 
 
 
@@ -148,25 +148,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $212.41 📈 +1.27 (+0.6%)
-- **GOOGL**: $177.62 📈 +1.00 (+0.6%)
-- **MSFT**: $501.48 📉 -2.03 (-0.4%)
+- **AAPL**: $211.16 📉 -1.25 (-0.6%)
+- **GOOGL**: $180.19 📈 +2.57 (+1.4%)
+- **MSFT**: $503.32 📈 +1.84 (+0.4%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**有效的括号** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+判断字符串中的括号是否有效匹配
 
-标签: 字符串, 动态规划
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -177,14 +177,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《Python编程：从入门到实践》** - Eric Matthes
 
-深度学习领域的权威教材 (分类: 人工智能)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -194,21 +194,21 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
@@ -241,15 +241,14 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**遵循单一职责原则**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
@@ -262,20 +261,20 @@ test('should calculate tax correctly', () => {
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `ff89de` | 日期: 2025-07-11
+挑战ID: `ce4501` | 日期: 2025-07-12
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
@@ -283,31 +282,31 @@ test('should calculate tax correctly', () => {
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-使用Rust构建跨平台桌面应用
+现代Web应用框架
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**安全工程师** (中级) 📈
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+世界上有10种人：懂二进制的和不懂二进制的。
 
 
 ### 🐙 GitHub 生态统计
@@ -321,7 +320,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-11 08:14:04
+- 📅 更新时间: 2025-07-12 08:12:39
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -332,15 +331,13 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
+- 😊 积极新闻: 4 (50.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 15.6/100
+- 🔥 平均热度: 11.4/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- 深度学习 (2次)
-- 人工智能 (1次)
-- 机器学习 (1次)
+- AR (2次)
 
 
 ### 🤖 关于此项目
