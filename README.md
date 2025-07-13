@@ -55,33 +55,32 @@
 
 MIT
 
-## 今日更新 (2025-07-12)
+## 今日更新 (2025-07-13)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- 😐 [【结肠息肉AI论文集】Polyper:BoundarySensitivePolypSegmentation](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
-  我们提出了一种新的针对息肉分割的边界敏感框架，名为Polyper。我们的方法受到一种临床方法的启发，经验丰富的医学从业者常常利用息肉内部区域的固有特征来处理模糊的边界。受此启发，我们提出明确利用息肉区...
-- 😊 [飞算JavaAI：精准切中开发者痛点，专治“AI生成代码不可用、逻辑混乱”的顽疾](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  飞算JavaAI精准切中开发者痛点，专治“AI生成代码不可用、逻辑混乱”的顽疾。它通过高可靠性的需求理解与代码生成，极大降低调试成本与心智负担，让开发者告别面对“不靠谱AI”的挫败感。高效生成可直接集...
-- 😊 [飞算 JavaAI：我的编程强力助推引擎](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  飞算JavaAI：Java开发的智能革命 摘要：飞算JavaAI（CalEx-JavaAI）作为专为Java开发者打造的智能助手，显著提升了开发效率。它深度整合Spring Boot、MyBatis等...
-- 😐 [【AI大模型】ELMo模型介绍：深度理解语言模型的嵌入艺术](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  ELMo是2018年3月由华盛顿大学提出的一种预训练模型.ELMo的全称是Embeddings from Language Models.ELMo模型的提出源于论文。
-- 😊 [AI智能体｜扣子（Coze）搭建工作流入门教程，看完这篇你也可以！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  简单来说，就是把大模型，插件，工具等连接在一起让它们帮你自动完成多个步骤的任务。
+- 😊 [大模型之Spring AI实战系列（三十二）：Spring Boot + DeepSeek 实战指南：工具函数（Function Call）实战应用](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  随着人工智能技术的飞速发展，大模型在各个领域的应用日益广泛，为开发者带来了前所未有的机遇和挑战。在众多的框架和平台中，Spring Boot以其简洁、高效的特点，成为了构建企业级应用的首选之一。而De...
+- 😊 [驭码CodeRider 2.0 产品体验：AI重塑研发协作的智能变革](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  选择体验这款产品的初衷源于几个方面：首先，作为GitLab的重度使用者，我对极狐GitLab在DevOps领域的技术积淀有着足够的信任；其次，CodeRider 2.0声称能够解决"开发协作流程复杂、...
+- 😊 [Spring AI + MySQL MCP：用聊天方式智能查询数据，让开发效率飞起！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  本文介绍了如何利用Spring AI和MySQL MCP实现自然语言查询数据库的开发方案。MySQL MCP作为连接大语言模型与MySQL的桥梁，可将自然语言自动转换为SQL语句执行，降低开发门槛，提...
+- 😊 [基于本地LLM（大语言模型）与MCP架构构建AI智能体全指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  摘要（150字） 本文详细介绍了基于本地LLM（如Ollama）与MCP协议构建AI智能体的全流程。内容涵盖环境搭建、模型部署、MCP服务器开发及智能体集成，强调隐私安全与灵活扩展性。通过实操示例（如...
+- 😊 [体验免费开箱即用的AI工具：Blackbox.AI](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  体验免费开箱即用的AI工具：Blackbox.AI
 
 
 ### 网络安全资讯
 
+- [Wing FTP Server危险远程代码执行漏洞（CVE-2025-47812）正被积极利用](https://www.anquanke.com/post/id/309891) - 安全公告，详情请点击链接查看完整内容
 - [MGC：利用对齐的大型语言模型中的组合性盲点进行恶意软件生成的编译器框架](https://paper.seebug.org/3336/) - 作者：Lu Yan, Zhuo Zhang, Xiangzhe Xu, Shengwei An, Guangyu Shen, Zhou Xuan, Xuan Chen, Xiangyu Zhang
 译...
 - [《2025年Q2移动应用安全风险报告》披露，超七成APP涉隐私违规，违规收集、超范围收集、强制推送仍为重灾区](https://www.4hou.com/posts/ArzO) - 梆梆安全发布《2025年Q2移动应用安全风险报告》。本报告基于梆梆安全移动应用监管平台在2025年第二季度的威胁监测数据与深度安全分析成果，系统梳理当前国内移动应用面临的新型攻击技术演进与安全趋势变化...
-- [DeepSeek-671B纯CPU部署经验分享(一)](https://xlab.tencent.com/cn/2025/03/16/DeepSeek-671B%E7%BA%AFCPU%E9%83%A8%E7%BD%B2%E5%AE%9E%E8%B7%B5%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB(%E4%B8%80)/) - 
-私有化部署大模型能够有效保护数据隐私、便于开展大模型安全研究和知识蒸馏。目前主流部署方式包括纯 GPU、CPU/GPU 混合以及纯 CPU 三种部署方式。本文介绍了我们针对 DeepSeek 大模型...
 
 
 ### 技术就业趋势
@@ -90,21 +89,21 @@ MIT
 
 ### 科技热点
 
-- 😊 [15年首次，腾讯「生肖鹅公仔」开放AI共创](https://cloud.tencent.com/developer/article/2539059) 📈 关注
-  原定于2026年发布的「马年」生肖企鹅，本应如往年一样，由鹅厂设计师手搓上线。然而，它至今仍未「现身」，处于「待定义形态」。
-- 😐 [Linux流量分析：tcpdump&amp;wireshark](https://cloud.tencent.com/developer/article/2539253) 📈 关注
-  最近因为工作需要，研究了下如何使用tcpdump和wireshark分析业务流量。如果要使用tcpdump分析具体的HTTP请求耗时，需捕获网络数据包并分析时间戳信息，重点关注TCP连接的建立、HTT...
-- 😐 [如何设计一个支付系统：核心交易系统架构丨架构师系列文集](https://cloud.tencent.com/developer/article/2539090) 📊 普通
-  在上一篇文章如何设计一个支付系统丨架构师系列文集中，我们主要讲解了支付系统的设计全貌，为了帮助大家进一步深入理解支付系统的设计细节，腾讯云开发者社区联合原作者产出系列深度文章。本文将主要介绍支付系统在...
+- 😐 [客户端请求服务端用什么限流算法好-思路分析分享](https://cloud.tencent.com/developer/article/2539314) 📊 普通
+  令牌桶算法维护一个容量固定的"令牌桶"，系统以恒定速率（如每秒100个）向桶中添加令牌。每个请求需要获取一个令牌才能被放行，当桶中令牌耗尽时，新请求将被拒绝或排队等待。
+- 😐 [算法破茧｜腾讯研究院三万字报告](https://cloud.tencent.com/developer/article/2539329) 📊 普通
+  去年冬天，我去拜访一家咨询机构时，曾经问其中的一位分析师如何收集资讯的，他们说早年还会购买一些简报产品，后来当主流新闻资讯app都用上算法推荐之后，他们就开始尝试不断用主动搜索的方式，调教出了一套推荐...
+- 😊 [智能交易新纪元：TradingAgents多智能体LLM金融交易框架深度解读](https://cloud.tencent.com/developer/article/2539366) 📊 普通
+  最近一直在看金融相关的技术文章，发现一个基于大模型Agent的代码开源了，如是来拜读一下。这篇论文叫做《TradingAgents: Multi-Agents LLM Financial Tradin...
 
 
 ### GitHub 趋势项目
 
-- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
-- [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop) - WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
 - [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
+- [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 
 
 
@@ -155,18 +154,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-判断字符串中的括号是否有效匹配
+给定字符串，找出其中最长的回文子串
 
-标签: 栈, 字符串
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -177,14 +176,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-世界上第一个域名是symbolics.com，注册于1985年3月15日
+JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《代码整洁之道》** - Robert C. Martin
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -194,14 +193,14 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
@@ -213,9 +212,9 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Brain.fm Focus** - Brain.fm
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -241,40 +240,39 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**使用版本控制**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `ce4501` | 日期: 2025-07-12
+挑战ID: `89e39d` | 日期: 2025-07-13
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
@@ -283,30 +281,30 @@ function formatCurrency(amount) { ... }
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-现代Web应用框架
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-世界上有10种人：懂二进制的和不懂二进制的。
+程序员的三大美德：懒惰、急躁和傲慢。
 
 
 ### 🐙 GitHub 生态统计
@@ -320,7 +318,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-12 08:12:39
+- 📅 更新时间: 2025-07-13 08:12:22
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -331,13 +329,14 @@ function formatCurrency(amount) { ... }
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
+- 😊 积极新闻: 6 (75.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 11.4/100
+- 🔥 平均热度: 12.5/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- AR (2次)
+- AI (5次)
+- 人工智能 (1次)
+- DevOps (1次)
 
 
 ### 🤖 关于此项目
