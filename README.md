@@ -55,75 +55,77 @@
 
 MIT
 
-## 今日更新 (2025-07-13)
+## 今日更新 (2025-07-14)
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- 😊 [大模型之Spring AI实战系列（三十二）：Spring Boot + DeepSeek 实战指南：工具函数（Function Call）实战应用](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
-  随着人工智能技术的飞速发展，大模型在各个领域的应用日益广泛，为开发者带来了前所未有的机遇和挑战。在众多的框架和平台中，Spring Boot以其简洁、高效的特点，成为了构建企业级应用的首选之一。而De...
-- 😊 [驭码CodeRider 2.0 产品体验：AI重塑研发协作的智能变革](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  选择体验这款产品的初衷源于几个方面：首先，作为GitLab的重度使用者，我对极狐GitLab在DevOps领域的技术积淀有着足够的信任；其次，CodeRider 2.0声称能够解决"开发协作流程复杂、...
-- 😊 [Spring AI + MySQL MCP：用聊天方式智能查询数据，让开发效率飞起！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  本文介绍了如何利用Spring AI和MySQL MCP实现自然语言查询数据库的开发方案。MySQL MCP作为连接大语言模型与MySQL的桥梁，可将自然语言自动转换为SQL语句执行，降低开发门槛，提...
-- 😊 [基于本地LLM（大语言模型）与MCP架构构建AI智能体全指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  摘要（150字） 本文详细介绍了基于本地LLM（如Ollama）与MCP协议构建AI智能体的全流程。内容涵盖环境搭建、模型部署、MCP服务器开发及智能体集成，强调隐私安全与灵活扩展性。通过实操示例（如...
-- 😊 [体验免费开箱即用的AI工具：Blackbox.AI](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  体验免费开箱即用的AI工具：Blackbox.AI
+- 😊 [“Coze（扣子）+乐鑫开发板”开发AI玩具](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  摘要：EchoEar开发板（ESP32-S3芯片）结合扣子AI平台，为智能硬件开发提供端云协同解决方案。硬件具备双麦克风阵列、触摸屏及180°转向功能，支持Wi-Fi/蓝牙连接；软件端通过ESP-Br...
+- 😊 [大模型的应用-Gemma3 270B模型实战：手把手教你在家用PC部署多模态AI系统！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  当前，人工智能生成技术的产业角逐呈现加速态势，科技企业正通过持续研发突破技术瓶颈。本文聚焦谷歌最新推出的Gemma3开源模型矩阵，该系列产品构建了从10亿至270亿参数量级的完整技术体系，可灵活适配不...
+- 😊 [超强汇总！9 款免费降 AIGC 神器让你告别 AI 写作痕迹](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  在论文撰写或内容创作时，AIGC（人工智能生成内容）能大幅提升效率。但 AI 生成的内容常带有明显痕迹，易被检测出来。无论是学术论文还是日常文案，若想让作品更具原创性，规避 AI 检测风险，这些免费工...
+- 😊 [AI大模型探索之路-实战篇11： Function Calling技术整合：强化Agent智能数据分析平台功能](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  在数据驱动的时代，拥有一个高效且智能的数据分析平台对企业至关重要。继本系列前文全面解析Agent智能数据分析平台的基础与核心功能后，本文深入讨论平台的实际操作，特别是如何应用Function Call...
+- 😊 [AI秘书私有化部署方案重磅上线，安全效率双重提升](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  实现“成本可控、资源独享、数据不出域”从文档撰写、数据分析,到日程管理。AI秘书在云电脑小站的加持下。驱动数字化转型效能全面释放。AI秘书x云电脑小站。让私有化AI触手可及。为企业筑牢数据护城河。
 
 
 ### 网络安全资讯
 
 - [Wing FTP Server危险远程代码执行漏洞（CVE-2025-47812）正被积极利用](https://www.anquanke.com/post/id/309891) - 安全公告，详情请点击链接查看完整内容
-- [MGC：利用对齐的大型语言模型中的组合性盲点进行恶意软件生成的编译器框架](https://paper.seebug.org/3336/) - 作者：Lu Yan, Zhuo Zhang, Xiangzhe Xu, Shengwei An, Guangyu Shen, Zhou Xuan, Xuan Chen, Xiangyu Zhang
-译...
-- [《2025年Q2移动应用安全风险报告》披露，超七成APP涉隐私违规，违规收集、超范围收集、强制推送仍为重灾区](https://www.4hou.com/posts/ArzO) - 梆梆安全发布《2025年Q2移动应用安全风险报告》。本报告基于梆梆安全移动应用监管平台在2025年第二季度的威胁监测数据与深度安全分析成果，系统梳理当前国内移动应用面临的新型攻击技术演进与安全趋势变化...
+- [银狐情报共享第1期 ｜Att&CK 视角下的最新活跃技战术分享](https://paper.seebug.org/3337/) - 作者：腾讯安全威胁情报中心
+原文链接：https://mp.weixin.qq.com/s/5Eyf5u7HF8f-GmKvfc6P3A
+概述
+近年来，银狐针对国内企业数据资产及个人终端的定向攻击频发...
+- [蓝牙漏洞可能会让黑客通过你的麦克风进行窥探](https://www.4hou.com/posts/8gyL) - 安全研究人员发现，来自十家供应商的二十多个音频设备中存在影响蓝牙芯片组的漏洞，可用于窃听或窃取敏感信息。研究人员证实，来自Beyerdynamic、Bose、Sony、Marshall、Jabra、J...
 
 
 ### 技术就业趋势
 
-具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
+网络安全人才缺口扩大，零信任安全模型专家需求激增。
 
 ### 科技热点
 
-- 😐 [客户端请求服务端用什么限流算法好-思路分析分享](https://cloud.tencent.com/developer/article/2539314) 📊 普通
-  令牌桶算法维护一个容量固定的"令牌桶"，系统以恒定速率（如每秒100个）向桶中添加令牌。每个请求需要获取一个令牌才能被放行，当桶中令牌耗尽时，新请求将被拒绝或排队等待。
-- 😐 [算法破茧｜腾讯研究院三万字报告](https://cloud.tencent.com/developer/article/2539329) 📊 普通
-  去年冬天，我去拜访一家咨询机构时，曾经问其中的一位分析师如何收集资讯的，他们说早年还会购买一些简报产品，后来当主流新闻资讯app都用上算法推荐之后，他们就开始尝试不断用主动搜索的方式，调教出了一套推荐...
-- 😊 [智能交易新纪元：TradingAgents多智能体LLM金融交易框架深度解读](https://cloud.tencent.com/developer/article/2539366) 📊 普通
-  最近一直在看金融相关的技术文章，发现一个基于大模型Agent的代码开源了，如是来拜读一下。这篇论文叫做《TradingAgents: Multi-Agents LLM Financial Tradin...
+- 😐 [腾讯云程彬：构建下一代数智平台，加速Data+AI融合落地](https://cloud.tencent.com/developer/article/2539713) 🔥🔥 很热
+  在2025年6月27日举办的AICon全球人工智能开发与应用大会上，腾讯云大数据基础产品总经理程彬分享了腾讯云大数据在Data+AI领域的最新实践与思考，并就相关问题接受了媒体群访，以下是专访内容：
+- 😊 [腾讯 BiFang | 湖流一体数据实时读取原理和优化](https://cloud.tencent.com/developer/article/2539740) 🔥 热门
+  BiFang 是腾讯大数据自主研发的湖流一体存储引擎，通过创新性地融合 Pulsar 流处理与 Iceberg 数据湖能力，实现流批数据处理入口统一，全面支持全增量数据查询、端到端数据实时可见等。Bi...
+- 😊 [深度剖析 TDMQ RabbitMQ 版经典队列底层存储机制](https://cloud.tencent.com/developer/article/2539715) 📊 普通
+  RabbitMQ 作为开源消息队列的标杆产品，凭借灵活的路由机制与高可用设计，支撑着海量业务场景的消息流转。而经典队列（Classic Queue） 作为 RabbitMQ 最基础、应用最广泛的队列类...
 
 
 ### GitHub 趋势项目
 
-- [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni) - Biomni: a general-purpose biomedical AI agent
-- [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
-- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
 
 
 
 
 ### AI 研究论文
 
-- [Traceable Evidence Enhanced Visual Grounded Reasoning: Evaluation and
-  Methodology](http://arxiv.org/abs/2507.07999v1) - Haochen Wang, Xiangtai Li, Zilong Huang, Anran Wang, Jiacong Wang, Tao Zhang, Jiani Zheng, Sule Bai, Zijian Kang, Jiashi Feng, Zhuochen Wang, Zhaoxiang Zhang
-  Models like OpenAI-o3 pioneer visual grounded reasoning by dynamically
-referencing visual regions, just like human "thinking with images". However, no...
+- [Lumos-1: On Autoregressive Video Generation from a Unified Model
+  Perspective](http://arxiv.org/abs/2507.08801v1) - Hangjie Yuan, Weihua Chen, Jun Cen, Hu Yu, Jingyun Liang, Shuning Chang, Zhihui Lin, Tao Feng, Pengwei Liu, Jiazheng Xing, Hao Luo, Jiasheng Tang, Fan Wang, Yi Yang
+  Autoregressive large language models (LLMs) have unified a vast range of
+language tasks, inspiring preliminary efforts in autoregressive video
+generat...
 
-- [PyVision: Agentic Vision with Dynamic Tooling](http://arxiv.org/abs/2507.07998v1) - Shitian Zhao, Haoquan Zhang, Shaoheng Lin, Ming Li, Qilong Wu, Kaipeng Zhang, Chen Wei
-  LLMs are increasingly deployed as agents, systems capable of planning,
-reasoning, and dynamically calling external tools. However, in visual
-reasoning...
+- [NeuralOS: Towards Simulating Operating Systems via Neural Generative
+  Models](http://arxiv.org/abs/2507.08800v1) - Luke Rivard, Sun Sun, Hongyu Guo, Wenhu Chen, Yuntian Deng
+  We introduce NeuralOS, a neural framework that simulates graphical user
+interfaces (GUIs) of operating systems by directly predicting screen frames in...
 
-- [Single-pass Adaptive Image Tokenization for Minimum Program Search](http://arxiv.org/abs/2507.07995v1) - Shivam Duggal, Sanghyun Byun, William T. Freeman, Antonio Torralba, Phillip Isola
-  According to Algorithmic Information Theory (AIT) -- Intelligent
-representations compress data into the shortest possible program that can
-reconstruct...
+- [KV Cache Steering for Inducing Reasoning in Small Language Models](http://arxiv.org/abs/2507.08799v1) - Max Belitsky, Dawid J. Kopiczko, Michael Dorkenwald, M. Jehanzeb Mirza, Cees G. M. Snoek, Yuki M. Asano
+  We propose cache steering, a lightweight method for implicit steering of
+language models via a one-shot intervention applied directly to the key-value...
 
 
 
@@ -155,17 +157,17 @@ satellite communication systems has elevated the importance of secure vide...
 ### 🛠️ 开发者工具推荐
 
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**合并两个有序链表** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+将两个升序链表合并为一个新的升序链表
 
-标签: 字符串, 动态规划
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -181,9 +183,9 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《设计模式》** - Gang of Four
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -199,54 +201,56 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Ambient Coding** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
 
-**算法优化挑战** (难度: 中等)
+**微服务架构设计** (难度: 高级)
 
-优化一个排序算法，使其在大数据集上的性能提升50%
+设计一个电商系统的微服务架构，包含用户、订单、支付等服务
 
-🏷️ 标签: 算法, 性能优化 | ⏱️ 预计时间: 2-4小时 | 🎯 奖励积分: 100
+🏷️ 标签: 架构设计, 微服务 | ⏱️ 预计时间: 4-8小时 | 🎯 奖励积分: 150
 
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**使用有意义的变量名**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
@@ -259,20 +263,20 @@ git commit -m "Add user authentication feature"
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：💡 创新者
 
-挑战ID: `89e39d` | 日期: 2025-07-13
+挑战ID: `c2b8b1` | 日期: 2025-07-14
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
@@ -281,8 +285,8 @@ git commit -m "Add user authentication feature"
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
@@ -297,14 +301,14 @@ git commit -m "Add user authentication feature"
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**安全工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -318,7 +322,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-13 08:12:22
+- 📅 更新时间: 2025-07-14 08:15:45
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -329,14 +333,16 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
+- 😊 积极新闻: 7 (87.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 12.5/100
+- 🔥 平均热度: 24.0/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- 人工智能 (1次)
-- DevOps (1次)
+- AI (6次)
+- 人工智能 (3次)
+- 大数据 (2次)
+- AR (2次)
+- 芯片 (1次)
 
 
 ### 🤖 关于此项目
