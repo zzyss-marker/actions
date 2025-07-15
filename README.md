@@ -55,77 +55,75 @@
 
 MIT
 
-## 今日更新 (2025-07-14)
+## 今日更新 (2025-07-15)
 
 ### 今日名言
 
-> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [“Coze（扣子）+乐鑫开发板”开发AI玩具](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
-  摘要：EchoEar开发板（ESP32-S3芯片）结合扣子AI平台，为智能硬件开发提供端云协同解决方案。硬件具备双麦克风阵列、触摸屏及180°转向功能，支持Wi-Fi/蓝牙连接；软件端通过ESP-Br...
-- 😊 [大模型的应用-Gemma3 270B模型实战：手把手教你在家用PC部署多模态AI系统！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
-  当前，人工智能生成技术的产业角逐呈现加速态势，科技企业正通过持续研发突破技术瓶颈。本文聚焦谷歌最新推出的Gemma3开源模型矩阵，该系列产品构建了从10亿至270亿参数量级的完整技术体系，可灵活适配不...
-- 😊 [超强汇总！9 款免费降 AIGC 神器让你告别 AI 写作痕迹](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
-  在论文撰写或内容创作时，AIGC（人工智能生成内容）能大幅提升效率。但 AI 生成的内容常带有明显痕迹，易被检测出来。无论是学术论文还是日常文案，若想让作品更具原创性，规避 AI 检测风险，这些免费工...
-- 😊 [AI大模型探索之路-实战篇11： Function Calling技术整合：强化Agent智能数据分析平台功能](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  在数据驱动的时代，拥有一个高效且智能的数据分析平台对企业至关重要。继本系列前文全面解析Agent智能数据分析平台的基础与核心功能后，本文深入讨论平台的实际操作，特别是如何应用Function Call...
-- 😊 [AI秘书私有化部署方案重磅上线，安全效率双重提升](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  实现“成本可控、资源独享、数据不出域”从文档撰写、数据分析,到日程管理。AI秘书在云电脑小站的加持下。驱动数字化转型效能全面释放。AI秘书x云电脑小站。让私有化AI触手可及。为企业筑牢数据护城河。
+- 😊 [如何在Pycharm中插入AI插件（OpenAI及DeepSeeK）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥🔥 超热
+  需注意的是，该插件的gpt只有free版本才可以免费使用；免费使用选中类型下角，可以选deespeek coder v2-free版本或者gpt-4o mini-free进行使用，你就可以开启对话啦！...
+- 😊 [AIDC智算中心建设：AI算力芯片（万字解读）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥🔥 超热
+  因此，GPU在 AI 发展中的作用愈发凸显，它为深度学习等复杂任务提供了强大的计算支持，并成为了 AI 计算的标配。芯片是针对面向特定的、具体的、相对单一的人工智能应用专门设计的芯片，其架构和指令集针...
+- 😟 [springboot集成langchain4j接入open AI和deepseek](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  查看官网错误码（https://help.aliyun.com/zh/model-studio/error-code）IDEA新建一个springboot项目，使用Spring lnitializr快...
+- 😐 [AI之LLM之Tool：ScreenPipe的简介、安装与使用方法、案例应用之详细攻略](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  ​AI之Tool：ScreenPipe的简介、安装与使用方法、案例应用之详细攻略目录ScreenPipe的简介ScreenPipe的安装和使用方法ScreenPipe的案例应用ScreenPipe的简...
+- 😊 [AI智能体介绍与典型应用场景分析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  AI智能体（AI Agent）是一种软件，指能够接入AI，实现感知环境、进行自主决策并执行任务的系统。与AI大模型不同，AI智能体具备一定程度的自治性，能够根据输入的信息进行推理、学习，并持续优化自身...
 
 
 ### 网络安全资讯
 
-- [Wing FTP Server危险远程代码执行漏洞（CVE-2025-47812）正被积极利用](https://www.anquanke.com/post/id/309891) - 安全公告，详情请点击链接查看完整内容
-- [银狐情报共享第1期 ｜Att&CK 视角下的最新活跃技战术分享](https://paper.seebug.org/3337/) - 作者：腾讯安全威胁情报中心
-原文链接：https://mp.weixin.qq.com/s/5Eyf5u7HF8f-GmKvfc6P3A
-概述
-近年来，银狐针对国内企业数据资产及个人终端的定向攻击频发...
-- [蓝牙漏洞可能会让黑客通过你的麦克风进行窥探](https://www.4hou.com/posts/8gyL) - 安全研究人员发现，来自十家供应商的二十多个音频设备中存在影响蓝牙芯片组的漏洞，可用于窃听或窃取敏感信息。研究人员证实，来自Beyerdynamic、Bose、Sony、Marshall、Jabra、J...
+- [谷歌推出Google Drive桌面端全新界面：统一视图集成文件、同步与通知功能](https://www.anquanke.com/post/id/310044) - 安全公告，详情请点击链接查看完整内容
+- [通过多密钥水印缓解生成模型中的水印窃取攻击](https://paper.seebug.org/3338/) - 作者：Toluwani Aremu, Noor Hussein, Munachiso Nwadike, Samuele Poppi, Jie Zhang, Karthik Nandakumar, Ne...
+- [名为&quot;Scattered Spider&quot;的黑客将目标转移到航空和运输公司](https://www.4hou.com/posts/0MnK) - 与“Scattered Spider”战术有关的黑客在攻击保险和零售行业之后，将目标扩大到航空和运输行业。这些威胁者采用了逐个行业进行攻击的方法，最初针对英国和美国的零售公司，如M&S和Co-op，随...
 
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
 
 ### 科技热点
 
-- 😐 [腾讯云程彬：构建下一代数智平台，加速Data+AI融合落地](https://cloud.tencent.com/developer/article/2539713) 🔥🔥 很热
-  在2025年6月27日举办的AICon全球人工智能开发与应用大会上，腾讯云大数据基础产品总经理程彬分享了腾讯云大数据在Data+AI领域的最新实践与思考，并就相关问题接受了媒体群访，以下是专访内容：
 - 😊 [腾讯 BiFang | 湖流一体数据实时读取原理和优化](https://cloud.tencent.com/developer/article/2539740) 🔥 热门
   BiFang 是腾讯大数据自主研发的湖流一体存储引擎，通过创新性地融合 Pulsar 流处理与 Iceberg 数据湖能力，实现流批数据处理入口统一，全面支持全增量数据查询、端到端数据实时可见等。Bi...
-- 😊 [深度剖析 TDMQ RabbitMQ 版经典队列底层存储机制](https://cloud.tencent.com/developer/article/2539715) 📊 普通
-  RabbitMQ 作为开源消息队列的标杆产品，凭借灵活的路由机制与高可用设计，支撑着海量业务场景的消息流转。而经典队列（Classic Queue） 作为 RabbitMQ 最基础、应用最广泛的队列类...
+- 😐 [浅谈 K8s Container 管理机制](https://cloud.tencent.com/developer/article/2539735) 🔥 热门
+  王成，腾讯云研发工程师，Kubernetes member，从事数据库产品容器化、资源管控等工作，关注 Kubernetes、Go、云原生领域。
+- 😊 [考试宝 × 向量数据库：助力AI时代教育体验升级](https://cloud.tencent.com/developer/article/2539738) 📈 关注
+  在腾讯云向量数据库的帮助下，试题聚类的准确率从50%提升到了95%；检索吞吐能力达到了行业平均水平的10倍；人工标注的成本也大大降低。技术革新直接带动了业务增长——用户的付费率提升了50%以上。”
 
 
 ### GitHub 趋势项目
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
 - [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
 
 
 
 
 ### AI 研究论文
 
-- [Lumos-1: On Autoregressive Video Generation from a Unified Model
-  Perspective](http://arxiv.org/abs/2507.08801v1) - Hangjie Yuan, Weihua Chen, Jun Cen, Hu Yu, Jingyun Liang, Shuning Chang, Zhihui Lin, Tao Feng, Pengwei Liu, Jiazheng Xing, Hao Luo, Jiasheng Tang, Fan Wang, Yi Yang
-  Autoregressive large language models (LLMs) have unified a vast range of
-language tasks, inspiring preliminary efforts in autoregressive video
-generat...
+- [Self-supervised Learning on Camera Trap Footage Yields a Strong
+  Universal Face Embedder](http://arxiv.org/abs/2507.10552v1) - Vladimir Iashin, Horace Lee, Dan Schofield, Andrew Zisserman
+  Camera traps are revolutionising wildlife monitoring by capturing vast
+amounts of visual data; however, the manual identification of individual
+animal...
 
-- [NeuralOS: Towards Simulating Operating Systems via Neural Generative
-  Models](http://arxiv.org/abs/2507.08800v1) - Luke Rivard, Sun Sun, Hongyu Guo, Wenhu Chen, Yuntian Deng
-  We introduce NeuralOS, a neural framework that simulates graphical user
-interfaces (GUIs) of operating systems by directly predicting screen frames in...
+- [EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](http://arxiv.org/abs/2507.10548v1) - Mingxian Lin, Wei Huang, Yitang Li, Chengjie Jiang, Kui Wu, Fangwei Zhong, Shengju Qian, Xin Wang, Xiaojuan Qi
+  Recent advanced vision-language models(VLMs) have demonstrated strong
+performance on passive, offline image and video understanding tasks. However,
+th...
 
-- [KV Cache Steering for Inducing Reasoning in Small Language Models](http://arxiv.org/abs/2507.08799v1) - Max Belitsky, Dawid J. Kopiczko, Michael Dorkenwald, M. Jehanzeb Mirza, Cees G. M. Snoek, Yuki M. Asano
-  We propose cache steering, a lightweight method for implicit steering of
-language models via a one-shot intervention applied directly to the key-value...
+- [Disentangling Neural Disjunctive Normal Form Models](http://arxiv.org/abs/2507.10546v1) - Kexin Gu Baugh, Vincent Perreault, Matthew Baugh, Luke Dickens, Katsumi Inoue, Alessandra Russo
+  Neural Disjunctive Normal Form (DNF) based models are powerful and
+interpretable approaches to neuro-symbolic learning and have shown promising
+result...
 
 
 
@@ -149,25 +147,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $211.16 📉 -1.25 (-0.6%)
-- **GOOGL**: $180.19 📈 +2.57 (+1.4%)
-- **MSFT**: $503.32 📈 +1.84 (+0.4%)
+- **AAPL**: $208.62 📉 -2.54 (-1.2%)
+- **GOOGL**: $181.56 📈 +1.37 (+0.8%)
+- **MSFT**: $503.02 📉 -0.30 (-0.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-将两个升序链表合并为一个新的升序链表
+给定字符串，找出其中最长的回文子串
 
-标签: 链表, 递归
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -178,7 +176,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
 
 
 ### 📚 技术书籍推荐
@@ -195,28 +193,28 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🚀 创业公司动态
 
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -230,53 +228,53 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**网络建设**: 参加技术会议和meetup，建立专业人脉网络
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 每月参加至少一次技术聚会或在线会议
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：⚡ 性能优化师
 
-挑战ID: `c2b8b1` | 日期: 2025-07-14
+挑战ID: `70acf7` | 日期: 2025-07-15
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
@@ -285,30 +283,30 @@ const a = 25;
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代JavaScript/TypeScript运行时
+高性能代码编辑器
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**全栈开发** (中级) 📊
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-程序员最讨厌的两件事：1. 写文档 2. 没有文档
+程序员的口头禅：在我的机器上运行得很好！
 
 
 ### 🐙 GitHub 生态统计
@@ -322,7 +320,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-14 08:15:45
+- 📅 更新时间: 2025-07-15 08:14:59
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -333,16 +331,16 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 7 (87.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 24.0/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 25.1/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- 人工智能 (3次)
-- 大数据 (2次)
+- AI (7次)
 - AR (2次)
-- 芯片 (1次)
+- GPT (1次)
+- OpenAI (1次)
+- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
