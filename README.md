@@ -55,75 +55,74 @@
 
 MIT
 
-## 今日更新 (2025-07-15)
+## 今日更新 (2025-07-16)
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- 😊 [如何在Pycharm中插入AI插件（OpenAI及DeepSeeK）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥🔥 超热
-  需注意的是，该插件的gpt只有free版本才可以免费使用；免费使用选中类型下角，可以选deespeek coder v2-free版本或者gpt-4o mini-free进行使用，你就可以开启对话啦！...
-- 😊 [AIDC智算中心建设：AI算力芯片（万字解读）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥🔥 超热
-  因此，GPU在 AI 发展中的作用愈发凸显，它为深度学习等复杂任务提供了强大的计算支持，并成为了 AI 计算的标配。芯片是针对面向特定的、具体的、相对单一的人工智能应用专门设计的芯片，其架构和指令集针...
-- 😟 [springboot集成langchain4j接入open AI和deepseek](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  查看官网错误码（https://help.aliyun.com/zh/model-studio/error-code）IDEA新建一个springboot项目，使用Spring lnitializr快...
-- 😐 [AI之LLM之Tool：ScreenPipe的简介、安装与使用方法、案例应用之详细攻略](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  ​AI之Tool：ScreenPipe的简介、安装与使用方法、案例应用之详细攻略目录ScreenPipe的简介ScreenPipe的安装和使用方法ScreenPipe的案例应用ScreenPipe的简...
-- 😊 [AI智能体介绍与典型应用场景分析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  AI智能体（AI Agent）是一种软件，指能够接入AI，实现感知环境、进行自主决策并执行任务的系统。与AI大模型不同，AI智能体具备一定程度的自治性，能够根据输入的信息进行推理、学习，并持续优化自身...
+- 😐 [探索GpuGeek：AI开发者与中小企业的算力宝藏平台](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  摘要：GpuGeek 作为面向 AI 开发者和中小企业的 AI 赋能平台，在 AI 时代具有重要意义。它提供丰富算力资源、多元框架工具等，涵盖深度学习项目、大模型研究等多方面，助力用户应对算力挑战，推...
+- 😊 [2025年6月15日~6月21日AI一周大事全景盘点](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  【摘要】2025年6月15日至6月21日，全球AI领域迎来多项重大事件。国际方面，OpenAI与微软“分手”并携手谷歌云，全球算力格局重塑；谷歌、Anthropic等巨头发布新一代大模型，欧盟AI法案...
+- 😐 [Java后端开发神器：飞算JavaAI让我从菜鸟变高手](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  Java开发，难在哪？对新手来说，是 Spring 庞杂的生态和似乎永远也写不完的"样板代码"；对老手而言，则是日复一日的增删改查（CRUD）和维护难以读懂的旧系统。我们花费了太多时间在"搬砖"上，而...
+- 😊 [AI《提示工程师》认证指南！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  无论你是职场新人还是资深从业者，这份指南将为你全面解析认证内容、报考条件及备考策略，助你快速跻身AI高技能人才行列！提示工程师是专注于大模型与人类交互的专业人才，通过设计精准的提示词（Prompt），...
+- 😊 [AI测试实战指南：从零到一构建智能测试体系](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  本文系统介绍了AI测试的核心技术与实战方法，涵盖自动化测试框架、智能缺陷检测与A/B测试优化。通过代码示例与架构图，读者可掌握AI测试的实现细节与优化策略，为软件开发提供智能化质量保障。
 
 
 ### 网络安全资讯
 
-- [谷歌推出Google Drive桌面端全新界面：统一视图集成文件、同步与通知功能](https://www.anquanke.com/post/id/310044) - 安全公告，详情请点击链接查看完整内容
+- [360安全智能体2025H1成绩单 | 技术突破引领行业，实战应用全面开花](https://www.anquanke.com/post/id/310096) - 安全公告，详情请点击链接查看完整内容
 - [通过多密钥水印缓解生成模型中的水印窃取攻击](https://paper.seebug.org/3338/) - 作者：Toluwani Aremu, Noor Hussein, Munachiso Nwadike, Samuele Poppi, Jie Zhang, Karthik Nandakumar, Ne...
-- [名为&quot;Scattered Spider&quot;的黑客将目标转移到航空和运输公司](https://www.4hou.com/posts/0MnK) - 与“Scattered Spider”战术有关的黑客在攻击保险和零售行业之后，将目标扩大到航空和运输行业。这些威胁者采用了逐个行业进行攻击的方法，最初针对英国和美国的零售公司，如M&S和Co-op，随...
+- [Citrix Bleed 2漏洞被网络犯罪分子利用进行攻击](https://www.4hou.com/posts/l0yr) - 据网络安全公司ReliaQuest称，NetScaler ADC和网关的一个关键漏洞“Citrix Bleed 2”（CVE-2025-5777）现在很可能被利用在攻击中，Citrix设备上的可疑会话...
 
 
 ### 技术就业趋势
 
-云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
-- 😊 [腾讯 BiFang | 湖流一体数据实时读取原理和优化](https://cloud.tencent.com/developer/article/2539740) 🔥 热门
-  BiFang 是腾讯大数据自主研发的湖流一体存储引擎，通过创新性地融合 Pulsar 流处理与 Iceberg 数据湖能力，实现流批数据处理入口统一，全面支持全增量数据查询、端到端数据实时可见等。Bi...
-- 😐 [浅谈 K8s Container 管理机制](https://cloud.tencent.com/developer/article/2539735) 🔥 热门
-  王成，腾讯云研发工程师，Kubernetes member，从事数据库产品容器化、资源管控等工作，关注 Kubernetes、Go、云原生领域。
-- 😊 [考试宝 × 向量数据库：助力AI时代教育体验升级](https://cloud.tencent.com/developer/article/2539738) 📈 关注
-  在腾讯云向量数据库的帮助下，试题聚类的准确率从50%提升到了95%；检索吞吐能力达到了行业平均水平的10倍；人工标注的成本也大大降低。技术革新直接带动了业务增长——用户的付费率提升了50%以上。”
+- 😐 [一线投资人深度复盘：估值百亿的AI独角兽，都有哪些特质？](https://cloud.tencent.com/developer/article/2540693) 📈 关注
+  红杉资本将2024年AI行业的发展比作"原始汤"阶段——混沌中孕育无限可能。他们认为，2024年是"想法爆发期"，2025年将是这些想法落地的关键年。正是基于这种想法向现实转化的预期，a16z的预测更...
+- 😊 [刚刚，美的欧洲IT业务「搬」上腾讯云](https://cloud.tencent.com/developer/article/2540498) 📊 普通
+  这些年，美的在欧洲的业务越做越大，现有IT系统面临着多重挑战，美的亟需一个具备安全合规、稳定灵活、高性价比的云平台，以支撑其欧洲业务的创新发展。
+- 😟 [长文本也能上“飞天”？——解读《Long-CLIP: Unlocking the Long-Text Capability of CLIP》](https://cloud.tencent.com/developer/article/2540652) 📊 普通
+  在传统的Clip对齐模型中，一般来说都是匹配短文本，其效果是很好的。但是对于一些长文本，Weclip则无能为力，所以这篇文章主要就是为了解决长文本的问题。
 
 
 ### GitHub 趋势项目
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-- [vercel/commerce](https://github.com/vercel/commerce) - Next.js Commerce
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
+- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 
 
 
 
 ### AI 研究论文
 
-- [Self-supervised Learning on Camera Trap Footage Yields a Strong
-  Universal Face Embedder](http://arxiv.org/abs/2507.10552v1) - Vladimir Iashin, Horace Lee, Dan Schofield, Andrew Zisserman
-  Camera traps are revolutionising wildlife monitoring by capturing vast
-amounts of visual data; however, the manual identification of individual
-animal...
+- [Streaming 4D Visual Geometry Transformer](http://arxiv.org/abs/2507.11539v1) - Dong Zhuo, Wenzhao Zheng, Jiahe Guo, Yuqi Wu, Jie Zhou, Jiwen Lu
+  Perceiving and reconstructing 4D spatial-temporal geometry from videos is a
+fundamental yet challenging computer vision task. To facilitate interactiv...
 
-- [EmbRACE-3K: Embodied Reasoning and Action in Complex Environments](http://arxiv.org/abs/2507.10548v1) - Mingxian Lin, Wei Huang, Yitang Li, Chengjie Jiang, Kui Wu, Fangwei Zhong, Shengju Qian, Xin Wang, Xiaojuan Qi
-  Recent advanced vision-language models(VLMs) have demonstrated strong
-performance on passive, offline image and video understanding tasks. However,
-th...
+- [How Many Instructions Can LLMs Follow at Once?](http://arxiv.org/abs/2507.11538v1) - Daniel Jaroslawicz, Brendan Whiting, Parth Shah, Karime Maamari
+  Production-grade LLM systems require robust adherence to dozens or even
+hundreds of instructions simultaneously. However, the instruction-following
+ca...
 
-- [Disentangling Neural Disjunctive Normal Form Models](http://arxiv.org/abs/2507.10546v1) - Kexin Gu Baugh, Vincent Perreault, Matthew Baugh, Luke Dickens, Katsumi Inoue, Alessandra Russo
-  Neural Disjunctive Normal Form (DNF) based models are powerful and
-interpretable approaches to neuro-symbolic learning and have shown promising
-result...
+- [DrafterBench: Benchmarking Large Language Models for Tasks Automation in
+  Civil Engineering](http://arxiv.org/abs/2507.11527v1) - Yinsheng Li, Zhen Dong, Yi Shao
+  Large Language Model (LLM) agents have shown great potential for solving
+real-world problems and promise to be a solution for tasks automation in
+indu...
 
 
 
@@ -147,14 +146,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $208.62 📉 -2.54 (-1.2%)
-- **GOOGL**: $181.56 📈 +1.37 (+0.8%)
-- **MSFT**: $503.02 📉 -0.30 (-0.1%)
+- **AAPL**: $209.11 📈 +0.49 (+0.2%)
+- **GOOGL**: $182.00 📈 +0.44 (+0.2%)
+- **MSFT**: $505.82 📈 +2.80 (+0.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
@@ -176,14 +175,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Kubernetes权威指南》** - 龚正等
 
-面向对象设计的经典模式 (分类: 软件设计)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -199,15 +198,15 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
@@ -228,85 +227,83 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用版本控制**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：💡 创新者
 
-挑战ID: `70acf7` | 日期: 2025-07-15
+挑战ID: `f54940` | 日期: 2025-07-16
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **Blockchain** 📉 -3% - 区块链热度回落
+- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-高性能代码编辑器
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**安全工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+世界上有10种人：懂二进制的和不懂二进制的。
 
 
 ### 🐙 GitHub 生态统计
@@ -320,7 +317,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-15 08:14:59
+- 📅 更新时间: 2025-07-16 08:14:30
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -331,16 +328,14 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
+- 😊 积极新闻: 4 (50.0%)
 - 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 25.1/100
+- 🔥 平均热度: 13.0/100
 
 🏷️ **热门关键词**:
-- AI (7次)
-- AR (2次)
-- GPT (1次)
+- AI (6次)
+- 深度学习 (1次)
 - OpenAI (1次)
-- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
