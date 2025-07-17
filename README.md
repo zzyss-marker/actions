@@ -55,74 +55,75 @@
 
 MIT
 
-## 今日更新 (2025-07-16)
+## 今日更新 (2025-07-17)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
 
 ### AI 技术动态
 
-- 😐 [探索GpuGeek：AI开发者与中小企业的算力宝藏平台](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  摘要：GpuGeek 作为面向 AI 开发者和中小企业的 AI 赋能平台，在 AI 时代具有重要意义。它提供丰富算力资源、多元框架工具等，涵盖深度学习项目、大模型研究等多方面，助力用户应对算力挑战，推...
-- 😊 [2025年6月15日~6月21日AI一周大事全景盘点](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  【摘要】2025年6月15日至6月21日，全球AI领域迎来多项重大事件。国际方面，OpenAI与微软“分手”并携手谷歌云，全球算力格局重塑；谷歌、Anthropic等巨头发布新一代大模型，欧盟AI法案...
-- 😐 [Java后端开发神器：飞算JavaAI让我从菜鸟变高手](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  Java开发，难在哪？对新手来说，是 Spring 庞杂的生态和似乎永远也写不完的"样板代码"；对老手而言，则是日复一日的增删改查（CRUD）和维护难以读懂的旧系统。我们花费了太多时间在"搬砖"上，而...
-- 😊 [AI《提示工程师》认证指南！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  无论你是职场新人还是资深从业者，这份指南将为你全面解析认证内容、报考条件及备考策略，助你快速跻身AI高技能人才行列！提示工程师是专注于大模型与人类交互的专业人才，通过设计精准的提示词（Prompt），...
-- 😊 [AI测试实战指南：从零到一构建智能测试体系](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  本文系统介绍了AI测试的核心技术与实战方法，涵盖自动化测试框架、智能缺陷检测与A/B测试优化。通过代码示例与架构图，读者可掌握AI测试的实现细节与优化策略，为软件开发提供智能化质量保障。
+- 😊 [AI大模型ms-swift框架实战指南（十）：自定义数据集微调实践大全](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  在人工智能技术飞速发展的当下，大模型的应用已经渗透到各个领域。然而，通用的大模型往往无法完全满足特定场景的需求，因此对模型进行微调成为了提升模型性能和适用性的关键手段。Swift框架凭借其灵活的特性和...
+- 😊 [数字之美：探索人工智能绘画的奇妙世界](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  随着人工智能技术的快速发展，AI绘画作为一种新兴艺术形式正逐渐引起人们的关注。本文将深入探讨AI绘画的定义、发展历程以及其在不同领域中的应用。
+- 😊 [【海螺AI视频】蓝耘智算 | AI视频新浪潮：蓝耘MaaS与海螺AI视频创作体验](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  蓝耘MaaS平台与海螺AI视频深度融合，前者以智能算力中枢、多模态模型工场赋能AI开发，后者通过零门槛创作和影视级视效革新视频制作。二者结合打造出低代码开发与开放式创作生态，为多领域用户提供安全高效的...
+- 😊 [开源模型应用落地-让AI更懂你的每一次交互-用Redis Stack与LangChain解锁大模型的长期记忆潜能（二）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  结合 Redis Stack 与 LangChain 构建外部记忆系统，以提升大型语言模型的长期记忆与持续学习能力。
+- 😊 [AI编程再突破，文心快码发布行业首个多模态、多智能体协同AI IDE](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  文心快码发布AI IDE，智能体自动写代码，设计稿一键转代码，打造开发者个性化IDE
 
 
 ### 网络安全资讯
 
-- [360安全智能体2025H1成绩单 | 技术突破引领行业，实战应用全面开花](https://www.anquanke.com/post/id/310096) - 安全公告，详情请点击链接查看完整内容
-- [通过多密钥水印缓解生成模型中的水印窃取攻击](https://paper.seebug.org/3338/) - 作者：Toluwani Aremu, Noor Hussein, Munachiso Nwadike, Samuele Poppi, Jie Zhang, Karthik Nandakumar, Ne...
-- [Citrix Bleed 2漏洞被网络犯罪分子利用进行攻击](https://www.4hou.com/posts/l0yr) - 据网络安全公司ReliaQuest称，NetScaler ADC和网关的一个关键漏洞“Citrix Bleed 2”（CVE-2025-5777）现在很可能被利用在攻击中，Citrix设备上的可疑会话...
+- [新型安卓恶意软件攻击：607 个域名被用于传播伪造 Telegram 应用](https://www.anquanke.com/post/id/310149) - 安全公告，详情请点击链接查看完整内容
+- [CitrixBleed 2 (CVE-2025-5777) 成因分析](https://paper.seebug.org/3339/) - 作者：知道创宇404实验室
+时间：2025年7月16日
+2025年6月17日，Citrix 官方公开修复了两个 CVE 漏洞：CVE-2025-5349和CVE-2025-5777。其中，CVE-20...
+- [谷歌 Gemini 漏洞劫持电子邮件摘要进行网络钓鱼](https://www.4hou.com/posts/MXPA) - 谷歌Gemini for Workspace可以被利用来生成看似合法但包含恶意指令或警告的电子邮件摘要，这些指令可能不使用附件或直接链接将用户引导到网络钓鱼网站。这种攻击利用隐藏在电子邮件中的间接提示...
 
 
 ### 技术就业趋势
 
-边缘计算和IoT专家在制造业和智能城市项目中需求增加。
+DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
 
 ### 科技热点
 
-- 😐 [一线投资人深度复盘：估值百亿的AI独角兽，都有哪些特质？](https://cloud.tencent.com/developer/article/2540693) 📈 关注
-  红杉资本将2024年AI行业的发展比作"原始汤"阶段——混沌中孕育无限可能。他们认为，2024年是"想法爆发期"，2025年将是这些想法落地的关键年。正是基于这种想法向现实转化的预期，a16z的预测更...
-- 😊 [刚刚，美的欧洲IT业务「搬」上腾讯云](https://cloud.tencent.com/developer/article/2540498) 📊 普通
-  这些年，美的在欧洲的业务越做越大，现有IT系统面临着多重挑战，美的亟需一个具备安全合规、稳定灵活、高性价比的云平台，以支撑其欧洲业务的创新发展。
-- 😟 [长文本也能上“飞天”？——解读《Long-CLIP: Unlocking the Long-Text Capability of CLIP》](https://cloud.tencent.com/developer/article/2540652) 📊 普通
-  在传统的Clip对齐模型中，一般来说都是匹配短文本，其效果是很好的。但是对于一些长文本，Weclip则无能为力，所以这篇文章主要就是为了解决长文本的问题。
+- 😟 [99%的程序员都会失业吗？丨AI原生研究系列之AI Coding](https://cloud.tencent.com/developer/article/2541133) 📈 关注
+  又到一年高考季，因为这几年一直在研究大模型，有好几个家长朋友都来咨询，要不要给自己孩子报考计算机专业？接到这个问题，面对“周更”、甚至“日更”的大模型浪潮，着实难给出一个准确的回答，只能说：编程作为一...
+- 😟 [DevOps落地的终极实践：8大关键路径揭秘！](https://cloud.tencent.com/developer/article/2541246) 📈 关注
+  当前，DevOps因其能够降低IT运营成本、提高软件质量并加快上市时间的能力而在全球范围内引起广泛关注。它打破了传统软件开发与运营的界限，消除了新功能发布延迟和软件质量下降的障碍。DevOps通过实施...
+- 😐 [直播预约 | 2025腾讯云金融数智峰会崭新亮相](https://cloud.tencent.com/developer/article/2541480) 📊 普通
+  腾讯云金融行业的年度盛会崭新亮相！2025腾讯云金融数智峰会，即将于7月18日举办。
 
 
 ### GitHub 趋势项目
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
-- [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
-- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+- [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.
 
 
 
 
 ### AI 研究论文
 
-- [Streaming 4D Visual Geometry Transformer](http://arxiv.org/abs/2507.11539v1) - Dong Zhuo, Wenzhao Zheng, Jiahe Guo, Yuqi Wu, Jie Zhou, Jiwen Lu
-  Perceiving and reconstructing 4D spatial-temporal geometry from videos is a
-fundamental yet challenging computer vision task. To facilitate interactiv...
+- [Interpreting Radiologist's Intention from Eye Movements in Chest X-ray
+  Diagnosis](http://arxiv.org/abs/2507.12461v1) - Trong-Thang Pham, Anh Nguyen, Zhigang Deng, Carol C. Wu, Hien Van Nguyen, Ngan Le
+  Radiologists rely on eye movements to navigate and interpret medical images.
+A trained radiologist possesses knowledge about the potential diseases th...
 
-- [How Many Instructions Can LLMs Follow at Once?](http://arxiv.org/abs/2507.11538v1) - Daniel Jaroslawicz, Brendan Whiting, Parth Shah, Karime Maamari
-  Production-grade LLM systems require robust adherence to dozens or even
-hundreds of instructions simultaneously. However, the instruction-following
-ca...
+- [S2WTM: Spherical Sliced-Wasserstein Autoencoder for Topic Modeling](http://arxiv.org/abs/2507.12451v1) - Suman Adhya, Debarshi Kumar Sanyal
+  Modeling latent representations in a hyperspherical space has proven
+effective for capturing directional similarities in high-dimensional text data,
+b...
 
-- [DrafterBench: Benchmarking Large Language Models for Tasks Automation in
-  Civil Engineering](http://arxiv.org/abs/2507.11527v1) - Yinsheng Li, Zhen Dong, Yi Shao
-  Large Language Model (LLM) agents have shown great potential for solving
-real-world problems and promise to be a solution for tasks automation in
-indu...
+- [LLM-Based Config Synthesis requires Disambiguation](http://arxiv.org/abs/2507.12443v1) - Rajdeep Mondal, Nikolaj Bjorner, Todd Millstein, Alan Tang, George Varghese
+  Beyond hallucinations, another problem in program synthesis using LLMs is
+ambiguity in user intent. We illustrate the ambiguity problem in a networkin...
 
 
 
@@ -146,25 +147,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $209.11 📈 +0.49 (+0.2%)
-- **GOOGL**: $182.00 📈 +0.44 (+0.2%)
-- **MSFT**: $505.82 📈 +2.80 (+0.6%)
+- **AAPL**: $210.16 📈 +1.05 (+0.5%)
+- **GOOGL**: $182.97 📈 +0.97 (+0.5%)
+- **MSFT**: $505.62 📉 -0.20 (-0.0%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**二叉树的最大深度** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+给定二叉树，找出其最大深度
 
-标签: 字符串, 动态规划
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -175,14 +176,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
+Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《设计模式》** - Gang of Four
 
-容器编排平台的完整指南 (分类: 云原生)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -192,28 +193,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Ambient Coding** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -227,40 +228,42 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**使用有意义的变量名**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `f54940` | 日期: 2025-07-16
+挑战ID: `1fdcb9` | 日期: 2025-07-17
 
 
 ### 📊 技术话题投票
@@ -278,20 +281,20 @@ git commit -m "Add user authentication feature"
 
 ### 🔥 技术热词趋势
 
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Tauri** (Rust) - ⭐ 70k+
 
-现代JavaScript/TypeScript运行时
+使用Rust构建跨平台桌面应用
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
@@ -303,7 +306,7 @@ git commit -m "Add user authentication feature"
 
 ### 😄 程序员笑话
 
-世界上有10种人：懂二进制的和不懂二进制的。
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -317,7 +320,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-16 08:14:30
+- 📅 更新时间: 2025-07-17 08:14:51
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -328,14 +331,14 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 13.0/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 2 (25.0%)
+- 🔥 平均热度: 13.1/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- 深度学习 (1次)
-- OpenAI (1次)
+- 人工智能 (2次)
+- DevOps (1次)
 
 
 ### 🤖 关于此项目
