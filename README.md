@@ -55,75 +55,76 @@
 
 MIT
 
-## 今日更新 (2025-07-17)
+## 今日更新 (2025-07-18)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- 😊 [AI大模型ms-swift框架实战指南（十）：自定义数据集微调实践大全](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
-  在人工智能技术飞速发展的当下，大模型的应用已经渗透到各个领域。然而，通用的大模型往往无法完全满足特定场景的需求，因此对模型进行微调成为了提升模型性能和适用性的关键手段。Swift框架凭借其灵活的特性和...
-- 😊 [数字之美：探索人工智能绘画的奇妙世界](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  随着人工智能技术的快速发展，AI绘画作为一种新兴艺术形式正逐渐引起人们的关注。本文将深入探讨AI绘画的定义、发展历程以及其在不同领域中的应用。
-- 😊 [【海螺AI视频】蓝耘智算 | AI视频新浪潮：蓝耘MaaS与海螺AI视频创作体验](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  蓝耘MaaS平台与海螺AI视频深度融合，前者以智能算力中枢、多模态模型工场赋能AI开发，后者通过零门槛创作和影视级视效革新视频制作。二者结合打造出低代码开发与开放式创作生态，为多领域用户提供安全高效的...
-- 😊 [开源模型应用落地-让AI更懂你的每一次交互-用Redis Stack与LangChain解锁大模型的长期记忆潜能（二）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  结合 Redis Stack 与 LangChain 构建外部记忆系统，以提升大型语言模型的长期记忆与持续学习能力。
-- 😊 [AI编程再突破，文心快码发布行业首个多模态、多智能体协同AI IDE](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  文心快码发布AI IDE，智能体自动写代码，设计稿一键转代码，打造开发者个性化IDE
+- 😊 [LLM+RAG：AI生成测试用例智能体平台「详细介绍」](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  AI生成测试用例智能体平台是一款基于人工智能技术的测试用例自动生成工具，利用RAG（检索增强生成）技术，能够结合项目相关知识文档和历史用例，智能生成高质量的测试用例。本平台适用于测试团队快速创建测试用...
+- 😐 [Gartner发布塑造安全运营未来的关键 AI 自动化趋势](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  生成式AI赋能安全运营：现实与展望 生成式AI正逐步改变安全运营（SOC）模式，通过自动化告警分类、风险评估和威胁检测等任务，显著提升效率。研究显示，AI可减少50%的SOC任务成本，但30%的团队因...
+- 😐 [我把我的声音训练成了AI模型，并让它唱了一首歌...（附超全面教程，你奶奶看了都会用）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  天生五音不全，对于所有需要唱歌的场合我都是抗拒的，因为只有一片笑声。我一直有一个梦想，就是用我的声音，唱一首不跑调的歌。得益于AI的井喷式发展，我的愿望实现了。我把我的声音，训练成了模型，并让它唱了一...
+- 😊 [【飞算JavaAI】一站式智能开发，驱动Java开发全流程革新](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  本文介绍Java智能开发助手：飞算JavaAI。其支持自然语言交互，实现需求分析到代码生成的全流程自动化，具备智能分析、自定义规范、引导开发等能力，Java Chat、智能问答、SQL Chat等功能...
+- 😊 [Playwright + MCP：用AI对话重新定义浏览器自动化，效率提升300%！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  Playwright + MCP的结合，标志着自动化领域从“代码驱动”向“AI驱动”的革命性转变。无论是测试工程师、开发人员还是数据分析师，均可借助这一技术栈大幅提升效率。
 
 
 ### 网络安全资讯
 
 - [新型安卓恶意软件攻击：607 个域名被用于传播伪造 Telegram 应用](https://www.anquanke.com/post/id/310149) - 安全公告，详情请点击链接查看完整内容
-- [CitrixBleed 2 (CVE-2025-5777) 成因分析](https://paper.seebug.org/3339/) - 作者：知道创宇404实验室
-时间：2025年7月16日
-2025年6月17日，Citrix 官方公开修复了两个 CVE 漏洞：CVE-2025-5349和CVE-2025-5777。其中，CVE-20...
-- [谷歌 Gemini 漏洞劫持电子邮件摘要进行网络钓鱼](https://www.4hou.com/posts/MXPA) - 谷歌Gemini for Workspace可以被利用来生成看似合法但包含恶意指令或警告的电子邮件摘要，这些指令可能不使用附件或直接链接将用户引导到网络钓鱼网站。这种攻击利用隐藏在电子邮件中的间接提示...
+- [纠缠威胁：面向量子机器学习安全的统一杀伤链模型](https://paper.seebug.org/3340/) - 作者：Pascal Debus, Maximilian Wendlinger, Kilian Tscharke, Daniel Herr,
+Cedric Brügmann, Daniel Ohl de...
+- [AI赋能安全｜梆梆安全上榜中国信通院2025《数字安全护航技术能力全景图》12大类48项](https://www.4hou.com/posts/1MOR) - 近日，中国信息通信研究院“数字安全护航计划”于2025全球数字经济大会数字生态建设专题论坛重磅发布第三期《数字安全护航技术能力全景图》。梆梆安全凭借卓越实力连续三期登榜，入选12大类48项细分领域，实...
 
 
 ### 技术就业趋势
 
-DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
-- 😟 [99%的程序员都会失业吗？丨AI原生研究系列之AI Coding](https://cloud.tencent.com/developer/article/2541133) 📈 关注
-  又到一年高考季，因为这几年一直在研究大模型，有好几个家长朋友都来咨询，要不要给自己孩子报考计算机专业？接到这个问题，面对“周更”、甚至“日更”的大模型浪潮，着实难给出一个准确的回答，只能说：编程作为一...
-- 😟 [DevOps落地的终极实践：8大关键路径揭秘！](https://cloud.tencent.com/developer/article/2541246) 📈 关注
-  当前，DevOps因其能够降低IT运营成本、提高软件质量并加快上市时间的能力而在全球范围内引起广泛关注。它打破了传统软件开发与运营的界限，消除了新功能发布延迟和软件质量下降的障碍。DevOps通过实施...
-- 😐 [直播预约 | 2025腾讯云金融数智峰会崭新亮相](https://cloud.tencent.com/developer/article/2541480) 📊 普通
-  腾讯云金融行业的年度盛会崭新亮相！2025腾讯云金融数智峰会，即将于7月18日举办。
+- 😊 [RAG彻底爆了！一文读懂其架构演进及核心要点](https://cloud.tencent.com/developer/article/2541498) 🔥 热门
+  本文系统梳理了检索增强生成（RAG）架构的演进历程，从基础架构到智能化解决方案的迭代路径。文章通过对比Naive RAG、Advanced RAG、Modular RAG和Agentic RAG四代架...
+- 😊 [架构师如何与 AI 共生进化？2025 腾讯云架构师峰会来揭晓！](https://cloud.tencent.com/developer/article/2541496) 📈 关注
+  架构师正站在技术变革的最前沿。面对大模型等技术的快速演进，传统架构设计方法和思维难以应对复杂的业务需求和不断进化的技术栈。智能时代，架构师如何与 AI 共同进化，寻找更多未来发展机遇？
+- 😊 [AI时代的数据挑战与应对：向量数据库的升级与实践](https://cloud.tencent.com/developer/article/2541483) 📈 关注
+  本文内容节选自6月13日，由msup和高可用架构联合主办的GIAC全球互联网架构大会，腾讯云向量数据库高级产品经理熊鑫分享的《腾讯云向量数据库助力大模型激活企业数据价值》案例实录。
 
 
 ### GitHub 趋势项目
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
-- [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 
 
 
 
 ### AI 研究论文
 
-- [Interpreting Radiologist's Intention from Eye Movements in Chest X-ray
-  Diagnosis](http://arxiv.org/abs/2507.12461v1) - Trong-Thang Pham, Anh Nguyen, Zhigang Deng, Carol C. Wu, Hien Van Nguyen, Ngan Le
-  Radiologists rely on eye movements to navigate and interpret medical images.
-A trained radiologist possesses knowledge about the potential diseases th...
+- [VideoITG: Multimodal Video Understanding with Instructed Temporal
+  Grounding](http://arxiv.org/abs/2507.13353v1) - Shihao Wang, Guo Chen, De-an Huang, Zhiqi Li, Minghan Li, Guilin Li, Jose M. Alvarez, Lei Zhang, Zhiding Yu
+  Recent studies have revealed that selecting informative and relevant video
+frames can significantly improve the performance of Video Large Language Mo...
 
-- [S2WTM: Spherical Sliced-Wasserstein Autoencoder for Topic Modeling](http://arxiv.org/abs/2507.12451v1) - Suman Adhya, Debarshi Kumar Sanyal
-  Modeling latent representations in a hyperspherical space has proven
-effective for capturing directional similarities in high-dimensional text data,
-b...
+- [VisionThink: Smart and Efficient Vision Language Model via Reinforcement
+  Learning](http://arxiv.org/abs/2507.13348v1) - Senqiao Yang, Junyi Li, Xin Lai, Bei Yu, Hengshuang Zhao, Jiaya Jia
+  Recent advancements in vision-language models (VLMs) have improved
+performance by increasing the number of visual tokens, which are often
+significantl...
 
-- [LLM-Based Config Synthesis requires Disambiguation](http://arxiv.org/abs/2507.12443v1) - Rajdeep Mondal, Nikolaj Bjorner, Todd Millstein, Alan Tang, George Varghese
-  Beyond hallucinations, another problem in program synthesis using LLMs is
-ambiguity in user intent. We illustrate the ambiguity problem in a networkin...
+- [Imbalance in Balance: Online Concept Balancing in Generation Models](http://arxiv.org/abs/2507.13345v1) - Yukai Shi, Jiarong Ou, Rui Chen, Haotian Yang, Jiahao Wang, Xin Tao, Pengfei Wan, Di Zhang, Kun Gai
+  In visual generation tasks, the responses and combinations of complex
+concepts often lack stability and are error-prone, which remains an
+under-explor...
 
 
 
@@ -147,25 +148,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $210.16 📈 +1.05 (+0.5%)
-- **GOOGL**: $182.97 📈 +0.97 (+0.5%)
-- **MSFT**: $505.62 📉 -0.20 (-0.0%)
+- **AAPL**: $210.02 📉 -0.14 (-0.1%)
+- **GOOGL**: $183.58 📈 +0.61 (+0.3%)
+- **MSFT**: $511.70 📈 +6.08 (+1.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**二叉树的最大深度** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-给定二叉树，找出其最大深度
+给定字符串，找出其中最长的回文子串
 
-标签: 树, 递归
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -176,14 +177,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《代码整洁之道》** - Robert C. Martin
 
-面向对象设计的经典模式 (分类: 软件设计)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -193,14 +194,14 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
@@ -212,9 +213,9 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -240,41 +241,41 @@ D. PATCH更快
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**网络建设**: 参加技术会议和meetup，建立专业人脉网络
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 每月参加至少一次技术聚会或在线会议
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🥷 代码忍者
+今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `1fdcb9` | 日期: 2025-07-17
+挑战ID: `12099d` | 日期: 2025-07-18
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
@@ -284,29 +285,29 @@ const a = 25;
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-使用Rust构建跨平台桌面应用
+现代Web应用框架
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-真正的程序员不需要注释，代码就是最好的文档。
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -320,7 +321,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-17 08:14:51
+- 📅 更新时间: 2025-07-18 08:14:38
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -331,14 +332,14 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 2 (25.0%)
-- 🔥 平均热度: 13.1/100
+- 😊 积极新闻: 6 (75.0%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 18.0/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- 人工智能 (2次)
-- DevOps (1次)
+- AI (8次)
+- AR (2次)
+- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
