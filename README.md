@@ -55,77 +55,76 @@
 
 MIT
 
-## 今日更新 (2025-07-23)
+## 今日更新 (2025-07-24)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- 😐 [达人评测 锐龙AI MAX+ 395和锐龙9 9955HX3D性能差距](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  锐龙AI Max+ 395采用‌Zen 5‌架构和‌4纳米‌生产工艺16核心32线程基础频率为‌2.5GHz‌，最高加速频率‌5.1GHz‌三级缓存为64MB热设计功耗(TDP)为‌70W‌集成Rad...
-- 😊 [飞算 JavaAI 开发助手：深度学习驱动下的 Java 全链路智能开发新范式](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  飞算 JavaAI 开发助手：深度学习驱动下的 Java 全链路智能开发新范式
-- 😊 [AI工具发展到什么程度了？AI一键搞定视频内容、总结、分镜脚本，懒人必备！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  摘要：豆包推出"视频总结"新功能，支持一键提取视频内容、生成总结、拆解分镜和脚本，适用于学习、工作和自媒体创作。使用方法简单：上传视频或输入链接，结合提示词可完成内容提取、分镜分析、脚本生成等任务。该...
-- 😐 [懒人福音！MG动画用AI一键生成，比剪辑软件快10倍！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  它结合了图形设计与动画技术，通过图像、文字、音效等元素的动态组合，呈现出清晰、有趣且具有视觉冲击力的表达效果。如今，不管是在知识类短视频，还是PPT讲解、产品宣传中，我们常常看到一些卡通人物搭配字幕、...
-- 😐 [AI代码远征季-一人挑战全栈研发简历制作小程序](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  起因是 我一直认为云函数只能用于获取数据库的数据操作， 但是该项目中存在的一些业务逻辑并不是通过数据获取就可以解决的， 因此我在不断的查找资料之后，突然茅塞顿开， 云函数 我们可以将其理解成一个个独立...
+- 😊 [使用 Spring AI OpenAI Starter 快速集成指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  使用 Spring AI OpenAI Starter 快速集成指南 Spring AI 的 spring-ai-openai-spring-boot-starter 提供了与 OpenAI 模型（如...
+- 😊 [MasterGo AI快速生成网页设计图 &&生成多框架前端代码](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  MasterGo是一款由国内设计工具平台 MasterGo（莫高设计）推出的 AI 驱动型智能设计工具，旨在通过人工智能技术革新传统设计流程，提升从界面设计到代码生成的全链条效率。输入需求后，AI 可...
+- 😊 [DeepSeek R1 引发的思考：机器学习时代的人类与 AI 协作](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  DeepSeek R1采用的混合专家模型（MoE）架构是其性能提升的关键。传统的稠密模型在处理大规模数据和复杂任务时，计算成本高昂且效率低下。而MoE架构通过动态激活部分专家子网络，能够根据输入数据的...
+- 😐 [2025年全球10大AI大模型排行榜出炉！中国独占6席](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  2025年是AI大模型的爆发之年，也是AI大模型发展的分水岭，谁能留在牌桌上，谁能引领AI最前沿，都是该见分晓的时候了。全球AI大模型那么多，究竟谁好谁坏？让我们拨开AI大模型的面纱，退去营销的潮水，...
+- 😐 [若依框架二次开发——RuoYi-AI 集成本地大模型](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  若依框架二次开发——RuoYi-AI 集成本地大模型
 
 
 ### 网络安全资讯
 
-- [绕过大模型护栏 | 新型“回音室”攻击和对抗技术](https://www.anquanke.com/post/id/310375) - 安全公告，详情请点击链接查看完整内容
-- [Weaponized VSCode：基于笔记驱动的 VSCode 辅助渗透测试项目](https://paper.seebug.org/3343/) - 作者：Esonhugh
-原文链接：https://share.note.sx/46pvsz6d#ll59O32fw5PyMGHnj2U8293LlwqkYLIxyXEzhXnwHiA
-Intro
-本文...
-- [关键信息基础设施商用密码使用管理规定](https://www.4hou.com/posts/6Mln) - 《关键信息基础设施商用密码使用管理规定》已经2025年4月21日国家密码管理局局务会议审议通过，并经国家互联网信息办公室、公安部同意，现予公布，自2025年8月1日起施行。关键信息基础设施商用密码使用...
+- [隐匿学习：语言模型通过数据中的隐藏信号传递行为特征](https://paper.seebug.org/3344/) - 作者：Alex Cloud, Minh Le, James Chua, Jan Betley, Anna Sztyber-Betley, Jacob Hilton, Samuel Marks, Owa...
+- [Darka5恶意家族样本分析](https://www.4hou.com/posts/jBmR) - 近期，广州大学、国家工业信息安全发展研究中心与杭州海康威视数字技术股份有限公司安全研究团队在研究过程中捕获到一例具有显著特征的病毒样本，该样本具有独特的攻击手法和高度的隐蔽性，根据其在下载服务器上的文...
+- [DeepSeek-671B纯CPU部署经验分享(一)](https://xlab.tencent.com/cn/2025/03/16/DeepSeek-671B%E7%BA%AFCPU%E9%83%A8%E7%BD%B2%E5%AE%9E%E8%B7%B5%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB(%E4%B8%80)/) - 
+私有化部署大模型能够有效保护数据隐私、便于开展大模型安全研究和知识蒸馏。目前主流部署方式包括纯 GPU、CPU/GPU 混合以及纯 CPU 三种部署方式。本文介绍了我们针对 DeepSeek 大模型...
 
 
 ### 技术就业趋势
 
-DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
-- 😊 [“从科幻到现实：GPT Agent已经能像人类一样操作电脑了](https://cloud.tencent.com/developer/article/2543271) 🔥🔥🔥 超热
-  初步一看，这个新的GPT Agent产品应该是之前好几个功能的合体。它把OpenAI之前就发布的Operator和Deep Research功能合并到一起，然后让这个智能体能够一边操作你的电脑，一边把...
-- 😊 [【二进制优化 | 性能优化】（篇1）什么是 BOLT（Binary Optimization and Layout Tool）？BOLT 的基本流程是啥？如何使用？](https://cloud.tencent.com/developer/article/2543672) 📈 关注
-  BOLT（Binary Optimization and Layout Tool）是 Facebook 开发的一款针对编译后二进制文件的优化工具，通过 代码布局优化 和 数据局部性提升 显著提高程序性...
-- 😊 [EdgeOne 第二季度产品动态｜规则引擎、源站防护全新升级](https://cloud.tencent.com/developer/article/2543028) 📊 普通
-  EdgeOne 始终坚持聆听用户之声，持续进行产品升级迭代，钻研先进技术方向。接下来将为您重点讲解本季度 EdgeOne 在边缘加速板块全新升级的规则引擎、源站防护两大能力。
+- 😊 [腾讯云ChatBI：多表关联重磅来袭，四大能力升级提升智能分析体验](https://cloud.tencent.com/developer/article/2543992) 📈 关注
+  腾讯云ChatBI是腾讯云BI打造的智能分析Agent，基于大模型AI技术，支持用户以自然语言提问获取数据，并从数据中发现变化趋势和潜在问题，进行数据波动归因分析，提供业务优化建议，形成分析报告，帮助...
+- 😊 [小程序给图片添加水印（时间，经纬度信息）](https://cloud.tencent.com/developer/article/2545315) 📈 关注
+  在移动互联网时代，小程序因其轻量、便捷的特性，逐渐成为用户日常生活中不可或缺的工具。无论是社交、购物，还是记录生活，小程序都提供了丰富的功能。然而，随着用户对数据安全和信息追溯需求的增加，如何在图片中...
+- 😐 [腾讯云 GooseFS 团队与厦门大学合作成果 AC-Cache 入选 PPOPP](https://cloud.tencent.com/developer/article/2545284) 📊 普通
+  近日，腾讯云在存储领域的论文入选并行编程领域顶级会议 PPOPP 2025。通过设计面向小型对象的、感知访问关联性的内存缓存系统 AC-Cache，成功解决小型对象存储场景中的负载不均衡问题，实测显示...
 
 
 ### GitHub 趋势项目
 
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
-- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 
 
 
 
 ### AI 研究论文
 
-- [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent
-  Planning](http://arxiv.org/abs/2507.16815v1) - Chi-Pin Huang, Yueh-Hua Wu, Min-Hung Chen, Yu-Chiang Frank Wang, Fu-En Yang
-  Vision-language-action (VLA) reasoning tasks require agents to interpret
-multimodal instructions, perform long-horizon planning, and act adaptively in...
+- [Large Learning Rates Simultaneously Achieve Robustness to Spurious
+  Correlations and Compressibility](http://arxiv.org/abs/2507.17748v1) - Melih Barsbey, Lucas Prieto, Stefanos Zafeiriou, Tolga Birdal
+  Robustness and resource-efficiency are two highly desirable properties for
+modern machine learning models. However, achieving them jointly remains a
+c...
 
-- [MegaScience: Pushing the Frontiers of Post-Training Datasets for Science
-  Reasoning](http://arxiv.org/abs/2507.16812v1) - Run-Ze Fan, Zengzhi Wang, Pengfei Liu
-  Scientific reasoning is critical for developing AI scientists and supporting
-human researchers in advancing the frontiers of natural science discovery...
+- [Pretraining on the Test Set Is No Longer All You Need: A Debate-Driven
+  Approach to QA Benchmarks](http://arxiv.org/abs/2507.17747v1) - Linbo Cao, Jinman Zhao
+  As frontier language models increasingly saturate standard QA benchmarks,
+concerns about data contamination, memorization, and escalating dataset
+crea...
 
-- [Rethinking LLM-Based RTL Code Optimization Via Timing Logic
-  Metamorphosis](http://arxiv.org/abs/2507.16808v1) - Zhihao Xu, Bixin Li, Lulu Wang
-  Register Transfer Level(RTL) code optimization is crucial for achieving high
-performance and low power consumption in digital circuit design. However,...
+- [Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains](http://arxiv.org/abs/2507.17746v1) - Anisha Gunjal, Anthony Wang, Elaine Lau, Vaskar Nath, Bing Liu, Sean Hendryx
+  Extending Reinforcement Learning with Verifiable Rewards (RLVR) to real-world
+tasks often requires balancing objective and subjective evaluation crite...
 
 
 
@@ -149,25 +148,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $214.40 📈 +1.92 (+0.9%)
-- **GOOGL**: $191.34 📈 +1.24 (+0.7%)
-- **MSFT**: $505.27 📉 -4.79 (-0.9%)
+- **AAPL**: $214.15 📉 -0.25 (-0.1%)
+- **GOOGL**: $190.23 📉 -1.11 (-0.6%)
+- **MSFT**: $505.87 📈 +0.60 (+0.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+给定二叉树，找出其最大深度
 
-标签: 数组, 哈希表
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -178,14 +177,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《代码整洁之道》** - Robert C. Martin
 
-面向对象设计的经典模式 (分类: 软件设计)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -195,14 +194,14 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
@@ -242,30 +241,30 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**网络建设**: 参加技术会议和meetup，建立专业人脉网络
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 每月参加至少一次技术聚会或在线会议
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `10d9d4` | 日期: 2025-07-23
+挑战ID: `bf3321` | 日期: 2025-07-24
 
 
 ### 📊 技术话题投票
@@ -283,32 +282,32 @@ test('should calculate tax correctly', () => {
 
 ### 🔥 技术热词趋势
 
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-高性能代码编辑器
+现代Web应用框架
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**安全工程师** (中级) 📈
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -322,7 +321,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-23 08:14:56
+- 📅 更新时间: 2025-07-24 08:15:11
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -335,14 +334,14 @@ test('should calculate tax correctly', () => {
 - 📰 新闻总数: 8
 - 😊 积极新闻: 5 (62.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 18.8/100
+- 🔥 平均热度: 17.6/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- AR (2次)
-- GPT (1次)
 - OpenAI (1次)
-- 5G (1次)
+- AR (1次)
+- 人工智能 (1次)
+- 机器学习 (1次)
 
 
 ### 🤖 关于此项目
