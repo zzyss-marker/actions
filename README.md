@@ -55,76 +55,74 @@
 
 MIT
 
-## 今日更新 (2025-07-24)
+## 今日更新 (2025-07-25)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- 😊 [使用 Spring AI OpenAI Starter 快速集成指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
-  使用 Spring AI OpenAI Starter 快速集成指南 Spring AI 的 spring-ai-openai-spring-boot-starter 提供了与 OpenAI 模型（如...
-- 😊 [MasterGo AI快速生成网页设计图 &&生成多框架前端代码](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
-  MasterGo是一款由国内设计工具平台 MasterGo（莫高设计）推出的 AI 驱动型智能设计工具，旨在通过人工智能技术革新传统设计流程，提升从界面设计到代码生成的全链条效率。输入需求后，AI 可...
-- 😊 [DeepSeek R1 引发的思考：机器学习时代的人类与 AI 协作](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
-  DeepSeek R1采用的混合专家模型（MoE）架构是其性能提升的关键。传统的稠密模型在处理大规模数据和复杂任务时，计算成本高昂且效率低下。而MoE架构通过动态激活部分专家子网络，能够根据输入数据的...
-- 😐 [2025年全球10大AI大模型排行榜出炉！中国独占6席](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  2025年是AI大模型的爆发之年，也是AI大模型发展的分水岭，谁能留在牌桌上，谁能引领AI最前沿，都是该见分晓的时候了。全球AI大模型那么多，究竟谁好谁坏？让我们拨开AI大模型的面纱，退去营销的潮水，...
-- 😐 [若依框架二次开发——RuoYi-AI 集成本地大模型](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  若依框架二次开发——RuoYi-AI 集成本地大模型
+- 😊 [华为云Flexus+DeepSeek征文｜打造一款智能问数 AI Agent 的完整实践指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  Dify平台部署使用了华为云最新的Flexus X实例性能提升 1.6 倍，大模型推理响应更快；关键业务应用最高加速 6 倍，特别适合 AI 推理类应用；综合降本约 30%，降低试验和部署成本；旗舰级...
+- 😊 [【人工智能】手把手教你安装CUDA：从版本确认到安装完成](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  摘要：本文详细讲解如何安装与显卡匹配的CUDA版本，包含3个关键步骤：1)通过nvidia-smi.exe命令确认显卡支持的CUDA最高版本（示例显示12.6）；2)下载对应版本的CUDA工具包；3)...
+- 😐 [消除AI味！25个高级DeepSeek指令降低AI率90%](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  AI 生成文本常见现象包括固定模板、“然而、此外”连续堆叠、句式单调。将原段落分多轮输入 DeepSeek，要求保留信息密度的同时，随机化连接词、增添口语化轻描述或适度倒装，让语言呈现更自然的节奏与停...
+- 😐 [多模态AI Agent技术栈解析：视觉-语言-决策融合的算法原理与实践](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  《多模态AIAgent技术栈解析：视觉-语言-决策融合的实践路径》 摘要： 多模态AIAgent通过整合视觉、语言、语音等模态数据，实现了超越单一模态系统的环境感知与决策能力。本文系统剖析了该技术的核...
+- 😊 [【飞算JavaAI】智能开发助手赋能Java领域，飞算JavaAI全方位解析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  数字化浪潮下Java开发挑战多，飞算JavaAI于2025年1月发布，支持自然语言与语音交互，有三大核心能力，能重塑AI编码价值，安装便捷，有“智能引导”等多功能板块，可提升开发效率与质量。
 
 
 ### 网络安全资讯
 
+- [猎影计划：从密流中捕获 Cobalt Strike 的隐秘身影](https://www.anquanke.com/post/id/310538) - 安全公告，详情请点击链接查看完整内容
 - [隐匿学习：语言模型通过数据中的隐藏信号传递行为特征](https://paper.seebug.org/3344/) - 作者：Alex Cloud, Minh Le, James Chua, Jan Betley, Anna Sztyber-Betley, Jacob Hilton, Samuel Marks, Owa...
-- [Darka5恶意家族样本分析](https://www.4hou.com/posts/jBmR) - 近期，广州大学、国家工业信息安全发展研究中心与杭州海康威视数字技术股份有限公司安全研究团队在研究过程中捕获到一例具有显著特征的病毒样本，该样本具有独特的攻击手法和高度的隐蔽性，根据其在下载服务器上的文...
-- [DeepSeek-671B纯CPU部署经验分享(一)](https://xlab.tencent.com/cn/2025/03/16/DeepSeek-671B%E7%BA%AFCPU%E9%83%A8%E7%BD%B2%E5%AE%9E%E8%B7%B5%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB(%E4%B8%80)/) - 
-私有化部署大模型能够有效保护数据隐私、便于开展大模型安全研究和知识蒸馏。目前主流部署方式包括纯 GPU、CPU/GPU 混合以及纯 CPU 三种部署方式。本文介绍了我们针对 DeepSeek 大模型...
+- [公安部计算机信息系统安全产品质量监督检验中心检测发现33款违法违规收集使用个人信息的移动应用](https://www.4hou.com/posts/pnv2) - 依据《网络安全法》《个人信息保护法》等法律法规，按照《中央网信办、工业和信息化部、公安部、市场监管总局关于开展2025年个人信息保护系列专项行动的公告》要求，经公安部计算机信息系统安全产品质量监督检验...
 
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
-- 😊 [腾讯云ChatBI：多表关联重磅来袭，四大能力升级提升智能分析体验](https://cloud.tencent.com/developer/article/2543992) 📈 关注
-  腾讯云ChatBI是腾讯云BI打造的智能分析Agent，基于大模型AI技术，支持用户以自然语言提问获取数据，并从数据中发现变化趋势和潜在问题，进行数据波动归因分析，提供业务优化建议，形成分析报告，帮助...
-- 😊 [小程序给图片添加水印（时间，经纬度信息）](https://cloud.tencent.com/developer/article/2545315) 📈 关注
-  在移动互联网时代，小程序因其轻量、便捷的特性，逐渐成为用户日常生活中不可或缺的工具。无论是社交、购物，还是记录生活，小程序都提供了丰富的功能。然而，随着用户对数据安全和信息追溯需求的增加，如何在图片中...
-- 😐 [腾讯云 GooseFS 团队与厦门大学合作成果 AC-Cache 入选 PPOPP](https://cloud.tencent.com/developer/article/2545284) 📊 普通
-  近日，腾讯云在存储领域的论文入选并行编程领域顶级会议 PPOPP 2025。通过设计面向小型对象的、感知访问关联性的内存缓存系统 AC-Cache，成功解决小型对象存储场景中的负载不均衡问题，实测显示...
+- 😐 [golang map面试考点](https://cloud.tencent.com/developer/article/2546010) 📊 普通
+  Go 语言中的map底层是基于哈希表实现的。其核心数据结构为hmap，在这个结构里包含了一个由桶（bucket）组成的数组。每个桶实际上是一个bmap结构，它能够存储 8 个键值对。
+- 😐 [通俗讲解-为什么协程要比线程快](https://cloud.tencent.com/developer/article/2546012) 📊 普通
+  线程是操作系统内核管理的 “重量级选手”：创建销毁要过内核，占几 MB 内存，一个进程最多几千个。
+ 协程是用户态的 “轻量级选手”：由 Go runtime 直接管理，初始栈只有几 KB 还能动态伸...
+- 😟 [Redis与数据库一致性](https://cloud.tencent.com/developer/article/2546011) 📊 普通
+  在高并发系统中，Redis作为缓存与数据库的配合使用几乎是标配，但两者的数据一致性问题却常常成为开发与面试中的焦点。
 
 
 ### GitHub 趋势项目
 
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
-- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
+- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 
 
 
 
 ### AI 研究论文
 
-- [Large Learning Rates Simultaneously Achieve Robustness to Spurious
-  Correlations and Compressibility](http://arxiv.org/abs/2507.17748v1) - Melih Barsbey, Lucas Prieto, Stefanos Zafeiriou, Tolga Birdal
-  Robustness and resource-efficiency are two highly desirable properties for
-modern machine learning models. However, achieving them jointly remains a
-c...
+- [SIDA: Synthetic Image Driven Zero-shot Domain Adaptation](http://arxiv.org/abs/2507.18632v1) - Ye-Chan Kim, SeungJu Cha, Si-Woo Kim, Taewhan Kim, Dong-Jin Kim
+  Zero-shot domain adaptation is a method for adapting a model to a target
+domain without utilizing target domain image data. To enable adaptation witho...
 
-- [Pretraining on the Test Set Is No Longer All You Need: A Debate-Driven
-  Approach to QA Benchmarks](http://arxiv.org/abs/2507.17747v1) - Linbo Cao, Jinman Zhao
-  As frontier language models increasingly saturate standard QA benchmarks,
-concerns about data contamination, memorization, and escalating dataset
-crea...
+- [3D Software Synthesis Guided by Constraint-Expressive Intermediate
+  Representation](http://arxiv.org/abs/2507.18625v1) - Shuqing Li, Anson Y. Lam, Yun Peng, Wenxuan Wang, Michael R. Lyu
+  Graphical user interface (UI) software has undergone a fundamental
+transformation from traditional two-dimensional (2D) desktop/web/mobile
+interfaces ...
 
-- [Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains](http://arxiv.org/abs/2507.17746v1) - Anisha Gunjal, Anthony Wang, Elaine Lau, Vaskar Nath, Bing Liu, Sean Hendryx
-  Extending Reinforcement Learning with Verifiable Rewards (RLVR) to real-world
-tasks often requires balancing objective and subjective evaluation crite...
+- [Moving Out: Physically-grounded Human-AI Collaboration](http://arxiv.org/abs/2507.18623v1) - Xuhui Kang, Sung-Wook Lee, Haolin Liu, Yuyan Wang, Yen-Ling Kuo
+  The ability to adapt to physical actions and constraints in an environment is
+crucial for embodied agents (e.g., robots) to effectively collaborate wi...
 
 
 
@@ -148,25 +146,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $214.15 📉 -0.25 (-0.1%)
-- **GOOGL**: $190.23 📉 -1.11 (-0.6%)
-- **MSFT**: $505.87 📈 +0.60 (+0.1%)
+- **AAPL**: $213.76 📉 -0.39 (-0.2%)
+- **GOOGL**: $192.17 📈 +1.94 (+1.0%)
+- **MSFT**: $510.88 📈 +5.01 (+1.0%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**二叉树的最大深度** (难度: 简单)
+**两数之和** (难度: 简单)
 
-给定二叉树，找出其最大深度
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 树, 递归
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -177,14 +175,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《设计模式》** - Gang of Four
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -195,27 +193,27 @@ satellite communication systems has elevated the importance of secure vide...
 ### 🚀 创业公司动态
 
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Synthwave Mix** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -241,73 +239,73 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `bf3321` | 日期: 2025-07-24
+挑战ID: `ba294a` | 日期: 2025-07-25
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-现代Web应用框架
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+世界上有10种人：懂二进制的和不懂二进制的。
 
 
 ### 🐙 GitHub 生态统计
@@ -321,7 +319,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-24 08:15:11
+- 📅 更新时间: 2025-07-25 08:14:38
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -332,16 +330,13 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 17.6/100
+- 😊 积极新闻: 3 (37.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 8.4/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- OpenAI (1次)
-- AR (1次)
+- AI (4次)
 - 人工智能 (1次)
-- 机器学习 (1次)
 
 
 ### 🤖 关于此项目
