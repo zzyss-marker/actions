@@ -55,55 +55,55 @@
 
 MIT
 
-## 今日更新 (2025-07-25)
+## 今日更新 (2025-07-26)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
 
 ### AI 技术动态
 
-- 😊 [华为云Flexus+DeepSeek征文｜打造一款智能问数 AI Agent 的完整实践指南](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  Dify平台部署使用了华为云最新的Flexus X实例性能提升 1.6 倍，大模型推理响应更快；关键业务应用最高加速 6 倍，特别适合 AI 推理类应用；综合降本约 30%，降低试验和部署成本；旗舰级...
-- 😊 [【人工智能】手把手教你安装CUDA：从版本确认到安装完成](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  摘要：本文详细讲解如何安装与显卡匹配的CUDA版本，包含3个关键步骤：1)通过nvidia-smi.exe命令确认显卡支持的CUDA最高版本（示例显示12.6）；2)下载对应版本的CUDA工具包；3)...
-- 😐 [消除AI味！25个高级DeepSeek指令降低AI率90%](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  AI 生成文本常见现象包括固定模板、“然而、此外”连续堆叠、句式单调。将原段落分多轮输入 DeepSeek，要求保留信息密度的同时，随机化连接词、增添口语化轻描述或适度倒装，让语言呈现更自然的节奏与停...
-- 😐 [多模态AI Agent技术栈解析：视觉-语言-决策融合的算法原理与实践](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  《多模态AIAgent技术栈解析：视觉-语言-决策融合的实践路径》 摘要： 多模态AIAgent通过整合视觉、语言、语音等模态数据，实现了超越单一模态系统的环境感知与决策能力。本文系统剖析了该技术的核...
+- 😐 [Cluely 使用指南：一款重新定义“作弊”的AI工具](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  Cluely 是一款由 21 岁韩国裔创业者 Chungin “Roy” Lee 和联合创始人 Neel Shanmugam 开发的 AI 工具，其核心理念是“通过技术杠杆重新定义人类能力边界”。该工...
 - 😊 [【飞算JavaAI】智能开发助手赋能Java领域，飞算JavaAI全方位解析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
   数字化浪潮下Java开发挑战多，飞算JavaAI于2025年1月发布，支持自然语言与语音交互，有三大核心能力，能重塑AI编码价值，安装便捷，有“智能引导”等多功能板块，可提升开发效率与质量。
+- 😊 [飞算 JavaAI 智控引擎：全链路开发自动化新图景](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  飞算JavaAI开发助手是一款深度适配Java生态的智能开发工具，通过自然语言需求解析，实现从架构设计、代码生成到工程落地的全流程自动化。其核心功能包括：1）智能需求拆解，精准解析业务逻辑并生成开发任...
+- 😐 [从RNN到Transformer：生成式AI自回归模型的全面剖析](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  自回归模型是一种基于历史信息预测未来的生成模型。它假设当前的输出可以完全由之前的输出推导而来。这种机制被广泛应用于时间序列分析，而在生成式AI中，它的核心理念体现在逐步生成目标内容（如文本、音频或图像...
+- 😐 [太简单了，Spring AI 接入 DeepSeek（附完整避坑指南）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  被 Spring AI 惊艳到了，比想象的简单多了，一个 Controller 就能接入 AI，帮了我卡住三天的大忙。
 
 
 ### 网络安全资讯
 
-- [猎影计划：从密流中捕获 Cobalt Strike 的隐秘身影](https://www.anquanke.com/post/id/310538) - 安全公告，详情请点击链接查看完整内容
 - [隐匿学习：语言模型通过数据中的隐藏信号传递行为特征](https://paper.seebug.org/3344/) - 作者：Alex Cloud, Minh Le, James Chua, Jan Betley, Anna Sztyber-Betley, Jacob Hilton, Samuel Marks, Owa...
 - [公安部计算机信息系统安全产品质量监督检验中心检测发现33款违法违规收集使用个人信息的移动应用](https://www.4hou.com/posts/pnv2) - 依据《网络安全法》《个人信息保护法》等法律法规，按照《中央网信办、工业和信息化部、公安部、市场监管总局关于开展2025年个人信息保护系列专项行动的公告》要求，经公安部计算机信息系统安全产品质量监督检验...
+- [DeepSeek-671B纯CPU部署经验分享(一)](https://xlab.tencent.com/cn/2025/03/16/DeepSeek-671B%E7%BA%AFCPU%E9%83%A8%E7%BD%B2%E5%AE%9E%E8%B7%B5%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB(%E4%B8%80)/) - 
+私有化部署大模型能够有效保护数据隐私、便于开展大模型安全研究和知识蒸馏。目前主流部署方式包括纯 GPU、CPU/GPU 混合以及纯 CPU 三种部署方式。本文介绍了我们针对 DeepSeek 大模型...
 
 
 ### 技术就业趋势
 
-边缘计算和IoT专家在制造业和智能城市项目中需求增加。
+网络安全人才缺口扩大，零信任安全模型专家需求激增。
 
 ### 科技热点
 
-- 😐 [golang map面试考点](https://cloud.tencent.com/developer/article/2546010) 📊 普通
-  Go 语言中的map底层是基于哈希表实现的。其核心数据结构为hmap，在这个结构里包含了一个由桶（bucket）组成的数组。每个桶实际上是一个bmap结构，它能够存储 8 个键值对。
-- 😐 [通俗讲解-为什么协程要比线程快](https://cloud.tencent.com/developer/article/2546012) 📊 普通
-  线程是操作系统内核管理的 “重量级选手”：创建销毁要过内核，占几 MB 内存，一个进程最多几千个。
- 协程是用户态的 “轻量级选手”：由 Go runtime 直接管理，初始栈只有几 KB 还能动态伸...
-- 😟 [Redis与数据库一致性](https://cloud.tencent.com/developer/article/2546011) 📊 普通
-  在高并发系统中，Redis作为缓存与数据库的配合使用几乎是标配，但两者的数据一致性问题却常常成为开发与面试中的焦点。
+- 😊 [TAPD亮相2025可信云大会，获中国信通院多项权威认证，共同发布AI技术在项目管理中的应用洞察报告](https://cloud.tencent.com/developer/article/2546343) 🔥🔥🔥 超热
+  近日，以“云智融合，可信未来”为主题的2025可信云大会在北京召开。本次大会由中国通信标准化协会主办、中国信息通信研究院承办，汇聚百余位云计算专家、企业代表及行业用户，共探人工智能与与计算融合发展的新...
+- 😊 [3小时→3分钟！校验速度提升60倍！DTS团队自研校验服务性能曝光](https://cloud.tencent.com/developer/article/2546338) 📊 普通
+  针对开源MySQL校验工具PT存在前置约束大、业务场景适配性低的问题，DTS团队在深入解构数据校验原理的基础上，结合自身系统架构特点，自主研发了适配性更强的校验服务。
+- 😐 [不画一张架构图讲透架构思维](https://cloud.tencent.com/developer/article/2546348) 📊 普通
+  本文深入探讨软件架构的本质与设计方法论，从架构定义演变到现代架构实践挑战，系统分析架构设计面临的业务复杂度、分工困境和现实约束。作者提出“架构即软件设计本身”的核心观点，强调架构应平衡业务需求、团队协...
 
 
 ### GitHub 趋势项目
 
-- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
+- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
+- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
-- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
-- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 
 
 
@@ -146,25 +146,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $213.76 📉 -0.39 (-0.2%)
-- **GOOGL**: $192.17 📈 +1.94 (+1.0%)
-- **MSFT**: $510.88 📈 +5.01 (+1.0%)
+- **AAPL**: $213.88 📈 +0.12 (+0.1%)
+- **GOOGL**: $193.18 📈 +1.01 (+0.5%)
+- **MSFT**: $513.71 📈 +2.83 (+0.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+将两个升序链表合并为一个新的升序链表
 
-标签: 数组, 哈希表
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -175,14 +175,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Kubernetes权威指南》** - 龚正等
 
-面向对象设计的经典模式 (分类: 软件设计)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -198,22 +198,22 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Ambient Coding** - Various Artists
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -227,27 +227,26 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**遵循单一职责原则**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
@@ -260,52 +259,52 @@ test('should calculate tax correctly', () => {
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🧠 算法大师
+今日挑战徽章：💡 创新者
 
-挑战ID: `ba294a` | 日期: 2025-07-25
+挑战ID: `c2d3c3` | 日期: 2025-07-26
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代JavaScript/TypeScript运行时
+高性能代码编辑器
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**安全工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-世界上有10种人：懂二进制的和不懂二进制的。
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -319,7 +318,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-25 08:14:38
+- 📅 更新时间: 2025-07-26 08:12:39
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -330,13 +329,14 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 8.4/100
+- 😊 积极新闻: 4 (50.0%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 13.9/100
 
 🏷️ **热门关键词**:
-- AI (4次)
+- AI (6次)
 - 人工智能 (1次)
+- 云计算 (1次)
 
 
 ### 🤖 关于此项目
