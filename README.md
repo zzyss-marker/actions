@@ -55,72 +55,77 @@
 
 MIT
 
-## 今日更新 (2025-07-30)
+## 今日更新 (2025-07-31)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- 😐 [【Cursor实战】AI 赋能 Chrome 插件开发：从零打造豆包图片去水印插件](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  Cursor作为VS Code衍生编辑器，核心优势在于实时双向交互与上下文深度理解：支持自然语言指令生成代码、动态调试建议及跨文件逻辑关联，大幅降低复杂功能的实现门槛。本文聚焦基于Cursor编辑器，...
-- 😐 [Java后端开发神器：飞算JavaAI让我从菜鸟变高手](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  Java开发，难在哪？对新手来说，是 Spring 庞杂的生态和似乎永远也写不完的"样板代码"；对老手而言，则是日复一日的增删改查（CRUD）和维护难以读懂的旧系统。我们花费了太多时间在"搬砖"上，而...
-- 😊 [最新AI大模型数据集解决方案：分享两种AI高质量代码数据集生产方案](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  最新AI大模型数据集解决方案：分享两种AI高质量代码数据集生产方案，你知道哪些？随着AI大模型技术的快速发展，自动化的数据抓取工具逐渐成为了主流，尤其是在需要快速、高效、可定制化的数据抓取时，Web ...
-- 😊 [主流 AI IDE 之一的 Cursor 介绍](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  Cursor 是一款基于 VS Code 技术构建的现代化代码编辑器，基于微软开源的 Visual Studio Code（VS Code）深度定制，但通过底层优化、深度融合实现了 AI 功能（如 G...
-- 😊 [【AI入门】Cherry入门1：Cherry Studio的安装及配置](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  Cherry Studio 是一款开源的多平台AI桌面客户端，其安装及配置。
+- 😊 [简单修图来了Luminar Neo 1.24中文版，让AI修图变得超简单，PS修图太难！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  LuminarNeo 1.24.0中文版作为新一代AI修图工具，以其智能化和高效性挑战传统修图软件如Photoshop。此版本引入了多项创新功能，如AI水景增强、暮色增强、HDR合并、焦点堆叠和分辨率...
+- 😊 [合肥工业大学计算机与信息学院（人工智能学院）25届保研名额168人，较上届增加11人！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  计算机与信息学院的前身是创建于1958年的无线电工程系，1996年由原计算机与信息系、计算中心和微机所组成学院，更名为计算机与信息学院。2018年成立人工智能学院，人工智能学院与计算机与信息学院为一个...
+- 😐 [14.「实用」扣子(coze)教程 | Excel文档自动批量AI文档生成实战，中级开篇](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  随着AI编程工具及其能力的不断发展，编程将变得越来越简单。在这个大趋势下，未来的编程将真正成为像office工具一样的办公必备技能。今天大师兄就发一个比较简单的中级 [实用] 内容，给大家展示一下以现...
+- 😊 [赋能程序员！编程与自媒体的双重利器 ｜ Chatbox AI 实战案例](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  Chatbox AI精准定位为“全场景智能助手”，旨在为不同行业、不同需求的用户提供一站式、全方位的智能支持。无论是自媒体创作者渴望在内容红海中脱颖而出，编程开发者追求高效编码与快速调试，产品经理寻求...
+- 😊 [探索RAGFlow：解锁生成式AI的无限潜能（2/6）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  RAGFlow：融合检索与生成的智能系统架构 摘要：RAGFlow是一种创新性的生成式AI系统架构，通过将数据检索与生成模型相结合，实现了高效的信息处理能力。其核心技术包括多阶段处理、智能任务分配、自...
 
 
 ### 网络安全资讯
 
-- [GitHub Action “tj-actions/branch-names” 中存在关键命令注入漏洞（CVE-2025-54416）](https://www.anquanke.com/post/id/310613) - 安全公告，详情请点击链接查看完整内容
+- [狡诈之狐，伪装成flash插件的最新银狐攻击活动分析](https://www.anquanke.com/post/id/310759) - 安全公告，详情请点击链接查看完整内容
 - [SVAgent：用于硬件安全验证断言的 AI 代理](https://paper.seebug.org/3345/) - 作者：Rui Guo, Avinash Ayalasomayajula, Henian Li, Jingbo Zhou, Sujan Kumar Saha, Farimah Farahmandi
 译者...
-- [黑客组织Scattered Spider正疯狂攻击VMware ESXi管理程序](https://www.4hou.com/posts/rpxE) - 名为分散蜘蛛 (Scattered Spider)的网络犯罪组织通过攻击美国零售、航空、运输和保险行业的VMware ESXi管理程序，积极瞄准虚拟化环境。根据谷歌威胁情报组织（GITG）的说法，攻击...
+- [引领智能运维！全新FortiAIOps 3.0重新定义IT运营](https://www.4hou.com/posts/PGow) - 近日，专注推动网络与安全融合的全球性综合网络安全解决方案供应商Fortinet，重磅发布 FortiAIOps 3.0全新版本。该版本全面融合了先进的机器学习技术、更深入的实时威胁分析以及预判故障和性...
 
 
 ### 技术就业趋势
 
-区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
-- 😟 [探索TDStore：锁机制解析与问题排查实践](https://cloud.tencent.com/developer/article/2547132) 📈 关注
-  锁机制是关系型数据库实现并发访问控制的核心机制之一，理解其工作原理是排查访问冲突问题的关键切入点。例如，在高并发或复杂事务处理场景中常见的锁冲突报错（如 “Lock wait timeout exce...
-- 😐 [Windows多虚拟网卡可能影响内网服务对应ip的路由，如何人为干预](https://cloud.tencent.com/developer/article/2546938) 📊 普通
-  169.254.0.2是云平台内网ntpupdate.tencentyun.com校时ip
-- 😊 [云数据库 PostgreSQL 自动缓存淘汰机制](https://cloud.tencent.com/developer/article/2547133) 📊 普通
-  为应对复杂多变的业务场景和海量数据挑战，腾讯云数据库 PostgreSQL 团队凭借强大的内核自研能力，推出基于 LRU 算法（ Least Recently Used ）的 syscache/rel...
+- 😊 [共生伙伴：2025人工智能十大趋势](https://cloud.tencent.com/developer/article/2548858) 🔥 热门
+  我们曾习惯于将AI视为一个无所不知的“工具箱”。当我们想知道答案，会打开搜索框；当我们想完成任务，会发出一连串精准的指令。它强大、高效，却也总是隔着一块冷冰冰的屏幕，静静地等待着我们的下一个问题。它认...
+- 😊 [智涌云端，与 AI 共生，腾讯云架构师峰会圆满落幕！](https://cloud.tencent.com/developer/article/2548848) 📈 关注
+  7 月 19 日，由腾讯云架构师技术同盟与腾讯云 TVP 联合主办的「智涌云端，与 AI 共生」2025 腾讯云架构师峰会在上海成功举办。峰会汇聚企业领袖、技术管理者、资深架构师、高校学者等重磅嘉宾，...
+- 😊 [全球首个设计智能体Lovart上线！腾讯混元成「默认设置」](https://cloud.tencent.com/developer/article/2548856) 📈 关注
+  全球首个设计Agent——Lovart正式版上线，首选调用腾讯混元3D模型API接口，为用户提供超高清、细节拉满的建模体验，让3D设计纵享丝滑。
 
 
 ### GitHub 趋势项目
 
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
-- [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang.
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
+- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
 
 
 
 ### AI 研究论文
 
-- [Foundation Models for Demand Forecasting via Dual-Strategy Ensembling](http://arxiv.org/abs/2507.22053v1) - Wei Yang, Defu Cao, Yan Liu
-  Accurate demand forecasting is critical for supply chain optimization, yet
-remains difficult in practice due to hierarchical complexity, domain shifts...
+- [Where to show Demos in Your Prompt: A Positional Bias of In-Context
+  Learning](http://arxiv.org/abs/2507.22887v1) - Kwesi Cobbina, Tianyi Zhou
+  In-context learning (ICL) is a critical emerging capability of large language
+models (LLMs), enabling few-shot learning during inference by including ...
 
-- [The Interspeech 2025 Speech Accessibility Project Challenge](http://arxiv.org/abs/2507.22047v1) - Xiuwen Zheng, Bornali Phukon, Jonghwan Na, Ed Cutrell, Kyu Han, Mark Hasegawa-Johnson, Pan-Pan Jiang, Aadhrik Kuila, Colin Lea, Bob MacDonald, Gautam Mantena, Venkatesh Ravichandran, Leda Sari, Katrin Tomanek, Chang D. Yoo, Chris Zwilling
-  While the last decade has witnessed significant advancements in Automatic
-Speech Recognition (ASR) systems, performance of these systems for individua...
+- [Automatically discovering heuristics in a complex SAT solver with large
+  language models](http://arxiv.org/abs/2507.22876v1) - Yiwen Sun, Furong Ye, Zhihan Chen, Ke Wei, Shaowei Cai
+  Satisfiability problem (SAT) is a cornerstone of computational complexity
+with broad industrial applications, and it remains challenging to optimize
+m...
 
-- [Supervised Quantum Image Processing](http://arxiv.org/abs/2507.22039v1) - Marco Parigi, Mehran Khosrojerdi, Filippo Caruso, Leonardo Banchi
-  In the era of big data and artificial intelligence, the increasing volume of
-data and the demand to solve more and more complex computational challeng...
+- [A Bit of Freedom Goes a Long Way: Classical and Quantum Algorithms for
+  Reinforcement Learning under a Generative Model](http://arxiv.org/abs/2507.22854v1) - Andris Ambainis, Joao F. Doriguello, Debbie Lim
+  We propose novel classical and quantum online algorithms for learning
+finite-horizon and infinite-horizon average-reward Markov Decision Processes
+(MD...
 
 
 
@@ -144,25 +149,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $211.27 📉 -2.78 (-1.3%)
-- **GOOGL**: $195.75 📈 +3.17 (+1.6%)
-- **MSFT**: $512.57 📈 +0.07 (+0.0%)
+- **AAPL**: $209.05 📉 -2.22 (-1.1%)
+- **GOOGL**: $196.53 📈 +0.78 (+0.4%)
+- **MSFT**: $513.24 📈 +0.67 (+0.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**两数之和** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 链表, 递归
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -173,7 +178,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 
 ### 📚 技术书籍推荐
@@ -190,28 +195,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Synthwave Mix** - Various Artists
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -225,12 +230,12 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
@@ -251,59 +256,59 @@ const a = 25;
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：💡 创新者
 
-挑战ID: `b8ce90` | 日期: 2025-07-30
+挑战ID: `d53583` | 日期: 2025-07-31
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-高性能代码编辑器
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**安全工程师** (中级) 📈
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-程序员最讨厌的两件事：1. 写文档 2. 没有文档
+如果调试是去除bug的过程，那么编程就是放入bug的过程。
 
 
 ### 🐙 GitHub 生态统计
@@ -317,7 +322,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-30 08:15:02
+- 📅 更新时间: 2025-07-31 08:15:39
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -328,12 +333,14 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 8.9/100
+- 😊 积极新闻: 7 (87.5%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 16.4/100
 
 🏷️ **热门关键词**:
 - AI (6次)
+- AR (2次)
+- 人工智能 (2次)
 
 
 ### 🤖 关于此项目
