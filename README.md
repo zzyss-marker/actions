@@ -55,77 +55,79 @@
 
 MIT
 
-## 今日更新 (2025-07-31)
+## 今日更新 (2025-08-04)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
 
 ### AI 技术动态
 
-- 😊 [简单修图来了Luminar Neo 1.24中文版，让AI修图变得超简单，PS修图太难！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
-  LuminarNeo 1.24.0中文版作为新一代AI修图工具，以其智能化和高效性挑战传统修图软件如Photoshop。此版本引入了多项创新功能，如AI水景增强、暮色增强、HDR合并、焦点堆叠和分辨率...
-- 😊 [合肥工业大学计算机与信息学院（人工智能学院）25届保研名额168人，较上届增加11人！](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  计算机与信息学院的前身是创建于1958年的无线电工程系，1996年由原计算机与信息系、计算中心和微机所组成学院，更名为计算机与信息学院。2018年成立人工智能学院，人工智能学院与计算机与信息学院为一个...
-- 😐 [14.「实用」扣子(coze)教程 | Excel文档自动批量AI文档生成实战，中级开篇](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  随着AI编程工具及其能力的不断发展，编程将变得越来越简单。在这个大趋势下，未来的编程将真正成为像office工具一样的办公必备技能。今天大师兄就发一个比较简单的中级 [实用] 内容，给大家展示一下以现...
-- 😊 [赋能程序员！编程与自媒体的双重利器 ｜ Chatbox AI 实战案例](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  Chatbox AI精准定位为“全场景智能助手”，旨在为不同行业、不同需求的用户提供一站式、全方位的智能支持。无论是自媒体创作者渴望在内容红海中脱颖而出，编程开发者追求高效编码与快速调试，产品经理寻求...
-- 😊 [探索RAGFlow：解锁生成式AI的无限潜能（2/6）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  RAGFlow：融合检索与生成的智能系统架构 摘要：RAGFlow是一种创新性的生成式AI系统架构，通过将数据检索与生成模型相结合，实现了高效的信息处理能力。其核心技术包括多阶段处理、智能任务分配、自...
+- 😊 [飞算 JavaAI：让 Java 开发效率翻倍的秘密武器 #飞算JavaAl炫技赛 #Java开发](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥 热门
+  飞算 JavaAI 将在 Java 开发领域发挥越来越重要的作用，引领 Java 开发进入一个全新的智能时代。作为一名资深程序员，我强烈推荐大家都来尝试一下飞算 JavaAI，相信你一定会被它的强大功...
+- 😊 [第三章-提示词-初级：一文带你入门提示词工程，开启AI高效交互之旅（11/36）](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  摘要：本文系统梳理了提示词工程（Prompt Engineering）从概念到落地的全过程：先厘清提示词四要素（指令、上下文、输入数据、输出指示），再给出结构化提问、限定范围、多轮对话等实战技巧，并配...
+- 😐 [全球首款Java专用AI开发助手实测：一句话生成完整工程代码——飞算 JavaAI](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  几个Java哥们儿瞪着满屏的报错，脸都快贴屏幕上了——项目deadline催命呢，这场景，熟吧？憋屈吧？可你扭头看看隔壁组，人家正端着咖啡杯，有说有笑地做测试呢！为啥？人家刚用了个叫飞算JavaAI的...
+- 😊 [开发者生产力革命：AI 辅助工具如何重构工作流程](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  其次，企业需要对组织架构进行升级，成立专门的 AI 工具评估小组，负责跟踪和评估市场上最新的 AI 辅助工具，根据企业的实际需求和技术栈，选择最合适的工具，并将其整合到企业的开发工具链中。展望未来，随...
+- 😐 [基于DeepSeek+Vue3的AI对话聊天系统开发实战](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  基于DeepSeek+Vue3的AI对话聊天系统开发实战
 
 
 ### 网络安全资讯
 
-- [狡诈之狐，伪装成flash插件的最新银狐攻击活动分析](https://www.anquanke.com/post/id/310759) - 安全公告，详情请点击链接查看完整内容
-- [SVAgent：用于硬件安全验证断言的 AI 代理](https://paper.seebug.org/3345/) - 作者：Rui Guo, Avinash Ayalasomayajula, Henian Li, Jingbo Zhou, Sujan Kumar Saha, Farimah Farahmandi
-译者...
-- [引领智能运维！全新FortiAIOps 3.0重新定义IT运营](https://www.4hou.com/posts/PGow) - 近日，专注推动网络与安全融合的全球性综合网络安全解决方案供应商Fortinet，重磅发布 FortiAIOps 3.0全新版本。该版本全面融合了先进的机器学习技术、更深入的实时威胁分析以及预判故障和性...
+- [Proton 推出独立身份验证器：将多因素认证与密码分离，追求极致安全](https://www.anquanke.com/post/id/310768) - 安全公告，详情请点击链接查看完整内容
+- [美国关键基础设施网络安全评估：CISA 与 USCG 主动威胁狩猎成果](https://paper.seebug.org/3348/) - 译者：知道创宇404实验室翻译组
+原文链接：https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-212a
+摘要
+网络安全和基础...
+- [Lumma infostealer窃取恶意软件团伙在遭受执法部门打击后卷土重来](https://www.4hou.com/posts/9jox) - Lumma infostealer恶意软件业务在经历5月份的大规模执法行动后已经逐渐恢复活动，该行动导致2300个域名和部分基础设施被没收。虽然Lumma恶意软件即服务（MaaS）平台在执法行动中遭受...
 
 
 ### 技术就业趋势
 
-低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
-- 😊 [共生伙伴：2025人工智能十大趋势](https://cloud.tencent.com/developer/article/2548858) 🔥 热门
-  我们曾习惯于将AI视为一个无所不知的“工具箱”。当我们想知道答案，会打开搜索框；当我们想完成任务，会发出一连串精准的指令。它强大、高效，却也总是隔着一块冷冰冰的屏幕，静静地等待着我们的下一个问题。它认...
-- 😊 [智涌云端，与 AI 共生，腾讯云架构师峰会圆满落幕！](https://cloud.tencent.com/developer/article/2548848) 📈 关注
-  7 月 19 日，由腾讯云架构师技术同盟与腾讯云 TVP 联合主办的「智涌云端，与 AI 共生」2025 腾讯云架构师峰会在上海成功举办。峰会汇聚企业领袖、技术管理者、资深架构师、高校学者等重磅嘉宾，...
-- 😊 [全球首个设计智能体Lovart上线！腾讯混元成「默认设置」](https://cloud.tencent.com/developer/article/2548856) 📈 关注
-  全球首个设计Agent——Lovart正式版上线，首选调用腾讯混元3D模型API接口，为用户提供超高清、细节拉满的建模体验，让3D设计纵享丝滑。
+- 😐 [大模型应用之概念篇（2）：预训练、Transformer算法、token计算](https://cloud.tencent.com/developer/article/2550147) 📈 关注
+  1. 前期预训练的成本高（GPT-4预训练成本超1亿美元）但效果好；后期的模型微调则投入产出比低；
+- 😐 [DevOps 组织的建设密码：人才胜任力模型全解析](https://cloud.tencent.com/developer/article/2550530) 📈 关注
+  纵览DevOps在中国的整个发展过程，在18、19年之前，业内一般将其定义为1.0阶段，相对更重工程，以往提到的DevOps人才主要指的是在持续交付方面的工程师，如CI、配置管理、相关工具设计与开发等...
+- 😊 [Intel Xeon 8269CY比8255C主频占优，但优势绝不是表面上的0.1GHz](https://cloud.tencent.com/developer/article/2550146) 📊 普通
+  虽然睿频范围很接近（前者2.5~3.2，后者2.5~3.1），但实际跑的时候前者相对稳定，后者根据测试用例和测试软件不同，在睿频范围内浮动较大，参考8255C的说明图
 
 
 ### GitHub 趋势项目
 
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
-- [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
+- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [eclipse-sumo/sumo](https://github.com/eclipse-sumo/sumo) - Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 
 
 
 
 ### AI 研究论文
 
-- [Where to show Demos in Your Prompt: A Positional Bias of In-Context
-  Learning](http://arxiv.org/abs/2507.22887v1) - Kwesi Cobbina, Tianyi Zhou
-  In-context learning (ICL) is a critical emerging capability of large language
-models (LLMs), enabling few-shot learning during inference by including ...
+- [Do They Understand Them? An Updated Evaluation on Nonbinary Pronoun
+  Handling in Large Language Models](http://arxiv.org/abs/2508.00788v1) - Xushuo Tang, Yi Ding, Zhengyi Yang, Yin Chen, Yongrui Gu, Wenke Yang, Mingchen Ju, Xin Cao, Yongfei Liu, Wenjie Zhang
+  Large language models (LLMs) are increasingly deployed in sensitive contexts
+where fairness and inclusivity are critical. Pronoun usage, especially
+co...
 
-- [Automatically discovering heuristics in a complex SAT solver with large
-  language models](http://arxiv.org/abs/2507.22876v1) - Yiwen Sun, Furong Ye, Zhihan Chen, Ke Wei, Shaowei Cai
-  Satisfiability problem (SAT) is a cornerstone of computational complexity
-with broad industrial applications, and it remains challenging to optimize
-m...
+- [Unraveling Hidden Representations: A Multi-Modal Layer Analysis for
+  Better Synthetic Content Forensics](http://arxiv.org/abs/2508.00784v1) - Tom Or, Omri Azencot
+  Generative models achieve remarkable results in multiple data domains,
+including images and texts, among other examples. Unfortunately, malicious
+user...
 
-- [A Bit of Freedom Goes a Long Way: Classical and Quantum Algorithms for
-  Reinforcement Learning under a Generative Model](http://arxiv.org/abs/2507.22854v1) - Andris Ambainis, Joao F. Doriguello, Debbie Lim
-  We propose novel classical and quantum online algorithms for learning
-finite-horizon and infinite-horizon average-reward Markov Decision Processes
-(MD...
+- [SpA2V: Harnessing Spatial Auditory Cues for Audio-driven Spatially-aware
+  Video Generation](http://arxiv.org/abs/2508.00782v1) - Kien T. Pham, Yingqing He, Yazhou Xing, Qifeng Chen, Long Chen
+  Audio-driven video generation aims to synthesize realistic videos that align
+with input audio recordings, akin to the human ability to visualize scene...
 
 
 
@@ -149,25 +151,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $209.05 📉 -2.22 (-1.1%)
-- **GOOGL**: $196.53 📈 +0.78 (+0.4%)
-- **MSFT**: $513.24 📈 +0.67 (+0.1%)
+- **AAPL**: $202.38 📉 -5.19 (-2.5%)
+- **GOOGL**: $189.13 📉 -2.77 (-1.4%)
+- **MSFT**: $524.11 📉 -9.39 (-1.8%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+将两个升序链表合并为一个新的升序链表
 
-标签: 数组, 哈希表
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -195,14 +197,14 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
@@ -221,70 +223,68 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🏆 本周技术挑战
 
-**安全漏洞修复** (难度: 高级)
+**算法优化挑战** (难度: 中等)
 
-识别并修复一个Web应用中的安全漏洞
+优化一个排序算法，使其在大数据集上的性能提升50%
 
-🏷️ 标签: 安全, Web开发 | ⏱️ 预计时间: 2-5小时 | 🎯 奖励积分: 130
+🏷️ 标签: 算法, 性能优化 | ⏱️ 预计时间: 2-4小时 | 🎯 奖励积分: 100
 
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**使用版本控制**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `d53583` | 日期: 2025-07-31
+挑战ID: `a76bbc` | 日期: 2025-08-04
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **AI** 🔥 +15% - 人工智能持续火热
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
@@ -292,11 +292,11 @@ const a = 25;
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-现代JavaScript/TypeScript运行时
+现代Web应用框架
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
@@ -308,7 +308,7 @@ const a = 25;
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -322,7 +322,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-07-31 08:15:39
+- 📅 更新时间: 2025-08-04 08:16:12
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -333,14 +333,14 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 7 (87.5%)
+- 😊 积极新闻: 4 (50.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 16.4/100
+- 🔥 平均热度: 9.1/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- AR (2次)
-- 人工智能 (2次)
+- AI (5次)
+- GPT (1次)
+- DevOps (1次)
 
 
 ### 🤖 关于此项目
