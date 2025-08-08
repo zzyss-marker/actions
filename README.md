@@ -55,7 +55,7 @@
 
 MIT
 
-## 今日更新 (2025-08-07)
+## 今日更新 (2025-08-08)
 
 ### 今日名言
 
@@ -63,69 +63,68 @@ MIT
 
 ### AI 技术动态
 
-- 😐 [Springboot实战：AI大模型+亮数据代理助力短视频时代](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  短视频已成为当下最受欢迎的内容形式之一，无论是个人创作者还是企业品牌，都在积极拥抱这一趋势。然而，短视频的制作不仅需要创意和技巧，还需要大量的高质量素材作为支撑。本文将探讨如何利用现代技术手段Spri...
+- 😊 [生成式AI在教育技术中的应用：变革与创新](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥🔥 超热
+  生成式AI（Generative AI, AIGC）是能够从输入数据中学习并生成新的、有意义的内容的人工智能技术。与传统的机器学习方法不同，生成式AI不仅仅是分析和预测数据，而是通过深度神经网络（如G...
+- 😐 [AI：新书预告—从机器学习避坑指南(分类/回归/聚类/可解释性)到大语言模型落地手记(RAG/Agent/MCP)，一场耗时5+3年的技术沉淀—“代码可跑，经验可抄”—【一个处女座的程序猿】携两本AI](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 🔥🔥 很热
+  ​AI：新书预告—从机器学习避坑指南(分类/回归/聚类/可解释性)到大语言模型落地手记(RAG/Agent/MCP)，一场耗时5+3年的技术沉淀—“代码可跑，经验可抄”—【一个处女座的程序猿】携两本A...
+- 😊 [豆包新模型与 PromptPilot 实操体验测评，AI 辅助创作的新范式探索](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  摘要：在火山方舟厦门Meetup活动中，作者深入体验了豆包新模型与PromptPilot工具。PromptPilot作为智能Prompt优化工具，通过案例实操展现了其高效生成与优化提示词的能力，显著提...
 - 😊 [飞算 JavaAI 深度体验：开启 Java 开发智能化新纪元](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
   飞算 JavaAI 的智能代码生成功能在基础和部分复杂场景下表现出色，能够准确理解自然语言描述的需求，生成规范、可用的 Java 代码。对于提升开发效率，尤其是在快速搭建功能原型、补充基础代码片段方面...
-- 😊 [飞算JavaAI：专为Java开发者打造的智能编程革命](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  在当今快节奏的软件开发领域，效率和质量成为了开发者面临的双重挑战。作为一名长期奋战在Java开发一线的程序员，我深知传统开发模式中的痛点：重复性代码编写耗时费力、项目架构设计需要深厚经验、团队协作中规...
-- 😐 [3分钟搞定文献综述：AI生成高质量综述的7条必备指令](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  很多学校现在开始用AIGC率检测系统识别AI生成内容了，写完一定别忘这步！尤其是综述段落，AIGC率太高容易翻车，建议降重工具搭配。综述写不出来，不是你不努力，而是你没用对方法。试试以上这7条AI指令...
-- 😊 [AI智能体入门指南：从概念到实践](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
-  《AI智能体技术实践指南：从理论到商业应用》 摘要： 本文系统性地介绍了AI智能体技术的发展现状与商业前景。作者指出2025年将成为AI智能体商业应用的爆发元年，智能体技术正从简单的对话机器人进化为具...
+- 😊 [【AI智能体】Dify 基于知识库搭建智能客服问答应用详解](https://i-operation.csdnimg.cn/images/8efd18d5d7054f77a81294a14cd80ad5.png) 📈 关注
+  Dify 基于知识库搭建智能客服问答应用详解
 
 
 ### 网络安全资讯
 
 - [Linux 内核 6.17 发布：EXT4 文件系统性能提升，助力 AI 与云环境扩展](https://www.anquanke.com/post/id/310843) - 安全公告，详情请点击链接查看完整内容
-- [深度掩盖隐私真相：大型语言模型内部状态的逆向还原](https://paper.seebug.org/3351/) - 作者：Tian Dong, Yan Meng, Shaofeng Li, Guoxing Chen, Zhen Liu, Haojin Zhu
-译者：知道创宇404实验室翻译组
-原文链接：https:...
-- [思科：身份服务引擎中存在严重的RCE漏洞](https://www.4hou.com/posts/gyq3) - 思科发布了一份公告，对影响思科身份服务引擎（ISE）和被动身份连接器（ISE- pic）的两个关键、未经身份验证的远程代码执行（RCE）漏洞进行了告警。根据CVE-2025-20281和CVE-202...
+- [Project AK47：揭示与 SharePoint 漏洞攻击的关联](https://paper.seebug.org/3352/) - 作者：Hiroaki Hara, Mark Lim
+原文链接：https://unit42.paloaltonetworks.com/ak47-activity-linked-to-sharepoin...
+- [增长强势 成果丰硕 | Fortinet发布2025年第二季度财报](https://www.4hou.com/posts/l045) - 近日，专注推动网络与安全融合的全球性综合网络安全解决方案供应商Fortinet，发布2025年第二季度财报。Fortinet 创始人、董事长兼首席执行官谢青（Ken Xie）表示：“Fortinet ...
 
 
 ### 技术就业趋势
 
-软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- 😊 [书本大纲：从芯片、分布式到云计算AI时代](https://cloud.tencent.com/developer/article/2551389) 🔥🔥 很热
-  以可见性、有序性、原子性为基础，通过happens - before规则和volatile/synchronized同步机制，探讨处理器优化与并发安全的关系，介绍多线程程序底层运行逻辑。
-- 😐 [对话凯文·凯利：不必过多担忧，AI变强后，人类只需专注于“玩”](https://cloud.tencent.com/developer/article/2551267) 🔥 热门
-  当人工智能以颠覆性姿态重构人类文明时，一个无法回避的问题浮出水面：我们究竟在创造怎样的未来？
-- 😊 [腾讯一口气开源4款新模型，最小仅0.5B](https://cloud.tencent.com/developer/article/2551264) 📈 关注
-  最近，腾讯工程师培育出一批端侧AI「新物种」，突破「大即强」的旧规律，以「小体型+超强记忆+高智慧」的姿态闯入人们的视野。
+- 😐 [1行Python代码，实现PDF的加密、解密](https://cloud.tencent.com/developer/article/2551732) 📊 普通
+  大家好，这里是程序员晚枫，今天给大家更新一个PDF库的热门功能：1行代码，批量给PDF加密、解密
+- 😐 [【专家说】方天戟：从LLM普惠浪潮到混合云重构，揭秘“十五五”智算云选型](https://cloud.tencent.com/developer/article/2551775) 📊 普通
+  腾讯专有云TCE专家架构师、《大模型时代基础架构》作者、《云鉴》编写组成员，参与多项行业与国家标准制定。
+- 😐 [LLM学习的「阶梯地图」（三）](https://cloud.tencent.com/developer/article/2551781) 📊 普通
+  大型语言模型（LLM）的训练过程虽然耗资巨大且备受关注，但其真正的价值实现，却发生在 推理（Inference） 这一最终环节。推理是将训练好的模型应用于实际，根据 用户输入（Prompt）生成响应的...
 
 
 ### GitHub 趋势项目
 
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 
 
 
 
 ### AI 研究论文
 
-- [SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from
-  Experience](http://arxiv.org/abs/2508.04700v1) - Zeyi Sun, Ziyu Liu, Yuhang Zang, Yuhang Cao, Xiaoyi Dong, Tong Wu, Dahua Lin, Jiaqi Wang
-  Repurposing large vision-language models (LVLMs) as computer use agents
-(CUAs) has led to substantial breakthroughs, primarily driven by human-labeled...
+- [Towards Generalizable Safety in Crowd Navigation via Conformal
+  Uncertainty Handling](http://arxiv.org/abs/2508.05634v1) - Jianpeng Yao, Xiaopan Zhang, Yu Xia, Zejin Wang, Amit K. Roy-Chowdhury, Jiachen Li
+  Mobile robots navigating in crowds trained using reinforcement learning are
+known to suffer performance degradation when faced with out-of-distributio...
 
-- [Hop, Skip, and Overthink: Diagnosing Why Reasoning Models Fumble during
-  Multi-Hop Analysis](http://arxiv.org/abs/2508.04699v1) - Anushka Yadav, Isha Nalawade, Srujana Pillarichety, Yashwanth Babu, Reshmi Ghosh, Samyadeep Basu, Wenlong Zhao, Ali Nasaeh, Sriram Balasubramanian, Soundararajan Srinivasan
-  The emergence of reasoning models and their integration into practical AI
-chat bots has led to breakthroughs in solving advanced math, deep search, an...
+- [KuaiLive: A Real-time Interactive Dataset for Live Streaming
+  Recommendation](http://arxiv.org/abs/2508.05633v1) - Changle Qu, Sunhao Dai, Ke Guo, Liqin Zhao, Yanan Niu, Xiao Zhang, Jun Xu
+  Live streaming platforms have become a dominant form of online content
+consumption, offering dynamically evolving content, real-time interactions, and...
 
-- [From MAS to MARS: Coordination Failures and Reasoning Trade-offs in
-  Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario](http://arxiv.org/abs/2508.04691v1) - Yuanchen Bai, Zijian Ding, Shaoyue Wen, Xiang Chang, Angelique Taylor
-  Multi-agent robotic systems (MARS) build upon multi-agent systems by
-integrating physical and task-related constraints, increasing the complexity of
-a...
+- [H-Net++: Hierarchical Dynamic Chunking for Tokenizer-Free Language
+  Modelling in Morphologically-Rich Languages](http://arxiv.org/abs/2508.05628v1) - Mehrdad Zakershahrak, Samira Ghodratnama
+  Byte-level language models eliminate fragile tokenizers but face
+computational challenges in morphologically-rich languages (MRLs), where words
+span m...
 
 
 
@@ -149,16 +148,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $213.25 📈 +10.33 (+5.1%)
-- **GOOGL**: $196.09 📈 +1.42 (+0.7%)
-- **MSFT**: $524.94 📉 -2.81 (-0.5%)
+- **AAPL**: $220.03 📈 +6.75 (+3.2%)
+- **GOOGL**: $196.52 📈 +0.43 (+0.2%)
+- **MSFT**: $520.84 📉 -4.10 (-0.8%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
@@ -178,7 +177,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
@@ -195,14 +194,14 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
@@ -242,41 +241,41 @@ D. 面向对象
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `98f103` | 日期: 2025-08-07
+挑战ID: `cfd334` | 日期: 2025-08-08
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
@@ -284,31 +283,31 @@ test('should calculate tax correctly', () => {
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-使用Rust构建跨平台桌面应用
+现代Web应用框架
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**AI工程师** (中级) 📈
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -322,7 +321,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-08-07 08:15:16
+- 📅 更新时间: 2025-08-08 08:14:58
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -333,15 +332,15 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
+- 😊 积极新闻: 4 (50.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 15.6/100
+- 🔥 平均热度: 16.1/100
 
 🏷️ **热门关键词**:
-- AI (8次)
-- 云计算 (1次)
-- 芯片 (1次)
+- AI (5次)
+- 机器学习 (2次)
 - 人工智能 (1次)
+- 神经网络 (1次)
 
 
 ### 🤖 关于此项目
