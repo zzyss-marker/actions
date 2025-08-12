@@ -55,58 +55,56 @@
 
 MIT
 
-## 今日更新 (2025-08-11)
+## 今日更新 (2025-08-12)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- 😊 [本地AI神器来了！LM Studio 从入门到上头，用电脑轻松驯服大语言模型](https://blog.csdn.net/tzchao111/article/details/148634251) 🔥🔥 很热
-  ChatGPT要联网、Claude限地区、Token费心计？试试这款神器——LM Studio！让你的电脑变身AI聊天专家，隐私、安全、免费三重保障，完全离线也能轻松和大模型对话。
-- 😐 [AI正在对硬件互连提出“过分”要求 | Samtec于Keysight开放日深度分享](https://blog.csdn.net/SamtecChina2023/article/details/149191288) 🔥🔥 很热
-  是德科技解决方案工程师张晓指出，伴随AI智算网络硬件持续发展，用于算力芯片Scale-up网络机间互连的ACC（Active Copper Cable，有源铜缆）和AEC（Active Electri...
-- 😊 [飞算JavaAI：从“码农”到“代码指挥官”的终极进化论](https://blog.csdn.net/hanwangyyds/article/details/149056819) 📈 关注
-  飞算JavaAI是国内首款专注Java领域的智能开发工具，通过全流程自动化显著提升企业级开发效率。其核心优势在于：1）精准理解业务需求，生成完整工程代码（含配置、测试）；2）针对中国开发者优化，支持中...
-- 😐 [当 AI 像坐火箭学技术时，咱初级开发者还能有活路吗？—— 一个老程序员的胡扯式安慰](https://blog.csdn.net/qq_33650655/article/details/149821033) 📈 关注
-  程序员这行，怕的不是新技术来得快，怕的是你总觉得 ' 我学不会 '。
-- 😊 [融合与智能：AI 浪潮驱动下数据库的多维度进化与产业格局重塑新范式](https://blog.csdn.net/weixin_62765017/article/details/149634787) 📈 关注
-  融合与智能：AI 浪潮驱动下数据库的多维度进化与产业格局重塑新范式
+- 😊 [国内已有至少9家AI Agent平台，你用过几家？](https://blog.csdn.net/qq_44866828/article/details/147596071) 🔥🔥 很热
+  国内已有至少9家AI Agent平台，你用过几家？随着人工智能（AI）技术的不断进步，越来越多的国内AI Agent平台应运而生。AI智能体（AI Agent）作为生成式AI的重要应用，正在帮助企业、...
+- 😊 [【GitHub开源AI精选】InftyThink：浙大联合北大打造的无限深度推理范式，突破大模型长推理瓶颈](https://blog.csdn.net/xiaobing259/article/details/149860109) 🔥 热门
+  InftyThink是一种创新的大模型推理范式，由浙江大学和北京大学联合推出，旨在突破传统模型在长推理任务中的局限性。它通过分段迭代的方式，将复杂的推理过程分解为多个短片段，并在每个片段后生成中间总结...
+- 😊 [Midscene.js Chrome 插件实战：基于 AI 驱动 WEB UI 自动化测试「喂饭教程」](https://blog.csdn.net/weixin_48321392/article/details/147810966) 🔥 热门
+  Midscene.js 是一款开源的AI驱动UI自动化工具，支持自然语言交互、数据提取、断言验证等多种功能。自然语言交互。本文将以 Midscene.js Chrome 插件为例，带你从零上手，体验如...
+- 😊 [AI 驱动 + 亮数据赋能：揭秘亚马逊电商数据高效爬取的技术密码](https://blog.csdn.net/2301_80863610/article/details/147773422) 📈 关注
+  亮数据（Bright Data）是一款专注于提供先进网络数据抓取和解析服务的平台，它为用户提供了多种工具和技术，帮助他们在复杂的数据收集环境中快速、准确地获取所需的数据。通过亮数据的服务，用户可以轻松...
+- 😊 [AI 辅助编程专栏：开启智能编码新征程​](https://blog.csdn.net/weixin_43151418/article/details/149884020) 📈 关注
+  AI 辅助编程专栏：开启智能编码新征程​，本文介绍“AI 辅助编程专栏”，聚焦 AI 辅助编程领域，介绍相关知识、工具、技巧及实践应用，涵盖基础工具使用到实战演练。学习该专栏可提升代码生成、优化、错误...
 
 
 ### 网络安全资讯
 
-- [SelectiveShield：联邦学习中对抗梯度泄露的轻量级混合防御机制](https://paper.seebug.org/3353/) - 作者：Borui Li, Li Yan, Jianmin Liu
+- [破局大模型安全困局 可信华泰“可信+AI”前沿成果亮相ISC.AI 2025](https://www.anquanke.com/post/id/311122) - 安全公告，详情请点击链接查看完整内容
+- [PLA：针对文本到图像生成模型的提示学习攻击](https://paper.seebug.org/3354/) - 作者：Xinqi Lyu, Yihao Liu, Yanjie Li, Bin Xiao
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2508.04265v1
-摘要
-联邦学习（F...
-- [80% 案例显示：恶意活动激增时极大可能出现新安全漏洞](https://www.4hou.com/posts/2XmK) - 研究人员发现，在大约80%的案例中，针对边缘网络设备的恶意活动激增（如网络侦察、定向扫描和暴力破解尝试），是新安全漏洞（CVE）出现的前兆。这一发现来自威胁监测公司GreyNoise。该公司表示，这些...
-- [玄武在BlackHat揭示劫持智能体达成RCE的新方法](https://xlab.tencent.com/cn/2025/08/06/universal-and-context-independent-triggers/) - Author: Jiashuo Liang and Guancheng Li of Tencent Xuanwu Lab
-0x00 前言大语言模型（LLM）正在从简单的对话工具演化为能够编写代码、操作...
+原文链接：https://arxiv.org/html/2508.03696...
+- [新恶意软件 Plague Linux 允许攻击者获得 SSH 访问权限](https://www.4hou.com/posts/42o1) - 新发现的Linux恶意软件在完成逃避检测后，开始允许攻击者获得持久的SSH访问权限，并绕过受感染系统的身份验证。Nextron Systems 的安全研究人员发现了该恶意软件，并将其命名为“Plagu...
 
 
 ### 技术就业趋势
 
-云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
+可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
 
 ### 科技热点
 
-- 😐 [AI时代的职业与教育](https://cloud.tencent.com/developer/article/2552384) 📈 关注
-  吴朋阳：大家好，欢迎参加2025年的《仲夏六日谈》。今天我们想探讨的议题是《AI时代的职业新途径》。首先让我们隆重地欢迎今天来的嘉宾：北京大学国家发展研究院副院长、经济学教授张丹丹，北京大学教育学院汪...
-- 😟 [为什么i++不是原子操作？一个让无数并发程序崩溃的“常识”](https://cloud.tencent.com/developer/article/2552416) 📊 普通
-  对于Java这样的高级语言，一条语句最终会被转换成多条处理器指令完成，例如上面代码中的count += 1，至少需要三条处理器指令。
-- 😐 [「码」上就到~自媒体推荐官集结令](https://cloud.tencent.com/developer/article/2551136) 📊 普通
-  技术类自媒体 KOC / 创作者，覆盖平台包括但不限于 CSDN、掘金、知乎、B 站、小红书等，内容领域需聚焦编程教学、工具测评、实战开发。
+- 😊 [南方电网×腾讯专有云TCS：多云微服务治理创新斩获「可信云·用户最佳实践奖」](https://cloud.tencent.com/developer/article/2553350) 📈 关注
+  近日，在2025年可信云大会上，腾讯专有云 PaaS 平台 TCS 联合中国南方电网广东电网有限责任公司广州供电局，凭借在多云环境下的微服务治理与智能运维创新，从众多参评项目中脱颖而出，荣获“用户最佳...
+- 😊 [7月产品月报 | CKafka 连接器正式商业化](https://cloud.tencent.com/developer/article/2553353) 📊 普通
+  关于腾讯云分布式消息队列 TDMQ
+TDMQ 是腾讯云自主研发的消息中间件产品系列，作为分布式系统中的关键组件，具备稳定可靠、高弹性、低成本的特性，提供异步通信的基础能力，通过应用解耦降低系统复杂度，...
+- 😟 [长虹佳华 x 腾讯云：从“能用”到“超稳”，打造自主可控数据库新标杆](https://cloud.tencent.com/developer/article/2553348) 📊 普通
+  “客户原使用的数据库产品，需专职DBA团队，补丁升级比较耗时间，且由于故障处理月均需要2次主备切换，每年需要几百万的使用成本。切换为腾讯云TDSQL方案后，系统全托管服务，自动扩缩容，运维人力减少60...
 
 
 ### GitHub 趋势项目
 
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
-- [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple Directmedia Layer
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+- [trailofbits/buttercup](https://github.com/trailofbits/buttercup) - No description
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 
 
@@ -114,19 +112,18 @@ MIT
 
 ### AI 研究论文
 
-- [WGAST: Weakly-Supervised Generative Network for Daily 10 m Land Surface
-  Temperature Estimation via Spatio-Temporal Fusion](http://arxiv.org/abs/2508.06485v1) - Sofiane Bouaziz, Adel Hafiane, Raphael Canals, Rachid Nedjai
-  Urbanization, climate change, and agricultural stress are increasing the
-demand for precise and timely environmental monitoring. Land Surface
-Temperat...
+- [Cut2Next: Generating Next Shot via In-Context Tuning](http://arxiv.org/abs/2508.08244v1) - Jingwen He, Hongbo Liu, Jiajun Li, Ziqi Huang, Yu Qiao, Wanli Ouyang, Ziwei Liu
+  Effective multi-shot generation demands purposeful, film-like transitions and
+strict cinematic continuity. Current methods, however, often prioritize ...
 
-- [Post-training for Efficient Communication via Convention Formation](http://arxiv.org/abs/2508.06482v1) - Yilun Hua, Evan Wang, Yoav Artzi
-  Humans communicate with increasing efficiency in multi-turn interactions, by
-adapting their language and forming ad-hoc conventions. In contrast, prio...
+- [VGGSounder: Audio-Visual Evaluations for Foundation Models](http://arxiv.org/abs/2508.08237v1) - Daniil Zverev, Thaddäus Wiedemer, Ameya Prabhu, Matthias Bethge, Wieland Brendel, A. Sophia Koepke
+  The emergence of audio-visual foundation models underscores the importance of
+reliably assessing their multi-modal understanding. The VGGSounder datas...
 
-- [Intuition emerges in Maximum Caliber models at criticality](http://arxiv.org/abs/2508.06477v1) - Lluís Arola-Fernández
-  Whether large predictive models merely parrot their training data or produce
-genuine insight lacks a physical explanation. This work reports a primiti...
+- [LL3M: Large Language 3D Modelers](http://arxiv.org/abs/2508.08228v1) - Sining Lu, Guan Chen, Nam Anh Dinh, Itai Lang, Ari Holtzman, Rana Hanocka
+  We present LL3M, a multi-agent system that leverages pretrained large
+language models (LLMs) to generate 3D assets by writing interpretable Python
+cod...
 
 
 
@@ -150,25 +147,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $229.35 📈 +9.32 (+4.2%)
-- **GOOGL**: $201.42 📈 +4.90 (+2.5%)
-- **MSFT**: $522.04 📈 +1.20 (+0.2%)
+- **AAPL**: $227.18 📉 -1.91 (-0.8%)
+- **GOOGL**: $201.00 📉 -0.42 (-0.2%)
+- **MSFT**: $521.77 📉 -0.27 (-0.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**两数之和** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 链表, 递归
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -179,14 +176,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-世界上第一个域名是symbolics.com，注册于1985年3月15日
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《设计模式》** - Gang of Four
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -196,28 +193,28 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Synthwave Mix** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -231,73 +228,73 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**网络建设**: 参加技术会议和meetup，建立专业人脉网络
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 每月参加至少一次技术聚会或在线会议
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `c2cd9f` | 日期: 2025-08-11
+挑战ID: `39454d` | 日期: 2025-08-12
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-使用Rust构建跨平台桌面应用
+现代Web应用框架
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
@@ -309,7 +306,7 @@ const a = 25;
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -323,7 +320,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-08-11 08:16:04
+- 📅 更新时间: 2025-08-12 08:14:21
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -334,15 +331,15 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
+- 😊 积极新闻: 7 (87.5%)
 - 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 14.0/100
+- 🔥 平均热度: 13.2/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- ChatGPT (1次)
-- GPT (1次)
-- 芯片 (1次)
+- AI (5次)
+- 人工智能 (1次)
+- NFT (1次)
+- 微服务 (1次)
 
 
 ### 🤖 关于此项目
