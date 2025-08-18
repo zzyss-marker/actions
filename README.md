@@ -55,7 +55,7 @@
 
 MIT
 
-## 今日更新 (2025-08-14)
+## 今日更新 (2025-08-18)
 
 ### 今日名言
 
@@ -63,68 +63,65 @@ MIT
 
 ### AI 技术动态
 
-- 😊 [人工智能核心知识：AI Agent的四种关键设计模式](https://blog.csdn.net/sixpp/article/details/145062529) 🔥🔥 很热
-  AI Agent智能工作流在多个行业中展现出实际应用的巨大潜力，这些智能体在编程、研究和多模态任务处理等领域的应用，智能体工作流将在未来几年内极大扩展AI的能力边界。无疑，这四种设计模式的结合使用，不...
-- 😊 [告别手动编码：飞算JavaAI帮你快速构建项目](https://blog.csdn.net/xcshap/article/details/150001104) 🔥🔥 很热
-  《告别手动编码：飞算JavaAI帮你快速构建项目》介绍了飞算JavaAI这一基于人工智能的Java开发辅助工具。它能理解开发者需求，自动生成代码，可减少重复编码、提高准确性、加快开发进度。其提示词需包...
-- 😊 [医疗AI语义潜空间分析研究：进展与应用](https://blog.csdn.net/kkiron/article/details/149693130) 🔥 热门
-  医疗AI语义潜空间分析研究是推动医疗AI从"黑箱"预测走向"透明、可信、可行动"智能的关键路径。它致力于在机器学习的表示中捕捉和解释丰富的医学语义，从而提升模型的性能、可靠性和临床接受度。
-- 😊 [飞算JavaAI：赋能Java开发，从“代码工匠”到“软件架构师”的跃迁](https://blog.csdn.net/SDFsoul/article/details/149068242) 📈 关注
-  飞算JavaAI通过智能分析快速生成模块依赖图和重构方案，助力团队高效完成新服务集成。该工具基于飞算科技200余项专利，提供遗留系统分析、企业级规范引擎、模块化引导生成等核心能力，支持一键生成完整工程...
-- 😐 [飞算JavaAI vs 传统开发：效率与质量的双重突破](https://blog.csdn.net/2302_78391795/article/details/150084534) 📈 关注
-  作为Java开发者，你是否也曾在这些时刻感到崩溃？需求文档改到第5版仍不清晰，写了300行代码却因一个空指针调试一下午，上线前发现接口文档和实际代码对不上……传统开发中，“效率低”和“质量差”像两座大...
+- 😟 [PyTorch生成式人工智能（21）——归一化流模型(Normalizing Flow Model)](https://blog.csdn.net/LOVEmy134611/article/details/146261542) 🔥🔥 很热
+  归一化流模型是由神经网络定义的可逆函数，通过变量变换，直接对数据密度函数进行建模。在一般情况下，变量变换方程需要计算高度复杂的雅可比行列式，但这并不实际。为了解决这一问题，RealNVP 模型限制了神...
+- 😊 [【2024年 CSDN博客之星】我的2024年创作之旅：从C语言到人工智能，个人成长与突破的全景回顾](https://blog.csdn.net/martian665/article/details/145299708) 🔥 热门
+  2024年，对我来说是一个充实且充满挑战的一年。在这一年里，我不仅在CSDN平台上完成了大量的原创作品，积累了丰富的创作经验，还在不断突破自我的过程中，实现了从编程语言到人工智能的跨越式发展。每一篇文...
+- 😊 [用 AI 打造你的个人知识库（保姆级教程）非常详细收藏我这一篇就够](https://blog.csdn.net/2401_84495872/article/details/147519688) 📈 关注
+  真心建议你，一定要借助 AI，打造你的个人知识库。个人知识库会帮助你提高学习和工作效率，是这篇文章快速搭建个人知识库、如何使用个人知识库。我会通俗易懂的描述，搭建知识库的第一步，是选择一个合适的工具。...
+- 😐 [飞算JavaAI与传统Java开发方式对比及使用优势](https://blog.csdn.net/xcshap/article/details/150001937) 📈 关注
+  本文对比了飞算JavaAI与传统Java开发方式。传统开发流程繁琐，需经历需求分析、架构设计等多步骤，代码编写依赖手动，调试测试也需人工完成。飞算JavaAI简化流程，输入需求即可自动生成代码，经微调...
+- 😊 [全网AI工具太多？这4个我亲测最好用，免费还高效！](https://blog.csdn.net/m0_74000869/article/details/149267401) 📊 普通
+  4个我亲测最好用，免费还高效的Ai工具
 
 
 ### 网络安全资讯
 
-- [PoisonSeed网络钓鱼套件技术分析：如何突破多重认证实现精准凭证窃取](https://www.anquanke.com/post/id/311137) - 安全公告，详情请点击链接查看完整内容
-- [DIRF：数字身份保护与代理型 AI 系统中克隆治理框架](https://paper.seebug.org/3356/) - 作者：Hammad Atta, Muhammad Zeeshan Baig, Yasir Mehmood, Nadeem Shahzad,  Ken Huang, Muhammad Aziz Ul H...
-- [新型EDR杀毒工具被八个不同的勒索软件组织使用](https://www.4hou.com/posts/gy46) - 一种新型端点检测与响应（EDR）杀毒工具已在8个不同勒索软件团伙的攻击中被发现，该工具被认为是RansomHub开发的“EDRKillShifter”的升级版。这类工具能帮助勒索软件操作者关闭已入侵系...
+- [“不射之射”理念在网络安全防御体系建设中的深度应用研究](https://www.anquanke.com/post/id/311274) - 安全公告，详情请点击链接查看完整内容
+- [学习检测大型视觉语言模型中的未知越狱攻击：一种统一且准确的方法](https://paper.seebug.org/3357/) - 作者：Shuang Liang, Zhihao Xu, Jialing Tao, Hui Xue, Xiting Wang
+译者：知道创宇404实验室翻译组
+原文链接：https://arxiv.or...
+- [国投智能（南京）信息科技与大华股份签订战略合作协议](https://www.4hou.com/posts/KGxn) - 8月13日，国投智能控股子公司国投智能(南京)信息科技总经理武春庆带队赴浙江大华技术股份有限公司(以下简称“大华股份”)考察调研。大华股份国内营销中心司法行业总经理崔跃、江苏分公司政府业务部总监宋欣键...
 
 
 ### 技术就业趋势
 
-低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
+区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
 
 ### 科技热点
 
-- 😟 [markdown链接解析错误处理](https://cloud.tencent.com/developer/article/2553893) 📈 关注
-  （水合）过程中（即客户端接管渲染时）收到了新的更新（如状态或 props 变化），导致 React 无法确定是继续完成服务端渲染的水合流程，还是切换为客户端渲染（CSR）。此时 React 会强制切换...
-- 😐 [go语言截取字符串的写法](https://cloud.tencent.com/developer/article/2553891) 📊 普通
-  在 JavaScript 中，字符串可以被视为 UTF-16 编码的字符序列（每个字符占用 2 字节，但某些 Unicode 字符如 Emoji 可能占用 4 字节）。JavaScript 提供了多种...
-- 😊 [自助在winpe里重置密码](https://cloud.tencent.com/developer/article/2553832) 📊 普通
-  除过在winpe里重置密码外，还可以做好多事情，比如校验文件系统（winpe下是纯离线校验，不会有y/n的交互，直接就开始校验了，比下次开机时那种校验安全可靠一些，校验并不能保证损坏得很严重的文件系统...
+- 😊 [检索增强生成（RAG）的版权新关注](https://cloud.tencent.com/developer/article/2555228) 📈 关注
+  2025年5月与7月，亚马逊先后与《纽约时报》以及赫斯特、康泰纳仕等传媒集团达成合作，使得旗下AI产品可以实时展示《纽约时报》的摘要和片段等。1亚马逊与《纽约时报》的合作令业界颇感意外。因为《纽约时报...
+- 😊 [“同声传译”还是“全文翻译”？为何HotSpot虚拟机仍要保留解释器？](https://cloud.tencent.com/developer/article/2555246) 📊 普通
+  Java虚拟机采用的是基于栈的指令集架构，这意味着Java虚拟机主要通过解释执行基于栈的字节码来运行Java程序。尽管Java虚拟机采取了一些优化措施，如栈顶缓存（Stack Top Cache），将...
+- 😊 [领航项目管理升级，共创战略价值新纪元 —— 2025年TAPD&amp;PMI项目管理论坛广州站圆满落幕](https://cloud.tencent.com/developer/article/2555272) 📊 普通
+  8月9日，由PMI(中国)、腾讯TAPD、深圳市才聚管理咨询有限公司联合主办的2025年PMI项目管理系列论坛广州站——“领航项目管理升级，共创战略价值新纪元”在广州琶洲圆满举行。
 
 
 ### GitHub 趋势项目
 
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
-- [apple/embedding-atlas](https://github.com/apple/embedding-atlas) - Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
-- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [tsoding/nob.h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C.
+- [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), the framework for AI Security
 
 
 
 
 ### AI 研究论文
 
-- [Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved
-  Image Generation](http://arxiv.org/abs/2508.09987v1) - Junyan Ye, Dongzhi Jiang, Zihao Wang, Leqi Zhu, Zhenghao Hu, Zilong Huang, Jun He, Zhiyuan Yan, Jinghua Yu, Hongsheng Li, Conghui He, Weijia Li
-  Recently, GPT-4o has garnered significant attention for its strong
-performance in image generation, yet open-source models still lag behind.
-Several s...
+- [Is ChatGPT-5 Ready for Mammogram VQA?](http://arxiv.org/abs/2508.11628v1) - Qiang Li, Shansong Wang, Mingzhe Hu, Mojtaba Safari, Zachary Eidex, Xiaofeng Yang
+  Mammogram visual question answering (VQA) integrates image interpretation
+with clinical reasoning and has potential to support breast cancer screening...
 
-- [Vision-driven River Following of UAV via Safe Reinforcement Learning
-  using Semantic Dynamics Model](http://arxiv.org/abs/2508.09971v1) - Zihan Wang, Nina Mahmoudian
-  Vision-driven autonomous river following by Unmanned Aerial Vehicles is
-critical for applications such as rescue, surveillance, and environmental
-moni...
+- [Controlling Multimodal LLMs via Reward-guided Decoding](http://arxiv.org/abs/2508.11616v1) - Oscar Mañas, Pierluca D'Oro, Koustuv Sinha, Adriana Romero-Soriano, Michal Drozdzal, Aishwarya Agrawal
+  As Multimodal Large Language Models (MLLMs) gain widespread applicability, it
+is becoming increasingly desirable to adapt them for diverse user needs....
 
-- [January Food Benchmark (JFB): A Public Benchmark Dataset and Evaluation
-  Suite for Multimodal Food Analysis](http://arxiv.org/abs/2508.09966v1) - Amir Hosseinian, Ashkan Dehghani Zahedani, Umer Mansoor, Noosheen Hashemi, Mark Woodward
-  Progress in AI for automated nutritional analysis is critically hampered by
-the lack of standardized evaluation methodologies and high-quality, real-w...
+- [Pretrained Conformers for Audio Fingerprinting and Retrieval](http://arxiv.org/abs/2508.11609v1) - Kemal Altwlkany, Elmedin Selmanovic, Sead Delalic
+  Conformers have shown great results in speech processing due to their ability
+to capture both local and global interactions. In this work, we utilize ...
 
 
 
@@ -148,25 +145,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $233.33 📈 +3.68 (+1.6%)
-- **GOOGL**: $201.96 📉 -1.38 (-0.7%)
-- **MSFT**: $520.58 📉 -8.66 (-1.6%)
+- **AAPL**: $231.59 📉 -1.19 (-0.5%)
+- **GOOGL**: $203.90 📈 +0.96 (+0.5%)
+- **MSFT**: $520.17 📉 -2.31 (-0.4%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**有效的括号** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+判断字符串中的括号是否有效匹配
 
-标签: 字符串, 动态规划
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -177,14 +174,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《Kubernetes权威指南》** - 龚正等
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -200,15 +197,15 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
@@ -220,11 +217,11 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🏆 本周技术挑战
 
-**微服务架构设计** (难度: 高级)
+**AI模型部署** (难度: 中等)
 
-设计一个电商系统的微服务架构，包含用户、订单、支付等服务
+将一个机器学习模型部署到云端，实现API调用
 
-🏷️ 标签: 架构设计, 微服务 | ⏱️ 预计时间: 4-8小时 | 🎯 奖励积分: 150
+🏷️ 标签: AI, 部署, 云计算 | ⏱️ 预计时间: 3-6小时 | 🎯 奖励积分: 120
 
 
 ### 🧠 技术小测验
@@ -241,40 +238,41 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**写测试用例**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `b1036a` | 日期: 2025-08-14
+挑战ID: `dddd67` | 日期: 2025-08-18
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
@@ -283,9 +281,9 @@ function formatCurrency(amount) { ... }
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Serverless** ☁️ +7% - 无服务器架构普及
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
@@ -299,14 +297,14 @@ function formatCurrency(amount) { ... }
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**云架构师** (高级) 🚀
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+程序员的口头禅：在我的机器上运行得很好！
 
 
 ### 🐙 GitHub 生态统计
@@ -320,7 +318,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-08-14 08:15:02
+- 📅 更新时间: 2025-08-18 08:15:56
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -331,15 +329,14 @@ function formatCurrency(amount) { ... }
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
+- 😊 积极新闻: 6 (75.0%)
 - 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 15.0/100
+- 🔥 平均热度: 11.1/100
 
 🏷️ **热门关键词**:
-- AI (5次)
+- AI (4次)
 - 人工智能 (2次)
-- 机器学习 (1次)
-- AR (1次)
+- 神经网络 (1次)
 
 
 ### 🤖 关于此项目
