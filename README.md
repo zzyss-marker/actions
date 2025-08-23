@@ -55,56 +55,62 @@
 
 MIT
 
-## 今日更新 (2025-08-22)
+## 今日更新 (2025-08-23)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [使用trae进行本地ai对话机器人的构建](https://blog.csdn.net/TJX1029320/article/details/149880716) 🔥 热门
-  在人工智能技术快速发展的今天，构建本地AI对话机器人已成为开发者和技术爱好者的热门选择。使用 trae可以高效地实现这一目标，确保数据隐私和响应速度。本文将详细介绍如何利用 Trae 搭建本地AI对话...
-- 😊 [腾讯云CodeBuddy AI IDE+CloudBase AI ToolKit打造理财小助手网页](https://blog.csdn.net/IRpickstars/article/details/149928291) 🔥 热门
-  腾讯云CodeBuddy结合CloudBase AI Toolkit打造了一款智能理财助手，提供一站式财务分析与规划服务。该应用基于Vue3+Vite开发，采用现代化UI设计，包含四大核心模块：1）用...
-- 😊 [云平台DeepSeek满血版：引领AI推理革新，开启智慧新时代](https://blog.csdn.net/2301_80840905/article/details/145940077) 📈 关注
-  为了让更多的用户亲身感受这一革命性技术成果，云平台推出了免费Tokens的特权活动，让每一位用户都能够充分体验DeepSeek满血版的强大功能，并一同见证AI推理技术的突破性进展。作为AI领域的创新者...
-- 😐 [ESP32 小智 AI 机器人入门教程从原理到实现（自己云端部署）](https://blog.csdn.net/h050210/article/details/146120433) 📈 关注
-  简介： 本教程将指导初学者使用 ESP32 微控制器开发一个简单的语音对话机器人“小智”。我们将介绍所需的基础原理、硬件准备、软件环境搭建，以及如何编写代码实现语音唤醒和与云端大模型的对接。通过本教程...
-- 😐 [Ai提示词不会写，看这一篇就够了！（附：套用模板）](https://blog.csdn.net/qkh1234567/article/details/143204167) 📈 关注
-  如果你已探索过豆包Ai、Kimi、智谱清言等生成式AI工具，那么你对“prompt”（提示词）这一核心概念一定有自己的认知和理解。这里所谓的提示词，其实就是人和AI交互时的输入，是连接你与AI创意源泉...
+- 😊 [AI 对话高效输入指令攻略（四）：AI+Apache ECharts：生成各种专业图表](https://blog.csdn.net/Pocker_Spades_A/article/details/149937054) 🔥 热门
+  本文介绍了利用AI与Apache ECharts高效生成专业图表的方法。Apache ECharts作为开源可视化库，具备图表类型丰富、交互性强、高度定制化等优势，支持多场景数据展示。核心流程为：进入...
+- 😊 [【Ai】CherryStudio 详细使用：本地知识库、MCP服务器](https://blog.csdn.net/wlddhj/article/details/147304872) 📈 关注
+  Cherry Studio 是一款集多模型对话、知识库管理、AI 绘画、翻译等功能于一体的全能 AI 助手平台。Cherry Studio 高度自定义的设计、强大的扩展能力和友好的用户体验，使其成为专...
+- 😊 [AI 辅助编程专栏：开启智能编码新征程​](https://blog.csdn.net/weixin_43151418/article/details/149884020) 📈 关注
+  AI 辅助编程专栏：开启智能编码新征程​，本文介绍“AI 辅助编程专栏”，聚焦 AI 辅助编程领域，介绍相关知识、工具、技巧及实践应用，涵盖基础工具使用到实战演练。学习该专栏可提升代码生成、优化、错误...
+- 😊 [91写作 - AI智能小说创作工具](https://blog.csdn.net/gitblog_00002/article/details/148838655) 📈 关注
+  ???? 91写作 - AI智能小说创作工具91写作是一个基于 Vue 3 和 Element Plus 的专业 AI 小说创作平台，它集成了先进的 AI 模型，并提供了完整的创作工具链。无论您是初学...
+- 😊 [1.3 人工智能大模型的本质](https://blog.csdn.net/lornshrimp/article/details/150203001) 📈 关注
+  大模型本质上是人工智能对人类知识的高度压缩映射系统。它通过数十亿参数、海量数据和强大算力，将复杂的人类知识（语言、图像、音频等）转化为数学矩阵。这种技术既具有优势（智能灵活、多任务处理能力强），也存在...
 
 
 ### 网络安全资讯
 
-- [从技术到安全：中科固源拆解车载以太网的演进路径与防护策略](https://www.anquanke.com/post/id/310094) - 安全公告，详情请点击链接查看完整内容
-- [VerilogLAVD：用于 Verilog 漏洞检测的 LLM 辅助规则生成](https://paper.seebug.org/3360/) - 作者：Xiang Long,Yingjie Xia,Xiyuan Chen,Li Kuang
+- [360入选《甲方安全建设精品采购指南》 为政企单位数转智改提供参考](https://www.anquanke.com/post/id/311395) - 安全公告，详情请点击链接查看完整内容
+- [Phrack 杂志第 72 期：数据流归我们所有：定制客户端的必要性论证](https://paper.seebug.org/3374/) - 作者：tgr
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2508.130...
+原文链接：https://phrack.org/issues/72/18_md#article
+0. 引言
+\
+
+| \_
+ \   \____
+| \...
 - [新态势·新实战 | CSOP 2025 网络安全运营实战大会在京开幕](https://www.4hou.com/posts/338Q) - 8月21日，年度网络安全盛会——CSOP 2025网络安全运营实战大会在北京拉开序幕。本次大会以“新态势·新实战”为主题，吸引了来自政府机构、国央企、科研院所、顶尖高校、运营商、大型金融机构、互联网头...
 
 
 ### 技术就业趋势
 
-可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
-- 😊 [人工智能“入侵”人类新闻网站腹地](https://cloud.tencent.com/developer/article/2556186) 🔥 热门
-  8月12日，以AI搜索为主赛道的公司Perplexity，提出以345亿美元收购谷歌Chrome浏览器。这一数字甚至高于Perplexity目前180亿美元的估值。
-- 😊 [腾讯云TI-AOI平台能力全新升级！算法性能、训练模式与部署能力全面进阶](https://cloud.tencent.com/developer/article/2556195) 📈 关注
-  近日，2025腾讯云工业AI质检生态联盟成果发布会在苏州举行。腾讯云TI-AOI工业质检训练平台迎来能力升级，新增多类算法与智能化工具模块，全面提升平台在精度、效率与易用性方面的综合性能。
-- 😟 [过时Server2008（非R2）系统的特定蓝屏问题0x0000007B（0xFFFFFA60005B49C0、0xFFFFFFFFC0000034）](https://cloud.tencent.com/developer/article/2556349) 📊 普通
-  问题：过时Server2008（非R2）系统的特定蓝屏问题0x0000007B（0xFFFFFA60005B49C0、0xFFFFFFFFC0000034）
+- 😐 [一篇文理解AI核心基本概念：LLM、Function Call、Agent…](https://cloud.tencent.com/developer/article/2556711) 📈 关注
+  本文尽量用最简单的方式, 帮读者理解 LLM, Transformer, Prompt, Function calling, MCP, Agent, A2A 等这些基本概念。表述时不追求绝对准确, 尽...
+- 😐 [mark.js的使用方法](https://cloud.tencent.com/developer/article/2556851) 📊 普通
+  是一个流行的 JavaScript 库，用于在网页中高亮显示指定的文本内容（如搜索关键词）。以下是它的基本使用方法：
+- 😐 [WeChat-YATT：微信强化学习大模型训练库](https://cloud.tencent.com/developer/article/2556704) 📊 普通
+  我们提出的 WeChat-YATT 训练库，解决了大模型分布式训练过程中面临的两大核心痛点：
 
 
 ### GitHub 趋势项目
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
-- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
+- [dataease/SQLBot](https://github.com/dataease/SQLBot) - 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server.
 
 
 
@@ -148,16 +154,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $224.90 📉 -1.11 (-0.5%)
-- **GOOGL**: $199.75 📈 +0.43 (+0.2%)
-- **MSFT**: $504.24 📉 -0.65 (-0.1%)
+- **AAPL**: $227.76 📈 +2.86 (+1.3%)
+- **GOOGL**: $206.09 📈 +6.34 (+3.2%)
+- **MSFT**: $507.23 📈 +2.99 (+0.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
@@ -177,14 +183,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《深度学习》** - Ian Goodfellow
 
-面向对象设计的经典模式 (分类: 软件设计)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -201,14 +207,14 @@ satellite communication systems has elevated the importance of secure vide...
 ### 🎨 设计资源推荐
 
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
@@ -229,41 +235,40 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**使用版本控制**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🥷 代码忍者
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `6d500f` | 日期: 2025-08-22
+挑战ID: `ed5dc0` | 日期: 2025-08-23
 
 
 ### 📊 技术话题投票
@@ -281,27 +286,27 @@ function formatCurrency(amount) { ... }
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-使用Rust构建跨平台桌面应用
+现代Web应用框架
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**安全工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
@@ -320,7 +325,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-08-22 08:13:49
+- 📅 更新时间: 2025-08-23 08:11:41
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -332,12 +337,13 @@ function formatCurrency(amount) { ... }
 
 - 📰 新闻总数: 8
 - 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 14.8/100
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 11.9/100
 
 🏷️ **热门关键词**:
-- AI (7次)
-- 人工智能 (2次)
+- AI (5次)
+- AR (2次)
+- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
