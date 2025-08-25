@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2025-08-24)
+## 今日更新 (2025-08-25)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- 😊 [人工智能芯片的整体构架设计](https://blog.csdn.net/ccsss22/article/details/150282917) 🔥🔥 很热
-  本文系统介绍了人工智能芯片的架构设计原理与实现方法。首先从计算原理出发，详细阐述了深度学习中的张量运算、并行化计算架构以及三级存储结构的设计理念。接着，文章具体分析了人工智能芯片的实现步骤，包括计算架...
-- 😊 [【探展WAIC】从“眼见为虚”到“AI识真”：如何用大模型筑造多模态鉴伪盾牌](https://blog.csdn.net/air__Heaven/article/details/150080705) 🔥🔥 很热
-  随着人工智能技术的飞速发展，特别是多模态大模型和生成式AI的普及，数字内容的创作与传播已然变得前所未有的便捷。然而，硬币的另一面是，AI也为伪造和篡改带来了新的挑战。从逼真的人脸视频到以假乱真的图像，...
-- 😊 [结构化记忆、知识图谱与动态遗忘机制在医疗AI中的应用探析(上)](https://blog.csdn.net/kkiron/article/details/150142131) 🔥🔥 很热
-  医疗AI中的知识图谱与动态记忆技术研究 摘要：本文探讨了结构化记忆、知识图谱和动态遗忘机制在医疗人工智能中的协同应用。研究表明，这些技术能有效解决医疗领域面临的知识复杂性、数据异构性和时效性等核心挑战...
-- 😐 [2025年全球10大AI大模型排行榜出炉！中国独占6席](https://blog.csdn.net/2401_84204207/article/details/149155448) 📈 关注
-  2025年是AI大模型的爆发之年，也是AI大模型发展的分水岭，谁能留在牌桌上，谁能引领AI最前沿，都是该见分晓的时候了。全球AI大模型那么多，究竟谁好谁坏？让我们拨开AI大模型的面纱，退去营销的潮水，...
-- 😐 [K230 借助 AICube部署AI 视觉模型 YOLO等教程](https://blog.csdn.net/2301_80317247/article/details/146735703) 📈 关注
-  创建玩符合规则的文件夹后把你的text 照片 啥的导进去就可以看到你已经标好的和没标好的照片了，你可以继续标记，我是直接接labelme  labelimg标好了后导进来直接接aicube训练的，因为...
+- 😊 [肾上腺疾病AI诊疗一体化系统应用方向探析](https://blog.csdn.net/kkiron/article/details/149909497) 🔥🔥 很热
+  AI辅助肾上腺疾病诊疗系统摘要 该系统通过整合多模态医疗数据（电子病历、影像学检查、生化指标等），利用AI技术提升肾上腺疾病的诊疗全流程管理。核心功能包括：基于机器学习的早期筛查、深度学习影像分析的精...
+- 😊 [GpuGeek 大模型教程：凭借镜像与资源优势，带你畅行垂直 AI 领域](https://blog.csdn.net/2301_80350265/article/details/147957057) 🔥🔥 很热
+  在人工智能的浩瀚宇宙中，大模型如璀璨星辰般闪耀，成为推动技术进步的核心力量。从自然语言处理的智能对话，到计算机视觉的精准识别，大模型正深刻改变着我们的生活。而在大模型的开发与应用过程中，GpuGeek...
+- 😐 [AI大模型时代：技术工作者如何实现职业跃迁？转型指南干货（含实战方法论）](https://blog.csdn.net/Dreamy_zsy/article/details/149171327) 📈 关注
+  AI时代项目经理的转型路径：从生存危机到技术战略家 随着AI技术的迅猛发展，全球89%的头部企业已设立AI战略部门，但76%的传统项目经理因缺乏AI素养面临职业危机。麦肯锡预测2025年45%项目管理...
+- 😐 [当 AI 把框架文档背成顺口溜：初级开发者的「反内卷」生存手册](https://blog.csdn.net/qq_33650655/article/details/149924615) 📈 关注
+  初级开发者与其担心 AI 比自己更懂框架，不如把精力放在那些不变的东西上：数据结构与算法、计算机网络原理、操作系统基础知识、设计模式思想... 这些底层能力就像武林高手的内功，有了它们，无论遇到什么新...
+- 😊 [AI自动化神器n8n，保姆级教程来了！](https://blog.csdn.net/Datawhale/article/details/148884419) 📈 关注
+  的简称，是一个开源的、高度可扩展的工作流自动化工具。它允许你通过一个直观的可视化界面，将不同的应用、服务和数据连接起来，创建复杂的自动化流程，从而提升效率、减少重复性工作。而其强大的节点系统和灵活的编...
 
 
 ### 网络安全资讯
@@ -87,7 +87,7 @@ MIT
 | \_
  \   \____
 | \...
-- [新态势·新实战 | CSOP 2025 网络安全运营实战大会在京开幕](https://www.4hou.com/posts/338Q) - 8月21日，年度网络安全盛会——CSOP 2025网络安全运营实战大会在北京拉开序幕。本次大会以“新态势·新实战”为主题，吸引了来自政府机构、国央企、科研院所、顶尖高校、运营商、大型金融机构、互联网头...
+- [【附下载】重庆信通设计院： 智能体安全 要点问题 全解答](https://www.4hou.com/posts/8gZo) - 参考资料：《智能体体检报告》《AI智能体运行安全测试标准》等来源：重庆信通设计院天空实验室
 
 
 ### 技术就业趋势
@@ -96,41 +96,43 @@ MIT
 
 ### 科技热点
 
-- 😊 [Manus是什么](https://cloud.tencent.com/developer/article/2557312) 📈 关注
-  ​开发的全球首款通用型AI智能体（AI Agent），其名称源自拉丁语“Mens et Manus”（手脑并用），寓意AI不仅具备思考能力，还能直接执行任务，实现从“生成答案”到“交付成果”的跨越。以...
-- 😊 [OpenTenBase 内容征集大赛 | 企业级开源数据库，抢先体验赢大奖🏅](https://cloud.tencent.com/developer/article/2556062) 📊 普通
-  OpenTenBase 是腾讯云数据库 TDSQL 团队研发的企业级分布式 HTAP 开源数据库，集高扩展性、高 SQL 兼容度、完整的分布式事务支持、多级容灾能力以及多维度资源隔离等能力于一身，已经...
-- 😊 [Java编译器优化秘籍：字节码背后的IR魔法与常见技巧](https://cloud.tencent.com/developer/article/2557513) 📊 普通
-  编译器通常被划分为前端编译器和后端编译器两个部分。前端编译器负责对源代码进行词法分析、语法分析和语义分析，生成中间表达形式（Intermediate Representation ，IR）。这种由前端...
+- 😊 [解锁硬件潜能：Java向量化计算，性能飙升W倍！](https://cloud.tencent.com/developer/article/2557897) 📊 普通
+  与机器相关的编译优化常见的有指令选择（Instruction Selection）、寄存器分配（Register Allocation）、窥孔优化（Peephole Optimization）等。这些...
+- 😐 [【运维自动化-标准运维】变量的高级用法](https://cloud.tencent.com/developer/article/2557967) 📊 普通
+  在全局变量使用篇里了解到了各类变量的基本用法，实际在很多场景下，需要对变量进行处理，这就是标准运维里变量的高级用法。只要处理变量符合python语法，在一行代码语句的长度内可以执行的代码，系统均是可以...
+- 😊 [深入解析HPKE：从手动实现到标准库实践](https://cloud.tencent.com/developer/article/2558083) 📊 普通
+  混合公钥加密（HPKE）作为现代加密协议的核心，已在TLS 1.3和隐私增强技术中广泛应用，本文将通过三段关键代码示例，逐层拆解HPKE的运行机制，并对比不同模式的安全特性。
 
 
 ### GitHub 趋势项目
 
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-- [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
-- [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+- [scottpetrovic/mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) - Import a 3D Model and automatically assign and export animations
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 📚 Freely available programming books
 
 
 
 
 ### AI 研究论文
 
-- [SceneGen: Single-Image 3D Scene Generation in One Feedforward Pass](http://arxiv.org/abs/2508.15769v1) - Yanxu Meng, Haoning Wu, Ya Zhang, Weidi Xie
-  3D content generation has recently attracted significant research interest
-due to its applications in VR/AR and embodied AI. In this work, we address ...
+- [MV-RAG: Retrieval Augmented Multiview Diffusion](http://arxiv.org/abs/2508.16577v1) - Yosef Dayani, Omer Benishu, Sagie Benaim
+  Text-to-3D generation approaches have advanced significantly by leveraging
+pretrained 2D diffusion priors, producing high-quality and 3D-consistent
+ou...
 
-- [Discovering Hidden Algebraic Structures via Transformers with Rank-Aware
-  Beam GRPO](http://arxiv.org/abs/2508.15766v1) - Jaeha Lee, Gio Huh, Ning Su, Tony Yue YU
-  Recent efforts have extended the capabilities of transformers in logical
-reasoning and symbolic computations. In this work, we investigate their
-capac...
+- [Hierarchical Decision-Making for Autonomous Navigation: Integrating Deep
+  Reinforcement Learning and Fuzzy Logic in Four-Wheel Independent Steering and
+  Driving Systems](http://arxiv.org/abs/2508.16574v1) - Yizhi Wang, Degang Xu, Yongfang Xie, Shuzhong Tan, Xianan Zhou, Peng Chen
+  This paper presents a hierarchical decision-making framework for autonomous
+navigation in four-wheel independent steering and driving (4WISD) systems....
 
-- [LiveMCP-101: Stress Testing and Diagnosing MCP-enabled Agents on
-  Challenging Queries](http://arxiv.org/abs/2508.15760v1) - Ming Yin, Dinghan Shen, Silei Xu, Jianbing Han, Sixun Dong, Mian Zhang, Yebowen Hu, Shujian Liu, Simin Ma, Song Wang, Sathish Reddy Indurthi, Xun Wang, Yiran Chen, Kaiqiang Song
-  Tool calling has emerged as a critical capability for AI agents to interact
-with the real world and solve complex tasks. While the Model Context Proto...
+- [LLM-Based Agents for Competitive Landscape Mapping in Drug Asset Due
+  Diligence](http://arxiv.org/abs/2508.16571v1) - Alisa Vinogradova, Vlad Vinogradov, Dmitrii Radkevich, Ilya Yasny, Dmitry Kobyzev, Ivan Izmailov, Katsiaryna Yanchanka, Andrey Doronichev
+  In this paper, we describe and benchmark a competitor-discovery component
+used within an agentic AI system for fast drug asset due diligence. A
+compet...
 
 
 
@@ -161,18 +163,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**两数之和** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 字符串, 动态规划
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -183,14 +185,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《Python编程：从入门到实践》** - Eric Matthes
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -201,46 +203,46 @@ satellite communication systems has elevated the importance of secure vide...
 ### 🚀 创业公司动态
 
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
 
-**AI模型部署** (难度: 中等)
+**安全漏洞修复** (难度: 高级)
 
-将一个机器学习模型部署到云端，实现API调用
+识别并修复一个Web应用中的安全漏洞
 
-🏷️ 标签: AI, 部署, 云计算 | ⏱️ 预计时间: 3-6小时 | 🎯 奖励积分: 120
+🏷️ 标签: 安全, Web开发 | ⏱️ 预计时间: 2-5小时 | 🎯 奖励积分: 130
 
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
@@ -267,52 +269,52 @@ function formatCurrency(amount) { ... }
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `66ae06` | 日期: 2025-08-24
+挑战ID: `986230` | 日期: 2025-08-25
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-高性能代码编辑器
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**安全工程师** (中级) 📈
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-真正的程序员不需要注释，代码就是最好的文档。
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -326,7 +328,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-08-24 08:11:28
+- 📅 更新时间: 2025-08-25 08:14:49
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -337,15 +339,15 @@ function formatCurrency(amount) { ... }
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
+- 😊 积极新闻: 5 (62.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 17.5/100
+- 🔥 平均热度: 13.9/100
 
 🏷️ **热门关键词**:
 - AI (5次)
-- 人工智能 (3次)
+- 机器学习 (1次)
 - 深度学习 (1次)
-- 芯片 (1次)
+- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
