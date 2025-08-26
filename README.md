@@ -55,84 +55,74 @@
 
 MIT
 
-## 今日更新 (2025-08-25)
+## 今日更新 (2025-08-26)
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😊 [肾上腺疾病AI诊疗一体化系统应用方向探析](https://blog.csdn.net/kkiron/article/details/149909497) 🔥🔥 很热
-  AI辅助肾上腺疾病诊疗系统摘要 该系统通过整合多模态医疗数据（电子病历、影像学检查、生化指标等），利用AI技术提升肾上腺疾病的诊疗全流程管理。核心功能包括：基于机器学习的早期筛查、深度学习影像分析的精...
-- 😊 [GpuGeek 大模型教程：凭借镜像与资源优势，带你畅行垂直 AI 领域](https://blog.csdn.net/2301_80350265/article/details/147957057) 🔥🔥 很热
-  在人工智能的浩瀚宇宙中，大模型如璀璨星辰般闪耀，成为推动技术进步的核心力量。从自然语言处理的智能对话，到计算机视觉的精准识别，大模型正深刻改变着我们的生活。而在大模型的开发与应用过程中，GpuGeek...
-- 😐 [AI大模型时代：技术工作者如何实现职业跃迁？转型指南干货（含实战方法论）](https://blog.csdn.net/Dreamy_zsy/article/details/149171327) 📈 关注
-  AI时代项目经理的转型路径：从生存危机到技术战略家 随着AI技术的迅猛发展，全球89%的头部企业已设立AI战略部门，但76%的传统项目经理因缺乏AI素养面临职业危机。麦肯锡预测2025年45%项目管理...
-- 😐 [当 AI 把框架文档背成顺口溜：初级开发者的「反内卷」生存手册](https://blog.csdn.net/qq_33650655/article/details/149924615) 📈 关注
-  初级开发者与其担心 AI 比自己更懂框架，不如把精力放在那些不变的东西上：数据结构与算法、计算机网络原理、操作系统基础知识、设计模式思想... 这些底层能力就像武林高手的内功，有了它们，无论遇到什么新...
-- 😊 [AI自动化神器n8n，保姆级教程来了！](https://blog.csdn.net/Datawhale/article/details/148884419) 📈 关注
-  的简称，是一个开源的、高度可扩展的工作流自动化工具。它允许你通过一个直观的可视化界面，将不同的应用、服务和数据连接起来，创建复杂的自动化流程，从而提升效率、减少重复性工作。而其强大的节点系统和灵活的编...
+- 😊 [本地AI神器来了！LM Studio 从入门到上头，用电脑轻松驯服大语言模型](https://blog.csdn.net/tzchao111/article/details/148634251) 🔥🔥 很热
+  ChatGPT要联网、Claude限地区、Token费心计？试试这款神器——LM Studio！让你的电脑变身AI聊天专家，隐私、安全、免费三重保障，完全离线也能轻松和大模型对话。
+- 😐 [Spring AI Alibaba + JManus：从架构原理到生产落地的全栈实践——一篇面向 Java 架构师的 20 分钟深度阅读](https://blog.csdn.net/2301_81028896/article/details/149542170) 🔥 热门
+  本文介绍了Spring AI Alibaba（SAA）框架及其核心组件JManus，旨在为Java开发者提供原生AI开发能力。SAA解决了企业在Java生态中集成AI时面临的语言壁垒、治理一致性和团队...
+- 😊 [【领码课堂】JSON Schema三剑客：智能编辑器 × 资源继承 × AI加速数据治理新范式](https://blog.csdn.net/lgf228/article/details/150433726) 🔥 热门
+  通过深度掌控 JSON Schema 核心文法、定制化在线编辑器与资源继承策略，再加 AI 智能加速，团队可在数据定义、校验、复用与回归测试上取得质的飞跃。未来可进一步引入 Schema 联邦、Gra...
+- 😊 [DeepSeek-R1-0528 VS Claude-4-Sonnet：全面对比两大AI模型的升级与性能](https://blog.csdn.net/qq_40999403/article/details/148310129) 🔥 热门
+  AI巨头技术对决：DeepSeek与Claude上演巅峰之战 两大AI模型最新版本展现差异化技术路线：DeepSeek-R1-0528以极客风范实现代码能力飞跃，采用动态稀疏注意力机制，在671B参数...
+- 😟 [【点击领取】点击领取AI大模型2025最新学习资料、视频教程、学习路线，存下吧很难找全的！](https://blog.csdn.net/2401_84204207/article/details/149361616) 📈 关注
+  按惯例，先说下我基本情况。我是95年的，计算机专业普通本科毕业。在一个二线城市，毕业后因为自身能力问题、认知水平问题，再加上运气不好，换过多份工作，每份工作都干不长。导致我30岁时，还一事无成，也几乎...
 
 
 ### 网络安全资讯
 
-- [360入选《甲方安全建设精品采购指南》 为政企单位数转智改提供参考](https://www.anquanke.com/post/id/311395) - 安全公告，详情请点击链接查看完整内容
-- [Phrack 杂志第 72 期：数据流归我们所有：定制客户端的必要性论证](https://paper.seebug.org/3374/) - 作者：tgr
-译者：知道创宇404实验室翻译组
-原文链接：https://phrack.org/issues/72/18_md#article
-0. 引言
-\
-
-| \_
- \   \____
-| \...
-- [【附下载】重庆信通设计院： 智能体安全 要点问题 全解答](https://www.4hou.com/posts/8gZo) - 参考资料：《智能体体检报告》《AI智能体运行安全测试标准》等来源：重庆信通设计院天空实验室
+- [Python代码保护之重置操作码映射的攻与防探究（一）](https://www.anquanke.com/post/id/311484) - 安全公告，详情请点击链接查看完整内容
+- [小型语言模型是代理型人工智能的未来](https://paper.seebug.org/3376/) - 作者：Peter Belcak, Greg Heinrich, Shizhe Diao, Yonggan Fu, Xin Dong, Saurav Muralidharan, Yingyan Celi...
+- [用户数突破六万！美亚鉴真小程序守护人工智能安全防线](https://www.4hou.com/posts/vw4r) - 近日，由国投智能股份全资子公司美亚柏科自主研发的“美亚鉴真平台”微信小程序用户数突破六万大关，这一里程碑标志着美亚柏科人工智能及AI内容检测识别技术的持续进步和用户的广泛认可。欢迎大家扫描下图二维码上...
 
 
 ### 技术就业趋势
 
-具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
+可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
 
 ### 科技热点
 
-- 😊 [解锁硬件潜能：Java向量化计算，性能飙升W倍！](https://cloud.tencent.com/developer/article/2557897) 📊 普通
-  与机器相关的编译优化常见的有指令选择（Instruction Selection）、寄存器分配（Register Allocation）、窥孔优化（Peephole Optimization）等。这些...
-- 😐 [【运维自动化-标准运维】变量的高级用法](https://cloud.tencent.com/developer/article/2557967) 📊 普通
-  在全局变量使用篇里了解到了各类变量的基本用法，实际在很多场景下，需要对变量进行处理，这就是标准运维里变量的高级用法。只要处理变量符合python语法，在一行代码语句的长度内可以执行的代码，系统均是可以...
-- 😊 [深入解析HPKE：从手动实现到标准库实践](https://cloud.tencent.com/developer/article/2558083) 📊 普通
-  混合公钥加密（HPKE）作为现代加密协议的核心，已在TLS 1.3和隐私增强技术中广泛应用，本文将通过三段关键代码示例，逐层拆解HPKE的运行机制，并对比不同模式的安全特性。
+- 😊 [更懂人心的伙伴，腾讯云助力逗逗AI打造时刻同频的全方位陪伴体验](https://cloud.tencent.com/developer/article/2558417) 🔥🔥 很热
+  在人工智能大模型技术飞速发展的今天，曾经只存在于科幻作品中的场景正逐渐走进现实，技术的飞跃让深度情感连接成为可能。从早期只能执行简单指令的程序，到如今能理解复杂语义、感知情绪变化的智能体，AI 技术的...
+- 😐 [找到了！节省Token的9+1个邪修办法](https://cloud.tencent.com/developer/article/2558421) 📈 关注
+  不知道什么时候开始，我对于收入的思考方式变成了：今天我又赚了多少个token。长期速试AI提效产品的买购，会导致token花费苦来兮苦，本文结合我的实际经验和小伙伴们交流总结了十条建议，能够帮大家节省...
+- 😊 [开源公告｜腾讯Kuikly开源框架新增支持Web，开启一码五端新体验！](https://cloud.tencent.com/developer/article/2558415) 📊 普通
+  Kuikly是腾讯广泛应用的跨端开发框架，基于Kotlin Multiplatform技术构建，为开发者提供了技术栈更统一的跨端开发体验，由腾讯大前端领域 Oteam（公司级）推出。目前已有20+业务...
 
 
 ### GitHub 趋势项目
 
+- [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-- [scottpetrovic/mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) - Import a 3D Model and automatically assign and export animations
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - 📚 Freely available programming books
+- [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 
 
 
 
 ### AI 研究论文
 
-- [MV-RAG: Retrieval Augmented Multiview Diffusion](http://arxiv.org/abs/2508.16577v1) - Yosef Dayani, Omer Benishu, Sagie Benaim
-  Text-to-3D generation approaches have advanced significantly by leveraging
-pretrained 2D diffusion priors, producing high-quality and 3D-consistent
-ou...
+- [SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual
+  Manipulation](http://arxiv.org/abs/2508.18268v1) - Haoyuan Deng, Wenkai Guo, Qianzhun Wang, Zhenyu Wu, Ziwei Wang
+  Bimanual manipulation has been widely applied in household services and
+manufacturing, which enables the complex task completion with coordination
+req...
 
-- [Hierarchical Decision-Making for Autonomous Navigation: Integrating Deep
-  Reinforcement Learning and Fuzzy Logic in Four-Wheel Independent Steering and
-  Driving Systems](http://arxiv.org/abs/2508.16574v1) - Yizhi Wang, Degang Xu, Yongfang Xie, Shuzhong Tan, Xianan Zhou, Peng Chen
-  This paper presents a hierarchical decision-making framework for autonomous
-navigation in four-wheel independent steering and driving (4WISD) systems....
+- [ANO : Faster is Better in Noisy Landscape](http://arxiv.org/abs/2508.18258v1) - Adrien Kegreisz
+  Stochastic optimizers are central to deep learning, yet widely used methods
+such as Adam and Adan can degrade in non-stationary or noisy environments,...
 
-- [LLM-Based Agents for Competitive Landscape Mapping in Drug Asset Due
-  Diligence](http://arxiv.org/abs/2508.16571v1) - Alisa Vinogradova, Vlad Vinogradov, Dmitrii Radkevich, Ilya Yasny, Dmitry Kobyzev, Ivan Izmailov, Katsiaryna Yanchanka, Andrey Doronichev
-  In this paper, we describe and benchmark a competitor-discovery component
-used within an agentic AI system for fast drug asset due diligence. A
-compet...
+- [Hermes 4 Technical Report](http://arxiv.org/abs/2508.18255v1) - Ryan Teknium, Roger Jin, Jai Suphavadeeprasit, Dakota Mahan, Jeffrey Quesnelle, Joe Li, Chen Guang, Shannon Sands, Karan Malhotra
+  We present Hermes 4, a family of hybrid reasoning models that combine
+structured, multi-turn reasoning with broad instruction-following ability. We
+de...
 
 
 
@@ -156,25 +146,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $227.76 📈 +2.86 (+1.3%)
-- **GOOGL**: $206.09 📈 +6.34 (+3.2%)
-- **MSFT**: $507.23 📈 +2.99 (+0.6%)
+- **AAPL**: $227.16 📉 -0.60 (-0.3%)
+- **GOOGL**: $208.49 📈 +2.40 (+1.2%)
+- **MSFT**: $504.26 📉 -2.97 (-0.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+给定二叉树，找出其最大深度
 
-标签: 数组, 哈希表
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -185,14 +175,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《代码整洁之道》** - Robert C. Martin
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -209,21 +199,21 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 ### 🎨 设计资源推荐
 
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Synthwave Mix** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -262,47 +252,47 @@ function formatCurrency(amount) { ... }
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `986230` | 日期: 2025-08-25
+挑战ID: `114f00` | 日期: 2025-08-26
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
-- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-现代JavaScript/TypeScript运行时
+现代Web应用框架
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
@@ -328,7 +318,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-08-25 08:14:49
+- 📅 更新时间: 2025-08-26 08:14:38
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -340,13 +330,13 @@ function formatCurrency(amount) { ... }
 
 - 📰 新闻总数: 8
 - 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 13.9/100
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 18.5/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- 机器学习 (1次)
-- 深度学习 (1次)
+- AI (7次)
+- ChatGPT (1次)
+- GPT (1次)
 - 人工智能 (1次)
 
 
