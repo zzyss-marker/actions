@@ -55,71 +55,79 @@
 
 MIT
 
-## 今日更新 (2025-08-27)
+## 今日更新 (2025-08-28)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- 😊 [AI大模型探索之路-实战篇：智能化IT领域搜索引擎的构建与初步实践](https://blog.csdn.net/xiaobing259/article/details/139605522) 📈 关注
-  在信息技术飞速发展的当下，对于专业知识的检索需求正呈现出前所未有的增长态势。为了应对这一挑战，本文将深入探讨如何巧妙地结合大型语言模型的功能调用能力与谷歌搜索引擎API的强大功能，共同打造一个专门针对...
-- 😊 [豆包AI的官方信息和公开数据，以下是关于其图像生成功能的使用限制](https://blog.csdn.net/lsylovejava/article/details/149257376) 📈 关注
-  豆包AI文生图功能全面解析：免费无次数限制，支持日均5000万张图片生成，但免费版分辨率上限1080p（付费可达4K）。商用需授权，优化技巧包括参数调整和后期处理。高效创作案例显示1分钟可生成100张...
-- 😊 [Manus AI与多语言手写识别的技术突破与行业变革](https://blog.csdn.net/2301_80491316/article/details/150451658) 📈 关注
-  Manus AI通过数字书写动力学模型重构了手写识别的技术底座，以神经符号混合系统弥合了感知与认知的鸿沟，凭借联邦学习生态解决了低资源语言困境。文化层面：保护全球语言多样性，拯救濒危文字遗产经济层面：...
-- 😐 [融合与智能：AI 时代数据库的进化之路](https://blog.csdn.net/2301_80026901/article/details/149634681) 📈 关注
-  本文聚焦 AI 时代数据库的发展变革，指出场景多元化使单一数据库难以满足需求，“多库并存” 又带来诸多问题。在此背景下，“融合” 与 “智能” 成为数据库演进核心方向。文章以电科金仓 2025 产品发...
-- 😐 [Spring AI源码解读（六）：VectorStore](https://blog.csdn.net/qq_42068614/article/details/148403149) 📈 关注
-  面向小白解读spring AI中的VectorStore
+- 😊 [《飞算Java AI使用教程：从安装入门到实践项目》](https://blog.csdn.net/Dovis5884/article/details/150517586) 🔥🔥 很热
+  在当今人工智能技术飞速发展的时代，Java作为企业级开发的主流语言，正与AI技术深度融合。飞算Java AI是一款强大的工具集，旨在帮助开发者轻松构建和部署智能应用，涵盖机器学习、自然语言处理等核心功...
+- 😊 [猫头虎AI分享｜一款Coze、Dify类开源AI应用超级智能体快速构建工具：FastbuildAI](https://blog.csdn.net/qq_44866828/article/details/150464150) 🔥 热门
+  摘要：FastbuildAI是一款开源AI应用快速构建工具，主打易用性和商业闭环功能。通过可视化零代码界面，用户可快速搭建AI应用并集成算力计费、用户充值、营销收款等商业化功能。与Coze、Dify相...
+- 😊 [医疗AI中的电子病历智能化：Model Context Protocol使用从规则编码到数据涌现](https://blog.csdn.net/kkiron/article/details/150599082) 🔥 热门
+  本文系统解析了Model Context Protocol（MCP）在电子病历智能化中的演进路径，揭示了其从静态规则通信到动态智能协同的蜕变过程。通过Python技术栈的深度实践案例，展示了MCP如何...
+- 😊 [AI大模型探索之路-实战篇16：优化决策流程：Agent智能数据分析平台中Planning功能实践](https://blog.csdn.net/xiaobing259/article/details/139529694) 📈 关注
+  在前面篇章中我们实现了Agent智能数据分析平台中的Tools和Memory两大块，本文中我们将实现Agent智能数据分析平台中最核心的模块Plan，发掘探索人类意图，优化整个决策流程。
+- 😟 [零基础玩转MCP协议：用AI驱动Kali实现自动化渗透测试](https://blog.csdn.net/lbh73/article/details/147779540) 📈 关注
+  MCP协议（Model Context Protocol）是AI调用外部工具的"万能接口"。就像用遥控器操作电视，现在你可以用自然语言指挥Kali执行Nmap扫描、Metasploit漏洞利用等200...
 
 
 ### 网络安全资讯
 
-- [Python代码保护之重置操作码映射的攻与防探究（一）](https://www.anquanke.com/post/id/311484) - 安全公告，详情请点击链接查看完整内容
-- [MCPTox：针对真实世界 MCP 服务器工具投毒攻击的基准测试](https://paper.seebug.org/3377/) - 作者：Zhiqiang Wang, Yichao Gao, Yanting Wang, Suyuan Liu, Haifeng Sun, Haoran Cheng, Guanquan Shi, Hao...
-- [假冒macOS欺骗用户安装新型Shamos信息窃取器](https://www.4hou.com/posts/7MZA) - 一款名为“Shamos”的新型信息窃取恶意软件正针对Mac设备发起攻击，它借助“ClickFix攻击”（伪装成故障排除指南及修复方案）实施行动。该恶意软件是“Atomic macOS Stealer（...
+- [XCon x HG 国际黑马会议圆满成功 | 安全锚定 智守未来](https://www.anquanke.com/post/id/311600) - 安全公告，详情请点击链接查看完整内容
+- [攻击大语言模型和人工智能代理：针对大语言模型的广告嵌入攻击](https://paper.seebug.org/3378/) - 作者：Qiming Guo, Jinwen Tang, Xingran Huang
+译者：知道创宇404实验室翻译组
+原文链接：https://arxiv.org/html/2508.17674v1
+...
+- [主题发布 | CCS2025 成都网络安全技术交流活动主题正式公布 诚邀各方参与 共启数字安全新征程！](https://www.4hou.com/posts/yzNW) - 作为2025年国家网络安全宣传周成都系列活动的核心组成部分，CCS 2025 成都网络安全技术交流活动将于2025年9月16日在 中国·欧洲中心 盛大启幕。本次活动以 “安全迭代，智启新程” 为核心主...
 
 
 ### 技术就业趋势
 
-区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- 😐 [接入DeepSeek V3.1！CodeBuddy IDE国内版开启公测](https://cloud.tencent.com/developer/article/2558652) 📈 关注
-  @所有开发者，久等了！国内首个支持DeepSeek V3.1的AI一站式工作台，来了。
-- 😐 [【（含模板）滑动窗口 - LeetCode】3. 无重复字符的最长子串](https://cloud.tencent.com/developer/article/2558629) 📊 普通
-  利用滑动窗口，窗口内（开一个集合或者其他存储结构）符合条件时，窗口右边 向右移动（扩大窗口），不符合条件时，窗口左边向右移动（缩小窗口）。
-- 😐 [【链表 - LeetCode】206. 反转链表【带ACM调试】](https://cloud.tencent.com/developer/article/2558630) 📊 普通
-  一共三个指针，一个是记录最开始的节点，一个是当前反转节点，一个是下一个待反转的节点。
+- 😊 [什么是vibecoding](https://cloud.tencent.com/developer/article/2558931) 📈 关注
+  Vibe Coding（氛围编程）是一种依托人工智能 （尤其是大型语言模型，LLM）的新型编程范式，其核心是通过自然语言交互快速生成代码，重构传统开发流程。以下是其核心要点1：
+- 😊 [传统大数据团队如何做多维数据分析3-OLAP云原生验证方案架构](https://cloud.tencent.com/developer/article/2558899) 📈 关注
+  当前大数据 OLAP 体系采用存算一体架构（计算与存储混合部署），随着业务数据量激增、核心场景查询并发提升（核心业务峰值 QPS 达 x+），架构瓶颈逐渐凸显，具体痛点及业务影响如下：
+- 😐 [IDE 国内版公测丨支持最新 DeepSeek V3.1](https://cloud.tencent.com/developer/article/2558869) 📊 普通
+  官网下载地址（Beta 版）：https://copilot.tencent.com/ide/
 
 
 ### GitHub 趋势项目
 
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-- [willccbb/verifiers](https://github.com/willccbb/verifiers) - Verifiers for LLM Reinforcement Learning
-- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 
 
 
 
 ### AI 研究论文
 
-- [Model Context Protocols in Adaptive Transport Systems: A Survey](http://arxiv.org/abs/2508.19239v1) - Gaurab Chhetri, Shriyank Somvanshi, Md Monzurul Islam, Shamyo Brotee, Mahmuda Sultana Mimi, Dipti Koirala, Biplov Pandey, Subasish Das
-  The rapid expansion of interconnected devices, autonomous systems, and AI
-applications has created severe fragmentation in adaptive transport systems,...
+- [CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer
+  Use Agent with Decoupled Reinforcement Learning](http://arxiv.org/abs/2508.20096v1) - Zeyi Sun, Yuhang Cao, Jianze Liang, Qiushi Sun, Ziyu Liu, Zhixiong Zhang, Yuhang Zang, Xiaoyi Dong, Kai Chen, Dahua Lin, Jiaqi Wang
+  Autonomous agents for Graphical User Interfaces (GUIs) face significant
+challenges in specialized domains such as scientific computing, where both
+lon...
 
-- [StepWiser: Stepwise Generative Judges for Wiser Reasoning](http://arxiv.org/abs/2508.19229v1) - Wei Xiong, Wenting Zhao, Weizhe Yuan, Olga Golovneva, Tong Zhang, Jason Weston, Sainbayar Sukhbaatar
-  As models increasingly leverage multi-step reasoning strategies to solve
-complex problems, supervising the logical validity of these intermediate step...
+- [Discrete-Guided Diffusion for Scalable and Safe Multi-Robot Motion
+  Planning](http://arxiv.org/abs/2508.20095v1) - Jinhao Liang, Sven Koenig, Ferdinando Fioretto
+  Multi-Robot Motion Planning (MRMP) involves generating collision-free
+trajectories for multiple robots operating in a shared continuous workspace.
+Whi...
 
-- [Generative Interfaces for Language Models](http://arxiv.org/abs/2508.19227v1) - Jiaqi Chen, Yanzhe Zhang, Yutong Zhang, Yijia Shao, Diyi Yang
-  Large language models (LLMs) are increasingly seen as assistants, copilots,
-and consultants, capable of supporting a wide range of tasks through natur...
+- [Patch Progression Masked Autoencoder with Fusion CNN Network for
+  Classifying Evolution Between Two Pairs of 2D OCT Slices](http://arxiv.org/abs/2508.20064v1) - Philippe Zhang, Weili Jiang, Yihao Li, Jing Zhang, Sarah Matta, Yubo Tan, Hui Lin, Haoshen Wang, Jiangtian Pan, Hui Xu, Laurent Borderie, Alexandre Le Guilcher, Béatrice Cochener, Chubin Ou, Gwenolé Quellec, Mathieu Lamard
+  Age-related Macular Degeneration (AMD) is a prevalent eye condition affecting
+visual acuity. Anti-vascular endothelial growth factor (anti-VEGF) treat...
 
 
 
@@ -143,25 +151,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $229.31 📈 +2.15 (+0.9%)
-- **GOOGL**: $207.14 📉 -1.35 (-0.6%)
-- **MSFT**: $502.04 📉 -2.22 (-0.4%)
+- **AAPL**: $230.49 📈 +1.18 (+0.5%)
+- **GOOGL**: $207.48 📈 +0.34 (+0.2%)
+- **MSFT**: $506.74 📈 +4.70 (+0.9%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-将两个升序链表合并为一个新的升序链表
+给定字符串，找出其中最长的回文子串
 
-标签: 链表, 递归
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -172,14 +180,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《设计模式》** - Gang of Four
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -189,21 +197,21 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
@@ -224,53 +232,51 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用版本控制**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🧠 算法大师
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `f8b47a` | 日期: 2025-08-27
+挑战ID: `970622` | 日期: 2025-08-28
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
@@ -279,18 +285,18 @@ test('should calculate tax correctly', () => {
 
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-使用Rust构建跨平台桌面应用
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
@@ -302,7 +308,7 @@ test('should calculate tax correctly', () => {
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -316,7 +322,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-08-27 08:13:06
+- 📅 更新时间: 2025-08-28 08:13:09
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -327,12 +333,15 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 8.0/100
+- 😊 积极新闻: 6 (75.0%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 14.8/100
 
 🏷️ **热门关键词**:
-- AI (6次)
+- AI (5次)
+- 人工智能 (2次)
+- 机器学习 (1次)
+- 大数据 (1次)
 
 
 ### 🤖 关于此项目
