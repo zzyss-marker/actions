@@ -55,79 +55,77 @@
 
 MIT
 
-## 今日更新 (2025-08-28)
+## 今日更新 (2025-08-29)
 
 ### 今日名言
 
-> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- 😊 [《飞算Java AI使用教程：从安装入门到实践项目》](https://blog.csdn.net/Dovis5884/article/details/150517586) 🔥🔥 很热
-  在当今人工智能技术飞速发展的时代，Java作为企业级开发的主流语言，正与AI技术深度融合。飞算Java AI是一款强大的工具集，旨在帮助开发者轻松构建和部署智能应用，涵盖机器学习、自然语言处理等核心功...
-- 😊 [猫头虎AI分享｜一款Coze、Dify类开源AI应用超级智能体快速构建工具：FastbuildAI](https://blog.csdn.net/qq_44866828/article/details/150464150) 🔥 热门
-  摘要：FastbuildAI是一款开源AI应用快速构建工具，主打易用性和商业闭环功能。通过可视化零代码界面，用户可快速搭建AI应用并集成算力计费、用户充值、营销收款等商业化功能。与Coze、Dify相...
-- 😊 [医疗AI中的电子病历智能化：Model Context Protocol使用从规则编码到数据涌现](https://blog.csdn.net/kkiron/article/details/150599082) 🔥 热门
-  本文系统解析了Model Context Protocol（MCP）在电子病历智能化中的演进路径，揭示了其从静态规则通信到动态智能协同的蜕变过程。通过Python技术栈的深度实践案例，展示了MCP如何...
-- 😊 [AI大模型探索之路-实战篇16：优化决策流程：Agent智能数据分析平台中Planning功能实践](https://blog.csdn.net/xiaobing259/article/details/139529694) 📈 关注
-  在前面篇章中我们实现了Agent智能数据分析平台中的Tools和Memory两大块，本文中我们将实现Agent智能数据分析平台中最核心的模块Plan，发掘探索人类意图，优化整个决策流程。
-- 😟 [零基础玩转MCP协议：用AI驱动Kali实现自动化渗透测试](https://blog.csdn.net/lbh73/article/details/147779540) 📈 关注
-  MCP协议（Model Context Protocol）是AI调用外部工具的"万能接口"。就像用遥控器操作电视，现在你可以用自然语言指挥Kali执行Nmap扫描、Metasploit漏洞利用等200...
+- 😐 [【AI时代】Java程序员大模型应用开发详细教程（非常详细），大模型入门到精通，收藏这一篇就够了！](https://blog.csdn.net/HUANGXIN9898/article/details/149278215) 🔥🔥 很热
+  大模型，全称「大语言模型」，英文「Large Language Model」，缩写「LLM是一种基于机器学习和自然语言处理技术的模型，它通过对大量的文本数据进行训练，来学习服务人类语言理解和生成的能力...
+- 😐 [猫头虎AI分享｜可把GitHub代码库变成实时文档中心的一款实用型MCP工具：GitMCP，让AI随时访问最新文档代码，消除代码幻觉](https://blog.csdn.net/qq_44866828/article/details/150401292) 🔥 热门
+  GitMCP是一款开源工具，能将GitHub代码库转化为实时文档中心，帮助AI助手（如Cursor、Claude等）即时访问最新代码和文档，消除"代码幻觉"问题。该工具支持指定仓库或通用服务器两种模式...
+- 😊 [Spring AI 框架：从零开始掌握 AI 与 Spring 的完美结合！](https://blog.csdn.net/2301_78858041/article/details/146076432) 📈 关注
+  Spring AI 是一个由 Spring 团队开发的开源框架，旨在帮助开发者在 Spring 应用中轻松集成和管理 AI 模型。Spring AI 是一个轻量级的框架，专注于简化 AI 模型的集成和...
+- 😊 [发现一个好用又免费的 AI 绘图网站：Dreamify，文字图片都能生成！](https://blog.csdn.net/shaozheng0503/article/details/148796431) 📈 关注
+  《免费用Dreamify玩AI绘画：零门槛体验》这个免费网站无需高端显卡和注册，支持文生图/图生图功能，含中文提示词理解。实测用英文描述生成樱花少女回眸图，通过图生图优化细节后获满意效果。特别适合：1...
+- 😊 [从深夜加班到高效编程：飞算JavaAI让Java开发焕发新生](https://blog.csdn.net/weixin_66401877/article/details/149066692) 📈 关注
+  飞算JavaAI不仅仅是一个代码补全工具，更是一个理解项目需求、支持全流程开发的AI编程伙伴。它能智能分析老项目架构，支持自定义开发规范，提供引导式开发流程，并能一键生成可运行项目。对于被繁琐开发工作...
 
 
 ### 网络安全资讯
 
-- [XCon x HG 国际黑马会议圆满成功 | 安全锚定 智守未来](https://www.anquanke.com/post/id/311600) - 安全公告，详情请点击链接查看完整内容
+- [【紧急漏洞预警】CrushFTP零日漏洞（CVE-2025-54309）概念验证代码已公开且遭野外利用](https://www.anquanke.com/post/id/311709) - 安全公告，详情请点击链接查看完整内容
 - [攻击大语言模型和人工智能代理：针对大语言模型的广告嵌入攻击](https://paper.seebug.org/3378/) - 作者：Qiming Guo, Jinwen Tang, Xingran Huang
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html/2508.17674v1
 ...
-- [主题发布 | CCS2025 成都网络安全技术交流活动主题正式公布 诚邀各方参与 共启数字安全新征程！](https://www.4hou.com/posts/yzNW) - 作为2025年国家网络安全宣传周成都系列活动的核心组成部分，CCS 2025 成都网络安全技术交流活动将于2025年9月16日在 中国·欧洲中心 盛大启幕。本次活动以 “安全迭代，智启新程” 为核心主...
+- [标准解读 | 梆梆安全深度参编《金融类APP用户权益保护技术要求》和《金融类APP分发管理要求》，助力构建数字金融新生态](https://www.4hou.com/posts/BvZJ) - 《T/TAF 285—2025 金融类APP分发管理要求》和《T/TAF 286—2025 金融类APP用户权益保护技术要求》两项标准于2025年7月7日由电信终端产业协会（TAF）正式发布并实施。梆...
 
 
 ### 技术就业趋势
 
-敏捷和Scrum认证在项目管理角色中价值提升。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
+- 😐 [传统大数据团队如何做多维数据分析3- OLAP WareHouse](https://cloud.tencent.com/developer/article/2558906) 📈 关注
+  将default warehouse中的值动态化 即实现该方法getWarehouseInfo
 - 😊 [什么是vibecoding](https://cloud.tencent.com/developer/article/2558931) 📈 关注
   Vibe Coding（氛围编程）是一种依托人工智能 （尤其是大型语言模型，LLM）的新型编程范式，其核心是通过自然语言交互快速生成代码，重构传统开发流程。以下是其核心要点1：
-- 😊 [传统大数据团队如何做多维数据分析3-OLAP云原生验证方案架构](https://cloud.tencent.com/developer/article/2558899) 📈 关注
-  当前大数据 OLAP 体系采用存算一体架构（计算与存储混合部署），随着业务数据量激增、核心场景查询并发提升（核心业务峰值 QPS 达 x+），架构瓶颈逐渐凸显，具体痛点及业务影响如下：
-- 😐 [IDE 国内版公测丨支持最新 DeepSeek V3.1](https://cloud.tencent.com/developer/article/2558869) 📊 普通
-  官网下载地址（Beta 版）：https://copilot.tencent.com/ide/
+- 😐 [【二叉树 - LeetCode】617. 合并二叉树](https://cloud.tencent.com/developer/article/2559053) 📊 普通
+  
 
 
 ### GitHub 趋势项目
 
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-- [plait-board/drawnix](https://github.com/plait-board/drawnix) - 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
-- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 
 
 
 ### AI 研究论文
 
-- [CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer
-  Use Agent with Decoupled Reinforcement Learning](http://arxiv.org/abs/2508.20096v1) - Zeyi Sun, Yuhang Cao, Jianze Liang, Qiushi Sun, Ziyu Liu, Zhixiong Zhang, Yuhang Zang, Xiaoyi Dong, Kai Chen, Dahua Lin, Jiaqi Wang
-  Autonomous agents for Graphical User Interfaces (GUIs) face significant
-challenges in specialized domains such as scientific computing, where both
-lon...
+- [Prompt-to-Product: Generative Assembly via Bimanual Manipulation](http://arxiv.org/abs/2508.21063v1) - Ruixuan Liu, Philip Huang, Ava Pun, Kangle Deng, Shobhit Aggarwal, Kevin Tang, Michelle Liu, Deva Ramanan, Jun-Yan Zhu, Jiaoyang Li, Changliu Liu
+  Creating assembly products demands significant manual effort and expert
+knowledge in 1) designing the assembly and 2) constructing the product. This
+p...
 
-- [Discrete-Guided Diffusion for Scalable and Safe Multi-Robot Motion
-  Planning](http://arxiv.org/abs/2508.20095v1) - Jinhao Liang, Sven Koenig, Ferdinando Fioretto
-  Multi-Robot Motion Planning (MRMP) involves generating collision-free
-trajectories for multiple robots operating in a shared continuous workspace.
-Whi...
+- [OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn
+  Dialogue with Large Language Models](http://arxiv.org/abs/2508.21061v1) - Adam Coscia, Shunan Guo, Eunyee Koh, Alex Endert
+  As multi-turn dialogues with large language models (LLMs) grow longer and
+more complex, how can users better evaluate and review progress on their
+con...
 
-- [Patch Progression Masked Autoencoder with Fusion CNN Network for
-  Classifying Evolution Between Two Pairs of 2D OCT Slices](http://arxiv.org/abs/2508.20064v1) - Philippe Zhang, Weili Jiang, Yihao Li, Jing Zhang, Sarah Matta, Yubo Tan, Hui Lin, Haoshen Wang, Jiangtian Pan, Hui Xu, Laurent Borderie, Alexandre Le Guilcher, Béatrice Cochener, Chubin Ou, Gwenolé Quellec, Mathieu Lamard
-  Age-related Macular Degeneration (AMD) is a prevalent eye condition affecting
-visual acuity. Anti-vascular endothelial growth factor (anti-VEGF) treat...
+- [Mixture of Contexts for Long Video Generation](http://arxiv.org/abs/2508.21058v1) - Shengqu Cai, Ceyuan Yang, Lvmin Zhang, Yuwei Guo, Junfei Xiao, Ziyan Yang, Yinghao Xu, Zhenheng Yang, Alan Yuille, Leonidas Guibas, Maneesh Agrawala, Lu Jiang, Gordon Wetzstein
+  Long video generation is fundamentally a long context memory problem: models
+must retain and retrieve salient events across a long range without colla...
 
 
 
@@ -151,25 +149,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $230.49 📈 +1.18 (+0.5%)
-- **GOOGL**: $207.48 📈 +0.34 (+0.2%)
-- **MSFT**: $506.74 📈 +4.70 (+0.9%)
+- **AAPL**: $232.56 📈 +2.07 (+0.9%)
+- **GOOGL**: $211.64 📈 +4.16 (+2.0%)
+- **MSFT**: $509.64 📈 +2.90 (+0.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**合并两个有序链表** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+将两个升序链表合并为一个新的升序链表
 
-标签: 字符串, 动态规划
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -180,14 +178,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Python编程：从入门到实践》** - Eric Matthes
 
-面向对象设计的经典模式 (分类: 软件设计)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -197,28 +195,28 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Brain.fm Focus** - Brain.fm
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -232,83 +230,84 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**遵循单一职责原则**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `970622` | 日期: 2025-08-28
+挑战ID: `315126` | 日期: 2025-08-29
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-现代JavaScript/TypeScript运行时
+现代Web应用框架
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-为什么程序员喜欢黑暗？因为光会产生bug！
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -322,7 +321,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-08-28 08:13:09
+- 📅 更新时间: 2025-08-29 08:13:04
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -333,15 +332,16 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 14.8/100
+- 😊 积极新闻: 4 (50.0%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 15.6/100
 
 🏷️ **热门关键词**:
 - AI (5次)
-- 人工智能 (2次)
+- AR (2次)
 - 机器学习 (1次)
 - 大数据 (1次)
+- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
