@@ -55,56 +55,57 @@
 
 MIT
 
-## 今日更新 (2025-08-30)
+## 今日更新 (2025-08-31)
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😊 [政安晨【开源人工智能硬件】【ESP乐鑫篇】 —— 详细分享小智（78/xiaozhi-esp32）AI终端开源硬件的嵌入式开发经验笔记](https://blog.csdn.net/snowdenkeke/article/details/149931715) 🔥🔥 很热
-  小智AI框架的出现帮助广大开发者打通了乐鑫方案产品化的快捷路径，但想要完全掌握小智AI终端框架却不是那么容易，对开发者还是有一定的门槛要求：1. 对C/C++语言要熟练掌握（如果仅靠AI编程帮你解决嵌...
-- 😊 [一个完整的AI智能客服开源技术方案](https://blog.csdn.net/rvgekj/article/details/148903526) 🔥 热门
-  搭建 AI 智能客服系统需要整合自然语言处理（NLP）、机器学习、知识库管理和对话管理等技术。以下是基于开源技术的完整方案，涵盖从用户咨询到智能回复的全流程，并附技术选型建议和架构示例。
-- 😊 [解锁Java开发新姿势：飞算JavaAI深度探秘 #飞算JavaAl炫技赛 #Java开发](https://blog.csdn.net/qq_33650655/article/details/150045994) 📈 关注
-  飞算 JavaAI 以其卓越的智能代码生成、智能设计表结构和强大的工程化支持等功能，为 Java 开发带来了前所未有的变革。它不仅极大地提升了开发效率，使开发者能够在更短的时间内完成复杂的项目，还显著...
-- 😐 [企业AI的”发动机”长啥样？一文看懂AI中台整体架构设计！](https://blog.csdn.net/2401_85390073/article/details/149773022) 📈 关注
-  本文系统阐述了一个三层次的AI技术架构体系：1）技术支撑层（AI大脑）包含RPA流程自动化、多模态AI技术平台和IoT物联平台三大核心组件；2）能力服务层将底层技术封装为协同办公、数字员工等通用业务能...
-- 😟 [当AI回答问题时，它的“大脑”里在炒什么菜？](https://blog.csdn.net/Z_oioihoii/article/details/146212654) 📈 关注
-  理解AI的回答逻辑后，你会发现它既不是神灵也不是魔鬼，而是一面反映人类智慧的镜子：它的严谨来自开发者设置的数百条校验规则。它的创意源自对1750亿参数的精妙调度。它的错误则暴露着所有技术系统的脆弱性。...
+- 😐 [(附源码！)Vue 3 实现AI流式输出：打造类ChatGPT的实时对话体验](https://blog.csdn.net/Maolei_NyaRu_/article/details/149354091) 🔥🔥 很热
+  Vue 3实现AI流式输出：打造实时对话体验 本文详细介绍了使用Vue 3和Element Plus构建支持AI流式输出的聊天界面。通过Vite配置代理、Fetch API处理流式响应等关键技术，实现...
+- 😊 [探访WAIC2025：当AI成为双刃剑，合合信息如何破解真假难题](https://blog.csdn.net/weixin_51390582/article/details/149788311) 🔥🔥 很热
+  7月上海世界人工智能大会顺利举行，各种公司各放大招，AI技术的展示令人目不暇接，我也有幸去到了现场体验了各家的前沿技术。随着AI技术的不断发展，各种安全问题例如AI生成伪造和造假接踵而至，在众多展台中...
+- 😊 [Claude Sonnet 4：最新开放100 万 Token 上下文窗口，长上下文 AI 的生产力跃迁五倍效率](https://blog.csdn.net/qq_44866828/article/details/150379436) 🔥 热门
+  摘要： Anthropic推出的Claude Sonnet 4支持100万Token上下文窗口，显著提升AI处理长文本能力。1M Token可容纳75万词或7.5万行代码，支持一次性分析数百份文档或完...
+- 😊 [智创 AI 新视界 -- AI 在交通运输领域的智能优化应用（16 - 9）](https://blog.csdn.net/atgfg/article/details/144382390) 📈 关注
+  本文深入剖析 AI 在交通运输领域的智能优化应用，涵盖交通流量管理（信号灯控制与拥堵预测）、交通规划（基础设施布局与公共交通调配）及出行安全（驾驶辅助与事故分析）等多方面。结合北京、上海、深圳等地实际...
+- 😊 [一句话，AI帮你P图！Qwen-Image-Edit本地部署教程：能转能改能加字](https://blog.csdn.net/SJJS_1/article/details/150702055) 📈 关注
+  Qwen-Image-Edit基于 20B Qwen-Image 模型，成功地将 Qwen-Image 独特的文本渲染能力扩展到了图像编辑任务中，实现了精确的文本编辑。此外，Qwen-Image-Ed...
 
 
 ### 网络安全资讯
 
-- [银狐（Silver Fox）APT黑客组织利用驱动漏洞攻击Windows 10和11系统以规避EDR/AV防护](https://www.anquanke.com/post/id/311746) - 安全公告，详情请点击链接查看完整内容
 - [基于优化推理的人工智能智能体漏洞注入与转换](https://paper.seebug.org/3379/) - 作者：Amine Lbath, Massih-Reza Amini, Aurelien Delaitre, Vadim Okun
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv...
 - [标准解读 | 梆梆安全深度参编《金融类APP用户权益保护技术要求》和《金融类APP分发管理要求》，助力构建数字金融新生态](https://www.4hou.com/posts/BvZJ) - 《T/TAF 285—2025 金融类APP分发管理要求》和《T/TAF 286—2025 金融类APP用户权益保护技术要求》两项标准于2025年7月7日由电信终端产业协会（TAF）正式发布并实施。梆...
+- [玄武在BlackHat揭示劫持智能体达成RCE的新方法](https://xlab.tencent.com/cn/2025/08/06/universal-and-context-independent-triggers/) - Author: Jiashuo Liang and Guancheng Li of Tencent Xuanwu Lab
+0x00 前言大语言模型（LLM）正在从简单的对话工具演化为能够编写代码、操作...
 
 
 ### 技术就业趋势
 
-量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
+网络安全人才缺口扩大，零信任安全模型专家需求激增。
 
 ### 科技热点
 
+- 😊 [AI影响就业的量化悖论](https://cloud.tencent.com/developer/article/2559925) 🔥 热门
+  技术对就业影响的研究是一门显学。随着生成式人工智能蓬勃兴起，全球又掀起了一波新的研究浪潮。OECD、IMF、世界经济论坛、联合国贸发会议、国际劳工组织、世界银行等国际组织，高盛、麦肯锡、皮尤研究中心等...
 - 😊 [DeepSeek-V3.1，全面接入！](https://cloud.tencent.com/developer/article/2559075) 📈 关注
   今天，腾讯多款产品已完成接入DeepSeek最新大模型。无论是开发者还是普通用户，都能第一时间体验更强大的AI能力——
-- 😐 [【栈 - LeetCode】739.每日温度](https://cloud.tencent.com/developer/article/2559054) 📊 普通
-  官网给的一个暴力遍历的方式，技巧点在于，温度的最大值是 100， 因此里面的 for 循环可以通过控制最大是到 100 来降低时间复杂度。
 - 😊 [DeepSeek上线两天后再回看：一次“小更新”，一场架构“豪赌”](https://cloud.tencent.com/developer/article/2559076) 📊 普通
   官方公告强调了上下文长度拓展至128k，但随着社区的深入挖掘和实测，这次“小更新”之下其实有着更多模型架构的变革和模型重点能力的微调，在编程能力上的提升也可圈可点，成本优势重回显著。
 
 
 ### GitHub 趋势项目
 
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 - [microsoft/mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
-- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
 
 
@@ -155,18 +156,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+给定二叉树，找出其最大深度
 
-标签: 数组, 哈希表
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -177,14 +178,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Kubernetes权威指南》** - 龚正等
 
-面向对象设计的经典模式 (分类: 软件设计)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -194,28 +195,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Brain.fm Focus** - Brain.fm
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -229,85 +230,85 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `97945a` | 日期: 2025-08-30
+挑战ID: `008a43` | 日期: 2025-08-31
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-使用Rust构建跨平台桌面应用
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**AI工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
 
-真正的程序员不需要注释，代码就是最好的文档。
+世界上有10种人：懂二进制的和不懂二进制的。
 
 
 ### 🐙 GitHub 生态统计
@@ -321,7 +322,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-08-30 08:11:08
+- 📅 更新时间: 2025-08-31 08:11:36
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -332,14 +333,15 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 13.9/100
+- 😊 积极新闻: 7 (87.5%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 19.8/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- 人工智能 (1次)
-- 机器学习 (1次)
+- AI (7次)
+- 人工智能 (2次)
+- ChatGPT (1次)
+- GPT (1次)
 
 
 ### 🤖 关于此项目
