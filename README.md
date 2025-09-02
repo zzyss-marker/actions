@@ -55,56 +55,56 @@
 
 MIT
 
-## 今日更新 (2025-09-01)
+## 今日更新 (2025-09-02)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [秋天的第一个项目，飞算JavaAI一小时拿下~](https://blog.csdn.net/2401_87533975/article/details/150264863) 🔥🔥 很热
-  飞算 AI 是飞算数智科技自主研发的一系列人工智能产品，以互联网科技、大数据等技术为基础，为企业和开发者提供服务。其中，飞算 JavaAI 将人工智能与 Java 技术融合，可实现从需求分析、软件设计...
-- 😐 [AG-UI 协议全面解析--下一代 AI Agent 交互框架医疗应用分析（上）](https://blog.csdn.net/kkiron/article/details/149835127) 📈 关注
-  AG-UI协议：AI Agent与前端交互的标准化解决方案 本文介绍了由CopilotKit团队开发的AG-UI协议，该协议旨在解决AI Agent与前端应用交互中的三大核心挑战：标准化缺失、实时性不...
-- 😊 [AI 结对编程的伦理困境：当机器比你更懂代码时如何保持竞争力](https://blog.csdn.net/2503_92849275/article/details/149858183) 📈 关注
-  在这样的背景下，开发者要想保持竞争力，就需要提升核心编程能力，培养创新思维和问题解决能力，坚守伦理准则，学会与 AI 高效协作，并持续学习以跟上技术发展步伐。他们不再深入思考问题的解决方案，而是直接套...
-- 😐 [SpringBoot 整合 Langchain4j AIService 深度使用详解](https://blog.csdn.net/zhangcongyi420/article/details/148995160) 📈 关注
-  SpringBoot 整合 Langchain4j AIService 使用详解
-- 😐 [基于DeepSeek+Vue3的AI对话聊天系统开发实战](https://blog.csdn.net/qq_16242613/article/details/145763603) 📈 关注
-  基于DeepSeek+Vue3的AI对话聊天系统开发实战
+- 😊 [飞算 JavaAI -智慧城市项目实践：从交通协同到应急响应的全链路技术革新](https://blog.csdn.net/Pocker_Spades_A/article/details/150273839) 🔥 热门
+  本文探讨了智慧城市系统开发中的核心挑战与飞算JavaAI的技术解决方案。针对交通信号优化、应急指挥调度和数据安全共享三大场景，文章详细解析了实时数据处理、动态算法优化和隐私计算架构的技术实现。通过某城...
+- 😐 [Qwen-3 微调实战：用 Python 和 Unsloth 打造专属 AI 模型](https://blog.csdn.net/qq_36603091/article/details/147952195) 📈 关注
+  本文详细介绍了如何利用 Python 和 Unsloth 对 Qwen-3 模型进行微调，以打造专属的 AI 模型。文章首先强调了 Qwen-3 在各项基准测试中的出色表现，随后详细阐述了微调所需的 ...
+- 😐 [【AI工具】根据图片或描述一键生成前端网页与代码：Readdy、Fronty、HaiSnap、v0.dev、Bolt.new五大AI 神器实战案例](https://blog.csdn.net/weixin_44330367/article/details/149414040) 📈 关注
+  【AI工具】根据图片或描述一键生成前端网页与代码：Readdy、Fronty、HaiSnap、v0.dev、Bolt.new五大AI 神器实战案例
+- 😐 [飞算JavaAI需求转SpringBoot项目沉浸式体验](https://blog.csdn.net/2302_78391795/article/details/149907884) 📈 关注
+  作为一名深耕Java开发多年的工程师，我曾无数次在需求变更、代码重构的泥潭中挣扎。传统开发模式下，从需求分析到Spring Boot项目落地，往往需要耗费数周时间，CRUD代码的重复性编写、接口调试的...
+- 😊 [飞算 JavaAI 进阶实战：从代码生成到系统架构优化的全流程指南](https://blog.csdn.net/weixin_43151418/article/details/149200891) 📈 关注
+  飞算 JavaAI 进阶实战：从代码生成到系统架构优化的全流程指南，在 Java 开发领域，开发者常常面临三重困境：重复性劳动消耗大量时间（如 CRUD 代码编写）、 legacy 代码维护成本高昂（...
 
 
 ### 网络安全资讯
 
-- [银狐（Silver Fox）APT黑客组织利用驱动漏洞攻击Windows 10和11系统以规避EDR/AV防护](https://www.anquanke.com/post/id/311746) - 安全公告，详情请点击链接查看完整内容
+- [超越ClickFix：新型攻击滥用Windows搜索功能分发MetaStealer窃密木马](https://www.anquanke.com/post/id/311761) - 安全公告，详情请点击链接查看完整内容
 - [SIExVulTS：使用 Transformer 模型和静态分析检测敏感信息泄露漏洞的系统](https://paper.seebug.org/3380/) - 作者：Kyler Katz, Sara Moshtari, Ibrahim Mujhid, Mehdi Mirakhorli, Derek Garcia
 译者：知道创宇404实验室翻译组
 原文链接：h...
-- [取证AI三大能力突破！电子数据取证跨入L3级自动化取证时代](https://www.4hou.com/posts/qoBr) - 未来已来过去，执法人员在进行手机取证前，必须手动开启USB调试模式，由于手机品牌众多、机型繁杂、USB接口规格不一，往往需要花大量时间摸索，搜索开启方法、反复点击并逐步配置等；在WiFi取证前，也需要...
+- [Docker Desktop严重漏洞可让攻击者劫持Windows主机](https://www.4hou.com/posts/omzK) - Docker Desktop针对Windows和macOS系统的版本存在一个严重漏洞，即便“增强容器隔离（ECI）”保护功能处于开启状态，攻击者仍可通过运行恶意容器入侵主机。该安全问题属于服务器端请求...
 
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
-- 😊 [AI影响就业的量化悖论](https://cloud.tencent.com/developer/article/2559925) 🔥 热门
-  技术对就业影响的研究是一门显学。随着生成式人工智能蓬勃兴起，全球又掀起了一波新的研究浪潮。OECD、IMF、世界经济论坛、联合国贸发会议、国际劳工组织、世界银行等国际组织，高盛、麦肯锡、皮尤研究中心等...
-- 😊 [首家！腾讯云数据库AI服务通过数据库运维智能体技术要求测试](https://cloud.tencent.com/developer/article/2559922) 📈 关注
-  近日，中国信息通信研究院（信通院）公布了上半年“可信数据库”评估结果。腾讯云自研的数据库AI服务成功通过《数据库运维智能体技术要求》专项测试，成为国内首个获此认证的数据库产品，标志着国产数据库在智能化...
-- 😊 [什么是vibeCoding](https://cloud.tencent.com/developer/article/2559980) 📈 关注
-  Vibe Coding（氛围编程）是一种依托人工智能（尤其是大型语言模型，LLM）的新型编程范式，其核心是通过自然语言交互快速生成代码，重构传统开发流程。以下是其核心要点：
+- 😟 [AI是通向“超人”的阶梯，还是退回“猿猴”的陷阱？](https://cloud.tencent.com/developer/article/2562847) 📈 关注
+  2025年6月，《纽约客》杂志刊登文章《AI Is Homogenizing Our Thoughts》，其核心观点是AI可能让我们变得越来越像，不管是说话还是写文章，都越来越陷于一个套路，连想问题都...
+- 😐 [Elasticsearch 节点说明](https://cloud.tencent.com/developer/article/2562944) 📈 关注
+  Elasticsearch 集群一般是由多个节点共同组成的分布式集群，节点之间互通，彼此配合，共同对外提供搜索和索引服务（节点之间能够将客户端请求转向到合适的节点）。不同的节点会负责不同的角色，有的负...
+- 😐 [Markdown简要语法规则](https://cloud.tencent.com/developer/article/2563180) 📊 普通
+  
 
 
 ### GitHub 趋势项目
 
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [laramies/theHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT
+- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 
 
 
@@ -154,18 +154,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**两数之和** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 字符串, 动态规划
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -176,14 +176,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《Python编程：从入门到实践》** - Eric Matthes
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -193,28 +193,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Synthwave Mix** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -228,12 +228,12 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
@@ -261,9 +261,9 @@ test('should calculate tax correctly', () => {
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：⚡ 性能优化师
 
-挑战ID: `38a577` | 日期: 2025-09-01
+挑战ID: `a2e397` | 日期: 2025-09-02
 
 
 ### 📊 技术话题投票
@@ -282,26 +282,26 @@ test('should calculate tax correctly', () => {
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-高性能代码编辑器
+现代Web应用框架
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**AI工程师** (中级) 📈
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
@@ -320,7 +320,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-09-01 08:14:27
+- 📅 更新时间: 2025-09-02 08:14:08
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -331,14 +331,14 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 16.2/100
+- 😊 积极新闻: 2 (25.0%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 12.6/100
 
 🏷️ **热门关键词**:
-- AI (7次)
-- 人工智能 (3次)
-- 大数据 (1次)
+- AI (6次)
+- AR (2次)
+- 数据安全 (1次)
 
 
 ### 🤖 关于此项目
