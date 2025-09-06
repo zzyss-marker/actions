@@ -55,73 +55,73 @@
 
 MIT
 
-## 今日更新 (2025-09-03)
+## 今日更新 (2025-09-06)
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😊 [HRM分层推理模型在医疗AI上的应用探析](https://blog.csdn.net/kkiron/article/details/150204023) 🔥 热门
-  医疗AI分层推理模型：架构、挑战与前景 摘要 医疗人工智能面临数据异构性高、决策复杂、可解释性严苛等挑战。分层推理模型（HRM）通过模拟临床医生的多层次认知过程，为医疗AI提供结构化解决方案。本文系统...
-- 😊 [使用trae进行本地ai对话机器人的构建](https://blog.csdn.net/TJX1029320/article/details/149880716) 🔥 热门
-  在人工智能技术快速发展的今天，构建本地AI对话机器人已成为开发者和技术爱好者的热门选择。使用 trae可以高效地实现这一目标，确保数据隐私和响应速度。本文将详细介绍如何利用 Trae 搭建本地AI对话...
-- 😐 [2024-2025华为ICT大赛中国区 实践赛昇腾AI赛道(高教组)全国总决赛 理论部分真题+解析](https://blog.csdn.net/gaogao0305/article/details/150446559) 🔥 热门
-  本文为2024-2025华为ICT大赛 中国区 全国总决赛 实践赛 昇腾AI赛道 高教组 理论部分考试真题以及对应详细解析，涵盖昇腾AI全栈系统模块6题、模型训练与调优模块8题、模型推理与应用模块6题...
-- 😊 [借用AI工具（cursor/vscode) 调试matlab代码(2025.4最新实测）](https://blog.csdn.net/m0_55795604/article/details/147458650) 📈 关注
-  本文实测环境：MATLAB 2025a + Windows 11你只需cursor或者copliot即可用AI直接优化现有MATLAB工程。
-- 😐 [多模态RAG赛题实战--Datawhale AI夏令营](https://blog.csdn.net/weixin_45820166/article/details/150084117) 📊 普通
-  参考自。
+- 😊 [2025年全球AI大模型格局：技术突破、开源崛起与未来趋势](https://blog.csdn.net/weixin_44976692/article/details/149836139) 🔥🔥 很热
+  2025年全球AI大模型竞争格局呈现中美双强主导态势，OpenAI的GPT-4.5保持综合领先，但中国开源模型快速崛起。技术发展呈现三大趋势：1）开源生态繁荣，GLM-4.5等国产模型在性能与成本上取...
+- 😊 [肾上腺疾病AI诊疗一体化系统应用方向探析](https://blog.csdn.net/kkiron/article/details/149909497) 🔥🔥 很热
+  AI辅助肾上腺疾病诊疗系统摘要 该系统通过整合多模态医疗数据（电子病历、影像学检查、生化指标等），利用AI技术提升肾上腺疾病的诊疗全流程管理。核心功能包括：基于机器学习的早期筛查、深度学习影像分析的精...
+- 😊 [医疗AI时代的生物医学Go编程：高性能计算与精准医疗的案例分析(五)](https://blog.csdn.net/kkiron/article/details/150972116) 📈 关注
+  关键实现包括：1）使用并行Worker Pool处理子块任务，确保边界连续性；2）预计算梯度优化法线估计；3）基于查找表确定立方体配置和边交点。算法核心步骤包括：计算立方体索引、插值求交点坐标、生成三...
+- 😊 [飞算 JavaAI：突破效率边界的代码智能构造平台](https://blog.csdn.net/2302_79751907/article/details/149078677) 📈 关注
+  当 “传统代码开发” 遇上 “飞算 AI”，会迸发出怎样的惊喜？回想以往，面对复杂的功能需求，程序员只能手动编写大量代码。而现在，有了飞算 AI，一切都变得截然不同！只需在飞算 AI 平台输入需求，它...
+- 😐 [AI学习笔记：LM studio大模型加载参数说明](https://blog.csdn.net/hkbbkk/article/details/146016155) 📈 关注
+  LM Studio加载大模型时参数设置页面的常见参数及设置方法如下：
 
 
 ### 网络安全资讯
 
-- [超越ClickFix：新型攻击滥用Windows搜索功能分发MetaStealer窃密木马](https://www.anquanke.com/post/id/311761) - 安全公告，详情请点击链接查看完整内容
-- [MedResearcher-R1：通过知识引导的轨迹合成框架实现专家级医学深度研究](https://paper.seebug.org/3381/) - 作者：Ailing Yu, Lan Yao, Jingnan Liu, Zhe Chen, Jiajun Yin, Yuan Wang, Xinhao Liao, Zhiling Ye, Ji Li,...
-- [Storm-0501黑客转向云端勒索软件攻击](https://www.4hou.com/posts/wxLw) - 微软警告称，一个被追踪为Storm-0501的威胁者已对其运作方式进行升级，不再使用勒索软件对设备进行加密，转而将重点放在基于云的加密、数据窃取及勒索行为上。如今，这些黑客滥用云原生功能来窃取数据、清...
+- [黑客利用Sitecore零日漏洞部署后门程序](https://www.anquanke.com/post/id/311903) - 安全公告，详情请点击链接查看完整内容
+- [VULSOLVER：基于大语言模型驱动约束求解的漏洞检测](https://paper.seebug.org/3383/) - 作者：Xiang Li, Yueci Su, Jiahao Liu, Zhiwei Lin, Yuebing Hou, Peiming Gao, Yuanchao Zhang
+译者：知道创宇404实验...
+- [梆梆安全首批入驻“数字深圳联合创新中心”，以创新安全能力，赋能城市数字未来](https://www.4hou.com/posts/W1Jg) - 2025年8月28日，由国家数据局主办、贵州省人民政府承办的“2025中国国际大数据产业博览会”在贵州省贵阳市隆重召开。会上，深圳市政务服务和数据管理局隆重发布“数字深圳联合创新中心”。梆梆安全凭借主...
 
 
 ### 技术就业趋势
 
-边缘计算和IoT专家在制造业和智能城市项目中需求增加。
+网络安全人才缺口扩大，零信任安全模型专家需求激增。
 
 ### 科技热点
 
-- 😐 [「腾讯云NoSQL」技术之向量数据库篇:腾讯云向量数据库如何实现召回不变，成本减半?](https://cloud.tencent.com/developer/article/2563557) 📈 关注
-  HNSW (Hierarchical Navigable Small World) 作为向量检索的索引类型之一，因其高召回率和相对优秀的查询性能而广受青睐。然而，HNSW在实际应用中仍面临一些挑战，为...
-- 😐 [Markdown简要语法规则](https://cloud.tencent.com/developer/article/2563180) 📊 普通
-  
-- 😊 [从纳秒到毫秒的“时空之旅”：CPU是如何看待内存与硬盘的？](https://cloud.tencent.com/developer/article/2563319) 📊 普通
-  在数据暴涨时代，如何高效存储和管理海量数据已成为应用系统的核心挑战。这不仅关乎读写性能，更涉及并发场景下性能与持久化之间的平衡。要应对这一挑战，既需要理解不同存储介质的物理特性与性能边界，也需通过数据...
+- 😐 [AI 时代，职场不慌！前快狗打车CTO沈剑来支招](https://cloud.tencent.com/developer/article/2564520) 📈 关注
+  「下一站，架构大师」是腾讯云架构师技术同盟为一线架构师打造的直播连线栏目，每期请到一线架构师们与名人堂成员，基于同盟交流圈最新热议的技术、职业议题展开交流。首场特邀腾讯云架构师技术同盟学习交流主席、前...
+- 😟 [腾讯云云拨测：筑牢网络稳定防线，持续保障业务连续性](https://cloud.tencent.com/developer/article/2564524) 📊 普通
+  在数字化时代，网络服务的稳定运行是企业正常开展业务的核心保障。然而，网络故障的发生往往具有突发性和不确定性，一旦出现问题，将给企业带来严重的损失。
+- 😊 [恒生电子 x 腾讯云：​系统性能和建设成本双重优化，构筑资管核心安全底座](https://cloud.tencent.com/developer/article/2564528) 📊 普通
+  恒生电子是国内领先的金融科技公司，成立30年来聚焦金融行业，为证券、基金、银行、保险、信托等金融机构提供整体解决方案和服务，我们的产品覆盖证券经纪、财富管理、资产管理、运营管理、机构服务等金融核心业务...
 
 
 ### GitHub 趋势项目
 
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [JetBrains/koog](https://github.com/JetBrains/koog) - Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
-- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) - The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
-- [wxxsfxyzm/InstallerX-Revived](https://github.com/wxxsfxyzm/InstallerX-Revived) - More Expressive InstallerX !
+- [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 
 
 
 
 ### AI 研究论文
 
-- [The Demon is in Ambiguity: Revisiting Situation Recognition with Single
-  Positive Multi-Label Learning](http://arxiv.org/abs/2508.21816v1) - Yiming Lin, Yuchen Niu, Shang Wang, Kaizhu Huang, Qiufeng Wang, Xiao-Bo Jin
-  Context recognition (SR) is a fundamental task in computer vision that aims
-to extract structured semantic summaries from images by identifying key ev...
+- [ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset](http://arxiv.org/abs/2509.04449v1) - Adrian Catalin Lutu, Ioana Pintilie, Elena Burceanu, Andrei Manolache
+  We present ChronoGraph, a graph-structured multivariate time series
+forecasting dataset built from real-world production microservices. Each node
+is a...
 
-- [Automated Clinical Problem Detection from SOAP Notes using a
-  Collaborative Multi-Agent LLM Architecture](http://arxiv.org/abs/2508.21803v1) - Yeawon Lee, Xiaoyang Wang, Christopher C. Yang
-  Accurate interpretation of clinical narratives is critical for patient care,
-but the complexity of these notes makes automation challenging. While Lar...
+- [Delta Activations: A Representation for Finetuned Large Language Models](http://arxiv.org/abs/2509.04442v1) - Zhiqiu Xu, Amish Sethi, Mayur Naik, Ser-Nam Lim
+  The success of powerful open source Large Language Models (LLMs) has enabled
+the community to create a vast collection of post-trained models adapted ...
 
-- [Tree-Guided Diffusion Planner](http://arxiv.org/abs/2508.21800v1) - Hyeonseong Jeon, Cheolhong Min, Jaesik Park
-  Planning with pretrained diffusion models has emerged as a promising approach
-for solving test-time guided control problems. However, standard gradien...
+- [DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation](http://arxiv.org/abs/2509.04441v1) - Hao-Shu Fang, Branden Romero, Yichen Xie, Arthur Hu, Bo-Ruei Huang, Juan Alvarez, Matthew Kim, Gabriel Margolis, Kavya Anbarasu, Masayoshi Tomizuka, Edward Adelson, Pulkit Agrawal
+  We introduce perioperation, a paradigm for robotic data collection that
+sensorizes and records human manipulation while maximizing the transferability...
 
 
 
@@ -145,25 +145,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $229.72 📉 -2.42 (-1.0%)
-- **GOOGL**: $211.35 📉 -1.56 (-0.7%)
-- **MSFT**: $505.12 📉 -1.57 (-0.3%)
+- **AAPL**: $239.69 📉 -0.09 (-0.0%)
+- **GOOGL**: $235.00 📈 +2.70 (+1.2%)
+- **MSFT**: $495.00 📉 -12.97 (-2.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**两数之和** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 栈, 字符串
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -174,14 +174,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《代码整洁之道》** - Robert C. Martin
 
-容器编排平台的完整指南 (分类: 云原生)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -191,28 +191,28 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🚀 创业公司动态
 
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Synthwave Mix** - Various Artists
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -238,41 +238,40 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**遵循单一职责原则**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `b177a1` | 日期: 2025-09-03
+挑战ID: `26a701` | 日期: 2025-09-06
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
@@ -280,31 +279,31 @@ const a = 25;
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Blockchain** 📉 -3% - 区块链热度回落
+- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代JavaScript/TypeScript运行时
+高性能代码编辑器
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+如果调试是去除bug的过程，那么编程就是放入bug的过程。
 
 
 ### 🐙 GitHub 生态统计
@@ -318,7 +317,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-09-03 08:13:01
+- 📅 更新时间: 2025-09-06 08:10:45
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -329,14 +328,16 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 11.9/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 15.6/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- 人工智能 (2次)
-- AR (2次)
+- AI (6次)
+- GPT (1次)
+- OpenAI (1次)
+- 机器学习 (1次)
+- 深度学习 (1次)
 
 
 ### 🤖 关于此项目
