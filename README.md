@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2025-09-07)
+## 今日更新 (2025-09-08)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- 😊 [AI魔术师：基于视觉的增强现实特效](https://blog.csdn.net/weixin_43151418/article/details/149486126) 🔥 热门
-  AI魔术师：基于视觉的增强现实特效​ ，人工智能，计算机视觉，大模型，AI，本文将系统解析基于视觉的增强现实特效技术，从基础原理到实战代码，覆盖特征跟踪、语义分割、3D 渲染等核心模块，最终实现如虚拟...
-- 😊 [【GitHub开源AI精选】InftyThink：浙大联合北大打造的无限深度推理范式，突破大模型长推理瓶颈](https://blog.csdn.net/xiaobing259/article/details/149860109) 🔥 热门
-  InftyThink是一种创新的大模型推理范式，由浙江大学和北京大学联合推出，旨在突破传统模型在长推理任务中的局限性。它通过分段迭代的方式，将复杂的推理过程分解为多个短片段，并在每个片段后生成中间总结...
-- 😊 [大模型技术全景：从基础原理与 Prompt 工程到 RAG 系统构建及 AI Agent 架构实现](https://blog.csdn.net/XXQuagmireXX/article/details/150465305) 🔥 热门
-  包含大模型基础原理（如 Transformer 架构、训练流程、能力涌现机制）与 Prompt 工程全维度实践（结构化设计、优化策略、自动化工具应用）涵盖 RAG 技术全体系（传统流程、先进阶优化、模...
-- 😊 [开源模型应用落地-模型上下文协议（MCP）-构建AI智能体的“万能插座”-“mcp-use”高级用法（十三）](https://blog.csdn.net/qq839019311/article/details/151106284) 📈 关注
-  本文介绍了MCP-USE如何通过标准化通信连接大模型与现实应用，并重点探讨其结构化输出和交互式聊天模式等高级使用技巧。
-- 😟 [AI 在金融领域的落地案例](https://blog.csdn.net/2301_80543957/article/details/150500001) 📈 关注
-  城商行信贷审批需结合本地小微企业经营数据（如纳税额、水电费）、区域经济特征，通用大模型难以精准识别本地化风险。本方案通过 LoRA 轻量化微调，在低成本硬件（单张 A10 显卡）上实现模型本地化适配，...
+- 😐 [使用AI进行代码审查](https://blog.csdn.net/qq_41940941/article/details/148263631) 🔥 热门
+  本文介绍了两种利用AI进行代码审查的方法：1）通过自定义JS脚本调用OpenAI API实现git提交前的自动代码检查，详细展示了从获取代码差异到AI分析处理的完整流程；2）使用现成的ai-pre-c...
+- 😐 [（5）ModalAI VOXL2](https://blog.csdn.net/qq_20016593/article/details/146912035) 🔥 热门
+  Ardupilot官网关于《Non-GPS navigation》的翻译 —《(5) ModalAI VOXL2》。
+- 😊 [如何利用DeepSeek+OCR技术打造一款AI投标工具：自动解析招标文件并生成投标标书的工具？](https://blog.csdn.net/qq_36603091/article/details/146114691) 🔥 热门
+  打造自动投标工具需以AI为核心，结合行业Know-How和用户体验设计。通过模块化开发、对标成熟产品、差异化创新，可构建高效、合规的解决方案，助力企业在招投标竞争中抢占先机。通过整合自然语言处理（NL...
+- 😊 [嵌入式linux实战项目：基于立创泰山派的网络AI摄像头](https://blog.csdn.net/qq_53686293/article/details/148673403) 📈 关注
+  本文介绍了一个基于立创泰山派RK3566开发板的嵌入式Linux实战项目——网络AI摄像头。项目实现了摄像头实时采集、YOLOv5目标检测、硬件编码和RTSP实时推流功能。硬件采用泰山派开发板+扩展板...
+- 😐 [Fast3D：AI 3D模型生成器，支持从文本和图像生成3D模型](https://blog.csdn.net/Qynwang/article/details/150919487) 📈 关注
+  — 复杂纹理、曲面细节全拿捏，连生锈铁罐的刮痕、丝绸褶皱的光泽都能 1:1 还原。还新增了 “多图喂料” 功能：手机环拍一圈实物，AI 自动缝合生成 3D 模型，虽然复杂结构偶尔抽风，手机端功能也略缩...
 
 
 ### 网络安全资讯
@@ -80,48 +80,51 @@ MIT
 - [黑客利用Sitecore零日漏洞部署后门程序](https://www.anquanke.com/post/id/311903) - 安全公告，详情请点击链接查看完整内容
 - [VULSOLVER：基于大语言模型驱动约束求解的漏洞检测](https://paper.seebug.org/3383/) - 作者：Xiang Li, Yueci Su, Jiahao Liu, Zhiwei Lin, Yuebing Hou, Peiming Gao, Yuanchao Zhang
 译者：知道创宇404实验...
-- [梆梆安全首批入驻“数字深圳联合创新中心”，以创新安全能力，赋能城市数字未来](https://www.4hou.com/posts/W1Jg) - 2025年8月28日，由国家数据局主办、贵州省人民政府承办的“2025中国国际大数据产业博览会”在贵州省贵阳市隆重召开。会上，深圳市政务服务和数据管理局隆重发布“数字深圳联合创新中心”。梆梆安全凭借主...
+- [黑客利用Sitecore零日漏洞部署WeepSteel侦察恶意软件](https://www.4hou.com/posts/RXAR) - 安全研究人员发现，攻击者近期正利用Sitecore遗留中的一个零日漏洞，部署名为WeepSteel的侦察恶意软件。 该漏洞编号为CVE-2025-53690，是一种ViewState反序列化漏洞，其成...
 
 
 ### 技术就业趋势
 
-软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
-- 😐 [架构火花｜一线视角下的AI：从应用边界到落地难题](https://cloud.tencent.com/developer/article/2564523) 📈 关注
-  在AI深度融入各领域的当下，围绕“AI能做什么、该做什么、落地难在哪”的讨论从未停止。结合不同行业一线实践经验，关于AI的应用场景、能力边界与落地挑战，已形成诸多值得参考的共识，这些来自实践的洞察，或...
-- 😐 [AI 时代，职场不慌！前快狗打车CTO沈剑来支招](https://cloud.tencent.com/developer/article/2564520) 📈 关注
-  「下一站，架构大师」是腾讯云架构师技术同盟为一线架构师打造的直播连线栏目，每期请到一线架构师们与名人堂成员，基于同盟交流圈最新热议的技术、职业议题展开交流。首场特邀腾讯云架构师技术同盟学习交流主席、前...
-- 😟 [腾讯云云拨测：筑牢网络稳定防线，持续保障业务连续性](https://cloud.tencent.com/developer/article/2564524) 📊 普通
-  在数字化时代，网络服务的稳定运行是企业正常开展业务的核心保障。然而，网络故障的发生往往具有突发性和不确定性，一旦出现问题，将给企业带来严重的损失。
+- 😐 [AI 时代，架构师如何破局成长？腾讯云架构师技术沙龙圆满收官](https://cloud.tencent.com/developer/article/2564518) 📈 关注
+  技术浪潮奔涌向前，变革已成为不变的主题。在 AI 时代，架构师的角色也正在被重新定义，他们不仅是技术的践行者，更是系统与未来的构建者。面对日益复杂的业务场景与层出不穷的新技术，架构师如何破局，实现技能...
+- 😊 [对话腾讯云数据库总经理王义成：TDSQL带来智能化数据库的破局之路](https://cloud.tencent.com/developer/article/2564527) 📊 普通
+  DTCC2025都讲了什么？“智能化数据库变革”绝对是今年的热词，从演讲PPT到实际案例落地，从“台下嘉宾互动”到每年彩蛋时刻的“DBA之夜”晚宴，越来越多的数据库厂商都在讲“智能化”。
+- 😊 [程序员如何避免面向监狱编程？](https://cloud.tencent.com/developer/article/2564514) 📊 普通
+  因笔者个人业务关系，在深入接触300多项合规要求后，整理提交了数百项合规证据证明系统的安全性。在整理各项证据时就好奇：假如这一项不满足又能怎么着呢？怀着这些疑问去研究了一番，结果有了另外的收获，原来程...
 
 
 ### GitHub 趋势项目
 
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [zama-ai/fhevm](https://github.com/zama-ai/fhevm) - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-- [rails/rails](https://github.com/rails/rails) - Ruby on Rails
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
+- [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents) - All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [FIRST-Tech-Challenge/FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController) - FTC Android Studio Workspace for robot programming in Android Studio
 
 
 
 
 ### AI 研究论文
 
-- [ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset](http://arxiv.org/abs/2509.04449v1) - Adrian Catalin Lutu, Ioana Pintilie, Elena Burceanu, Andrei Manolache
-  We present ChronoGraph, a graph-structured multivariate time series
-forecasting dataset built from real-world production microservices. Each node
-is a...
+- [WinT3R: Window-Based Streaming Reconstruction with Camera Token Pool](http://arxiv.org/abs/2509.05296v1) - Zizun Li, Jianjun Zhou, Yifan Wang, Haoyu Guo, Wenzheng Chang, Yang Zhou, Haoyi Zhu, Junyi Chen, Chunhua Shen, Tong He
+  We present WinT3R, a feed-forward reconstruction model capable of online
+prediction of precise camera poses and high-quality point maps. Previous
+meth...
 
-- [Delta Activations: A Representation for Finetuned Large Language Models](http://arxiv.org/abs/2509.04442v1) - Zhiqiu Xu, Amish Sethi, Mayur Naik, Ser-Nam Lim
-  The success of powerful open source Large Language Models (LLMs) has enabled
-the community to create a vast collection of post-trained models adapted ...
+- [Crosscoding Through Time: Tracking Emergence & Consolidation Of
+  Linguistic Representations Throughout LLM Pretraining](http://arxiv.org/abs/2509.05291v1) - Deniz Bayazit, Aaron Mueller, Antoine Bosselut
+  Large language models (LLMs) learn non-trivial abstractions during
+pretraining, like detecting irregular plural noun subjects. However, it is not
+well...
 
-- [DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation](http://arxiv.org/abs/2509.04441v1) - Hao-Shu Fang, Branden Romero, Yichen Xie, Arthur Hu, Bo-Ruei Huang, Juan Alvarez, Matthew Kim, Gabriel Margolis, Kavya Anbarasu, Masayoshi Tomizuka, Edward Adelson, Pulkit Agrawal
-  We introduce perioperation, a paradigm for robotic data collection that
-sensorizes and records human manipulation while maximizing the transferability...
+- [SpikingBrain Technical Report: Spiking Brain-inspired Large Models](http://arxiv.org/abs/2509.05276v1) - Yuqi Pan, Yupeng Feng, Jinghao Zhuang, Siyu Ding, Zehao Liu, Bohan Sun, Yuhong Chou, Han Xu, Xuerui Qiu, Anlin Deng, Anjie Hu, Peng Zhou, Man Yao, Jibin Wu, Jian Yang, Guoliang Sun, Bo Xu, Guoqi Li
+  Mainstream Transformer-based large language models face major efficiency
+bottlenecks: training computation scales quadratically with sequence length,
+...
 
 
 
@@ -146,15 +149,15 @@ satellite communication systems has elevated the importance of secure vide...
 ### 📈 科技股票追踪
 
 - **AAPL**: $239.69 📉 -0.09 (-0.0%)
-- **GOOGL**: $235.00 📈 +2.70 (+1.2%)
+- **GOOGL**: $235.05 📈 +2.75 (+1.2%)
 - **MSFT**: $495.00 📉 -12.97 (-2.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
@@ -174,14 +177,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《Kubernetes权威指南》** - 龚正等
 
-深度学习领域的权威教材 (分类: 人工智能)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -197,15 +200,15 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
@@ -217,62 +220,61 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🏆 本周技术挑战
 
-**算法优化挑战** (难度: 中等)
+**微服务架构设计** (难度: 高级)
 
-优化一个排序算法，使其在大数据集上的性能提升50%
+设计一个电商系统的微服务架构，包含用户、订单、支付等服务
 
-🏷️ 标签: 算法, 性能优化 | ⏱️ 预计时间: 2-4小时 | 🎯 奖励积分: 100
+🏷️ 标签: 架构设计, 微服务 | ⏱️ 预计时间: 4-8小时 | 🎯 奖励积分: 150
 
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**遵循单一职责原则**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**网络建设**: 参加技术会议和meetup，建立专业人脉网络
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 每月参加至少一次技术聚会或在线会议
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `c9d2bc` | 日期: 2025-09-07
+挑战ID: `f6fb52` | 日期: 2025-09-08
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
@@ -282,29 +284,29 @@ test('should calculate tax correctly', () => {
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Blockchain** 📉 -3% - 区块链热度回落
+- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-现代Web应用框架
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**全栈开发** (中级) 📊
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -318,7 +320,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-09-07 08:10:38
+- 📅 更新时间: 2025-09-08 08:14:32
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -330,13 +332,13 @@ test('should calculate tax correctly', () => {
 
 - 📰 新闻总数: 8
 - 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 2 (25.0%)
-- 🔥 平均热度: 14.8/100
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 11.8/100
 
 🏷️ **热门关键词**:
-- AI (7次)
-- 人工智能 (1次)
-- NFT (1次)
+- AI (6次)
+- OpenAI (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
