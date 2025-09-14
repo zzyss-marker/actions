@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2025-09-13)
+## 今日更新 (2025-09-14)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😊 [【人工智能之深度学习】20. 交通流量预测实战：用GCN构建城市路网预测模型（PeMS数据集+PyTorch Geometric全流程）](https://blog.csdn.net/weixin_39815573/article/details/150580761) 🔥🔥 很热
-  摘要：城市交通流量预测是智慧交通的核心任务，传统LSTM/CNN模型因忽视路网拓扑结构（如传感器间的道路连接关系），难以精准捕捉拥堵传播规律。本文以公开PeMSD4数据集（旧金山湾区交通数据）为基础，...
-- 😊 [什么是AI+？什么是人工智能+？](https://blog.csdn.net/qq_44866828/article/details/150928765) 🔥 热门
-  本文系统梳理了“AI+”与“人工智能+”的概念区别与行业应用。“AI+”强调以AI为核心驱动力的颠覆式创新，如智能医疗诊断、自适应教育系统；“+AI”则侧重AI技术对传统行业的增量优化，如银行风控增强...
-- 😊 [双通道审核智能合约更新路径：基于区块链与AI融合的编程范式分析](https://blog.csdn.net/kkiron/article/details/150481178) 🔥 热门
-  针对医保双通道政策下处方审核智能合约的动态更新需求，以下是一套兼顾安全性、效率与合规性的技术实现方案，通过分层架构与治理机制破解规则频繁迭代的难题路径
-- 😊 [医疗AI与医院数据仓库的智能化升级：异构采集、精准评估与高效交互的融合方向(上)](https://blog.csdn.net/kkiron/article/details/150543703) 📈 关注
-  医疗数据仓库智能化升级：异构采集、精准评估与高效交互 摘要： 医疗AI的快速发展对医院数据仓库提出更高要求。本文针对数据孤岛、质量低下、操作复杂三大痛点，提出数据仓库三大智能化升级功能：1) 异构采集...
-- 😊 [人工智能（AI）与网络安全](https://blog.csdn.net/gavinxiong/article/details/150763150) 📈 关注
-  AI 在网络安全防御中展现多元化的价值
+- 😊 [国内已有至少9家AI Agent平台，你用过几家？](https://blog.csdn.net/qq_44866828/article/details/147596071) 🔥🔥 很热
+  国内已有至少9家AI Agent平台，你用过几家？随着人工智能（AI）技术的不断进步，越来越多的国内AI Agent平台应运而生。AI智能体（AI Agent）作为生成式AI的重要应用，正在帮助企业、...
+- 😊 [Cursor一键接管Chrome的MCP神器：让AI直接控制浏览器，解放双手！](https://blog.csdn.net/lbh73/article/details/148732472) 📈 关注
+  本文介绍了一款开源工具Chrome MCP Server，它通过将浏览器功能直接对接AI助手（如Cursor），实现智能自动化操作。该工具突破传统自动化工具的局限，保留用户浏览器环境与登录状态，完全本...
+- 😟 [Chatbox AI全面测评｜AI集成工具箱，一键拿下国内外顶尖大模型](https://blog.csdn.net/weixin_66401877/article/details/148782045) 📈 关注
+  经过了这几个月的不断迭代，Chatbox AI也是迎来了大更新，比如：桌面端支持MCP，全新的首页设计，最重要的还是Chatbox将所有的数据都存储在本地，避免隐私泄露。支持全平台，做到了真正的开箱即...
+- 😊 [RockyLinux 10 正式发布：更快、更稳、更安全、更AI！](https://blog.csdn.net/hnpmilgh/article/details/148600071) 📈 关注
+  2025年6月12日，Rocky Linux 社区宣布正式发布 Rocky Linux 10（代号“Blue Onyx”），这是继 RockyLinux 9.6 之后的最新长期支持版本，标志着该项目在...
+- 😊 [Spring AI Alibaba快速使用](https://blog.csdn.net/qq_42402854/article/details/146350253) 📊 普通
+  Spring AI Alibaba快速使用
 
 
 ### 网络安全资讯
@@ -88,25 +88,25 @@ MIT
 
 ### 技术就业趋势
 
-人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
+- 😊 [德适生物x腾讯云：用好云打造医学影像「超强外挂」](https://cloud.tencent.com/developer/article/2566996) 🔥🔥 很热
+  当今世界，AI越来越成为影响社会生产与生活的核心力量，并逐渐成为大国竞争的主战场。8月26日，国务院发布《关于深入实施“人工智能+”行动的意见》，明确提到“要加快探索人工智能驱动的新型科研范式，加快科...
 - 😊 [IDC MarketScape：腾讯云位居国内生成式AI数据基础设施“领导者”象限](https://cloud.tencent.com/developer/article/2567001) 🔥 热门
   近日，国际权威研究机构IDC发布《IDC MarketScape：中国面向生成式 AI 的数据基础设施厂商评估，2025》。腾讯云凭借在产品能力与战略布局上的突出优势，成功进入“领导者”象限。
-- 😊 [从架构升级到AI进化：架构师如何引领智能变革？腾讯云架构师技术沙龙邀你共探](https://cloud.tencent.com/developer/article/2567007) 📈 关注
-  技术浪潮奔涌向前，AI 已从“未来时”全面迈入“进行时”。从代码生成到系统重构，从人机交互到产业赋能，AI 正在深刻改写技术演进的方向与节奏。作为架构师，我们既是这场变革的推动者，也首当其冲地面临着认...
-- 😐 [区块链的哈希链表与MerkleTree](https://cloud.tencent.com/developer/article/2566984) 📈 关注
-  由该区块的区块头内容（包括版本号、时间戳、随机数、难度目标、以及至关重要的Merkle根哈希等）通过密码学哈希函数（如SHA-256）计算得出。它唯一地代表了该区块的“数字指纹”。
+- 😐 [disk2vhd勾选Use Volume Shadow Copy导出.vhd时报错error snapshotting volumes的解决方案](https://cloud.tencent.com/developer/article/2566972) 📊 普通
+  disk2vhd勾选Use Volume Shadow Copy导出.vhd时报错error snapshotting volumes，如果遇到了，不勾选Use Volume Shadow Copy试...
 
 
 ### GitHub 趋势项目
 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [trueadm/ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
-- [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) - No description
-- [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) - Generate code from the terminal!
+- [MotiaDev/motia](https://github.com/MotiaDev/motia) - Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+- [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
 - [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA) - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
-- [firebase/genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
 
 
 
@@ -159,18 +159,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**两数之和** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 字符串, 动态规划
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -181,14 +181,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-世界上第一个域名是symbolics.com，注册于1985年3月15日
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《Kubernetes权威指南》** - 龚正等
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -204,15 +204,15 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
@@ -233,27 +233,27 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
@@ -266,9 +266,9 @@ const a = 25;
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：💡 创新者
 
-挑战ID: `a1bdbf` | 日期: 2025-09-13
+挑战ID: `bc72bd` | 日期: 2025-09-14
 
 
 ### 📊 技术话题投票
@@ -286,11 +286,11 @@ const a = 25;
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
@@ -304,14 +304,14 @@ const a = 25;
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**安全工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-真正的程序员不需要注释，代码就是最好的文档。
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -325,7 +325,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-09-13 08:10:54
+- 📅 更新时间: 2025-09-14 08:11:07
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -336,15 +336,13 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 7 (87.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 19.6/100
+- 😊 积极新闻: 6 (75.0%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 16.4/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- 人工智能 (3次)
-- 区块链 (2次)
-- 深度学习 (1次)
+- AI (7次)
+- 人工智能 (2次)
 - AR (1次)
 
 
