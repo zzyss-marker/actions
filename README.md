@@ -55,77 +55,79 @@
 
 MIT
 
-## 今日更新 (2025-09-15)
+## 今日更新 (2025-09-16)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- 😊 [ChatGPT 3.5/4.0使用手册：解锁人工智能的无限潜能](https://blog.csdn.net/beautifulmemory/article/details/141895434) 🔥🔥 很热
-  ChatGPT的重要性在于其能够模拟人类的交流方式，提供自然、流畅的对话体验。这种能力使得ChatGPT在客户服务、教育、内容创作、研究和个人助理等多个领域都有着广泛的应用。随着技术的不断进步，Cha...
-- 😊 [零代码构建AI知识库：基于亮数据网页抓取API的维基百科数据自动化采集实战](https://blog.csdn.net/g310773517/article/details/146550275) 🔥🔥 很热
-  人工智能技术正从算法驱动转向知识驱动，以解决大语言模型（LLM）的局限性。知识库通过RAG技术增强模型的可信度，支持动态更新以实现长期记忆，并降低算力成本。网络爬虫用于信息收集和市场分析，但面临反爬机...
-- 😊 [通义万相2.2-S2V-14B全解：AI视频生成的革命性突破与实践指南](https://blog.csdn.net/Liudef06/article/details/151069816) 📈 关注
-  通义万相2.2-S2V-14B：AI视频生成技术解析 阿里巴巴达摩院推出的140亿参数视频生成模型通义万相2.2-S2V-14B，采用扩散模型与Transformer混合架构，实现文本到视频的高质量生...
-- 😊 [DeepSeek：全栈开发者视角下的AI革命者](https://blog.csdn.net/RenGJ010617/article/details/145440939) 📈 关注
-  当模型部署门槛降低后，如何设计更具创意的应用场景？当开源社区以每月30%的速度贡献新模块时，怎样构建可持续的技术护城河？或许正如Linux当年开启的开源盛世，DeepSeek正在为AI时代的技术创新写...
-- 😐 [一站式爬虫MCP服务器助力AI市场分析师](https://blog.csdn.net/Why_does_it_work/article/details/150955774) 📊 普通
-  一站式爬虫MCP服务器助力AI市场分析师
+- 😊 [科研绘图：顶刊的图文摘要Graphical Abstract，如何巧用AI绘制？](https://blog.csdn.net/dinaxuejie/article/details/143032824) 🔥🔥 很热
+  区别于其他类型的科研绘图，图文摘要Graphical Abstract是用图形的方式来展示论文的主要发现，将论文的创新性和主要贡献视觉化展示。我调用了DALL E绘图模型，让GPT根据以上图文摘要的描...
+- 😊 [“全结构化录入+牙位可视化标记”人工智能化python编程路径探析](https://blog.csdn.net/kkiron/article/details/151172589) 🔥🔥 很热
+  本文提出了一套基于Python的口腔电子病历系统架构方案，旨在实现全结构化诊疗记录与智能化管理。系统采用React+FastAPI技术栈，通过牙位图可视化与表单联动实现精准录入，并集成AI辅助功能（术...
+- 😊 [一篇文章带你最快学习AI前端框架Streamlit](https://blog.csdn.net/qq_38196449/article/details/149044950) 🔥 热门
+  Streamlit是一个免费的开源框架，用于快速构建和共享漂亮的数据科学Web应用程序。它是一个基于Python的库，专为机器学习工程师设计。数据分析工程师不是网络开发人员，他们对花几周时间学习使用这...
+- 😊 [猫头虎AI分享：无需OCR，基于ColQwen2、Qwen2.5和Weaviate对PDF进行多模态RAG的解决方案](https://blog.csdn.net/qq_44866828/article/details/151123176) 🔥 热门
+  本文介绍了一种无需OCR的PDF多模态RAG解决方案，利用ColQwen2、Qwen2.5-VL和Weaviate构建高效检索问答系统。该方案通过将PDF页面截图直接编码为多向量表征，省去了传统OCR...
+- 😐 [基于飞算JavaAI实现学生成绩综合统计分析系统的设计与实现](https://blog.csdn.net/l1914039920/article/details/151297081) 📈 关注
+  打开飞算 AI 插件的 “自然语言生成代码” 功能，点击创建项目，并在对话框中使用自然语言输入实现“学生成绩综合统计分析系统的设计与实现”。点击 “生成代码” 按钮，飞算 AI 将自动解析需求，生成对...
 
 
 ### 网络安全资讯
 
-- [CISA公布CVE计划新愿景：能否奏效？](https://www.anquanke.com/post/id/312067) - 安全公告，详情请点击链接查看完整内容
+- [CISA警告有人积极利用达索RCE漏洞](https://www.anquanke.com/post/id/312119) - 安全公告，详情请点击链接查看完整内容
 - [SAGE：一种用于大型语言模型中基于触发器引导的 LoRA 自适应 lightweight 框架](https://paper.seebug.org/3386/) - 作者：Jiacheng Wei, Faguo Wu, Xiao Zhang
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html/2509.05385v1
 摘要
 大...
-- [Salesloft: GitHub账户遭入侵 导致Drift令牌被盗并引发大规模Salesforce数据窃取](https://www.4hou.com/posts/33NQ) - Salesloft近日表示，攻击者最早于3月入侵了其GitHub账户，进而窃取了Drift平台的OAuth令牌——这些令牌随后在8月被用于大规模Salesforce数据窃取攻击。Salesloft是一...
+- [梆梆安全入选七大细分领域，彰显汽车网络与数据安全领域硬实力](https://www.4hou.com/posts/qo1r) - 近日，AutoSec 2025第九届中国汽车网络安全周暨第六届智能汽车数据安全展在上海隆重召开。会上，谈思汽车正式发布《中国汽车网络与数据安全行业全景图》，梆梆安全在 “合规咨询、渗透测试、检测测试认...
 
 
 ### 技术就业趋势
 
-可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
+软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
 
 ### 科技热点
 
-- 😊 [IDC MarketScape：腾讯云位居国内生成式AI数据基础设施“领导者”象限](https://cloud.tencent.com/developer/article/2567001) 🔥 热门
-  近日，国际权威研究机构IDC发布《IDC MarketScape：中国面向生成式 AI 的数据基础设施厂商评估，2025》。腾讯云凭借在产品能力与战略布局上的突出优势，成功进入“领导者”象限。
-- 😊 [从架构升级到AI进化：架构师如何引领智能变革？腾讯云架构师技术沙龙邀你共探](https://cloud.tencent.com/developer/article/2567007) 📈 关注
-  技术浪潮奔涌向前，AI 已从“未来时”全面迈入“进行时”。从代码生成到系统重构，从人机交互到产业赋能，AI 正在深刻改写技术演进的方向与节奏。作为架构师，我们既是这场变革的推动者，也首当其冲地面临着认...
-- 😐 [一文搞懂架构顶层设计之业务建模](https://cloud.tencent.com/developer/article/2567012) 📊 普通
-  在软件开发的世界里，“建模”往往是被频繁提起，却又容易被忽视的环节。无论是需求分析、系统设计，还是最终的代码实现，建模都扮演着承上启下的关键角色。它不仅仅是画几张图，而是一种把复杂业务抽象成可理解、可...
+- 😊 [从制造到智造：AI 如何赋能生产力跃迁？](https://cloud.tencent.com/developer/article/2567005) 🔥 热门
+  当前，全球制造业正处于智能化转型的关键阶段，人工智能与工业体系的深度融合正在加速推动生产方式、管理模式和产业生态的重构。从“制造”到“智造”，不仅是技术的迭代升级，更是一场涵盖数据、流程、组织与生态的...
+- 😊 [解码AI驱动云基建新范式，腾讯全球数字生态大会 Infra Agent 专场亮点抢先看！](https://cloud.tencent.com/developer/article/2566997) 🔥 热门
+  人工智能技术发展迅猛，正加速以前所未有的速度重塑世界经济格局，推进企业转型进程，由“数字化”向“数智化”跃升。
+- 😊 [程序员必备！Prompt三大进阶技巧和实用模板](https://cloud.tencent.com/developer/article/2567011) 📈 关注
+  在与AI结对编程的过程中，优秀的 Prompt 设计是充分发挥 AI 能力的关键。本文将分享一些开发中实用的 Prompt 优化技巧，帮助开发者更高效地与 AI 协作。
 
 
 ### GitHub 趋势项目
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [trueadm/ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
-- [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) - DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
+- [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 
 
 
 
 ### AI 研究论文
 
-- [Standards in the Preparation of Biomedical Research Metadata: A
-  Bridge2AI Perspective](http://arxiv.org/abs/2509.10432v1) - Harry Caufield, Satrajit Ghosh, Sek Wong Kong, Jillian Parker, Nathan Sheffield, Bhavesh Patel, Andrew Williams, Timothy Clark, Monica C. Munoz-Torres
-  AI-readiness describes the degree to which data may be optimally and
-ethically used for subsequent AI and Machine Learning (AI/ML) methods, where
-thos...
+- [Dynamic Relational Priming Improves Transformer in Multivariate Time
+  Series](http://arxiv.org/abs/2509.12196v1) - Hunjae Lee, Corey Clark
+  Standard attention mechanisms in transformers employ static token
+representations that remain unchanged across all pair-wise computations in each
+laye...
 
-- [Mutual Information Tracks Policy Coherence in Reinforcement Learning](http://arxiv.org/abs/2509.10423v1) - Cameron Reid, Wael Hafez, Amirhossein Nazeri
-  Reinforcement Learning (RL) agents deployed in real-world environments face
-degradation from sensor faults, actuator wear, and environmental shifts, y...
+- [Advancing Medical Artificial Intelligence Using a Century of Cases](http://arxiv.org/abs/2509.12194v1) - Thomas A. Buckley, Riccardo Conci, Peter G. Brodeur, Jason Gusdorf, Sourik Beltrán, Bita Behrouzi, Byron Crowe, Jacob Dockterman, Muzzammil Muhammad, Sarah Ohnigian, Andrew Sanchez, James A. Diao, Aashna P. Shah, Daniel Restrepo, Eric S. Rosenberg, Andrew S. Lea, Marinka Zitnik, Scott H. Podolsky, Zahir Kanjee, Raja-Elie E. Abdulnour, Jacob M. Koshy, Adam Rodman, Arjun K. Manrai
+  BACKGROUND: For over a century, the New England Journal of Medicine
+Clinicopathological Conferences (CPCs) have tested the reasoning of expert
+physici...
 
-- [Is In-Context Learning Learning?](http://arxiv.org/abs/2509.10414v1) - Adrian de Wynter
-  In-context learning (ICL) allows some autoregressive models to solve tasks
-via next-token prediction and without needing further training. This has le...
+- [Survival at Any Cost? LLMs and the Choice Between Self-Preservation and
+  Human Harm](http://arxiv.org/abs/2509.12190v1) - Alireza Mohamadi, Ali Yavari
+  When survival instincts conflict with human welfare, how do Large Language
+Models (LLMs) make ethical choices? This fundamental tension becomes critic...
 
 
 
@@ -149,25 +151,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $234.07 📈 +4.04 (+1.8%)
-- **GOOGL**: $240.80 📈 +0.43 (+0.2%)
-- **MSFT**: $509.90 📈 +8.89 (+1.8%)
+- **AAPL**: $236.70 📈 +2.63 (+1.1%)
+- **GOOGL**: $251.61 📈 +10.81 (+4.5%)
+- **MSFT**: $515.36 📈 +5.46 (+1.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+判断字符串中的括号是否有效匹配
 
-标签: 数组, 哈希表
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -183,9 +185,9 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《代码整洁之道》** - Robert C. Martin
 
-深度学习领域的权威教材 (分类: 人工智能)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -195,14 +197,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
@@ -214,9 +216,9 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -230,53 +232,53 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `4bcd13` | 日期: 2025-09-15
+挑战ID: `687535` | 日期: 2025-09-16
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
@@ -301,14 +303,14 @@ test('should calculate tax correctly', () => {
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**安全工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -322,7 +324,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-09-15 08:13:56
+- 📅 更新时间: 2025-09-16 08:13:49
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -333,16 +335,15 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
+- 😊 积极新闻: 7 (87.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 18.5/100
+- 🔥 平均热度: 23.1/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- 人工智能 (2次)
-- ChatGPT (1次)
+- AI (8次)
+- 人工智能 (3次)
 - GPT (1次)
-- AR (1次)
+- 机器学习 (1次)
 
 
 ### 🤖 关于此项目
