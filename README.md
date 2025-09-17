@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2025-09-16)
+## 今日更新 (2025-09-17)
 
 ### 今日名言
 
-> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- 😊 [科研绘图：顶刊的图文摘要Graphical Abstract，如何巧用AI绘制？](https://blog.csdn.net/dinaxuejie/article/details/143032824) 🔥🔥 很热
-  区别于其他类型的科研绘图，图文摘要Graphical Abstract是用图形的方式来展示论文的主要发现，将论文的创新性和主要贡献视觉化展示。我调用了DALL E绘图模型，让GPT根据以上图文摘要的描...
-- 😊 [“全结构化录入+牙位可视化标记”人工智能化python编程路径探析](https://blog.csdn.net/kkiron/article/details/151172589) 🔥🔥 很热
-  本文提出了一套基于Python的口腔电子病历系统架构方案，旨在实现全结构化诊疗记录与智能化管理。系统采用React+FastAPI技术栈，通过牙位图可视化与表单联动实现精准录入，并集成AI辅助功能（术...
-- 😊 [一篇文章带你最快学习AI前端框架Streamlit](https://blog.csdn.net/qq_38196449/article/details/149044950) 🔥 热门
-  Streamlit是一个免费的开源框架，用于快速构建和共享漂亮的数据科学Web应用程序。它是一个基于Python的库，专为机器学习工程师设计。数据分析工程师不是网络开发人员，他们对花几周时间学习使用这...
-- 😊 [猫头虎AI分享：无需OCR，基于ColQwen2、Qwen2.5和Weaviate对PDF进行多模态RAG的解决方案](https://blog.csdn.net/qq_44866828/article/details/151123176) 🔥 热门
-  本文介绍了一种无需OCR的PDF多模态RAG解决方案，利用ColQwen2、Qwen2.5-VL和Weaviate构建高效检索问答系统。该方案通过将PDF页面截图直接编码为多向量表征，省去了传统OCR...
-- 😐 [基于飞算JavaAI实现学生成绩综合统计分析系统的设计与实现](https://blog.csdn.net/l1914039920/article/details/151297081) 📈 关注
-  打开飞算 AI 插件的 “自然语言生成代码” 功能，点击创建项目，并在对话框中使用自然语言输入实现“学生成绩综合统计分析系统的设计与实现”。点击 “生成代码” 按钮，飞算 AI 将自动解析需求，生成对...
+- 😊 [小鹏汽车AI测试](https://blog.csdn.net/m0_55049655/article/details/149717783) 🔥 热门
+  摘要： 本文针对小鹏汽车前端开发岗位面试，提出技术融合与工程效能优化的差异化回答方案。聚焦Web3D+GIS技术与智能座舱/高精地图的协同性，结合小鹏全栈自研战略，从职业规划（短期深耕Web3D可视化...
+- 😐 [别让小事耗光时间！AI 大语言模型处理生活琐事指南](https://blog.csdn.net/qq_41187124/article/details/150775977) 📈 关注
+  别再为琐事熬夜！让 AI 成为你的‘三招‘：周报、文案、邮件，秒出！：Excel、CSV、日志，一键分析！：选课、比价、规划，AI 来算！：提问 → 粘贴 → 运行！，效率翻倍！时间，只留给真正重要的...
+- 😊 [使用飞算JavaAI快速搭建药房管理系统](https://blog.csdn.net/2401_85235586/article/details/151190897) 📈 关注
+  本文介绍了使用飞算JavaAI快速搭建药房管理系统的过程。系统采用Spring Boot+MyBatis Plus+MySQL+Redis技术架构，实现药品管理、库存监控、处方处理等核心功能。通过智能...
+- 😐 [实测2025年6大热门流程图工具：AI生成、协作效率、专业绘图深度横评！](https://blog.csdn.net/xiami_world/article/details/148539184) 📈 关注
+  本文将测评市面上最火的 6 款业务流程图软件，从功能到性价比三个维度深度对比，不管你是中小企业、远程团队还是个人用户，看完这篇直接抄作业！
+- 😐 [AI在医疗领域的十大应用场景：变革医疗健康未来与AI产品经理的新机遇](https://blog.csdn.net/qq_34419312/article/details/149219580) 📈 关注
+  AI在医疗领域的十大应用场景：变革医疗健康未来与AI产品经理的新机遇
 
 
 ### 网络安全资讯
@@ -83,51 +83,51 @@ MIT
 原文链接：https://arxiv.org/html/2509.05385v1
 摘要
 大...
-- [梆梆安全入选七大细分领域，彰显汽车网络与数据安全领域硬实力](https://www.4hou.com/posts/qo1r) - 近日，AutoSec 2025第九届中国汽车网络安全周暨第六届智能汽车数据安全展在上海隆重召开。会上，谈思汽车正式发布《中国汽车网络与数据安全行业全景图》，梆梆安全在 “合规咨询、渗透测试、检测测试认...
+- [二代必读 | 系列01 • 家族内斗的技术窃密风险](https://www.4hou.com/posts/OGnp) - 篇首语：经常参与家族内斗的朋友们都知道，没有做不到，只有想不到。在庞大资源的背景下，内斗暗战方式只会更加复杂多样。杨叔曾应某企业家协会的邀请，在内部“YOUTH TALK 青年说”上做过分享，为现场各...
 
 
 ### 技术就业趋势
 
-软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
-- 😊 [从制造到智造：AI 如何赋能生产力跃迁？](https://cloud.tencent.com/developer/article/2567005) 🔥 热门
-  当前，全球制造业正处于智能化转型的关键阶段，人工智能与工业体系的深度融合正在加速推动生产方式、管理模式和产业生态的重构。从“制造”到“智造”，不仅是技术的迭代升级，更是一场涵盖数据、流程、组织与生态的...
-- 😊 [解码AI驱动云基建新范式，腾讯全球数字生态大会 Infra Agent 专场亮点抢先看！](https://cloud.tencent.com/developer/article/2566997) 🔥 热门
-  人工智能技术发展迅猛，正加速以前所未有的速度重塑世界经济格局，推进企业转型进程，由“数字化”向“数智化”跃升。
-- 😊 [程序员必备！Prompt三大进阶技巧和实用模板](https://cloud.tencent.com/developer/article/2567011) 📈 关注
-  在与AI结对编程的过程中，优秀的 Prompt 设计是充分发挥 AI 能力的关键。本文将分享一些开发中实用的 Prompt 优化技巧，帮助开发者更高效地与 AI 协作。
+- 😊 [“人工智能+”留给产业落地的十大问题｜对话孙天澍](https://cloud.tencent.com/developer/article/2567176) 📈 关注
+  2025年8月，国家正式推出“人工智能+”战略框架。这是一个重要的顶层设计：2027年应用普及率超过70%，2030年成为推动经济发展的重要力量，2035年成为经济发展主导力量。但是在大的顶层设计之下...
+- 😊 [程序员时薪排行](https://cloud.tencent.com/developer/article/2567217) 📊 普通
+  下面是 2025 年初级工程师时薪排行榜：这是 2024 年的初级工程师时薪排行榜：可以看到，PDD 、小红书、和微软还是比较稳定的，依然是前三，腾讯上了一名，蚂蚁金服掉了一名，哔哩哔哩从十四名上升到...
+- 😊 [从文本到二进制：HTTP/2不止于性能，更是对HTTP/1核心语义的传承与革新](https://cloud.tencent.com/developer/article/2567243) 📊 普通
+  云原生计算基金会（Cloud Native Computing Foundation，CNCF）是一个非盈利的开源组织，专注于推动云原生计算的发展和标准化。而gRPC（Google Remote Pr...
 
 
 ### GitHub 趋势项目
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+- [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) - Run LLMs with MLX
+- [dataease/SQLBot](https://github.com/dataease/SQLBot) - 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+- [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) - DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
-- [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 
 
 
 
 ### AI 研究论文
 
-- [Dynamic Relational Priming Improves Transformer in Multivariate Time
-  Series](http://arxiv.org/abs/2509.12196v1) - Hunjae Lee, Corey Clark
-  Standard attention mechanisms in transformers employ static token
-representations that remain unchanged across all pair-wise computations in each
-laye...
+- [Shapes of Cognition for Computational Cognitive Modeling](http://arxiv.org/abs/2509.13288v1) - Marjorie McShane, Sergei Nirenburg, Sanjay Oruganti, Jesse English
+  Shapes of cognition is a new conceptual paradigm for the computational
+cognitive modeling of Language-Endowed Intelligent Agents (LEIAs). Shapes are
+r...
 
-- [Advancing Medical Artificial Intelligence Using a Century of Cases](http://arxiv.org/abs/2509.12194v1) - Thomas A. Buckley, Riccardo Conci, Peter G. Brodeur, Jason Gusdorf, Sourik Beltrán, Bita Behrouzi, Byron Crowe, Jacob Dockterman, Muzzammil Muhammad, Sarah Ohnigian, Andrew Sanchez, James A. Diao, Aashna P. Shah, Daniel Restrepo, Eric S. Rosenberg, Andrew S. Lea, Marinka Zitnik, Scott H. Podolsky, Zahir Kanjee, Raja-Elie E. Abdulnour, Jacob M. Koshy, Adam Rodman, Arjun K. Manrai
-  BACKGROUND: For over a century, the New England Journal of Medicine
-Clinicopathological Conferences (CPCs) have tested the reasoning of expert
-physici...
+- [Contrastive timbre representations for musical instrument and
+  synthesizer retrieval](http://arxiv.org/abs/2509.13285v1) - Gwendal Le Vaillant, Yannick Molle
+  Efficiently retrieving specific instrument timbres from audio mixtures
+remains a challenge in digital music production. This paper introduces a
+contra...
 
-- [Survival at Any Cost? LLMs and the Choice Between Self-Preservation and
-  Human Harm](http://arxiv.org/abs/2509.12190v1) - Alireza Mohamadi, Ali Yavari
-  When survival instincts conflict with human welfare, how do Large Language
-Models (LLMs) make ethical choices? This fundamental tension becomes critic...
+- [RepIt: Representing Isolated Targets to Steer Language Models](http://arxiv.org/abs/2509.13281v1) - Vincent Siu, Nathan W. Henry, Nicholas Crispino, Yang Liu, Dawn Song, Chenguang Wang
+  While activation steering in large language models (LLMs) is a growing area
+of research, methods can often incur broader effects than desired. This
+mo...
 
 
 
@@ -151,16 +151,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $236.70 📈 +2.63 (+1.1%)
-- **GOOGL**: $251.61 📈 +10.81 (+4.5%)
-- **MSFT**: $515.36 📈 +5.46 (+1.1%)
+- **AAPL**: $238.15 📈 +1.45 (+0.6%)
+- **GOOGL**: $251.16 📉 -0.45 (-0.2%)
+- **MSFT**: $509.04 📉 -6.32 (-1.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
@@ -180,14 +180,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《Python编程：从入门到实践》** - Eric Matthes
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -197,28 +197,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Synthwave Mix** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -258,54 +258,54 @@ const a = 25;
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🧠 算法大师
+今日挑战徽章：💡 创新者
 
-挑战ID: `687535` | 日期: 2025-09-16
+挑战ID: `5e1be4` | 日期: 2025-09-17
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-现代JavaScript/TypeScript运行时
+现代Web应用框架
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
@@ -324,7 +324,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-09-16 08:13:49
+- 📅 更新时间: 2025-09-17 08:13:08
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -335,15 +335,14 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 7 (87.5%)
+- 😊 积极新闻: 5 (62.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 23.1/100
+- 🔥 平均热度: 9.5/100
 
 🏷️ **热门关键词**:
-- AI (8次)
-- 人工智能 (3次)
-- GPT (1次)
-- 机器学习 (1次)
+- AI (5次)
+- Web3 (1次)
+- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
