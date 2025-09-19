@@ -55,7 +55,7 @@
 
 MIT
 
-## 今日更新 (2025-09-18)
+## 今日更新 (2025-09-19)
 
 ### 今日名言
 
@@ -63,69 +63,67 @@ MIT
 
 ### AI 技术动态
 
-- 😊 [Python常用医疗AI库以及案例解析（2025年版、上）](https://blog.csdn.net/kkiron/article/details/149111376) 🔥 热门
-  摘要：Python作为医疗AI项目的首选语言，2025年涌现出众多高效开源工具。本文系统梳理了医疗AI全流程的核心Python库，涵盖七大领域：1）数据科学（Polars、scikit-learn）；...
-- 😐 [使用AI进行代码审查](https://blog.csdn.net/qq_41940941/article/details/148263631) 🔥 热门
-  本文介绍了两种利用AI进行代码审查的方法：1）通过自定义JS脚本调用OpenAI API实现git提交前的自动代码检查，详细展示了从获取代码差异到AI分析处理的完整流程；2）使用现成的ai-pre-c...
-- 😊 [AI学习之基础数学：特征分解-线性代数在AI大模型中的核心工具](https://blog.csdn.net/martian665/article/details/147767522) 📈 关注
-  特征分解是线性代数的核心工具，通过将矩阵分解为特征值和特征向量的形式，揭示了矩阵的内在结构和动态特性。在AI大模型中，特征分解支持了从数据降维到模型优化的多种任务，是理解模型原理的必备知识。结合Pyt...
-- 😟 [在没有硬件回采电路情况下的小智AI回声消除方法](https://blog.csdn.net/weixin_42206548/article/details/147116558) 📈 关注
-  回声消除（AEC）通过过滤麦克风输入中的扬声器输出，可以消除设备自身播放声音带来的错误识别，从而解锁可语音打断的实时对话模式，并提高普通对话模式下的唤醒打断正确率。在没有硬件回采通道的情况下，小智AI...
-- 😊 [医疗AI中的马尔科夫链深度应用与Python实现](https://blog.csdn.net/kkiron/article/details/149861299) 📈 关注
-  马尔可夫模型在医疗领域有广泛应用，包括疾病进展预测、治疗决策优化、生存分析和资源调度。本文通过糖尿病分期案例展示了Python实现方法，包括转移矩阵计算、病程模拟和状态预测。进阶部分引入隐马尔可夫模型...
+- 😊 [2025年8月18日-免费玩转 AI 编程！Claude Code Router + Qwen3-Code 实战教程](https://blog.csdn.net/wwwzhouhui/article/details/150503920) 🔥 热门
+  本文介绍了 Claude Code Router 工具，它可路由请求至多种 AI 模型，支持自定义配置与动态切换，能优化成本。结合魔搭社区每日 2000 次免费调用福利，详细讲解其安装、配置步骤，并通...
+- 😊 [使用Java飞算AI快速开发Spring Boot OA管理系统](https://blog.csdn.net/2501_90355067/article/details/150580007) 📈 关注
+  Java飞算AI作为国内领先的智能Java开发助手，专为解决这些痛点而生。它是由飞算科技于2025年推出的全球首款聚焦Java语言的AI开发工具，通过自然语言处理和大模型技术，能够理解开发者需求并自动...
+- 😐 [飞算JavaAI炫技赛：一天完成学生成绩综合统计分析系统开发(含源码）](https://blog.csdn.net/2301_76341691/article/details/151155025) 📈 关注
+  摘要：本文介绍了一个基于Spring Boot的学生成绩管理系统开发过程。系统采用分层架构设计，包含用户管理、成绩录入、统计分析等核心功能模块。通过飞算JavaAI工具自动生成项目代码骨架，实现了数据...
+- 😊 [零基础学AI大模型之AI大模型常见概念](https://blog.csdn.net/chandfy/article/details/151658020) 📈 关注
+  本文介绍了AI大模型的核心概念与应用。AI大模型是具备大规模参数、能模拟人类认知功能的算法，具有强大的泛化能力。文章重点解析了6个关键概念：1）提示词的设计与优化；2）Token作为语言处理单位对成本...
+- 😊 [基于飞算JavaAI的在线图书借阅平台设计实现](https://blog.csdn.net/fengoffor/article/details/151228853) 📈 关注
+  随着数字化时代的快速发展，传统图书馆管理模式已无法满足现代读者的需求。在线图书借阅平台通过互联网技术将图书资源数字化，为读者提供便捷的检索、借阅和管理服务，有效解决了传统图书馆开放时间有限、地理位置受...
 
 
 ### 网络安全资讯
 
+- [微软向Microsoft 365 Office应用推出Copilot Chat](https://www.anquanke.com/post/id/312181) - 安全公告，详情请点击链接查看完整内容
 - [一枚令牌统御万物——借助 Actor 令牌获取所有 Entra ID 租户的全局管理员权限](https://paper.seebug.org/3388/) - 作者：Dirk-jan Mollema
 原文链接：https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-ac...
-- [漏洞预警 | Flowise 任意文件读取漏洞](https://www.4hou.com/posts/qo13) - 一、漏洞概述近日，Flowise 发布更新修复高风险漏洞，攻击者可以利用该漏洞读取服务器上任意文件。建议您及时开展安全风险自查。Flowise 是一个开源的、可视化的 LLM 应用构建平台，专为 La...
-- [玄武在BlackHat揭示劫持智能体达成RCE的新方法](https://xlab.tencent.com/cn/2025/08/06/universal-and-context-independent-triggers/) - Author: Jiashuo Liang and Guancheng Li of Tencent Xuanwu Lab
-0x00 前言大语言模型（LLM）正在从简单的对话工具演化为能够编写代码、操作...
+- [“s1ngularity”供应链攻击导致数千个GitHub令牌遭泄露](https://www.4hou.com/posts/jB15) - 根据Nx“s1ngularity”NPM供应链攻击的调查显示，数千个账户令牌和代码仓库密钥遭泄露。Wiz研究人员事后评估，此次Nx安全漏洞在三个不同阶段共导致2180个账户和7200个仓库面临风险。W...
 
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
 
 ### 科技热点
 
 - 😐 [GPT-5 为啥不 “胡说” 了？OpenAI 新论文讲透了](https://cloud.tencent.com/developer/article/2567931) 🔥 热门
   GPT-5发布之后，虽然其性能并未能达成业界的“飞跃”期望，但其中最亮眼的就是幻觉率的大幅下降。
-- 😊 [前端开发者的 Kotlin 之旅：Compose Multiplatform 实战](https://cloud.tencent.com/developer/article/2567538) 📊 普通
-  Jetpack Compose 是 Google 推出的现代 Android UI 工具包，采用声明式编程范式。对于前端开发者来说，它就像是 Android 版的 React：
+- 😊 [StarRocks 物化视图2 - 查询优化](https://cloud.tencent.com/developer/article/2568207) 📈 关注
+  Query Delta Join 是指查询中 Join 的表是物化视图中 Join 的表的超集的情况。例如，以下查询 Join 了表 lineorder、表 customer 和 表 part。如果物...
 - 😟 [从HPACK到多路复用，揭秘HTTP/2如何终结网络拥堵](https://cloud.tencent.com/developer/article/2567922) 📊 普通
   在HTTP/1中，每个请求和响应都会发送大量重复的头部信息，比如 Cookie、User Agent、Accept 等，会使得大量带宽被这些冗余的数据占用。为了解决这个问题，HTTP/2引入了HPAC...
 
 
 ### GitHub 趋势项目
 
-- [category-labs/monad](https://github.com/category-labs/monad) - No description
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [category-labs/monad-bft](https://github.com/category-labs/monad-bft) - No description
-- [WebKit/WebKit](https://github.com/WebKit/WebKit) - Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi DeepResearch, the Leading Open-source Deep Research Agent
 
 
 
 
 ### AI 研究论文
 
-- [Apertus: Democratizing Open and Compliant LLMs for Global Language
-  Environments](http://arxiv.org/abs/2509.14233v1) - Alejandro Hernández-Cano, Alexander Hägele, Allen Hao Huang, Angelika Romanou, Antoni-Joan Solergibert, Barna Pasztor, Bettina Messmer, Dhia Garbaya, Eduard Frank Ďurech, Ido Hakimi, Juan García Giraldo, Mete Ismayilzada, Negar Foroutan, Skander Moalla, Tiancheng Chen, Vinko Sabolčec, Yixuan Xu, Michael Aerni, Badr AlKhamissi, Ines Altemir Marinas, Mohammad Hossein Amani, Matin Ansaripour, Ilia Badanin, Harold Benoit, Emanuela Boros, Nicholas Browning, Fabian Bösch, Maximilian Böther, Niklas Canova, Camille Challier, Clement Charmillot, Jonathan Coles, Jan Deriu, Arnout Devos, Lukas Drescher, Daniil Dzenhaliou, Maud Ehrmann, Dongyang Fan, Simin Fan, Silin Gao, Miguel Gila, María Grandury, Diba Hashemi, Alexander Hoyle, Jiaming Jiang, Mark Klein, Andrei Kucharavy, Anastasiia Kucherenko, Frederike Lübeck, Roman Machacek, Theofilos Manitaras, Andreas Marfurt, Kyle Matoba, Simon Matrenok, Henrique Mendoncça, Fawzi Roberto Mohamed, Syrielle Montariol, Luca Mouchel, Sven Najem-Meyer, Jingwei Ni, Gennaro Oliva, Matteo Pagliardini, Elia Palme, Andrei Panferov, Léo Paoletti, Marco Passerini, Ivan Pavlov, Auguste Poiroux, Kaustubh Ponkshe, Nathan Ranchin, Javi Rando, Mathieu Sauser, Jakhongir Saydaliev, Muhammad Ali Sayfiddinov, Marian Schneider, Stefano Schuppli, Marco Scialanga, Andrei Semenov, Kumar Shridhar, Raghav Singhal, Anna Sotnikova, Alexander Sternfeld, Ayush Kumar Tarun, Paul Teiletche, Jannis Vamvas, Xiaozhe Yao, Hao Zhao Alexander Ilic, Ana Klimovic, Andreas Krause, Caglar Gulcehre, David Rosenthal, Elliott Ash, Florian Tramèr, Joost VandeVondele, Livio Veraldi, Martin Rajman, Thomas Schulthess, Torsten Hoefler, Antoine Bosselut, Martin Jaggi, Imanol Schlag
-  We present Apertus, a fully open suite of large language models (LLMs)
-designed to address two systemic shortcomings in today's open model ecosystem:
+- [Generalizable Geometric Image Caption Synthesis](http://arxiv.org/abs/2509.15217v1) - Yue Xin, Wenyuan Wang, Rui Pan, Ruida Wang, Howard Meng, Renjie Pi, Shizhe Diao, Tong Zhang
+  Multimodal large language models have various practical applications that
+demand strong reasoning abilities. Despite recent advancements, these models...
+
+- [Explicit Context-Driven Neural Acoustic Modeling for High-Fidelity RIR
+  Generation](http://arxiv.org/abs/2509.15210v1) - Chen Si, Qianyi Wu, Chaitanya Amballa, Romit Roy Choudhury
+  Realistic sound simulation plays a critical role in many applications. A key
+element in sound simulation is the room impulse response (RIR), which
+cha...
+
+- [FlowRL: Matching Reward Distributions for LLM Reasoning](http://arxiv.org/abs/2509.15207v1) - Xuekai Zhu, Daixuan Cheng, Dinghuai Zhang, Hengli Li, Kaiyan Zhang, Che Jiang, Youbang Sun, Ermo Hua, Yuxin Zuo, Xingtai Lv, Qizheng Zhang, Lin Chen, Fanghao Shao, Bo Xue, Yunchong Song, Zhenjie Yang, Ganqu Cui, Ning Ding, Jianfeng Gao, Xiaodong Liu, Bowen Zhou, Hongyuan Mei, Zhouhan Lin
+  We propose FlowRL: matching the full reward distribution via flow balancing
+instead of maximizing rewards in large language model (LLM) reinforcement
 ...
-
-- [Language models' activations linearly encode training-order recency](http://arxiv.org/abs/2509.14223v1) - Dmitrii Krasheninnikov, Richard E. Turner, David Krueger
-  We show that language models' activations linearly encode when information
-was learned during training. Our setup involves creating a model with a kno...
-
-- [A Universal Banach--Bregman Framework for Stochastic Iterations:
-  Unifying Stochastic Mirror Descent, Learning and LLM Training](http://arxiv.org/abs/2509.14216v1) - Johnny R. Zhang, Xiaomei Mi, Gaoyuan Du, Qianyi Sun, Shiqi Wang, Jiaxuan Li, Wenhua Zhou
-  Stochastic optimization powers the scalability of modern artificial
-intelligence, spanning machine learning, deep learning, reinforcement learning,
-an...
 
 
 
@@ -149,25 +147,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $238.99 📈 +0.84 (+0.4%)
-- **GOOGL**: $249.53 📉 -1.63 (-0.6%)
-- **MSFT**: $510.02 📈 +0.98 (+0.2%)
+- **AAPL**: $237.88 📉 -1.11 (-0.5%)
+- **GOOGL**: $252.03 📈 +2.50 (+1.0%)
+- **MSFT**: $508.45 📉 -1.57 (-0.3%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+将两个升序链表合并为一个新的升序链表
 
-标签: 数组, 哈希表
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -178,14 +176,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《Kubernetes权威指南》** - 龚正等
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -195,7 +193,7 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
@@ -242,30 +240,30 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `d6ca37` | 日期: 2025-09-18
+挑战ID: `31d907` | 日期: 2025-09-19
 
 
 ### 📊 技术话题投票
@@ -284,9 +282,9 @@ test('should calculate tax correctly', () => {
 ### 🔥 技术热词趋势
 
 - **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
@@ -301,14 +299,14 @@ test('should calculate tax correctly', () => {
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**全栈开发** (中级) 📊
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -322,7 +320,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-09-18 08:13:07
+- 📅 更新时间: 2025-09-19 08:12:56
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -333,15 +331,15 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 2 (25.0%)
-- 🔥 平均热度: 14.2/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 12.4/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- OpenAI (2次)
-- AR (1次)
 - GPT (1次)
+- OpenAI (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
