@@ -55,7 +55,7 @@
 
 MIT
 
-## 今日更新 (2025-09-20)
+## 今日更新 (2025-09-21)
 
 ### 今日名言
 
@@ -63,16 +63,16 @@ MIT
 
 ### AI 技术动态
 
-- 😊 [探索RAGFlow：解锁生成式AI的无限潜能（2/6）](https://blog.csdn.net/beautifulmemory/article/details/148676799) 📈 关注
-  RAGFlow：融合检索与生成的智能系统架构 摘要：RAGFlow是一种创新性的生成式AI系统架构，通过将数据检索与生成模型相结合，实现了高效的信息处理能力。其核心技术包括多阶段处理、智能任务分配、自...
-- 😐 [AI辅导员（完成角色的个性化服务）](https://blog.csdn.net/awigu/article/details/149801479) 📈 关注
-  本文介绍了基于Dify平台构建AI辅导员聊天助手的完整流程。首先需准备辅导员知识库文档，在Dify创建聊天助手应用并设置专业提示词和开场白。重点是通过父子分段方式创建知识库，选择合适的embeddin...
-- 😐 [【AIGC前沿】MiniMax海螺AI视频——图片/文本生成高质量视频](https://blog.csdn.net/m0_61712829/article/details/146378534) 📈 关注
-  MiniMax海螺AI视频——图片/文本生成高质量视频
-- 😊 [阿里开源新AI code工具：qoder功能介绍](https://blog.csdn.net/sinat_26917383/article/details/150607547) 📊 普通
-  阿里开源新AI code工具：qoder功能介绍
-- 😊 [又一个免费且无限使用的AI生图工具，不容错过！](https://blog.csdn.net/u011160113/article/details/148656179) 📊 普通
-  今天分享的工具是又一个免费AI生图的神器
+- 😐 [使用AI进行代码审查](https://blog.csdn.net/qq_41940941/article/details/148263631) 🔥 热门
+  本文介绍了两种利用AI进行代码审查的方法：1）通过自定义JS脚本调用OpenAI API实现git提交前的自动代码检查，详细展示了从获取代码差异到AI分析处理的完整流程；2）使用现成的ai-pre-c...
+- 😊 [领码方案：RocksDB 从理论到实践——从底层原理到 AI 驱动的智能存储架构](https://blog.csdn.net/lgf228/article/details/150762545) 📈 关注
+  本文深入探讨了RocksDB这一高性能嵌入式KV存储引擎的核心架构与应用场景。文章首先对比了RocksDB与LevelDB的关键特性差异，详细解析了其基于LSM树、WAL日志和SSTable的底层存储...
+- 😊 [DooTask AI智能体 | 解锁高效任务管理的智能钥匙](https://blog.csdn.net/Hitosea2024/article/details/150917523) 📈 关注
+  DooTask AI智能体的配置功能，不仅是一场技术革新，更是团队协作模式的升级。通过多模型兼容、全流程自动化和实时交互设计，它帮助团队从“人工驱动”迈向“智能驱动”，在复杂项目中实现高效协作与精准决...
+- 😊 [阿里联手五大名校发布公益AI实践课，要让每个大学生都能“下场”玩AI](https://blog.csdn.net/linshantang/article/details/150612842) 📈 关注
+  阿里云联合五大高校推出"动手学AI"公益实践课程，针对高校AI教育三大痛点：师资内容偏科、实践环境匮乏、产学脱节。课程提供分学科版本（人文/社科/理工）、零代码实验平台及免费算力支持，让学生能直接调用...
+- 😐 [AI本地部署全流程指南（2025年3月更新）](https://blog.csdn.net/2301_77933942/article/details/146263741) 📈 关注
+  本文整合了Ollama官方文档、深度求索技术白皮书、清华大学实践案例等权威资料，如需获取完整部署脚本和测试数据集，可访问CSDN资源库获取最新工具包。建议技术团队优先选择7B/32B模型进行商业化部署...
 
 
 ### 网络安全资讯
@@ -80,12 +80,13 @@ MIT
 - [Nokia 修复 CloudBand 与 NCS 中的严重漏洞：CVE-2023-49564 与 CVE-2023-49565](https://www.anquanke.com/post/id/312285) - 安全公告，详情请点击链接查看完整内容
 - [一枚令牌统御万物——借助 Actor 令牌获取所有 Entra ID 租户的全局管理员权限](https://paper.seebug.org/3388/) - 作者：Dirk-jan Mollema
 原文链接：https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-ac...
-- [“s1ngularity”供应链攻击导致数千个GitHub令牌遭泄露](https://www.4hou.com/posts/jB15) - 根据Nx“s1ngularity”NPM供应链攻击的调查显示，数千个账户令牌和代码仓库密钥遭泄露。Wiz研究人员事后评估，此次Nx安全漏洞在三个不同阶段共导致2180个账户和7200个仓库面临风险。W...
+- [玄武在BlackHat揭示劫持智能体达成RCE的新方法](https://xlab.tencent.com/cn/2025/08/06/universal-and-context-independent-triggers/) - Author: Jiashuo Liang and Guancheng Li of Tencent Xuanwu Lab
+0x00 前言大语言模型（LLM）正在从简单的对话工具演化为能够编写代码、操作...
 
 
 ### 技术就业趋势
 
-边缘计算和IoT专家在制造业和智能城市项目中需求增加。
+软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
 
 ### 科技热点
 
@@ -99,11 +100,11 @@ MIT
 
 ### GitHub 趋势项目
 
+- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 - [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
-- [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 
 
@@ -154,18 +155,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**二叉树的最大深度** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-给定二叉树，找出其最大深度
+判断字符串中的括号是否有效匹配
 
-标签: 树, 递归
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -176,14 +177,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Kubernetes权威指南》** - 龚正等
 
-面向对象设计的经典模式 (分类: 软件设计)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -193,28 +194,28 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Synthwave Mix** - Various Artists
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -228,85 +229,84 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**遵循单一职责原则**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `3bb3e5` | 日期: 2025-09-20
+挑战ID: `22e64d` | 日期: 2025-09-21
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-高性能代码编辑器
+现代Web应用框架
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**安全工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-程序员最讨厌的两件事：1. 写文档 2. 没有文档
+世界上有10种人：懂二进制的和不懂二进制的。
 
 
 ### 🐙 GitHub 生态统计
@@ -320,7 +320,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-09-20 08:11:29
+- 📅 更新时间: 2025-09-21 08:10:40
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -333,13 +333,13 @@ const a = 25;
 - 📰 新闻总数: 8
 - 😊 积极新闻: 4 (50.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 9.9/100
+- 🔥 平均热度: 14.6/100
 
 🏷️ **热门关键词**:
 - AI (6次)
+- OpenAI (2次)
 - AR (2次)
 - GPT (1次)
-- OpenAI (1次)
 
 
 ### 🤖 关于此项目
