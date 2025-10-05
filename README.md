@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2025-10-04)
+## 今日更新 (2025-10-05)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- 😊 [华为开源openPangu-Embedded-7B-v1.1：AI“快思”与“慢想”如何选](https://blog.csdn.net/linshantang/article/details/151683523) 🔥🔥 很热
-  本文深入探讨了华为最新开源的 `openPangu-Embedded-7B-v1.1` 模型。文章从人类“快思考”与“慢思考”的认知模式出发，阐述了当前人工智能领域在效率与精度之间面临的“选择困境”。...
-- 😊 [还有人不会用AI辅助编程吗？](https://blog.csdn.net/sixpp/article/details/147688258) 🔥 热门
-  人工智能在编程领域的应用可以追溯到20世纪50年代，但真正的突破发生在最近十年。从早期的代码补全工具到如今能够理解上下文、生成完整函数甚至整个项目架构的AI系统，AI编程助手已经经历了革命性的发展。关...
-- 😟 [Cursor AI代码编辑器高危漏洞解析：提示注入如何实现远程代码执行？](https://blog.csdn.net/athink_cn/article/details/149895435) 📈 关注
-  本文围绕Cursor AI代码编辑器的高危漏洞（CVE-2025-54135）展开，详细解析了其原理、攻击流程及修复措施。该漏洞因MCP配置文件“自动运行”机制存在缺陷，允许攻击者通过提示注入实现远程...
-- 😊 [Trae+Chrome MCP Server 让AI接管你的浏览器](https://blog.csdn.net/qq_41585986/article/details/149425707) 📈 关注
-  摘要：MCP-Chrome是一款智能浏览器操作工具，通过无缝集成现有Chrome环境保留用户登录状态和数据，支持本地化运行保障隐私。核心功能包括跨标签页语义搜索、20+自动化工具（点击/截图/抓包）、...
-- 😊 [飞算AI进阶指南：从代码生成到全栈开发，一站式搞定复杂项目](https://blog.csdn.net/2302_79751907/article/details/150067153) 📈 关注
-  本文深入介绍了飞算 AI 的进阶功能，展现其从代码生成到全栈开发的全方位能力。在智能重构方面，它能为老旧代码 “焕新”，规范代码风格、保留业务逻辑，还支持 Java 版本跨代升级，大幅缩短重构时间；全...
+- 😐 [首个直播流扩散(LSD)AI模型：MirageLSD，它可以实时把任意视频流转换成你的自定义服装风格——虚拟换装新体验](https://blog.csdn.net/qq_44866828/article/details/149454694) 🔥🔥 很热
+  摘要：Decart AI推出全球首个实时直播流扩散模型MirageLSD，可在40ms延迟内实现24FPS的视频流风格转换。该模型采用时空U-Net架构，结合改良DDIM采样和光流引导技术，支持无限长...
+- 😊 [蓝耘MaaS驱动PandaWiki：零基础搭建AI智能知识库完整指南](https://blog.csdn.net/weixin_66401877/article/details/152082446) 📈 关注
+  本文详细介绍了如何使用蓝耘MaaS平台驱动PandaWiki搭建AI智能知识库系统的完整流程。PandaWiki是一款基于AI大模型的开源知识库系统，具备AI创作、AI问答、AI搜索等强大功能。
+- 😊 [腾讯Cursor来了：CodeBuddy AI IDE](https://blog.csdn.net/nal/article/details/149598990) 📈 关注
+  在AI浪潮席卷软件开发领域的今天，CodeBuddy AI IDE作为一款革命性的智能编程工具，正在重新定义开发者的编码体验。基于其官网 codebuddy.ai 的最新信息，本文将从技术架构、核心功...
+- 😊 [AI自动生成复杂架构图，流程图，思维导图](https://blog.csdn.net/lgldl/article/details/148745642) 📈 关注
+  本文介绍了一种利用AI自动生成复杂架构图、流程图和思维导图的方案。通过结构化提示词设计，结合draw.io插件，可快速生成专业图表XML代码。相比传统绘制方式，该方案将创建时间从小时级缩短至分钟级，支...
+- 😐 [【AI 工程师必备】Agent 是什么？大厂大模型必掌握的 5 种模式解析_大模型中agent](https://blog.csdn.net/HUANGXIN9898/article/details/150430735) 📈 关注
+  同时课程详细介绍了。
 
 
 ### 网络安全资讯
@@ -86,7 +86,7 @@ MIT
 
 ### 技术就业趋势
 
-远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
@@ -100,11 +100,11 @@ MIT
 
 ### GitHub 趋势项目
 
-- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-- [google/tunix](https://github.com/google/tunix) - A JAX-native LLM Post-Training Library
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
+- [google/tunix](https://github.com/google/tunix) - A JAX-native LLM Post-Training Library
+- [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
 
 
 
@@ -156,18 +156,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-判断字符串中的括号是否有效匹配
+给定字符串，找出其中最长的回文子串
 
-标签: 栈, 字符串
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -178,14 +178,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《代码整洁之道》** - Robert C. Martin
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -207,16 +207,16 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -230,25 +230,27 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**使用有意义的变量名**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
@@ -261,40 +263,40 @@ git commit -m "Add user authentication feature"
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `193213` | 日期: 2025-10-04
+挑战ID: `847048` | 日期: 2025-10-05
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-高性能代码编辑器
+现代Web应用框架
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
@@ -320,7 +322,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-10-04 08:10:58
+- 📅 更新时间: 2025-10-05 08:11:02
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -331,14 +333,13 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 16.4/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 12.9/100
 
 🏷️ **热门关键词**:
 - AI (7次)
-- 人工智能 (2次)
-- AR (1次)
+- AR (2次)
 
 
 ### 🤖 关于此项目
