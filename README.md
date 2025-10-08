@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2025-10-06)
+## 今日更新 (2025-10-08)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😊 [Perplexity AI：革新搜索体验的智能引擎与Comet浏览器](https://blog.csdn.net/Mrxiao_bo/article/details/151220563) 🔥🔥 很热
-  Perplexity AI是一款革新性的对话式AI搜索引擎，由OpenAI、Google等前员工于2022年创立。它整合GPT-3.5和Bing技术，提供精准答案并实时引用权威来源，支持多模态交互和专...
-- 😊 [基于Spring AI 1.1.0-SNAPSHOT 搭建 Streamable Http MCP Server 亲测可用](https://blog.csdn.net/jh88h/article/details/151118074) 🔥 热门
-  Spring AI 1.1.0-SNAPSHOT发布，支持工具回调功能。本文演示了如何配置Spring MCP服务（端口8088），包括依赖引入、工具类定义（WeatherService）和MCP配置...
-- 😊 [豆包・图像创作模型Seedream4.0创意玩法大赏：开启 AI 绘画新纪元](https://blog.csdn.net/2301_80840905/article/details/151998134) 📈 关注
-  Seedream 4.0 在技术与用户体验层面均实现显著突破。在技术上，它真正达成文本 + 多图像的多模态输入，主体一致性表现居同类产品前列，生成速度较 3.0 版本大幅提升，更是国内首个支持 4K ...
-- 😐 [干货：基于Spring AI把Java接口封装成MCP Server](https://blog.csdn.net/lyjluandy/article/details/151673306) 📈 关注
-  本文介绍了如何通过SpringAI将Java接口封装成MCPServer。主要内容包括： 添加SpringAI依赖（三种传输实现方式可选） 创建接口类和实现类定义工具方法 注册MCP方法到启动类 配置...
-- 😊 [【愚公系列】《人工智能70年》058-形形色色的机器人（服务机器人大合唱）](https://blog.csdn.net/aa2528877987/article/details/151897973) 📈 关注
-  轰动全球的机器人项目收购案静悄悄落下帷幕，让中国企业在机器人发展领域的雄心浮出水面。
+- 😐 [从深度学习到音乐创作：AI如何重新定义音乐行业](https://blog.csdn.net/a1657054242/article/details/140059756) 🔥 热门
+  近一个月来，随着几款音乐大模型的轮番上线，AI在音乐产业的角色迅速扩大。这些模型不仅将音乐创作的门槛降至前所未有的低点，还引发了一场关于AI是否会彻底颠覆音乐行业的激烈讨论。从初期的兴奋到现在的理性审...
+- 😐 [测评6款热门AI原型图工具：Cursor、Figma、墨刀AI尽在其中](https://blog.csdn.net/Lemonliyi/article/details/149447756) 🔥 热门
+  本文对当前几款热门的AI原型图工具进行了实测评估，包括：Cursor、FigmaMake、墨刀AI、FramerAI、UizardAI 和 Loveable.dev，帮助产品经理判断哪一款工具更值得投...
+- 😐 [从 0 到 1：ComfyUI AI 工作流抠图构建全实践](https://blog.csdn.net/2301_80863610/article/details/147603591) 📈 关注
+  ComfyUI 是一个基于节点式的可视化 AI 工作流构建工具，它为用户提供了一个直观的界面，让用户可以通过连接不同的节点来创建复杂的 AI 处理流程，而无需编写大量的代码。本地部署 ComfyUI的...
+- 😐 [Silly Tavern酒馆ai角色卡与世界书导入超详细教程！](https://blog.csdn.net/weixin_41961749/article/details/148652847) 📈 关注
+  前几天，我在设置 Silly Tavern 的时候，想导入一个喜欢的角色卡，结果发现不少朋友其实已经下载好了角色资源，但却不知道怎么正确导入使用。这篇文章就作为一份完整的新手向教程，一步步教你如何在 ...
+- 😊 [从深度伪造到深度信任：AI安全的三场攻防战](https://blog.csdn.net/weixin_50843918/article/details/150073621) 📈 关注
+  AI让伪造更容易，也让检测更强大。真正的安全不是让技术停步，而是让每一次创新都自带“刹车片”。合合信息目前已开放检测系统并牵头制定行业标准，实现金融、政务、电商等多场景快速落地与复用。未来，无痕篡改、...
 
 
 ### 网络安全资讯
@@ -86,7 +86,7 @@ MIT
 
 ### 技术就业趋势
 
-具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
@@ -100,30 +100,32 @@ MIT
 
 ### GitHub 趋势项目
 
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
-- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - No description
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
+- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 
 
 
 
 ### AI 研究论文
 
-- [Reward Models are Metrics in a Trench Coat](http://arxiv.org/abs/2510.03231v1) - Sebastian Gehrmann
-  The emergence of reinforcement learning in post-training of large language
-models has sparked significant interest in reward models. Reward models ass...
+- [EgoNight: Towards Egocentric Vision Understanding at Night with a
+  Challenging Benchmark](http://arxiv.org/abs/2510.06218v1) - Deheng Zhang, Yuqian Fu, Runyi Yang, Yang Miao, Tianwen Qian, Xu Zheng, Guolei Sun, Ajad Chhatkuli, Xuanjing Huang, Yu-Gang Jiang, Luc Van Gool, Danda Pani Paudel
+  Most existing benchmarks for egocentric vision understanding focus primarily
+on daytime scenarios, overlooking the low-light conditions that are inevi...
 
-- [Improving GUI Grounding with Explicit Position-to-Coordinate Mapping](http://arxiv.org/abs/2510.03230v1) - Suyuchen Wang, Tianyu Zhang, Ahmed Masry, Christopher Pal, Spandana Gella, Bang Liu, Perouz Taslakian
-  GUI grounding, the task of mapping natural-language instructions to pixel
-coordinates, is crucial for autonomous agents, yet remains difficult for
-cur...
+- [TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular
+  Reasoning](http://arxiv.org/abs/2510.06217v1) - Jiaru Zou, Soumya Roy, Vinay Kumar Verma, Ziyi Wang, David Wipf, Pan Lu, Sumit Negi, James Zou, Jingrui He
+  Process Reward Models (PRMs) have recently emerged as a powerful framework
+for enhancing the reasoning capabilities of large reasoning models (LRMs),
+...
 
-- [Test-Time Defense Against Adversarial Attacks via Stochastic Resonance
-  of Latent Ensembles](http://arxiv.org/abs/2510.03224v1) - Dong Lao, Yuxiang Zhang, Haniyeh Ehsani Oskouie, Yangchao Wu, Alex Wong, Stefano Soatto
-  We propose a test-time defense mechanism against adversarial attacks:
-imperceptible image perturbations that significantly alter the predictions of a
+- [Stratified GRPO: Handling Structural Heterogeneity in Reinforcement
+  Learning of LLM Search Agents](http://arxiv.org/abs/2510.06214v1) - Mingkang Zhu, Xi Chen, Bei Yu, Hengshuang Zhao, Jiaya Jia
+  Large language model (LLM) agents increasingly rely on external tools such as
+search engines to solve complex, multi-step problems, and reinforcement
 ...
 
 
@@ -148,16 +150,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $258.02 📈 +0.89 (+0.3%)
-- **GOOGL**: $245.35 📉 -0.34 (-0.1%)
-- **MSFT**: $517.35 📈 +1.61 (+0.3%)
+- **AAPL**: $256.48 📉 -0.21 (-0.1%)
+- **GOOGL**: $245.76 📉 -4.67 (-1.9%)
+- **MSFT**: $523.98 📉 -4.59 (-0.9%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
@@ -177,7 +179,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
@@ -200,15 +202,15 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
@@ -241,29 +243,30 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**写测试用例**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `e8e2fe` | 日期: 2025-10-06
+挑战ID: `9b173a` | 日期: 2025-10-08
 
 
 ### 📊 技术话题投票
@@ -283,25 +286,25 @@ function formatCurrency(amount) { ... }
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-现代Web应用框架
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**安全工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
@@ -320,7 +323,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-10-06 08:13:48
+- 📅 更新时间: 2025-10-08 08:14:00
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -330,16 +333,15 @@ function formatCurrency(amount) { ... }
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 2
-- 😊 积极新闻: 2 (100.0%)
+- 📰 新闻总数: 8
+- 😊 积极新闻: 3 (37.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 8.5/100
+- 🔥 平均热度: 15.0/100
 
 🏷️ **热门关键词**:
-- AI (1次)
-- GPT (1次)
-- OpenAI (1次)
-- 芯片 (1次)
+- AI (7次)
+- AR (2次)
+- 深度学习 (1次)
 
 
 ### 🤖 关于此项目
