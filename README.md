@@ -55,55 +55,55 @@
 
 MIT
 
-## 今日更新 (2025-10-08)
+## 今日更新 (2025-10-09)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- 😐 [从深度学习到音乐创作：AI如何重新定义音乐行业](https://blog.csdn.net/a1657054242/article/details/140059756) 🔥 热门
-  近一个月来，随着几款音乐大模型的轮番上线，AI在音乐产业的角色迅速扩大。这些模型不仅将音乐创作的门槛降至前所未有的低点，还引发了一场关于AI是否会彻底颠覆音乐行业的激烈讨论。从初期的兴奋到现在的理性审...
-- 😐 [测评6款热门AI原型图工具：Cursor、Figma、墨刀AI尽在其中](https://blog.csdn.net/Lemonliyi/article/details/149447756) 🔥 热门
-  本文对当前几款热门的AI原型图工具进行了实测评估，包括：Cursor、FigmaMake、墨刀AI、FramerAI、UizardAI 和 Loveable.dev，帮助产品经理判断哪一款工具更值得投...
-- 😐 [从 0 到 1：ComfyUI AI 工作流抠图构建全实践](https://blog.csdn.net/2301_80863610/article/details/147603591) 📈 关注
-  ComfyUI 是一个基于节点式的可视化 AI 工作流构建工具，它为用户提供了一个直观的界面，让用户可以通过连接不同的节点来创建复杂的 AI 处理流程，而无需编写大量的代码。本地部署 ComfyUI的...
-- 😐 [Silly Tavern酒馆ai角色卡与世界书导入超详细教程！](https://blog.csdn.net/weixin_41961749/article/details/148652847) 📈 关注
-  前几天，我在设置 Silly Tavern 的时候，想导入一个喜欢的角色卡，结果发现不少朋友其实已经下载好了角色资源，但却不知道怎么正确导入使用。这篇文章就作为一份完整的新手向教程，一步步教你如何在 ...
-- 😊 [从深度伪造到深度信任：AI安全的三场攻防战](https://blog.csdn.net/weixin_50843918/article/details/150073621) 📈 关注
-  AI让伪造更容易，也让检测更强大。真正的安全不是让技术停步，而是让每一次创新都自带“刹车片”。合合信息目前已开放检测系统并牵头制定行业标准，实现金融、政务、电商等多场景快速落地与复用。未来，无痕篡改、...
+- 😊 [【AI】从0开始玩转混元3D⼤模型，如何让一张静态实物图片一键转为3D实物图，大模型都表示服了，超级简单易上手，快来试试！](https://blog.csdn.net/lmy_520/article/details/148530357) 🔥 热门
+  HAI 与 NVIDIA ，为开发者提供一键部署及生图的能力，让开发者体验3D 模型的同时，也了解云的便利性。混元3D 2.0是腾讯推出的尖端3D⽣成模型，能够创建带有⾼分辨率纹理贴图的⾼保真3D资产
+- 😐 [使用飞算JavaAI实现在线图书借阅平台](https://blog.csdn.net/emmjng369/article/details/151763181) 📈 关注
+  本文通过使用飞算JavaAI开发在线图书借阅平台的实践，详细记录了从需求分析到代码生成的全流程，并转换为SpringBoot项目的过程。文章对比了飞算JavaAI与传统开发及同类产品的差异，指出其在开...
+- 😊 [小众但高效！这6个AI生成原型图的工具你用过吗？](https://blog.csdn.net/Lemonliyi/article/details/146590503) 📈 关注
+  在这个快节奏的AI时代，不少原型设计软件也在融入AI技术，从“手动绘制”转向“智能生成”，大幅减轻原型绘制压力提升效率。本文聚焦6款AI原型设计工具、智能UI设计工具、无代码交付设计工具，探索它们的高...
+- 😐 [AI模型平台之——ModelScope(魔搭)](https://blog.csdn.net/oscar999/article/details/145418624) 📈 关注
+  是指对模型进行存储、版本管理和相关操作的模型服务，用户上传和共享的模型将存储至模型库中，同时用户也可在Model hub中创建属于自己的模型存储库，并沿用平台提供的模型库管理功能进行模型管理。可以创建...
+- 😊 [阿里发布 Qwen‑Image‑Edit：免费开源，AI 修图最强平替？](https://blog.csdn.net/weixin_40774379/article/details/150545121) 📈 关注
+  阿里发布 Qwen‑Image‑Edit：免费开源，AI 修图最强平替？
 
 
 ### 网络安全资讯
 
-- [国庆重保+攻防演练大考在即！360大模型安全服务专项方案筑牢AI防线](https://www.anquanke.com/post/id/312460) - 安全公告，详情请点击链接查看完整内容
+- [空网络安全防护核心：管理平台安全体系构建与实践](https://www.anquanke.com/post/id/312227) - 安全公告，详情请点击链接查看完整内容
 - [ViSTR-GP：基于视觉-状态张量回归与高斯过程的自动化机器人操作在线网络攻击检测](https://paper.seebug.org/3394/) - 作者：Navid Aftabia, Philip Samahab, Jin Mac, Long Chengc, Ramy Harikb, Dan Lia
 译者：知道创宇404实验室翻译组
 原文链接：h...
-- [​LastPass提醒macOS用户：假冒热门软件的恶意程序通过虚假GitHub仓库传播](https://www.4hou.com/posts/LGqg) - LastPass（一款密码管理工具）向macOS用户发出安全提示，称有一场攻击活动正通过虚假GitHub仓库分发伪装成热门软件的恶意程序。这些伪造应用会在“ClickFix攻击”中植入Atomic（又...
+- [机器人出现“人传人”漏洞？宇树还能打好安全这张牌吗？](https://www.4hou.com/posts/om5z) - 引言三周前，国外黑客在GitHub上发布了一个针对宇树机器人的安全项目UniPwn。经多家媒体在九月底的报道与解读，“宇树机器人出现人传人漏洞”的说法迅速扩散。作为UniPwn报告中唯一被引用的中国安...
 
 
 ### 技术就业趋势
 
-边缘计算和IoT专家在制造业和智能城市项目中需求增加。
+云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
 
 ### 科技热点
 
-- 😐 [太炸裂了！我挖到一个纯Python的Web开发神器，不用写前端代码也能轻松搞定全栈开发！](https://cloud.tencent.com/developer/article/2572683) 📈 关注
-  最近被我挖到了一个宝藏框架——Reflex，这绝对是我见过最符合AI时代的生产力工具！作为一个主要写Python的后端开发者，我一直头疼要为了做Web前端而去学TypeScript技术栈，而Refle...
-- 😊 [像元宝，又不止于元宝：我用 IMA 把公众号文章“存成知识库”，写作效率爆表](https://cloud.tencent.com/developer/article/2572794) 📈 关注
-  腾讯推出自研的 AI 智能工作台 IMA Copilot，其核心基于混元大模型。用户只需提出问题，IMA 就能自动从全网搜索并总结相关答案。
-- 😊 [腾讯混元3D开源+2：瞄准游戏建模、3D 打印痛点](https://cloud.tencent.com/developer/article/2572758) 📊 普通
-  今天，混元3D生成模型家族迎新——混元3D-Omni、混元3D-Part发布并开源。
+- 😊 [架构派 | 专访长沙同盟理事长李颖悟：技术人生AB面](https://cloud.tencent.com/developer/article/2572960) 📈 关注
+  2025年9月，腾讯云架构师技术同盟与湖南展通人工智能研究院院长、颖悟智能科技董事长、腾讯云架构师长沙同盟理事长李颖悟进行了一次深度对话，以下是采访文字实录。为了您的阅读体验，我们做了不变原意的编辑。
+- 😊 [腾讯X东风汽车：智能化+全球化，加速！](https://cloud.tencent.com/developer/article/2572856) 📊 普通
+  腾讯和东风汽车达成战略合作，双方将在智能化、数字化与全球化方面深化战略合作，加速东风汽车智能化体系及国际化跃迁战略落地。
+- 😐 [毫秒级延时，MySQL 也可以做到的实时数据分析](https://cloud.tencent.com/developer/article/2572977) 📊 普通
+  引言：ETL + 实时数仓延时大，查询慢？MySQL 分析引擎帮你解决高频变更下的实时数据分析！
 
 
 ### GitHub 趋势项目
 
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
-- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 
 
@@ -111,22 +111,19 @@ MIT
 
 ### AI 研究论文
 
-- [EgoNight: Towards Egocentric Vision Understanding at Night with a
-  Challenging Benchmark](http://arxiv.org/abs/2510.06218v1) - Deheng Zhang, Yuqian Fu, Runyi Yang, Yang Miao, Tianwen Qian, Xu Zheng, Guolei Sun, Ajad Chhatkuli, Xuanjing Huang, Yu-Gang Jiang, Luc Van Gool, Danda Pani Paudel
-  Most existing benchmarks for egocentric vision understanding focus primarily
-on daytime scenarios, overlooking the low-light conditions that are inevi...
+- [Artificial Hippocampus Networks for Efficient Long-Context Modeling](http://arxiv.org/abs/2510.07318v1) - Yunhao Fang, Weihao Yu, Shu Zhong, Qinghao Ye, Xuehan Xiong, Lai Wei
+  Long-sequence modeling faces a fundamental trade-off between the efficiency
+of compressive fixed-size memory in RNN-like models and the fidelity of
+lo...
 
-- [TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular
-  Reasoning](http://arxiv.org/abs/2510.06217v1) - Jiaru Zou, Soumya Roy, Vinay Kumar Verma, Ziyi Wang, David Wipf, Pan Lu, Sumit Negi, James Zou, Jingrui He
-  Process Reward Models (PRMs) have recently emerged as a powerful framework
-for enhancing the reasoning capabilities of large reasoning models (LRMs),
-...
+- [Vibe Checker: Aligning Code Evaluation with Human Preference](http://arxiv.org/abs/2510.07315v1) - Ming Zhong, Xiang Zhou, Ting-Yun Chang, Qingze Wang, Nan Xu, Xiance Si, Dan Garrette, Shyam Upadhyay, Jeremiah Liu, Jiawei Han, Benoit Schillings, Jiao Sun
+  Large Language Models (LLMs) have catalyzed vibe coding, where users leverage
+LLMs to generate and iteratively refine code through natural language
+in...
 
-- [Stratified GRPO: Handling Structural Heterogeneity in Reinforcement
-  Learning of LLM Search Agents](http://arxiv.org/abs/2510.06214v1) - Mingkang Zhu, Xi Chen, Bei Yu, Hengshuang Zhao, Jiaya Jia
-  Large language model (LLM) agents increasingly rely on external tools such as
-search engines to solve complex, multi-step problems, and reinforcement
-...
+- [GyroSwin: 5D Surrogates for Gyrokinetic Plasma Turbulence Simulations](http://arxiv.org/abs/2510.07314v1) - Fabian Paischer, Gianluca Galletti, William Hornsby, Paul Setinek, Lorenzo Zanisi, Naomi Carey, Stanislas Pamela, Johannes Brandstetter
+  Nuclear fusion plays a pivotal role in the quest for reliable and sustainable
+energy production. A major roadblock to viable fusion power is understan...
 
 
 
@@ -150,25 +147,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $256.48 📉 -0.21 (-0.1%)
-- **GOOGL**: $245.76 📉 -4.67 (-1.9%)
-- **MSFT**: $523.98 📉 -4.59 (-0.9%)
+- **AAPL**: $258.06 📈 +1.58 (+0.6%)
+- **GOOGL**: $244.62 📉 -1.14 (-0.5%)
+- **MSFT**: $524.85 📈 +0.87 (+0.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+将两个升序链表合并为一个新的升序链表
 
-标签: 数组, 哈希表
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -179,14 +176,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《Kubernetes权威指南》** - 龚正等
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -196,21 +193,21 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
@@ -231,53 +228,51 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用版本控制**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🛡️ 安全卫士
+今日挑战徽章：💡 创新者
 
-挑战ID: `9b173a` | 日期: 2025-10-08
+挑战ID: `8900a6` | 日期: 2025-10-09
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
@@ -286,30 +281,30 @@ test('should calculate tax correctly', () => {
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **Blockchain** 📉 -3% - 区块链热度回落
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Tauri** (Rust) - ⭐ 70k+
 
-现代JavaScript/TypeScript运行时
+使用Rust构建跨平台桌面应用
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -323,7 +318,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-10-08 08:14:00
+- 📅 更新时间: 2025-10-09 08:13:23
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -334,14 +329,13 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
+- 😊 积极新闻: 5 (62.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 15.0/100
+- 🔥 平均热度: 8.9/100
 
 🏷️ **热门关键词**:
-- AI (7次)
-- AR (2次)
-- 深度学习 (1次)
+- AI (5次)
+- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
