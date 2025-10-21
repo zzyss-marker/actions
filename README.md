@@ -55,78 +55,78 @@
 
 MIT
 
-## 今日更新 (2025-10-19)
+## 今日更新 (2025-10-21)
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [Visual Studio 使用 IntelliCode AI 辅助代码开发](https://blog.csdn.net/mss359681091/article/details/144516866) 🔥🔥 很热
-  在本文中，你将了解通过提供上下文感知代码自动完成（包括灰色文本中的全行完成）使用人工智能来增强软件开发。默认情况下，包含在大多数工作负载中，并且可通过安装程序获得。此功能预测开发人员使用的最可能正确的...
-- 😊 [飞算JavaAI赋能企业级电商管理系统开发实践——一位资深开发者的技术选型与落地总结](https://blog.csdn.net/michaelline/article/details/151722602) 📈 关注
-  本文介绍了一位资深开发者使用飞算JavaAI开发供应商管理系统的实践经验。该系统涉及多角色权限、复杂审批流程和数据一致性等企业级需求。开发团队面临人力紧张和架构扩展性挑战，通过飞算JavaAI实现了高...
-- 😊 [44-dify案例分享-3 步生成专业级提示词！Dify 工作流打造你的 AI 沟通神器](https://blog.csdn.net/wwwzhouhui/article/details/147348978) 📈 关注
-  本文介绍提示词的重要性，分享利用 Dify 工作流打造提示词优化器的方法。通过新建工作流、设置节点、条件分支及 LLM 优化等步骤，可 3 步生成高质量提示词，适配多类型需求，还提供验证测试及参考资料...
-- 😊 [2025 AI智能PPT美化工具深度评测](https://blog.csdn.net/ChatPPT_YOO/article/details/152074176) 📈 关注
-  《AIPPT工具全链路优化：ChatPPT的差异化竞争力分析》摘要 本文聚焦AI赋能PPT制作的智能化升级，重点解析ChatPPT在国内市场的核心竞争力。研究显示，当前AIPPT工具主要解决内容生成、...
-- 😊 [PromptPilot AI 肉眼般的视觉感官，又一款工作提效工具](https://blog.csdn.net/m0_57874805/article/details/149898349) 📈 关注
-  火山方舟推出的大模型应用落地的领航员——PromptPilot。Prompt调试 + 视觉理解能力不平庸。
+- 😊 [从ChatGPT到AI搜索：2025年必学的智能交互新范式](https://blog.csdn.net/weixin_52908342/article/details/151926908) 🔥🔥 很热
+  在数字化浪潮席卷全球的当下，信息呈爆炸式增长，如何从海量数据中精准、高效地获取所需信息，成为人们亟待解决的关键问题。搜索引擎作为连接用户与信息的桥梁，其发展历程见证了人类对信息检索技术不断探索与创新的...
+- 😐 [AI 精准绘图专栏：豆包・图像创作模型 Seedream 4.0 全面测评与创意玩法解析](https://blog.csdn.net/weixin_43151418/article/details/151686726) 🔥 热门
+  AI 精准绘图专栏：豆包・图像创作模型 Seedream 4.0 全面测评与创意玩法解析​，本文围绕豆包・图像创作模型 Seedream 4.0 展开全面测评，该模型在 Artificial Anal...
+- 😊 [【AI大模型前沿】通义万相Wan2.2：阿里270亿参数巨兽开源，消费级显卡就能跑，免费平替Sora上线](https://blog.csdn.net/xiaobing259/article/details/151155476) 🔥 热门
+  通义万相Wan2.2是阿里巴巴开源的先进AI视频生成模型，包含文生视频（Wan2.2-T2V-A14B）、图生视频（Wan2.2-I2V-A14B）和统一视频生成（Wan2.2-IT2V-5B）三款模...
+- 😊 [开源AI智能体-JoyAgent集成ollama私有化模型](https://blog.csdn.net/AiMaiShanHuHai/article/details/149718488) 📈 关注
+  我们在实际业务中需要搭建一套基于自身业务相关的智能体，可以帮忙业务人员快速的决策和执行，如下是基于目前开源的通用智能体JoyAgent本地化部署和集成Ollama私有模型做一一介绍。
+- 😊 [AI 自动化测试：接口测试全流程自动化的实现方法](https://blog.csdn.net/qq_41187124/article/details/152272902) 📈 关注
+  AI自动化测试：接口测试全流程实现方法 本文探讨了AI技术在接口自动化测试中的应用，提出从"手工作坊"到"智能工厂"的升级方案。传统自动化测试面临维护成本高、易碎性等痛点，而AI驱动的自动化测试能实现...
 
 
 ### 网络安全资讯
 
-- [思科为其桌面与IP电话发布补丁，修复高危拒绝服务漏洞 (CVE-2025-20350)](https://www.anquanke.com/post/id/312657) - 安全公告，详情请点击链接查看完整内容
+- [黑客组织UNC5142利用“以太隐遁”技术，通过BNB智能链上的智能合约分发恶意软件](https://www.anquanke.com/post/id/312713) - 安全公告，详情请点击链接查看完整内容
 - [张量逻辑：人工智能的语言](https://paper.seebug.org/3399/) - 作者：Pedro Domingos
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html/2510.12269v3
 摘要
 人工智能领域的发展因缺乏具备所有必要功能的...
-- [玄武在BlackHat揭示劫持智能体达成RCE的新方法](https://xlab.tencent.com/cn/2025/08/06/universal-and-context-independent-triggers/) - Author: Jiashuo Liang and Guancheng Li of Tencent Xuanwu Lab
-0x00 前言大语言模型（LLM）正在从简单的对话工具演化为能够编写代码、操作...
+- [重要公告：更名为“国投智能信息科技股份有限公司”](https://www.4hou.com/posts/9j5P) - 2025年10月18日，“国投智能（厦门）信息股份有限公司”顺利完成工商登记变更，正式取得市场监督管理局核发的全新《营业执照》，公司名称正式变更为“国投智能信息科技股份有限公司”，英文名称及简称也同步...
 
 
 ### 技术就业趋势
 
-人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
-- 😐 [本地化新闻，AI无法抵达的“最后一公里”](https://cloud.tencent.com/developer/article/2576853) 📈 关注
-  我们能在一秒钟内追踪到千里之外的国际纠纷，即时获知国外市场的最新动态，甚至能看到太空探索传回的最新影像。然而，对所处的城市、街道乃至小区，对那些足以影响我们切身生活体验的本地新闻资讯，我们却可能一无所...
-- 😊 [中科软科技 x 腾讯云：从“经验驱动”到“智能驱动”，升级保险决策新体系](https://cloud.tencent.com/developer/article/2576619) 📊 普通
-  中科软作为中国保险IT解决方案市场的长期领军者，服务覆盖国内95%以上保险公司，并在政务、医疗等非保险领域实现业务高速增长，并拓展到海外多个国家和地区。构建了覆盖保险、金融、政务的全场景数字化服务能力...
-- 😟 [「腾讯云 NoSQL 技术」之 Redis 篇｜揭晓腾讯云Redis水平扩缩容极致流畅背后的技术玄机](https://cloud.tencent.com/developer/article/2576615) 📊 普通
-  在当今互联网应用架构中，Redis 凭借其极低的访问延迟、优异的高并发处理能力、丰富的数据结构支持、完善的功能生态以及成熟的生态，已成为不可或缺的KV缓存和数据库存储解决方案。在权威的 DB-Engi...
+- 😐 [清华刘嘉：AI时代属于年轻人，不要用过时的经验束缚他们](https://cloud.tencent.com/developer/article/2578480) 📈 关注
+  1.大脑并非一个被动存储和读取的硬盘，而是一个主动预测和生成认知的系统。智力的本质始终在于主动加工，而非被动存储。
+- 😐 [从混沌到秩序：Java共享内存模型如何通过显式约束驯服并发？](https://cloud.tencent.com/developer/article/2578113) 📊 普通
+  并发编程的本质，是在看似混沌的并行执行中建立秩序，确保程序的确定性。为达此目的，并发原语应运而生，它们是构筑一切并发系统的基石。其核心使命在于，通过定义一套明确的交互范式，消除因资源共享而引发的竞态条...
+- 😟 [H5页面兼容性问题排查思路](https://cloud.tencent.com/developer/article/2578395) 📊 普通
+  因为业务需要会经常开发一些在移动设备上展示和使用的页面。但由于C端设备种类多，网络情况复杂，经常出现一些测试覆盖不到的情况，并且调试及复现非常麻烦，有时候排查一个问题并解决可能以天计数。所以当遇到不兼...
 
 
 ### GitHub 趋势项目
 
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 
 
 
 
 ### AI 研究论文
 
-- [Coupled Diffusion Sampling for Training-Free Multi-View Image Editing](http://arxiv.org/abs/2510.14981v1) - Hadi Alzayer, Yunzhi Zhang, Chen Geng, Jia-Bin Huang, Jiajun Wu
-  We present an inference-time diffusion sampling method to perform multi-view
-consistent image editing using pre-trained 2D image editing models. These...
+- [Unbiased Gradient Low-Rank Projection](http://arxiv.org/abs/2510.17802v1) - Rui Pan, Yang Luo, Yuxing Liu, Yang You, Tong Zhang
+  Memory-efficient optimization is critical for training increasingly large
+language models (LLMs). A popular strategy involves gradient low-rank
+projec...
 
-- [From Pixels to Words -- Towards Native Vision-Language Primitives at
-  Scale](http://arxiv.org/abs/2510.14979v1) - Haiwen Diao, Mingxuan Li, Silei Wu, Linjun Dai, Xiaohua Wang, Hanming Deng, Lewei Lu, Dahua Lin, Ziwei Liu
-  The edifice of native Vision-Language Models (VLMs) has emerged as a rising
-contender to typical modular VLMs, shaped by evolving model architectures ...
+- [Enterprise Deep Research: Steerable Multi-Agent Deep Research for
+  Enterprise Analytics](http://arxiv.org/abs/2510.17797v1) - Akshara Prabhakar, Roshan Ram, Zixiang Chen, Silvio Savarese, Frank Wang, Caiming Xiong, Huan Wang, Weiran Yao
+  As information grows exponentially, enterprises face increasing pressure to
+transform unstructured data into coherent, actionable insights. While
+auto...
 
-- [Agentic Design of Compositional Machines](http://arxiv.org/abs/2510.14980v1) - Wenqian Zhang, Weiyang Liu, Zhen Liu
-  The design of complex machines stands as both a marker of human intelligence
-and a foundation of engineering practice. Given recent advances in large
-...
+- [Executable Knowledge Graphs for Replicating AI Research](http://arxiv.org/abs/2510.17795v1) - Yujie Luo, Zhuoyun Yu, Xuehai Wang, Yuqi Zhu, Ningyu Zhang, Lanning Wei, Lun Du, Da Zheng, Huajun Chen
+  Replicating AI research is a crucial yet challenging task for large language
+model (LLM) agents. Existing approaches often struggle to generate execut...
 
 
 
@@ -150,25 +150,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $252.29 📈 +4.84 (+2.0%)
-- **GOOGL**: $253.30 📈 +1.84 (+0.7%)
-- **MSFT**: $513.58 📈 +1.97 (+0.4%)
+- **AAPL**: $262.24 📈 +9.95 (+3.9%)
+- **GOOGL**: $256.55 📈 +3.25 (+1.3%)
+- **MSFT**: $516.79 📈 +3.21 (+0.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+给定二叉树，找出其最大深度
 
-标签: 链表, 递归
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -179,14 +179,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
+第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《深度学习》** - Ian Goodfellow
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -196,21 +196,21 @@ WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的�
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
@@ -222,62 +222,62 @@ WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的�
 
 ### 🏆 本周技术挑战
 
-**AI模型部署** (难度: 中等)
+**安全漏洞修复** (难度: 高级)
 
-将一个机器学习模型部署到云端，实现API调用
+识别并修复一个Web应用中的安全漏洞
 
-🏷️ 标签: AI, 部署, 云计算 | ⏱️ 预计时间: 3-6小时 | 🎯 奖励积分: 120
+🏷️ 标签: 安全, Web开发 | ⏱️ 预计时间: 2-5小时 | 🎯 奖励积分: 130
 
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：🧠 算法大师
 
-挑战ID: `c4f8ff` | 日期: 2025-10-19
+挑战ID: `7bb7f8` | 日期: 2025-10-21
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
@@ -285,19 +285,19 @@ test('should calculate tax correctly', () => {
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Tauri** (Rust) - ⭐ 70k+
 
-现代JavaScript/TypeScript运行时
+使用Rust构建跨平台桌面应用
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
@@ -309,7 +309,7 @@ test('should calculate tax correctly', () => {
 
 ### 😄 程序员笑话
 
-真正的程序员不需要注释，代码就是最好的文档。
+程序员的三大美德：懒惰、急躁和傲慢。
 
 
 ### 🐙 GitHub 生态统计
@@ -323,7 +323,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-10-19 08:11:29
+- 📅 更新时间: 2025-10-21 08:14:18
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -334,13 +334,15 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
+- 😊 积极新闻: 4 (50.0%)
 - 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 11.8/100
+- 🔥 平均热度: 15.1/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- 人工智能 (1次)
+- ChatGPT (1次)
+- GPT (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
