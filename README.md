@@ -55,78 +55,77 @@
 
 MIT
 
-## 今日更新 (2025-10-21)
+## 今日更新 (2025-10-22)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [从ChatGPT到AI搜索：2025年必学的智能交互新范式](https://blog.csdn.net/weixin_52908342/article/details/151926908) 🔥🔥 很热
-  在数字化浪潮席卷全球的当下，信息呈爆炸式增长，如何从海量数据中精准、高效地获取所需信息，成为人们亟待解决的关键问题。搜索引擎作为连接用户与信息的桥梁，其发展历程见证了人类对信息检索技术不断探索与创新的...
-- 😐 [AI 精准绘图专栏：豆包・图像创作模型 Seedream 4.0 全面测评与创意玩法解析](https://blog.csdn.net/weixin_43151418/article/details/151686726) 🔥 热门
-  AI 精准绘图专栏：豆包・图像创作模型 Seedream 4.0 全面测评与创意玩法解析​，本文围绕豆包・图像创作模型 Seedream 4.0 展开全面测评，该模型在 Artificial Anal...
-- 😊 [【AI大模型前沿】通义万相Wan2.2：阿里270亿参数巨兽开源，消费级显卡就能跑，免费平替Sora上线](https://blog.csdn.net/xiaobing259/article/details/151155476) 🔥 热门
-  通义万相Wan2.2是阿里巴巴开源的先进AI视频生成模型，包含文生视频（Wan2.2-T2V-A14B）、图生视频（Wan2.2-I2V-A14B）和统一视频生成（Wan2.2-IT2V-5B）三款模...
-- 😊 [开源AI智能体-JoyAgent集成ollama私有化模型](https://blog.csdn.net/AiMaiShanHuHai/article/details/149718488) 📈 关注
-  我们在实际业务中需要搭建一套基于自身业务相关的智能体，可以帮忙业务人员快速的决策和执行，如下是基于目前开源的通用智能体JoyAgent本地化部署和集成Ollama私有模型做一一介绍。
-- 😊 [AI 自动化测试：接口测试全流程自动化的实现方法](https://blog.csdn.net/qq_41187124/article/details/152272902) 📈 关注
-  AI自动化测试：接口测试全流程实现方法 本文探讨了AI技术在接口自动化测试中的应用，提出从"手工作坊"到"智能工厂"的升级方案。传统自动化测试面临维护成本高、易碎性等痛点，而AI驱动的自动化测试能实现...
+- 😊 [清华大学开源Kronos模型：AI解读K线规律，120亿数据训练，让机器替你看懂股市行情](https://blog.csdn.net/YoungOne2333/article/details/151066390) 📈 关注
+  清华大学开发的Kronos是全球首个K线分析开源AI模型，基于120亿条K线数据训练，支持沪深市场复权数据。提供多个版本适应不同算力需求，可通过简单代码实现K线预测，支持模型微调。项目详细介绍了安装、...
+- 😐 [Java LLM开发框架全面解析：从Spring AI到Agents-Flex](https://blog.csdn.net/lilinhai548/article/details/151800728) 📈 关注
+  Java LLM开发框架全面解析 本文深入探讨Java生态中的主流LLM开发框架，帮助开发者在不脱离Java技术栈的情况下集成AI能力。重点介绍了三个框架： Spring AI：Spring官方出品，...
+- 😐 [如何在PotPlayer上使用AI生成字幕并实时翻译](https://blog.csdn.net/tkffsyl/article/details/145838286) 📈 关注
+  资料均来自网络，来源在文后列出。这一方法感觉并不经济，实时翻译时需要显卡持续运行，如果看一个数小时的电影，也要运行几小时的模型。因此更实惠的方法是识别音频生成字幕后，用ai翻译后再导入字幕。
+- 😐 [【全网最详细！十万字解析】SpringAI+Deepseek大模型应用开发实战笔记-上半（进阶+详细+完整代码）](https://blog.csdn.net/2201_75669520/article/details/148834250) 📈 关注
+  黑马程序员SpringAI+DeepSeek大模型应用开发实战学习笔记，10万字全网最全解析！！！
+- 😐 [Qwen-Image-Edit AI图像编辑的功能理解](https://blog.csdn.net/sinat_26917383/article/details/150582205) 📈 关注
+  Qwen-Image-Edit AI图像编辑的功能理解
 
 
 ### 网络安全资讯
 
-- [黑客组织UNC5142利用“以太隐遁”技术，通过BNB智能链上的智能合约分发恶意软件](https://www.anquanke.com/post/id/312713) - 安全公告，详情请点击链接查看完整内容
-- [张量逻辑：人工智能的语言](https://paper.seebug.org/3399/) - 作者：Pedro Domingos
+- [【百万奖金】小米汽车守护活动正式启动！](https://www.anquanke.com/post/id/312767) - 安全公告，详情请点击链接查看完整内容
+- [主动蜜罐防护系统：探测并确认多轮大型语言模型越狱攻击](https://paper.seebug.org/3400/) - 作者：ChenYu Wu, Yi Wang, Yang Liao
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2510.12269v3
+原文链接：https://arxiv.org/html/2510.15017v1
 摘要
-人工智能领域的发展因缺乏具备所有必要功能的...
-- [重要公告：更名为“国投智能信息科技股份有限公司”](https://www.4hou.com/posts/9j5P) - 2025年10月18日，“国投智能（厦门）信息股份有限公司”顺利完成工商登记变更，正式取得市场监督管理局核发的全新《营业执照》，公司名称正式变更为“国投智能信息科技股份有限公司”，英文名称及简称也同步...
+大型语言模型...
+- [报名启动！腾讯云黑客松—智能渗透挑战赛来啦~](https://www.4hou.com/posts/l0nl) - 安全公告，详情请点击链接查看完整内容
 
 
 ### 技术就业趋势
 
-低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
+DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
 
 ### 科技热点
 
-- 😐 [清华刘嘉：AI时代属于年轻人，不要用过时的经验束缚他们](https://cloud.tencent.com/developer/article/2578480) 📈 关注
-  1.大脑并非一个被动存储和读取的硬盘，而是一个主动预测和生成认知的系统。智力的本质始终在于主动加工，而非被动存储。
-- 😐 [从混沌到秩序：Java共享内存模型如何通过显式约束驯服并发？](https://cloud.tencent.com/developer/article/2578113) 📊 普通
-  并发编程的本质，是在看似混沌的并行执行中建立秩序，确保程序的确定性。为达此目的，并发原语应运而生，它们是构筑一切并发系统的基石。其核心使命在于，通过定义一套明确的交互范式，消除因资源共享而引发的竞态条...
-- 😟 [H5页面兼容性问题排查思路](https://cloud.tencent.com/developer/article/2578395) 📊 普通
-  因为业务需要会经常开发一些在移动设备上展示和使用的页面。但由于C端设备种类多，网络情况复杂，经常出现一些测试覆盖不到的情况，并且调试及复现非常麻烦，有时候排查一个问题并解决可能以天计数。所以当遇到不兼...
+- 😊 [Gartner发布全球数据湖仓平台市场指南：腾讯云入选，系唯一中国厂商](https://cloud.tencent.com/developer/article/2578479) 📈 关注
+  近日，Gartner发布《Market Guide for Data Lakehouse Platforms》报告。腾讯云凭借云原生Serverless湖仓引擎——DLC（Data Lake Comp...
+- 😊 [腾讯云助力火花思维成功升级高性能向量化计算引擎Meson](https://cloud.tencent.com/developer/article/2578846) 📈 关注
+  腾讯云高性能向量化计算引擎Meson助力火花思维成功实现无感加速Spark负载，复杂聚合任务性能提升2.67倍,性能提升结合弹性调度实现降本30%。
+- 😊 [即开即用的全链路送礼功能，低代码直播送礼组件上新](https://cloud.tencent.com/developer/article/2578855) 📊 普通
+  因此，腾讯云音视频精细打磨礼物互动链路上的每个环节，推出全新升级的TUILiveKit（低代码直播组件）全链路送礼解决方案，为直播场景提供涵盖礼物素材管理、礼物扣费回调、礼物特效播放、礼物数据统计等全...
 
 
 ### GitHub 趋势项目
 
-- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 
 
 
 
 ### AI 研究论文
 
-- [Unbiased Gradient Low-Rank Projection](http://arxiv.org/abs/2510.17802v1) - Rui Pan, Yang Luo, Yuxing Liu, Yang You, Tong Zhang
-  Memory-efficient optimization is critical for training increasingly large
-language models (LLMs). A popular strategy involves gradient low-rank
-projec...
+- [Grasp Any Region: Towards Precise, Contextual Pixel Understanding for
+  Multimodal LLMs](http://arxiv.org/abs/2510.18876v1) - Haochen Wang, Yuhao Wang, Tao Zhang, Yikang Zhou, Yanwei Li, Jiacong Wang, Ye Tian, Jiahao Meng, Zilong Huang, Guangcan Mai, Anran Wang, Yunhai Tong, Zhuochen Wang, Xiangtai Li, Zhaoxiang Zhang
+  While Multimodal Large Language Models (MLLMs) excel at holistic
+understanding, they struggle in capturing the dense world with complex scenes,
+requir...
 
-- [Enterprise Deep Research: Steerable Multi-Agent Deep Research for
-  Enterprise Analytics](http://arxiv.org/abs/2510.17797v1) - Akshara Prabhakar, Roshan Ram, Zixiang Chen, Silvio Savarese, Frank Wang, Caiming Xiong, Huan Wang, Weiran Yao
-  As information grows exponentially, enterprises face increasing pressure to
-transform unstructured data into coherent, actionable insights. While
-auto...
+- [How Do LLMs Use Their Depth?](http://arxiv.org/abs/2510.18871v1) - Akshat Gupta, Jay Yeung, Gopala Anumanchipalli, Anna Ivanova
+  Growing evidence suggests that large language models do not use their depth
+uniformly, yet we still lack a fine-grained understanding of their layer-w...
 
-- [Executable Knowledge Graphs for Replicating AI Research](http://arxiv.org/abs/2510.17795v1) - Yujie Luo, Zhuoyun Yu, Xuehai Wang, Yuqi Zhu, Ningyu Zhang, Lanning Wei, Lun Du, Da Zheng, Huajun Chen
-  Replicating AI research is a crucial yet challenging task for large language
-model (LLM) agents. Existing approaches often struggle to generate execut...
+- [LightMem: Lightweight and Efficient Memory-Augmented Generation](http://arxiv.org/abs/2510.18866v1) - Jizhan Fang, Xinle Deng, Haoming Xu, Ziyan Jiang, Yuqi Tang, Ziwen Xu, Shumin Deng, Yunzhi Yao, Mengru Wang, Shuofei Qiao, Huajun Chen, Ningyu Zhang
+  Despite their remarkable capabilities, Large Language Models (LLMs) struggle
+to effectively leverage historical interaction information in dynamic and...
 
 
 
@@ -150,16 +149,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $262.24 📈 +9.95 (+3.9%)
-- **GOOGL**: $256.55 📈 +3.25 (+1.3%)
-- **MSFT**: $516.79 📈 +3.21 (+0.6%)
+- **AAPL**: $262.77 📈 +0.53 (+0.2%)
+- **GOOGL**: $250.46 📉 -6.09 (-2.4%)
+- **MSFT**: $517.66 📈 +0.87 (+0.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
@@ -179,7 +178,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
@@ -196,28 +195,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -231,42 +230,42 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：🧠 算法大师
 
-挑战ID: `7bb7f8` | 日期: 2025-10-21
+挑战ID: `b333c3` | 日期: 2025-10-22
 
 
 ### 📊 技术话题投票
@@ -287,7 +286,7 @@ const a = 25;
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
@@ -302,14 +301,14 @@ const a = 25;
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**安全工程师** (中级) 📈
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -323,7 +322,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-10-21 08:14:18
+- 📅 更新时间: 2025-10-22 08:15:23
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -335,14 +334,12 @@ const a = 25;
 
 - 📰 新闻总数: 8
 - 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 15.1/100
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 8.6/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- ChatGPT (1次)
-- GPT (1次)
-- AR (1次)
+- AI (5次)
+- AR (2次)
 
 
 ### 🤖 关于此项目
