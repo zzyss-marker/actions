@@ -55,77 +55,76 @@
 
 MIT
 
-## 今日更新 (2025-10-29)
+## 今日更新 (2025-10-30)
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- 😊 [打破常规！DeepSeek-V3.1技术创新，融合“思考模式”与“效率模式”，开启AI模型新纪元！](https://blog.csdn.net/2401_84494441/article/details/150763420) 🔥 热门
-  DeepSeek-V3.1推出创新"混合思维模式"，支持在Thinking（严谨推理）与Non-Thinking（快速响应）间自由切换，满足不同场景需求。该模型采用671B参数的MoE架构，实际推理仅...
-- 😐 [OpenCV与AI深度学习｜16个含源码和数据集的计算机视觉实战项目(建议收藏！)](https://blog.csdn.net/csdn_xmj/article/details/137462928) 📈 关注
-  本文将分享16个含源码和数据集的计算机视觉实战项目。
-- 😐 [【SpringAI篇02】：实现连续对话（上下文记忆功能+会话隔离）](https://blog.csdn.net/lyh2004_08/article/details/148928827) 📈 关注
-  在 Spring AI 中实现对话记忆功能，需先配置 ChatMemory。通过新建 MemConfig 配置类，利用 MessageWindowChatMemory.builder () 构建实例，...
-- 😊 [Python与AI的创意博弈：初级开发者如何在下棋中赢过算法](https://blog.csdn.net/qq_33650655/article/details/152136853) 📈 关注
-  AI分析用户数据并生成功能模块，是技术进步，但初级开发者的创意不会被压制。相反，AI自动化重复工作，释放人类专注于创新。就像Python社区常说的：“代码是写给人看的，偶尔给机器执行。”你的创意是那个...
-- 😐 [小智AI完整的MCP交互流程，超详细](https://blog.csdn.net/qq_18677445/article/details/149337331) 📈 关注
-  本文介绍了ESP32设备与小智AI服务器通过MCP协议交互的完整流程，包括六个关键阶段：1)设备初始化并建立WebSocket连接；2)AI服务器查询设备能力，设备返回工具列表（如音量控制）；3)用户...
+- 😊 [PyTorch生成式人工智能——VQ-VAE详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/150594335) 🔥 热门
+  VQ-VAE (Vector Quantised-Variational AutoEncoder) 的核心思想就是将 VAE 的连续潜变量离散化。它通过学习一个码本 (Codebook) 来实现这一点...
+- 😊 [【愚公系列】《人工智能70年》066-无人机的广阔天地（给硅谷狂人上了一课）](https://blog.csdn.net/aa2528877987/article/details/152372053) 📈 关注
+  中国无人机巨擘大疆力挫硅谷精英的启示录 美国无人机企业3D Robotics创始人克里斯·安德森（《长尾理论》作者）曾豪言要主导消费级无人机市场，却在1亿美元烧尽后黯然退场。这场商业对决揭示了中国智造...
+- 😊 [AI 超级智能体全栈项目阶段二：Prompt 优化技巧与学术分析 AI 应用开发实现上下文联系多轮对话](https://blog.csdn.net/weixin_45793745/article/details/152231949) 📈 关注
+  本文讲解 Prompt 基本概念与 10 个优化技巧，结合学术分析 AI 应用的需求分析、设计方案，介绍 Spring AI 中 ChatClient 及 Advisors 的使用。
+- 😊 [[AI GPU互联]博通 PEX89000 pcie switch](https://blog.csdn.net/BIG_APPLE1/article/details/149143933) 📈 关注
+  深圳信迈提供的AI服务器PCIE 4.0/5.0 SWITCH GPU扩展卡解决方案，支持博通PEX89104 PCIe SWITCH，该交换机支持PCIE GEN5 32Gbps，最多104条PCI...
+- 😊 [【AI智能体】Coze 提取对标账号短视频生成视频文案实战详解](https://blog.csdn.net/zhangcongyi420/article/details/152653479) 📈 关注
+  Coze 提取对标账号短视频生成视频文案实战详解
 
 
 ### 网络安全资讯
 
-- [智能时代·可信AI安全 | 第九届安全开发者峰会圆满落幕！](https://www.anquanke.com/post/id/312902) - 安全公告，详情请点击链接查看完整内容
-- [利用视觉令牌扩展多模态学习中的文本上下文](https://paper.seebug.org/3405/) - 作者：Alex Jinpeng Wang, Linjie Li, Yiqi Lin, Min Li, Lijuan Wang, Mike Zheng Shou
-译者：知道创宇404实验室翻译组
-原文链...
-- [超 26.6 万台 F5 BIG-IP 设备暴露 面临远程攻击风险](https://www.4hou.com/posts/1M83) - 互联网安全非营利组织Shadowserver基金会发现，在网络安全公司F5披露安全入侵事件后，全球有超过26.6万台F5 BIG-IP设备暴露在公网上。F5于表示黑客入侵其网络，窃取了源代码及未公开的...
+- [重磅！网络安全法迎来重大修改，人工智能治理迈出关键一步](https://www.anquanke.com/post/id/312934) - 安全公告，详情请点击链接查看完整内容
+- [MCPGuard：自动检测 MCP 服务器中的漏洞](https://paper.seebug.org/3406/) - 作者：Bin Wang,Zexin Liu,Hao Yu,Ao Yang,Yenan Huang,Jing Guo,Huangsheng Cheng,Hui Li,Huiyu Wu
+译者：知道创宇40...
+- [QNAP警示ASP.NET Core高危漏洞波及NetBak PC备份工具](https://www.4hou.com/posts/pn0r) - QNAP已向用户发出警示，要求修复一处ASP.NET Core高危漏洞——该漏洞同样影响其NetBak PC Agent工具，这是一款用于向QNAP网络附加存储（NAS）设备备份数据的Windows应...
 
 
 ### 技术就业趋势
 
-远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
-- 😐 [“不要通过共享内存来通信”——深入理解Golang并发模型与CSP理论](https://cloud.tencent.com/developer/article/2580391) 📈 关注
-  Golang 在设计上另辟蹊径，其并发哲学的核心信条是：“不要通过共享内存来通信，而要通过通信来共享内存。” (Do not communicate by sharing memory; instea...
-- 😊 [OpenTenBase亮相中国软博会：展示新版本技术突破](https://cloud.tencent.com/developer/article/2580752) 📊 普通
-  近日，第27届中国国际软件博览会在郑州国际会展中心举办。本届博览会以“开源构筑新生态，软件智造新未来”为主题，集中展现软件产业在开源领域的创新成果与生态活力。其中腾讯云捐赠至开放原子开源基金会的Ope...
-- 😐 [1024 程序员节 × CodeBuddy 「无界生成力」有奖征文，热力来袭！](https://cloud.tencent.com/developer/article/2580634) 📊 普通
-  CodeBuddy 诚邀你，用文字或视频记录下你与 CodeBuddy的开发故事。从 CodeBuddy 到码宇宙，只差一段你的开发故事。
+- 😊 [全球沟通零“时差”，腾讯云TRTC 实时翻译AI引擎，全链路助推企业突破“无感”瓶颈](https://cloud.tencent.com/developer/article/2580750) 📈 关注
+  在数字化浪潮和全球化进程的双重驱动下，线上线下的沟通触点倍速增长，跨语言沟通场景在我们的生活、工作中愈发普遍。但常见的翻译工具仍以“说一句、停一下”的回合制翻译为主，机械化、响应慢、效率低，对于直播互...
+- 😟 [VMware虚机环境上云如遇异常，彻底删除vmware相关的驱动、文件、注册表等](https://cloud.tencent.com/developer/article/2580681) 📈 关注
+  安装了VMTools的VMware虚机，可能残留VMware相关的东西没卸载干净的情况，可能导致强制导入自定义镜像后，在开机出现Welcome界面前先转圈数十秒，甚至最终出现inaccessible ...
+- 😊 [腾讯新闻PUSH架构升级之路](https://cloud.tencent.com/developer/article/2580754) 📊 普通
+  PUSH 是腾讯新闻内容重要的分发渠道，新闻 PUSH 平台承担着将新闻资讯触达到新闻用户、满足用户及时获取精品资讯的需求。
 
 
 ### GitHub 趋势项目
 
-- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
-- [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
-- [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
 
 
 
 ### AI 研究论文
 
-- [Does Object Binding Naturally Emerge in Large Pretrained Vision
-  Transformers?](http://arxiv.org/abs/2510.24709v1) - Yihao Li, Saeed Salehi, Lyle Ungar, Konrad P. Kording
-  Object binding, the brain's ability to bind the many features that
-collectively represent an object into a coherent whole, is central to human
-cogniti...
+- [Gaperon: A Peppered English-French Generative Language Model Suite](http://arxiv.org/abs/2510.25771v1) - Nathan Godey, Wissam Antoun, Rian Touchent, Rachel Bawden, Éric de la Clergerie, Benoît Sagot, Djamé Seddah
+  We release Gaperon, a fully open suite of French-English-coding language
+models designed to advance transparency and reproducibility in large-scale
+mo...
 
-- [ComboBench: Can LLMs Manipulate Physical Devices to Play Virtual Reality
-  Games?](http://arxiv.org/abs/2510.24706v1) - Shuqing Li, Jiayi Yan, Chenyu Niu, Jen-tse Huang, Yun Peng, Wenxuan Wang, Yepang Liu, Michael R. Lyu
-  Virtual Reality (VR) games require players to translate high-level semantic
-actions into precise device manipulations using controllers and head-mount...
+- [E-Scores for (In)Correctness Assessment of Generative Model Outputs](http://arxiv.org/abs/2510.25770v1) - Guneet S. Dhillon, Javier González, Teodora Pandeva, Alicia Curth
+  While generative models, especially large language models (LLMs), are
+ubiquitous in today's world, principled mechanisms to assess their
+(in)correctne...
 
-- [Agent Data Protocol: Unifying Datasets for Diverse, Effective
-  Fine-tuning of LLM Agents](http://arxiv.org/abs/2510.24702v1) - Yueqi Song, Ketan Ramaneti, Zaid Sheikh, Ziru Chen, Boyu Gou, Tianbao Xie, Yiheng Xu, Danyang Zhang, Apurva Gandhi, Fan Yang, Joseph Liu, Tianyue Ou, Zhihao Yuan, Frank Xu, Shuyan Zhou, Xingyao Wang, Xiang Yue, Tao Yu, Huan Sun, Yu Su, Graham Neubig
-  Public research results on large-scale supervised finetuning of AI agents
-remain relatively rare, since the collection of agent training data presents...
+- [TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological
+  Counseling](http://arxiv.org/abs/2510.25758v1) - He Hu, Yucheng Zhou, Chiyuan Ma, Qianning Wang, Zheng Zhang, Fei Ma, Laizhong Cui, Qi Tian
+  Large language models (LLMs) in psychological counseling have attracted
+increasing attention. However, existing approaches often lack emotional
+unders...
 
 
 
@@ -149,25 +148,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $269.00 📈 +0.19 (+0.1%)
-- **GOOGL**: $267.47 📉 -1.80 (-0.7%)
-- **MSFT**: $542.07 📈 +10.55 (+2.0%)
+- **AAPL**: $269.70 📈 +0.70 (+0.3%)
+- **GOOGL**: $274.57 📈 +7.10 (+2.7%)
+- **MSFT**: $541.55 📉 -0.52 (-0.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+给定二叉树，找出其最大深度
 
-标签: 链表, 递归
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -178,7 +177,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
@@ -201,22 +200,22 @@ WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的�
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Synthwave Mix** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -242,73 +241,71 @@ D. PATCH更快
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**使用版本控制**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `8f8164` | 日期: 2025-10-29
+挑战ID: `503fff` | 日期: 2025-10-30
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代JavaScript/TypeScript运行时
+高性能代码编辑器
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**安全工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -322,7 +319,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-10-29 08:14:35
+- 📅 更新时间: 2025-10-30 08:13:49
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -333,14 +330,14 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 9.4/100
+- 😊 积极新闻: 7 (87.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 11.8/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- 深度学习 (1次)
-- AR (1次)
+- AI (4次)
+- 人工智能 (2次)
+- AR (2次)
 
 
 ### 🤖 关于此项目
