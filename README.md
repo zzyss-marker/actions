@@ -55,76 +55,74 @@
 
 MIT
 
-## 今日更新 (2025-10-30)
+## 今日更新 (2025-10-31)
 
 ### 今日名言
 
-> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- 😊 [PyTorch生成式人工智能——VQ-VAE详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/150594335) 🔥 热门
-  VQ-VAE (Vector Quantised-Variational AutoEncoder) 的核心思想就是将 VAE 的连续潜变量离散化。它通过学习一个码本 (Codebook) 来实现这一点...
-- 😊 [【愚公系列】《人工智能70年》066-无人机的广阔天地（给硅谷狂人上了一课）](https://blog.csdn.net/aa2528877987/article/details/152372053) 📈 关注
-  中国无人机巨擘大疆力挫硅谷精英的启示录 美国无人机企业3D Robotics创始人克里斯·安德森（《长尾理论》作者）曾豪言要主导消费级无人机市场，却在1亿美元烧尽后黯然退场。这场商业对决揭示了中国智造...
-- 😊 [AI 超级智能体全栈项目阶段二：Prompt 优化技巧与学术分析 AI 应用开发实现上下文联系多轮对话](https://blog.csdn.net/weixin_45793745/article/details/152231949) 📈 关注
-  本文讲解 Prompt 基本概念与 10 个优化技巧，结合学术分析 AI 应用的需求分析、设计方案，介绍 Spring AI 中 ChatClient 及 Advisors 的使用。
-- 😊 [[AI GPU互联]博通 PEX89000 pcie switch](https://blog.csdn.net/BIG_APPLE1/article/details/149143933) 📈 关注
-  深圳信迈提供的AI服务器PCIE 4.0/5.0 SWITCH GPU扩展卡解决方案，支持博通PEX89104 PCIe SWITCH，该交换机支持PCIE GEN5 32Gbps，最多104条PCI...
-- 😊 [【AI智能体】Coze 提取对标账号短视频生成视频文案实战详解](https://blog.csdn.net/zhangcongyi420/article/details/152653479) 📈 关注
-  Coze 提取对标账号短视频生成视频文案实战详解
+- 😊 [【必收藏】李飞飞Agent AI综述：一文读懂多模态交互与AGI的未来](https://blog.csdn.net/Z987421/article/details/153468404) 🔥🔥 很热
+  李飞飞教授的研究思路为我们提供了一个典范：在人工智能这样一个快速变化、容易迷失在技术细节的领域，始终保持对智能本质的深刻追问，并愿意为之进行艰苦卓绝的基础工作。对于年轻的研究者和学生而言，学习她的研究...
+- 😐 [“边界AI平台”本质，警惕AI陷阱](https://blog.csdn.net/tomora/article/details/151804101) 🔥 热门
+  【摘要】边界AI平台作为大模型中间件，通过封装GPT-4等主流模型API提供服务，技术本质是标准化接口开发。其268元终身会员模式存在争议，因实际未提供显著增值服务且成本优势不足，主要依赖国内用户访问...
+- 😊 [AI 智能编码工具：重塑开发效率的革命，从 GitHub Copilot 到国产新秀的全面解析](https://blog.csdn.net/2301_80543957/article/details/150450762) 🔥 热门
+  优点缺点1. 语言支持全面，动态语言生成精度高2. 与 VS Code、JetBrains IDEs 集成无缝3. 开源代码训练库庞大，通用场景覆盖广1. 对中文注释理解精度较低（需用英文注释）2. ...
+- 😊 [内容安全与系统构建加速，助力解决生成式AI时代的双重挑战](https://blog.csdn.net/LOVEmy134611/article/details/143226850) 📈 关注
+  在生成式 AI 时代，模型具备快速响应用户需求的能力，能够实现即时生成与交互。但不准确数据会影响模型的表现，导致生成内容不可靠，同时随着伴随内容生成的便利，也出现了虚假信息、版权问题等安全挑战。本文通...
+- 😊 [AI知识图谱：一张图看懂AI学习全路径，大模型入门到精通，收藏这篇就足够了！](https://blog.csdn.net/2401_82469710/article/details/152930166) 📈 关注
+  作者能力有限，借此希望为想学习AI的朋友们提供一条系统性的学习路线，快速入门，拥抱AI！
 
 
 ### 网络安全资讯
 
-- [重磅！网络安全法迎来重大修改，人工智能治理迈出关键一步](https://www.anquanke.com/post/id/312934) - 安全公告，详情请点击链接查看完整内容
+- [开源！可信MCP，AICC机密计算新升级！](https://www.anquanke.com/post/id/312944) - 安全公告，详情请点击链接查看完整内容
 - [MCPGuard：自动检测 MCP 服务器中的漏洞](https://paper.seebug.org/3406/) - 作者：Bin Wang,Zexin Liu,Hao Yu,Ao Yang,Yenan Huang,Jing Guo,Huangsheng Cheng,Hui Li,Huiyu Wu
 译者：知道创宇40...
-- [QNAP警示ASP.NET Core高危漏洞波及NetBak PC备份工具](https://www.4hou.com/posts/pn0r) - QNAP已向用户发出警示，要求修复一处ASP.NET Core高危漏洞——该漏洞同样影响其NetBak PC Agent工具，这是一款用于向QNAP网络附加存储（NAS）设备备份数据的Windows应...
+- [黑客利用基于redtiger的信息窃取工具窃取Discord账户](https://www.4hou.com/posts/mkoA) - 据安全研究员观察，攻击者正利用开源红队工具RedTiger，构建一款可窃取Discord账户数据与支付信息的信息窃取恶意软件。该恶意软件还能盗取浏览器中存储的凭证、加密货币钱包数据及游戏账号信息。Re...
 
 
 ### 技术就业趋势
 
-低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- 😊 [全球沟通零“时差”，腾讯云TRTC 实时翻译AI引擎，全链路助推企业突破“无感”瓶颈](https://cloud.tencent.com/developer/article/2580750) 📈 关注
-  在数字化浪潮和全球化进程的双重驱动下，线上线下的沟通触点倍速增长，跨语言沟通场景在我们的生活、工作中愈发普遍。但常见的翻译工具仍以“说一句、停一下”的回合制翻译为主，机械化、响应慢、效率低，对于直播互...
-- 😟 [VMware虚机环境上云如遇异常，彻底删除vmware相关的驱动、文件、注册表等](https://cloud.tencent.com/developer/article/2580681) 📈 关注
-  安装了VMTools的VMware虚机，可能残留VMware相关的东西没卸载干净的情况，可能导致强制导入自定义镜像后，在开机出现Welcome界面前先转圈数十秒，甚至最终出现inaccessible ...
-- 😊 [腾讯新闻PUSH架构升级之路](https://cloud.tencent.com/developer/article/2580754) 📊 普通
-  PUSH 是腾讯新闻内容重要的分发渠道，新闻 PUSH 平台承担着将新闻资讯触达到新闻用户、满足用户及时获取精品资讯的需求。
+- 😊 [“AI视频时代”距离我们还有多远？](https://cloud.tencent.com/developer/article/2582422) 🔥🔥 很热
+  近期，美国人工智能领军企业OpenAI发布Sora 2模型和同名社交应用，上线不到5天即突破100万下载量1，为视频生成技术的发展刻下新里程碑，并以社交玩法和产品创新为支点，快速将AI的颠覆性创造力普...
+- 😊 [.dmp文件用7z压缩能显著变小](https://cloud.tencent.com/developer/article/2582025) 📊 普通
+  .dmp文件用7z压缩能显著变小，需要用到开源免费软件7zip(我通常敲7zip.org会自动跳转到7-zip.org）
+- 😟 [powershell重定向换行问题](https://cloud.tencent.com/developer/article/2582407) 📊 普通
+  
 
 
 ### GitHub 趋势项目
 
-- [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink) - node of the decentralized oracle network, bridging on and off-chain computation
-- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
-- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 
 
 
 ### AI 研究论文
 
-- [Gaperon: A Peppered English-French Generative Language Model Suite](http://arxiv.org/abs/2510.25771v1) - Nathan Godey, Wissam Antoun, Rian Touchent, Rachel Bawden, Éric de la Clergerie, Benoît Sagot, Djamé Seddah
-  We release Gaperon, a fully open suite of French-English-coding language
-models designed to advance transparency and reproducibility in large-scale
-mo...
+- [Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with
+  the MME-CoF Benchmark](http://arxiv.org/abs/2510.26802v1) - Ziyu Guo, Xinyan Chen, Renrui Zhang, Ruichuan An, Yu Qi, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng
+  Recent video generation models can produce high-fidelity, temporally coherent
+videos, indicating that they may encode substantial world knowledge. Bey...
 
-- [E-Scores for (In)Correctness Assessment of Generative Model Outputs](http://arxiv.org/abs/2510.25770v1) - Guneet S. Dhillon, Javier González, Teodora Pandeva, Alicia Curth
-  While generative models, especially large language models (LLMs), are
-ubiquitous in today's world, principled mechanisms to assess their
-(in)correctne...
+- [Gistify! Codebase-Level Understanding via Runtime Execution](http://arxiv.org/abs/2510.26790v1) - Hyunji Lee, Minseon Kim, Chinmay Singh, Matheus Pereira, Atharv Sonwane, Isadora White, Elias Stengel-Eskin, Mohit Bansal, Zhengyan Shi, Alessandro Sordoni, Marc-Alexandre Côté, Xingdi Yuan, Lucas Caccia
+  As coding agents are increasingly deployed in large codebases, the need to
+automatically design challenging, codebase-level evaluation is central. We
+...
 
-- [TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological
-  Counseling](http://arxiv.org/abs/2510.25758v1) - He Hu, Yucheng Zhou, Chiyuan Ma, Qianning Wang, Zheng Zhang, Fei Ma, Laizhong Cui, Qi Tian
-  Large language models (LLMs) in psychological counseling have attracted
-increasing attention. However, existing approaches often lack emotional
-unders...
+- [Defeating the Training-Inference Mismatch via FP16](http://arxiv.org/abs/2510.26788v1) - Penghui Qi, Zichen Liu, Xiangxin Zhou, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin
+  Reinforcement learning (RL) fine-tuning of large language models (LLMs) often
+suffers from instability due to the numerical mismatch between the train...
 
 
 
@@ -148,25 +146,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $269.70 📈 +0.70 (+0.3%)
-- **GOOGL**: $274.57 📈 +7.10 (+2.7%)
-- **MSFT**: $541.55 📉 -0.52 (-0.1%)
+- **AAPL**: $271.40 📈 +1.70 (+0.6%)
+- **GOOGL**: $281.48 📈 +6.91 (+2.5%)
+- **MSFT**: $525.76 📉 -15.79 (-2.9%)
 
 
 ### 🛠️ 开发者工具推荐
 
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**二叉树的最大深度** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-给定二叉树，找出其最大深度
+将两个升序链表合并为一个新的升序链表
 
-标签: 树, 递归
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -177,14 +175,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《深度学习》** - Ian Goodfellow
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -194,13 +192,13 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
@@ -241,39 +239,41 @@ D. PATCH更快
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**写测试用例**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：💡 创新者
 
-挑战ID: `503fff` | 日期: 2025-10-30
+挑战ID: `00e722` | 日期: 2025-10-31
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
@@ -282,8 +282,8 @@ git commit -m "Add user authentication feature"
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
@@ -305,7 +305,7 @@ git commit -m "Add user authentication feature"
 
 ### 😄 程序员笑话
 
-为什么程序员喜欢黑暗？因为光会产生bug！
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -319,7 +319,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-10-30 08:13:49
+- 📅 更新时间: 2025-10-31 08:13:53
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -330,14 +330,15 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 7 (87.5%)
+- 😊 积极新闻: 6 (75.0%)
 - 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 11.8/100
+- 🔥 平均热度: 17.1/100
 
 🏷️ **热门关键词**:
-- AI (4次)
+- AI (6次)
 - 人工智能 (2次)
-- AR (2次)
+- OpenAI (1次)
+- GPT (1次)
 
 
 ### 🤖 关于此项目
