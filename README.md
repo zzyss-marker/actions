@@ -55,55 +55,56 @@
 
 MIT
 
-## 今日更新 (2025-11-01)
+## 今日更新 (2025-11-02)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- 😐 [【花雕动手做】CanMV K230 AI 视觉识别模块之实现串口通信](https://blog.csdn.net/weixin_41659040/article/details/154025532) 🔥 热门
-  CanMV K230是一款基于RISC-V架构的边缘AI平台，集成了6 TOPS算力的AI加速单元，适合嵌入式视觉应用开发。该平台支持MicroPython编程和串口通信，通过YbUart类可实现与外...
-- 😊 [医疗AI语义潜空间分析研究：进展与应用](https://blog.csdn.net/kkiron/article/details/149693130) 🔥 热门
-  医疗AI语义潜空间分析研究是推动医疗AI从"黑箱"预测走向"透明、可信、可行动"智能的关键路径。它致力于在机器学习的表示中捕捉和解释丰富的医学语义，从而提升模型的性能、可靠性和临床接受度。
-- 😊 [【MCP探索实践】MiniMax MCP Server：多模态生成服务器，让AI同时玩转视频/语音/图像生成](https://blog.csdn.net/xiaobing259/article/details/150156709) 🔥 热门
-  MiniMax MCP Server 是由 MiniMax 稀宇科技推出的一款基于模型上下文协议（MCP）的多模态生成服务器。它通过简单的文本输入，能够调用视频生成、图像生成、语音生成及声音克隆等多项...
-- 😊 [Python与AI的创意拉锯战：初级开发者如何让代码灵魂不被算法同化](https://blog.csdn.net/qq_33650655/article/details/152137126) 📈 关注
-  AI分析用户数据并生成功能模块，是技术福音，但初级开发者的创意不会被压制。相反，AI自动化琐碎工作，解放人类专注于创新。就像Python社区常说的：“代码是写给人看的，偶尔让机器运行。”你的创意是那个...
-- 😊 [实测AI Ping，一个大模型服务选型的实用工具](https://blog.csdn.net/beautifulmemory/article/details/151792506) 📈 关注
-  试用AIPing平台体验大模型服务性能数据测评，为AI开发者提供多维度参考。该平台通过实时监测帮助开发者对比分析不同供应商的性能、价格及稳定性，优化大模型服务选择。
+- 😊 [GPT-5发布会：AI新纪元的启幕还是旧章的延续？](https://blog.csdn.net/beautifulmemory/article/details/150075236) 🔥 热门
+  GPT-5 发布会展示了融合 GPT 与 o 系列模型的新架构，数学 AIME 94.6%、编程 SWE-bench 74.9%，价格低至 0.05$/M token，并推出个性化语音、日历助理。虽被...
+- 😐 [当AI变身‘数据解码器‘：初级Python开发者的创意‘加密‘生存手册——老码农的密码学冒险](https://blog.csdn.net/qq_33650655/article/details/152501889) 🔥 热门
+  本文针对初级Python开发者担忧AI分析用户数据并生成功能模块会压制创意的问题，从技术原理、创意本质、Python优势、实战案例和未来展望等多角度进行了深入探讨。文章通过丰富的Python代码示例、...
+- 😊 [亲测有用！论文降ai率从50%降到10%的秘密：这4个指令＋3个技巧真的够用了](https://blog.csdn.net/huayishuo/article/details/150953992) 📈 关注
+  论文AI检测率过高或过低都困扰着写作者。本文分享降低AI率的实用方法，包括使用Deepseek指令优化文本特征、重构论证逻辑、调整学术语言等技巧。同时推荐手动打破AI段落结构、增加新研究视角，以及使用...
+- 😊 [豆包・图像创作模型Seedream4.0创意玩法大赏：开启 AI 绘画新纪元](https://blog.csdn.net/2301_80840905/article/details/151998134) 📈 关注
+  Seedream 4.0 在技术与用户体验层面均实现显著突破。在技术上，它真正达成文本 + 多图像的多模态输入，主体一致性表现居同类产品前列，生成速度较 3.0 版本大幅提升，更是国内首个支持 4K ...
+- 😊 [MCoT在医疗AI工程化编程的实践手册（上）](https://blog.csdn.net/kkiron/article/details/153923753) 📈 关注
+  本文介绍了多模态思维链（MCoT）在医疗领域的工程化应用框架。随着技术理论成熟、设备精度提升和监管路径明确，MCoT正从实验室走向临床验证。文章提出六大技术支柱，重点阐述了基础合规层的构建方案，包括符...
 
 
 ### 网络安全资讯
 
-- [Magecart团伙“剑齿虎”刷卡器通过恶意插件渗透WooCommerce，并将其有效载荷隐藏在伪造的PNG图片中](https://www.anquanke.com/post/id/312947) - 安全公告，详情请点击链接查看完整内容
 - [MCPGuard：自动检测 MCP 服务器中的漏洞](https://paper.seebug.org/3406/) - 作者：Bin Wang,Zexin Liu,Hao Yu,Ao Yang,Yenan Huang,Jing Guo,Huangsheng Cheng,Hui Li,Huiyu Wu
 译者：知道创宇40...
 - [开源！可信MCP，AICC机密计算新升级！](https://www.4hou.com/posts/J15l) - 大模型技术变革下，通常需借助云端算力和存储资源，为端侧提供更丰富的大模型应用场景体验。与此同时，行业对端云协作下的全链路安全和透明可信提出了更高要求。火山引擎AICC 机密计算应运而生，通过为企业搭建...
+- [玄武在BlackHat揭示劫持智能体达成RCE的新方法](https://xlab.tencent.com/cn/2025/08/06/universal-and-context-independent-triggers/) - Author: Jiashuo Liang and Guancheng Li of Tencent Xuanwu Lab
+0x00 前言大语言模型（LLM）正在从简单的对话工具演化为能够编写代码、操作...
 
 
 ### 技术就业趋势
 
-DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
+人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
 
 ### 科技热点
 
-- 😊 [“AI视频时代”距离我们还有多远？](https://cloud.tencent.com/developer/article/2582422) 🔥🔥 很热
-  近期，美国人工智能领军企业OpenAI发布Sora 2模型和同名社交应用，上线不到5天即突破100万下载量1，为视频生成技术的发展刻下新里程碑，并以社交玩法和产品创新为支点，快速将AI的颠覆性创造力普...
-- 😟 [【最佳实践】解决 Elasticsearch 8.x 滚动升级失败的问题](https://cloud.tencent.com/developer/article/2582408) 📈 关注
-  本文描述问题及解决方法同样适用于 腾讯云 Elasticsearch Service（ES）。
-- 😟 [老年人怎样用活法定义算法：1年100人1场实践](https://cloud.tencent.com/developer/article/2582801) 📊 普通
-  当大模型等新技术的浪潮席卷而来，我们常常被它的速度与潜能震撼。人们争相体验最新功能，讨论它如何重塑生产与教育，如何改变信息传播与知识形态等问题。然而，技术奔涌向前，不同的人以不同的节奏与它相遇。我们不...
+- 😐 [对话香港城市大学张泽松：AI时代教育“变天”？先抓核心能力｜TVP专访](https://cloud.tencent.com/developer/article/2582953) 📈 关注
+  当 AI 浪潮席卷教育领域，“教育即将发生剧变”的声音不断涌现。作为香港城市大学协理副校长、计算机与电机工程系双聘教授，张泽松不仅深耕 AI 与教育交叉领域，还推动着港校与内地企业的合作，更见证着大湾...
+- 😊 [重磅发布！美颜+互动全新玩法升级，腾讯特效助推企业全球增长](https://cloud.tencent.com/developer/article/2582955) 📈 关注
+  随着设备的算力提升和AI的深度融合，如今，实时美颜、趣味贴纸、虚拟形象已成为短视频和直播应用的标配。用户也开始追求更“好看”、更“好玩”的新功能、新玩法。平台和开发者既要追求更真实自然的视觉效果，又要...
+- 😊 [FiT交付全流程提效密码：深度使用TAPD研发管理平台，打造高效工具链](https://cloud.tencent.com/developer/article/2582954) 📊 普通
+  腾讯金融科技（Tencent Financial Technology），以下简称FiT是腾讯公司提供移动支付与金融服务的综合业务平台。FiT始终秉承合规、风控、开放、有所为有所不为的发展理念，用科技...
 
 
 ### GitHub 趋势项目
 
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities.
-- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
+- [get-convex/chef](https://github.com/get-convex/chef) - The only AI app builder that knows backend
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
 
 
@@ -153,18 +154,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+给定字符串，找出其中最长的回文子串
 
-标签: 数组, 哈希表
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -175,14 +176,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《Kubernetes权威指南》** - 龚正等
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -192,14 +193,14 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
@@ -211,9 +212,9 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Synthwave Mix** - Various Artists
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -227,85 +228,83 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**使用版本控制**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🛡️ 安全卫士
+今日挑战徽章：💡 创新者
 
-挑战ID: `be6e90` | 日期: 2025-11-01
+挑战ID: `2f2fc1` | 日期: 2025-11-02
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代Web应用框架
+高性能代码编辑器
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**安全工程师** (中级) 📈
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+程序员的三大美德：懒惰、急躁和傲慢。
 
 
 ### 🐙 GitHub 生态统计
@@ -319,7 +318,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-01 08:11:53
+- 📅 更新时间: 2025-11-02 08:11:57
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -330,16 +329,13 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 2 (25.0%)
-- 🔥 平均热度: 17.0/100
+- 😊 积极新闻: 6 (75.0%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 13.8/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- AR (2次)
-- 人工智能 (1次)
-- OpenAI (1次)
-- 机器学习 (1次)
+- AI (7次)
+- GPT (1次)
 
 
 ### 🤖 关于此项目
