@@ -55,75 +55,75 @@
 
 MIT
 
-## 今日更新 (2025-11-02)
+## 今日更新 (2025-11-03)
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- 😊 [GPT-5发布会：AI新纪元的启幕还是旧章的延续？](https://blog.csdn.net/beautifulmemory/article/details/150075236) 🔥 热门
-  GPT-5 发布会展示了融合 GPT 与 o 系列模型的新架构，数学 AIME 94.6%、编程 SWE-bench 74.9%，价格低至 0.05$/M token，并推出个性化语音、日历助理。虽被...
-- 😐 [当AI变身‘数据解码器‘：初级Python开发者的创意‘加密‘生存手册——老码农的密码学冒险](https://blog.csdn.net/qq_33650655/article/details/152501889) 🔥 热门
-  本文针对初级Python开发者担忧AI分析用户数据并生成功能模块会压制创意的问题，从技术原理、创意本质、Python优势、实战案例和未来展望等多角度进行了深入探讨。文章通过丰富的Python代码示例、...
-- 😊 [亲测有用！论文降ai率从50%降到10%的秘密：这4个指令＋3个技巧真的够用了](https://blog.csdn.net/huayishuo/article/details/150953992) 📈 关注
-  论文AI检测率过高或过低都困扰着写作者。本文分享降低AI率的实用方法，包括使用Deepseek指令优化文本特征、重构论证逻辑、调整学术语言等技巧。同时推荐手动打破AI段落结构、增加新研究视角，以及使用...
-- 😊 [豆包・图像创作模型Seedream4.0创意玩法大赏：开启 AI 绘画新纪元](https://blog.csdn.net/2301_80840905/article/details/151998134) 📈 关注
-  Seedream 4.0 在技术与用户体验层面均实现显著突破。在技术上，它真正达成文本 + 多图像的多模态输入，主体一致性表现居同类产品前列，生成速度较 3.0 版本大幅提升，更是国内首个支持 4K ...
-- 😊 [MCoT在医疗AI工程化编程的实践手册（上）](https://blog.csdn.net/kkiron/article/details/153923753) 📈 关注
-  本文介绍了多模态思维链（MCoT）在医疗领域的工程化应用框架。随着技术理论成熟、设备精度提升和监管路径明确，MCoT正从实验室走向临床验证。文章提出六大技术支柱，重点阐述了基础合规层的构建方案，包括符...
+- 😊 [Spring AI 的应用和开发](https://blog.csdn.net/blamep/article/details/151016052) 🔥🔥 很热
+  spring AI 是spring官方推出的集成框架，让spring Boot的开发者可以更好的调用大语言模型进行开发。常见的大模型（deepseek,chatGpt、Ollama、Azure Ope...
+- 😊 [【Spring AI】简单入门（一）](https://blog.csdn.net/Blue_Pepsi_Cola/article/details/151876009) 🔥 热门
+  在当今这样一个快速发展的技术时代，人工智能（AI）已经成为各行各业的一种标配。而作为一款主流的Java应用开发框架Spring，肯定会紧跟时代的潮流，所以，推出了Spring AI框架。Spring ...
+- 😐 [不止于工具！PromptPilot 重构 AI 创作逻辑：企业级支撑 + 创意角色扮演，实操案例带你上手](https://blog.csdn.net/weixin_62765017/article/details/151969883) 📈 关注
+  不止于工具！PromptPilot 重构 AI 创作逻辑：企业级支撑 + 创意角色扮演，实操案例带你上手
+- 😊 [解锁DeepSeek-R1大模型微调：从训练到部署，打造定制化AI会话系统](https://blog.csdn.net/c18213590220/article/details/146135568) 📈 关注
+  大模型微调技术通过对预训练的大模型进行进一步训练，能够根据特定领域的需求进行优化，从而有效避免AI幻觉的发生，并且提供更加准确、有价值的输出。
+- 😐 [AI生成视频检测方法及其相关研究](https://blog.csdn.net/weixin_46803857/article/details/147670780) 📊 普通
+  AI-Generated Video Detection
 
 
 ### 网络安全资讯
 
+- [Magecart团伙“剑齿虎”刷卡器通过恶意插件渗透WooCommerce，并将其有效载荷隐藏在伪造的PNG图片中](https://www.anquanke.com/post/id/312947) - 安全公告，详情请点击链接查看完整内容
 - [MCPGuard：自动检测 MCP 服务器中的漏洞](https://paper.seebug.org/3406/) - 作者：Bin Wang,Zexin Liu,Hao Yu,Ao Yang,Yenan Huang,Jing Guo,Huangsheng Cheng,Hui Li,Huiyu Wu
 译者：知道创宇40...
-- [开源！可信MCP，AICC机密计算新升级！](https://www.4hou.com/posts/J15l) - 大模型技术变革下，通常需借助云端算力和存储资源，为端侧提供更丰富的大模型应用场景体验。与此同时，行业对端云协作下的全链路安全和透明可信提出了更高要求。火山引擎AICC 机密计算应运而生，通过为企业搭建...
-- [玄武在BlackHat揭示劫持智能体达成RCE的新方法](https://xlab.tencent.com/cn/2025/08/06/universal-and-context-independent-triggers/) - Author: Jiashuo Liang and Guancheng Li of Tencent Xuanwu Lab
-0x00 前言大语言模型（LLM）正在从简单的对话工具演化为能够编写代码、操作...
+- [勒索软件受害者付款率创历史新低 仅23%受攻击企业妥协](https://www.4hou.com/posts/omqN) - 据统计，遭勒索软件威胁的受害者付款比例降至历史新低，仅有23%的遭入侵企业屈服于攻击者的勒索要求。除个别情况外，这一付款比例的下降延续了Coveware公司过去六年观察到的趋势。2024年第一季度，付...
 
 
 ### 技术就业趋势
 
-人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
-- 😐 [对话香港城市大学张泽松：AI时代教育“变天”？先抓核心能力｜TVP专访](https://cloud.tencent.com/developer/article/2582953) 📈 关注
-  当 AI 浪潮席卷教育领域，“教育即将发生剧变”的声音不断涌现。作为香港城市大学协理副校长、计算机与电机工程系双聘教授，张泽松不仅深耕 AI 与教育交叉领域，还推动着港校与内地企业的合作，更见证着大湾...
-- 😊 [重磅发布！美颜+互动全新玩法升级，腾讯特效助推企业全球增长](https://cloud.tencent.com/developer/article/2582955) 📈 关注
-  随着设备的算力提升和AI的深度融合，如今，实时美颜、趣味贴纸、虚拟形象已成为短视频和直播应用的标配。用户也开始追求更“好看”、更“好玩”的新功能、新玩法。平台和开发者既要追求更真实自然的视觉效果，又要...
-- 😊 [FiT交付全流程提效密码：深度使用TAPD研发管理平台，打造高效工具链](https://cloud.tencent.com/developer/article/2582954) 📊 普通
-  腾讯金融科技（Tencent Financial Technology），以下简称FiT是腾讯公司提供移动支付与金融服务的综合业务平台。FiT始终秉承合规、风控、开放、有所为有所不为的发展理念，用科技...
+- 😊 [技术进步带动体验升级，高通携手腾讯促进VVC深入应用，让“视界”更精彩](https://cloud.tencent.com/developer/article/2582936) 📈 关注
+  https://caijing.chinadaily.com.cn/a/202510/20/WS68f5d07fa310c4deea5ed303.html
+- 😊 [百倍性能提升背后：MySQL分析引擎的文本检索加速实践](https://cloud.tencent.com/developer/article/2582941) 📊 普通
+  腾讯的技术积累和专业现实业务中，基于关键字的搜索场景十分常见，提升文本检索性能是业务设计的关键。本文将介绍如何基于腾讯云 MySQL 分析引擎提升在全文检索场景下的查询性能。
+- 😐 [腾讯携手Google、Meta、Apple和Netflix在IEEE ICIP 2025顶会分享最新研究成果与实践，4篇论文入选](https://cloud.tencent.com/developer/article/2582937) 📊 普通
+  2025年9月14至18日，一年一度的IEEE图像处理国际会议（IEEE International Conference on Image Processing，ICIP）如期举办，IEEE ICI...
 
 
 ### GitHub 趋势项目
 
-- [get-convex/chef](https://github.com/get-convex/chef) - The only AI app builder that knows backend
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+- [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 
 
 
 
 ### AI 研究论文
 
-- [Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with
-  the MME-CoF Benchmark](http://arxiv.org/abs/2510.26802v1) - Ziyu Guo, Xinyan Chen, Renrui Zhang, Ruichuan An, Yu Qi, Dongzhi Jiang, Xiangtai Li, Manyuan Zhang, Hongsheng Li, Pheng-Ann Heng
-  Recent video generation models can produce high-fidelity, temporally coherent
-videos, indicating that they may encode substantial world knowledge. Bey...
+- [Continuous Autoregressive Language Models](http://arxiv.org/abs/2510.27688v1) - Chenze Shao, Darren Li, Fandong Meng, Jie Zhou
+  The efficiency of large language models (LLMs) is fundamentally limited by
+their sequential, token-by-token generation process. We argue that overcomi...
 
-- [Gistify! Codebase-Level Understanding via Runtime Execution](http://arxiv.org/abs/2510.26790v1) - Hyunji Lee, Minseon Kim, Chinmay Singh, Matheus Pereira, Atharv Sonwane, Isadora White, Elias Stengel-Eskin, Mohit Bansal, Zhengyan Shi, Alessandro Sordoni, Marc-Alexandre Côté, Xingdi Yuan, Lucas Caccia
-  As coding agents are increasingly deployed in large codebases, the need to
-automatically design challenging, codebase-level evaluation is central. We
-...
+- [PETAR: Localized Findings Generation with Mask-Aware Vision-Language
+  Modeling for PET Automated Reporting](http://arxiv.org/abs/2510.27680v1) - Danyal Maqbool, Changhee Lee, Zachary Huemann, Samuel D. Church, Matthew E. Larson, Scott B. Perlman, Tomas A. Romero, Joshua D. Warner, Meghan Lubner, Xin Tie, Jameson Merkow, Junjie Hu, Steve Y. Cho, Tyler J. Bradshaw
+  Recent advances in vision-language models (VLMs) have enabled impressive
+multimodal reasoning, yet most medical applications remain limited to 2D
+imag...
 
-- [Defeating the Training-Inference Mismatch via FP16](http://arxiv.org/abs/2510.26788v1) - Penghui Qi, Zichen Liu, Xiangxin Zhou, Tianyu Pang, Chao Du, Wee Sun Lee, Min Lin
-  Reinforcement learning (RL) fine-tuning of large language models (LLMs) often
-suffers from instability due to the numerical mismatch between the train...
+- [MolChord: Structure-Sequence Alignment for Protein-Guided Drug Design](http://arxiv.org/abs/2510.27671v1) - Wei Zhang, Zekun Guo, Yingce Xia, Peiran Jin, Shufang Xie, Tao Qin, Xiang-Yang Li
+  Structure-based drug design (SBDD), which maps target proteins to candidate
+molecular ligands, is a fundamental task in drug discovery. Effectively
+al...
 
 
 
@@ -154,9 +154,9 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
@@ -176,14 +176,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《深度学习》** - Ian Goodfellow
 
-容器编排平台的完整指南 (分类: 云原生)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -199,69 +199,71 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Ambient Coding** - Various Artists
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
 
-**算法优化挑战** (难度: 中等)
+**微服务架构设计** (难度: 高级)
 
-优化一个排序算法，使其在大数据集上的性能提升50%
+设计一个电商系统的微服务架构，包含用户、订单、支付等服务
 
-🏷️ 标签: 算法, 性能优化 | ⏱️ 预计时间: 2-4小时 | 🎯 奖励积分: 100
+🏷️ 标签: 架构设计, 微服务 | ⏱️ 预计时间: 4-8小时 | 🎯 奖励积分: 150
 
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**使用有意义的变量名**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `2f2fc1` | 日期: 2025-11-02
+挑战ID: `946fa1` | 日期: 2025-11-03
 
 
 ### 📊 技术话题投票
@@ -279,32 +281,32 @@ git commit -m "Add user authentication feature"
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-高性能代码编辑器
+现代Web应用框架
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**全栈开发** (中级) 📊
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -318,7 +320,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-02 08:11:57
+- 📅 更新时间: 2025-11-03 08:15:06
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -329,13 +331,15 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
+- 😊 积极新闻: 5 (62.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 13.8/100
+- 🔥 平均热度: 13.0/100
 
 🏷️ **热门关键词**:
-- AI (7次)
+- AI (6次)
+- ChatGPT (1次)
 - GPT (1次)
+- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
