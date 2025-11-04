@@ -55,7 +55,7 @@
 
 MIT
 
-## 今日更新 (2025-11-03)
+## 今日更新 (2025-11-04)
 
 ### 今日名言
 
@@ -63,47 +63,48 @@ MIT
 
 ### AI 技术动态
 
-- 😊 [Spring AI 的应用和开发](https://blog.csdn.net/blamep/article/details/151016052) 🔥🔥 很热
-  spring AI 是spring官方推出的集成框架，让spring Boot的开发者可以更好的调用大语言模型进行开发。常见的大模型（deepseek,chatGpt、Ollama、Azure Ope...
-- 😊 [【Spring AI】简单入门（一）](https://blog.csdn.net/Blue_Pepsi_Cola/article/details/151876009) 🔥 热门
-  在当今这样一个快速发展的技术时代，人工智能（AI）已经成为各行各业的一种标配。而作为一款主流的Java应用开发框架Spring，肯定会紧跟时代的潮流，所以，推出了Spring AI框架。Spring ...
-- 😐 [不止于工具！PromptPilot 重构 AI 创作逻辑：企业级支撑 + 创意角色扮演，实操案例带你上手](https://blog.csdn.net/weixin_62765017/article/details/151969883) 📈 关注
-  不止于工具！PromptPilot 重构 AI 创作逻辑：企业级支撑 + 创意角色扮演，实操案例带你上手
-- 😊 [解锁DeepSeek-R1大模型微调：从训练到部署，打造定制化AI会话系统](https://blog.csdn.net/c18213590220/article/details/146135568) 📈 关注
-  大模型微调技术通过对预训练的大模型进行进一步训练，能够根据特定领域的需求进行优化，从而有效避免AI幻觉的发生，并且提供更加准确、有价值的输出。
-- 😐 [AI生成视频检测方法及其相关研究](https://blog.csdn.net/weixin_46803857/article/details/147670780) 📊 普通
-  AI-Generated Video Detection
+- 😊 [OpenAI发布 Sora2：AI 视频生成的新一步（附邀请互助）](https://blog.csdn.net/dashengzhu/article/details/152597455) 🔥🔥 很热
+  OpenAI 同步推出了名为 Sora 的 iOS 社交应用，采用类似 TikTok 的垂直视频流设计。2025年9月30日，OpenAI 正式发布了视频生成模型：Sora 2 及其配套的社交应用 S...
+- 😊 [用 FastGPT + DeepSeek 打造飞书智能客服：企业文档一键接入，3分钟上线 AI 助手](https://blog.csdn.net/2501_93874795/article/details/154070062) 🔥 热门
+  FastGPT 教你3分钟打造一个真正懂业务的企业级智能客服助手Agent。
+- 😐 [当AI把用户数据当‘Pandas DataFrame‘嚼：初级Python开发者的创意如何避免被‘标准化‘？—— 老码农的数据分析幽默录](https://blog.csdn.net/qq_33650655/article/details/153122484) 🔥 热门
+  本文探讨了AI时代初级Python开发者如何应对创意被压制的担忧。文章分析了AI分析用户数据的工作原理，揭示了其模式识别能力的局限，并通过Python代码示例展示了人类创意在功能开发中的不可替代性。作...
+- 😊 [“企业级AI Agent落地方案：用Bright Data快速建立消费电子舆情数据采集与智能分析“](https://blog.csdn.net/YOU__FEI/article/details/154070802) 🔥 热门
+  AI舆情监控系统构建实战：基于Bright Data的小米17新品分析案例 本文通过"小米17"新品发布舆情监控案例，揭示如何利用Bright Data企业级数据平台高效构建AI分析系统的完整流程。针...
+- 😊 [昇腾AI CANN训练营〔开源基础系列〕：从语法基础到算子实操，一站式构建 Ascend C 全链路编程能力](https://blog.csdn.net/weixin_62765017/article/details/153795898) 📈 关注
+  昇腾AI CANN训练营〔开源基础系列〕：从语法基础到算子实操，一站式构建 Ascend C 全链路编程能力
 
 
 ### 网络安全资讯
 
 - [Magecart团伙“剑齿虎”刷卡器通过恶意插件渗透WooCommerce，并将其有效载荷隐藏在伪造的PNG图片中](https://www.anquanke.com/post/id/312947) - 安全公告，详情请点击链接查看完整内容
-- [MCPGuard：自动检测 MCP 服务器中的漏洞](https://paper.seebug.org/3406/) - 作者：Bin Wang,Zexin Liu,Hao Yu,Ao Yang,Yenan Huang,Jing Guo,Huangsheng Cheng,Hui Li,Huiyu Wu
-译者：知道创宇40...
-- [勒索软件受害者付款率创历史新低 仅23%受攻击企业妥协](https://www.4hou.com/posts/omqN) - 据统计，遭勒索软件威胁的受害者付款比例降至历史新低，仅有23%的遭入侵企业屈服于攻击者的勒索要求。除个别情况外，这一付款比例的下降延续了Coveware公司过去六年观察到的趋势。2024年第一季度，付...
+- [SIRAJ：基于蒸馏结构化推理的 LLM 智能体多样化高效红队测试框架](https://paper.seebug.org/3407/) - 作者：Kaiwen Zhou, Ahmed Elgohary,A S M Iftekhar, Amin Saied
+译者：知道创宇404实验室翻译组
+原文链接：https://arxiv.org/ht...
+- [Windows SMB高危提权漏洞遭活跃利用 未打补丁设备恐被获取SYSTEM权限](https://www.4hou.com/posts/8g5l) - 安全研究员最新发现，威胁者目前正活跃利用Windows系统的一个SMB高危提权漏洞，在未打补丁的设备上获取SYSTEM权限（系统最高权限）。该漏洞编号为CVE-2025-33073，影响所有版本的Wi...
 
 
 ### 技术就业趋势
 
-低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- 😊 [技术进步带动体验升级，高通携手腾讯促进VVC深入应用，让“视界”更精彩](https://cloud.tencent.com/developer/article/2582936) 📈 关注
-  https://caijing.chinadaily.com.cn/a/202510/20/WS68f5d07fa310c4deea5ed303.html
-- 😊 [百倍性能提升背后：MySQL分析引擎的文本检索加速实践](https://cloud.tencent.com/developer/article/2582941) 📊 普通
-  腾讯的技术积累和专业现实业务中，基于关键字的搜索场景十分常见，提升文本检索性能是业务设计的关键。本文将介绍如何基于腾讯云 MySQL 分析引擎提升在全文检索场景下的查询性能。
-- 😐 [腾讯携手Google、Meta、Apple和Netflix在IEEE ICIP 2025顶会分享最新研究成果与实践，4篇论文入选](https://cloud.tencent.com/developer/article/2582937) 📊 普通
-  2025年9月14至18日，一年一度的IEEE图像处理国际会议（IEEE International Conference on Image Processing，ICIP）如期举办，IEEE ICI...
+- 😊 [重磅发布！美颜+互动全新玩法升级，腾讯特效助推企业全球增长](https://cloud.tencent.com/developer/article/2582955) 📈 关注
+  随着设备的算力提升和AI的深度融合，如今，实时美颜、趣味贴纸、虚拟形象已成为短视频和直播应用的标配。用户也开始追求更“好看”、更“好玩”的新功能、新玩法。平台和开发者既要追求更真实自然的视觉效果，又要...
+- 😊 [从“云”到“用”，腾讯专有云PaaS平台助力惠普金融数字化发展](https://cloud.tencent.com/developer/article/2582944) 📊 普通
+  2025年10月24日，以 “数智普惠 金融向实” 为主题的2025中小银行普惠金融创新研讨会，在江苏南京圆满闭幕。作为本次研讨会的特邀嘉宾，腾讯专有云 PaaS 平台专家架构师吴廷伟受邀参会，并带来...
+- 😊 [「腾讯云NoSQL」技术之MongoDB篇:MongoDB 5.0→8.0 balance性能提升40%内幕揭秘](https://cloud.tencent.com/developer/article/2582940) 📊 普通
+  在分布式数据库架构中，数据自动均衡（Balance）机制是分片集群良好运行的基石，它确保分片的优势——性能、可扩展性和可用得到充分发挥。腾讯云NoSQL和内核团队在内核性能基准测试中发现：MongoD...
 
 
 ### GitHub 趋势项目
 
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
-- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
 
 
 
@@ -147,25 +148,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $270.37 📉 -1.03 (-0.4%)
-- **GOOGL**: $281.19 📉 -0.29 (-0.1%)
-- **MSFT**: $517.81 📉 -8.01 (-1.5%)
+- **AAPL**: $269.05 📉 -1.32 (-0.5%)
+- **GOOGL**: $283.72 📈 +2.53 (+0.9%)
+- **MSFT**: $517.03 📉 -0.78 (-0.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**二叉树的最大深度** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+给定二叉树，找出其最大深度
 
-标签: 字符串, 动态规划
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -176,14 +177,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《设计模式》** - Gang of Four
 
-深度学习领域的权威教材 (分类: 人工智能)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -200,21 +201,21 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 ### 🎨 设计资源推荐
 
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Brain.fm Focus** - Brain.fm
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -240,15 +241,15 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
@@ -261,31 +262,31 @@ const a = 25;
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🛡️ 安全卫士
+今日挑战徽章：💡 创新者
 
-挑战ID: `946fa1` | 日期: 2025-11-03
+挑战ID: `8afa43` | 日期: 2025-11-04
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
-- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
@@ -306,7 +307,7 @@ const a = 25;
 
 ### 😄 程序员笑话
 
-真正的程序员不需要注释，代码就是最好的文档。
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -320,7 +321,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-03 08:15:06
+- 📅 更新时间: 2025-11-04 08:14:30
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -331,15 +332,14 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
+- 😊 积极新闻: 7 (87.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 13.0/100
+- 🔥 平均热度: 13.1/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- ChatGPT (1次)
+- OpenAI (1次)
 - GPT (1次)
-- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
