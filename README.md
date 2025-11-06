@@ -55,75 +55,81 @@
 
 MIT
 
-## 今日更新 (2025-11-05)
+## 今日更新 (2025-11-06)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- 😊 [[人工智能-大模型-20]：对比 Copilot 与国产替代方案（如通义灵码、百度Comate）](https://blog.csdn.net/HiWangWenBing/article/details/153681815) 🔥🔥🔥 超热
-  你的需求推荐方案追求全球最佳 AI 编程体验，使用 GitHub✅主要写中文注释，团队在国内✅通义灵码或企业级部署，注重数据安全与合规✅百度 Comate或华为 CodeArts Snap想免费使用高...
-- 😊 [Visual Studio 2026 震撼发布！AI 智能编程时代正式来临](https://blog.csdn.net/qq_41160012/article/details/151588070) 🔥 热门
-  微软发布VisualStudio2026 Insider预览版，带来革命性AI编程体验。新版本深度融合AI技术，提供智能代码补全、自动修复、测试建议等功能。性能显著提升，支持X64和ARM架构，优化解...
-- 😊 [Windsurf 下载和调试（超越cursor的免费的 AI IDE）](https://blog.csdn.net/calvin189s/article/details/146425040) 📈 关注
-  Windsurf 是一款由 Codeium 开发的 AI 驱动的代码编辑器，适合初学者和非程序员使用。它提供 AI 辅助编码、自动完成、自然语言交互等功能，帮助用户轻松学习编程。安装简单，支持 Mac...
-- 😐 [Python：AI开发第一语言的全面剖析](https://blog.csdn.net/sixpp/article/details/151147221) 📈 关注
-  Python已成为AI开发的主导语言，凭借其简洁语法、动态类型和丰富生态在学术界和工业界广泛应用。本文从技术特性、历史发展和生态系统三个维度分析了Python在AI领域的优势：1) 动态类型与交互式编...
-- 😐 [AI: 生成Android自我学习路线规划与实战](https://blog.csdn.net/qq_41821190/article/details/153692445) 📈 关注
-  到这里你已经拥有了一个完全可复用的 UDF 架构模板模块文件功能base/state定义三种层次数据流统一管理 StateFlow + EffectVoiceViewModel + 状态类业务逻辑示例...
+- 😊 [深度学习进阶（八）——AI 操作系统的雏形：AgentOS、Devin 与多智能体协作](https://blog.csdn.net/htw250056/article/details/153522030) 🔥🔥 很热
+  AI正从单一模型向系统化协作演进。早期大模型追求规模与精度，但存在记忆、调度等局限，催生了AutoGPT等智能体框架。多智能体协作（如ChatDev）通过角色分工实现任务并发，采用结构化通信协议提升效...
+- 😊 [[AI GPU互联]博通 PEX89000 pcie switch](https://blog.csdn.net/BIG_APPLE1/article/details/149143933) 📈 关注
+  深圳信迈提供的AI服务器PCIE 4.0/5.0 SWITCH GPU扩展卡解决方案，支持博通PEX89104 PCIe SWITCH，该交换机支持PCIE GEN5 32Gbps，最多104条PCI...
+- 😊 [自动化信息交付：深度解析AI驱动的每日简报系统架构与实现](https://blog.csdn.net/K48932/article/details/153519032) 📈 关注
+  本指南将以前所未有的深度，详细拆解构建过程中的每一个环节，从最初的构思，到智能体的精心调教，再到动态数据的注入和最终的自动化邮件推送，你将掌握的不仅仅是一个应用的搭建方法，更是一种全新的、利用AI解决...
+- 😊 [AI IDE+AI辅助编程，真能让程序员“告别996“吗？](https://blog.csdn.net/2301_79139273/article/details/153139261) 📈 关注
+  本文系统评估了AI编程工具(Cursor、Claude Code等)对开发效率的影响。测试表明，这类工具在代码补全、文档生成等方面显著提升效率，但存在学习成本和代码质量需人工把关等局限。文章通过代码示...
+- 😊 [AI驱动的能源环保客服智能应答系统](https://blog.csdn.net/EmeraldTiger56/article/details/154180463) 📈 关注
+  初期发现系统对一些模糊问题的分类不够准确，通过增加训练数据和优化模型参数得到了改善知识库更新机制开始时是手动触发，后来改为定时自动检查更新，大大提高了时效性语音合成的自然度问题，通过调整语速和语调参数...
 
 
 ### 网络安全资讯
 
-- [官宣！ADConf 2025「智变·暗涌」全议程上线](https://www.anquanke.com/post/id/312993) - 安全公告，详情请点击链接查看完整内容
-- [SIRAJ：基于蒸馏结构化推理的 LLM 智能体多样化高效红队测试框架](https://paper.seebug.org/3407/) - 作者：Kaiwen Zhou, Ahmed Elgohary,A S M Iftekhar, Amin Saied
-译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/ht...
-- [Open VSX代码仓库泄露访问令牌引发供应链攻击 恶意扩展程序被植入](https://www.4hou.com/posts/KG4z) - 目前，Open VSX代码仓库已轮换访问令牌——此前开发者在公共代码库中意外泄露了这些令牌，导致威胁者得以通过供应链攻击发布恶意扩展程序。此次泄露由Wiz公司研究人员于两周前发现，他们当时报告称，微软...
+- [第八届“强网”拟态防御国际精英挑战赛 - WIN！致敬mt 复现](https://paper.seebug.org/3409/) - 作者：flyyy  
+前言
+拟态比赛的时候时间过于匆忙，并没有很多时间看这道题目，因此赛后进行了复现，复现过程中需要感谢@zikh26师傅和神秘的@Nik Xe大哥的帮助。
+
+为什么第二道iot还没复...
+- [360 “纳米AI校园行”走进河南，多维度培育智能体人才](https://www.4hou.com/posts/QX4q) - 11月4日，360数字安全集团主办的“纳米AI校园行”主题活动落地河南物流职业学院。活动聚焦“数字安全与人工智能技术讲座”“纳米AI视频创作赛作品征集”两大核心板块，旨在帮助学生深化数字安全与AI双重...
+- [玄武在BlackHat揭示劫持智能体达成RCE的新方法](https://xlab.tencent.com/cn/2025/08/06/universal-and-context-independent-triggers/) - Author: Jiashuo Liang and Guancheng Li of Tencent Xuanwu Lab
+0x00 前言大语言模型（LLM）正在从简单的对话工具演化为能够编写代码、操作...
 
 
 ### 技术就业趋势
 
-人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
+云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
 
 ### 科技热点
 
-- 😊 [绝密数据解禁！腾讯有多少程序员？什么技术栈最热门？](https://cloud.tencent.com/developer/article/2582949) 🔥 热门
-  《2025腾讯研发大数据报告》正式发布，这是腾讯内部研发体系核心数据对外展示的唯一窗口。今年，腾讯云开发者将从员工结构、代码规模到AI参与度进行解读，向大家汇报一个“小有所成”科技公司研发体系的真实面...
-- 😊 [以Dify架构设计为例，一篇文看懂AI原生应用开发平台](https://cloud.tencent.com/developer/article/2582950) 📈 关注
-  本文基于LLM AI原生应用开发平台Tasking AI和Dify的架构设计，浅析两者在LLM接入与集成、工具插件扩展与管理、典型AI Assistant应用核心流程、复杂AI任务编排执行引擎方面的核...
-- 😐 [万字长文：重构软件工程迷思，搞懂需求与产品思维](https://cloud.tencent.com/developer/article/2582951) 📊 普通
-  在上篇文章《一文搞懂架构顶层设计之业务建模》中，我们已经深入拆解了软件工程中的建模难题，这篇文章，我们将回到最开始的地方，拆解程序员每天打交道的需求和产品思维都是什么。
+- 😊 [​​EdgeOne 第三季度产品动态｜​规则引擎、安全防护、Pages 等重磅能力升级](https://cloud.tencent.com/developer/article/2583090) 📊 普通
+  EdgeOne 始终坚持聆听用户之声，持续进行产品升级迭代，钻研先进技术方向。接下来将为您重点讲解本季度 EdgeOne 在边缘加速、边缘安全、边缘开发三个板块推出的创新能力，以及新增的数据分析指标。
+- 😊 [Lighthouse携手Coddebuddy，助力实现象棋对战小游戏一键发布](https://cloud.tencent.com/developer/article/2583189) 📊 普通
+  期待已久的项目一键部署到Lighthouse的功能终于在Codebuddy上线了，而且Codebuddy最近还在举行体验云端部署免费领取Lighthouse实例的活动，这下不得不体验一下了。
+- 😊 [避免“工作撞车”——多人协同编辑引擎在基于AST的低代码平台上的设计实践](https://cloud.tencent.com/developer/article/2583328) 📊 普通
+  当下，低代码开发平台凭借其可视化构建与快速交付的能力，日益成为企业提升效率、降低开发门槛的核心工具。然而，目前市面上的大多数低代码平台都忽视了多人协同编辑这一关键能力，这已成为制约团队效能的突出短板。
 
 
 ### GitHub 趋势项目
 
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
-- [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
-- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
 
 
 
 
 ### AI 研究论文
 
-- [Agent-Omni: Test-Time Multimodal Reasoning via Model Coordination for
-  Understanding Anything](http://arxiv.org/abs/2511.02834v1) - Huawei Lin, Yunzhi Shi, Tong Geng, Weijie Zhao, Wei Wang, Ravender Pal Singh
-  Multimodal large language models (MLLMs) have shown strong capabilities but
-remain limited to fixed modality pairs and require costly fine-tuning with...
+- [Outbidding and Outbluffing Elite Humans: Mastering Liar's Poker via
+  Self-Play and Reinforcement Learning](http://arxiv.org/abs/2511.03724v1) - Richard Dewey, Janos Botyanszki, Ciamac C. Moallemi, Andrew T. Zheng
+  AI researchers have long focused on poker-like games as a testbed for
+environments characterized by multi-player dynamics, imperfect information, and
+...
 
-- [Neurosymbolic Deep Learning Semantics](http://arxiv.org/abs/2511.02825v1) - Artur d'Avila Garcez, Simon Odense
-  Artificial Intelligence (AI) is a powerful new language of science as
-evidenced by recent Nobel Prizes in chemistry and physics that recognized
-contri...
+- [Grounded Misunderstandings in Asymmetric Dialogue: A Perspectivist
+  Annotation Scheme for MapTask](http://arxiv.org/abs/2511.03718v1) - Nan Li, Albert Gatt, Massimo Poesio
+  Collaborative dialogue relies on participants incrementally establishing
+common ground, yet in asymmetric settings they may believe they agree while
+r...
 
-- [Kosmos: An AI Scientist for Autonomous Discovery](http://arxiv.org/abs/2511.02824v1) - Ludovico Mitchener, Angela Yiu, Benjamin Chang, Mathieu Bourdenx, Tyler Nadolski, Arvis Sulovari, Eric C. Landsness, Daniel L. Barabasi, Siddharth Narayanan, Nicky Evans, Shriya Reddy, Martha Foiani, Aizad Kamal, Leah P. Shriver, Fang Cao, Asmamaw T. Wassie, Jon M. Laurent, Edwin Melville-Green, Mayk Caldas, Albert Bou, Kaleigh F. Roberts, Sladjana Zagorac, Timothy C. Orr, Miranda E. Orr, Kevin J. Zwezdaryk, Ali E. Ghareeb, Laurie McCoy, Bruna Gomes, Euan A. Ashley, Karen E. Duff, Tonio Buonassisi, Tom Rainforth, Randall J. Bateman, Michael Skarlinski, Samuel G. Rodriques, Michaela M. Hinks, Andrew D. White
-  Data-driven scientific discovery requires iterative cycles of literature
-search, hypothesis generation, and data analysis. Substantial progress has be...
+- [AnaFlow: Agentic LLM-based Workflow for Reasoning-Driven Explainable and
+  Sample-Efficient Analog Circuit Sizing](http://arxiv.org/abs/2511.03697v1) - Mohsen Ahmadzadeh, Kaichang Chen, Georges Gielen
+  Analog/mixed-signal circuits are key for interfacing electronics with the
+physical world. Their design, however, remains a largely handcrafted process...
 
 
 
@@ -147,25 +153,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $270.04 📈 +1.20 (+0.4%)
-- **GOOGL**: $277.54 📉 -6.18 (-2.2%)
-- **MSFT**: $514.33 📉 -2.70 (-0.5%)
+- **AAPL**: $270.14 📈 +0.10 (+0.0%)
+- **GOOGL**: $284.31 📈 +6.77 (+2.4%)
+- **MSFT**: $507.16 📉 -7.17 (-1.4%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+判断字符串中的括号是否有效匹配
 
-标签: 链表, 递归
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -176,7 +182,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
+Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 
 ### 📚 技术书籍推荐
@@ -193,14 +199,14 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
@@ -212,9 +218,9 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -228,27 +234,27 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
@@ -261,9 +267,9 @@ test('should calculate tax correctly', () => {
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `fdbca0` | 日期: 2025-11-05
+挑战ID: `670c13` | 日期: 2025-11-06
 
 
 ### 📊 技术话题投票
@@ -282,10 +288,10 @@ test('should calculate tax correctly', () => {
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
@@ -306,7 +312,7 @@ test('should calculate tax correctly', () => {
 
 ### 😄 程序员笑话
 
-程序员最讨厌的两件事：1. 写文档 2. 没有文档
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -320,7 +326,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-05 08:14:32
+- 📅 更新时间: 2025-11-06 08:14:34
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -331,16 +337,14 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
+- 😊 积极新闻: 8 (100.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 20.4/100
+- 🔥 平均热度: 12.4/100
 
 🏷️ **热门关键词**:
-- AI (7次)
-- AR (2次)
-- 人工智能 (1次)
-- 数据安全 (1次)
-- 大数据 (1次)
+- AI (5次)
+- 深度学习 (1次)
+- GPT (1次)
 
 
 ### 🤖 关于此项目
