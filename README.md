@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2025-11-07)
+## 今日更新 (2025-11-08)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😊 [重磅！开源版超级 AI 编程助手来了，吊打 Claude Code，支持  GPT-5 + Kimi 2 同时为你写代码](https://blog.csdn.net/easylife206/article/details/151768227) 🔥🔥 很热
-  如果说 Claude Code 是「命令行里的 AI 编程伙伴」，那么 Kode 则是「多模型协作的 AI 开发工作台」。Kode 是一个强大的 AI 助手，它直接运行在你的终端中。与仅支持单一模型的...
-- 😊 [重塑数学边界：人工智能如何引领数学研究的新纪元](https://blog.csdn.net/xiaofeng10330111/article/details/147685605) 🔥🔥 很热
-  本文探讨了人工智能如何深刻改变数学研究的边界，特别是在数学理论、推理和证明方式上的创新。随着生成式AI的快速发展，AI不仅帮助数学家加速推理过程，还能在新理论的构建中发挥重要作用。文章还深入分析了人机...
-- 😐 [【AI推理部署教程】使用 vLLM 运行智谱 GLM-4.5V 视觉语言模型推理服务](https://blog.csdn.net/weixin_61514920/article/details/150400590) 📈 关注
-  本文介绍了使用vLLM框架部署智谱GLM-4.5V视觉语言模型推理服务的完整流程。从环境准备（conda环境配置、PyTorch/CUDA版本检查、flash_attn安装）到AWQ量化模型压缩（显存...
-- 😊 [Navicat AI 助理实战指南：开启智能数据库管理新时代](https://blog.csdn.net/csdn_silent/article/details/154111556) 📈 关注
-  Navicat 集成的 AI 功能确实能大幅提升数据库管理和 SQL 编写的效率，它就像一个随时待命的数据库专家，能通过自然语言对话为你提供帮助。下面我将通过实战场景，带你一步步了解如何配置并使用这些...
-- 😐 [AI 文生图：主流动漫风格及提示词示例](https://blog.csdn.net/qq_41176800/article/details/146970599) 📈 关注
-  地面刻有发光符文，周围浮动着奇异的植物与碎石。她的动作优雅，裙摆随着旋转飞扬，阳光从树林间洒落在她身上，四周有几只小鸟飞舞、松鼠在远处观看，空气中漂浮着金色的光点。中文提示词：一位 Q 版少女气呼呼地...
+- 😊 [突破网页数据集获取难题：Web Unlocker API 助力 AI 训练与微调数据集全方位解决方案](https://blog.csdn.net/qq_44866828/article/details/147377934) 🔥 热门
+  突破网页数据集获取难题：Web Unlocker API 助力 AI 训练与微调数据集全方位解决方Web Unlocker API是基于Bright Data的代理基础设施开发的，具备三个关键组件：请...
+- 😊 [当 AI 开始「剧透」功能创意：初级开发者的反压制生存手册 —— 老码农的 Debug 式开导](https://blog.csdn.net/qq_33650655/article/details/150473167) 🔥 热门
+  AI 就像当年的 IDE（集成开发环境），刚出现时也有人担心「程序员会被工具替代」，但事实是，IDE 让编程效率提升了 10 倍，程序员有更多时间思考创意和架构。现在的 AI 也是如此，它接手了那些重...
+- 😊 [免费又强大！谷歌Gemini 2.5 Pro超详细使用指南（含AI Studio设置保姆级教程）](https://blog.csdn.net/Survivor_sl/article/details/146876858) 🔥 热门
+  作为谷歌最新的大模型，Gemini 2.5 Pro能力十分爆表：超强能力： 在推理、数学、科学和编码方面表现优异，尤其擅长Web开发。多模态大师： 能理解文本、图像、视频、音频甚至PDF文件！超长上下...
+- 😐 [不止于恶搞：把Seedream 4.0当作“AI版PS”，这是一份实战手册](https://blog.csdn.net/linshantang/article/details/151798901) 📈 关注
+  你很可能是在社交媒体上认识 Seedream 4.0 的。或许是那张“给Vogue封面模特穿上东北大棉袄”的恶搞图，又或许是“钢铁侠在路边摊吃麻辣烫”的脑洞系列。这些病毒式的传播，让字节跳动这款最新的...
+- 😐 [GpuGeek 实操指南：So-VITS-SVC 语音合成与 Stable Diffusion 文生图双模型搭建，融合即梦 AI 的深度实践](https://blog.csdn.net/weixin_62765017/article/details/147917019) 📈 关注
+  GpuGeek 实操指南：So-VITS-SVC 语音合成与 Stable Diffusion 文生图双模型搭建，融合即梦 AI 的深度实践
 
 
 ### 网络安全资讯
@@ -88,25 +88,25 @@ MIT
 
 ### 技术就业趋势
 
-量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- 😐 [BIOS启动类型，安装或就地升级25H2](https://cloud.tencent.com/developer/article/2583548) 📈 关注
-  用ISO在VMware Workstation安装系统时提示tpm2.0等限制：此时按Shift+F10，在打开的X:\命令行执行这2句命令，然后退回上一步，再点下一步，就跳过tpm2.0限制了（无需...
-- 😊 [腾讯游戏云，五连冠！](https://cloud.tencent.com/developer/article/2583686) 📊 普通
-  IDC发布的《中国游戏云市场跟踪报告，2025H1》显示，腾讯游戏云用量规模稳居第一，连庄五年。
-- 😐 [Goroutine间的“灵魂管道”：Channel如何实现数据同步与因果传递？](https://cloud.tencent.com/developer/article/2583578) 📊 普通
-  Channel是连接Goroutine的“管道”，是CSP理念在Golang中的具象化实现。它不仅是数据传递的队列，更是Goroutine间同步的天然工具，让开发者无需诉诸显式的锁或条件变量。
+- 😐 [AI搅不动今年的“双十一”](https://cloud.tencent.com/developer/article/2584512) 📈 关注
+  2025年的“双十一”，战线拉长到了37天。京东的“双十一”从10月9日开始，淘宝天猫于10月15日开启预售、20日现货开卖，一直持续到11月14日。
+- 😐 [你的程序为何卡顿？从LINUX I/O三大模式寻找答案](https://cloud.tencent.com/developer/article/2584448) 📊 普通
+  在LINUX中，内核空间和用户空间都位于虚拟内存中。LINUX采用两级保护机制：0级供内核使用，3级供用户程序使用。每个进程都有独立的用户空间（0~3G），对其他进程不可见，而最高的1G虚拟内核空间则...
+- 😊 [大模型+反诈+算力三重突破 腾讯云三项成果闪耀金融科技应用场景大赛](https://cloud.tencent.com/developer/article/2584511) 📊 普通
+  10月30日，在2025金融街论坛年会金融科技大会上，由北京市西城区人民政府主办、中关村科技园区西城园管委会承办的“2025金融科技应用场景大赛”终评结果在北京正式公布。
 
 
 ### GitHub 趋势项目
 
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
-- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
+- [awslabs/mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
 
 
 
@@ -151,25 +151,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $269.77 📉 -0.37 (-0.1%)
-- **GOOGL**: $284.75 📈 +0.44 (+0.2%)
-- **MSFT**: $497.10 📉 -10.06 (-2.0%)
+- **AAPL**: $268.47 📉 -1.30 (-0.5%)
+- **GOOGL**: $278.83 📉 -5.92 (-2.1%)
+- **MSFT**: $496.82 📉 -0.28 (-0.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**两数之和** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 链表, 递归
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -180,7 +180,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-世界上第一个域名是symbolics.com，注册于1985年3月15日
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
@@ -203,22 +203,22 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎨 设计资源推荐
 
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Ambient Coding** - Various Artists
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -232,79 +232,80 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**使用有意义的变量名**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**网络建设**: 参加技术会议和meetup，建立专业人脉网络
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 每月参加至少一次技术聚会或在线会议
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：🥷 代码忍者
 
-挑战ID: `2e1cd1` | 日期: 2025-11-07
+挑战ID: `36175e` | 日期: 2025-11-08
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
-- **Blockchain** 📉 -3% - 区块链热度回落
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-使用Rust构建跨平台桌面应用
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**AI工程师** (中级) 📈
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
@@ -323,7 +324,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-07 08:14:30
+- 📅 更新时间: 2025-11-08 08:12:08
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -336,13 +337,10 @@ function formatCurrency(amount) { ... }
 - 📰 新闻总数: 8
 - 😊 积极新闻: 4 (50.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 14.1/100
+- 🔥 平均热度: 10.1/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- GPT (1次)
-- 人工智能 (1次)
-- AR (1次)
+- AI (6次)
 
 
 ### 🤖 关于此项目
