@@ -55,79 +55,74 @@
 
 MIT
 
-## 今日更新 (2025-11-09)
+## 今日更新 (2025-11-11)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- 😊 [Sora2——当 AI 生成的 15 秒大片骗过你的眼睛！](https://blog.csdn.net/weixin_46491509/article/details/152561155) 🔥 热门
-  AI视频创作迎来新纪元！OpenAI发布的Sora 2以其三大核心突破震撼业界：物理推理能力实现真实世界规律还原，音画同步技术告别配音割裂，Cameo功能让用户成为数字主角。实测显示该工具在影视制作、...
-- 😟 [ChatTTS语音合成只能本地用？cpolar让跨平台协作无障碍！](https://blog.csdn.net/Pocker_Spades_A/article/details/154189691) 🔥 热门
-  做自媒体的朋友是不是经常遇到：想给视频配个自然的AI语音，又怕文字稿泄露？ChatTTS本地部署版帮你解决，语音合成效果堪比真人，数据还不外流🔒。但问题来了，团队成员不在一个网络，想一起调整语音参数只...
-- 😐 [【花雕动手做】CanMV K230 AI 视觉识别模块之使用draw_rectangle()方法绘制矩形](https://blog.csdn.net/weixin_41659040/article/details/154109667) 🔥 热门
-  CanMV K230是一款基于RISC-V架构的高性能边缘AI开发平台，搭载6TOPS算力的KPU加速器。本文展示了其Python视觉编程能力，通过draw_rectangle()方法实现矩形绘制功能...
-- 😊 [2024-2025年技术发展趋势深度分析：AI、前端与后端开发的革新之路](https://blog.csdn.net/hunzhizi/article/details/154036086) 📈 关注
-  2024-2025年是技术发展的关键转折点，AI技术的普及、框架的演进、架构的创新都在推动整个技术生态的变革。作为开发者，我们需要保持持续学习的态度，紧跟技术发展趋势，在智能化、工程化、跨领域融合的道...
-- 😊 [豆包・图像创作模型Seedream4.0创意玩法大赏：开启 AI 绘画新纪元](https://blog.csdn.net/2301_80840905/article/details/151998134) 📈 关注
-  Seedream 4.0 在技术与用户体验层面均实现显著突破。在技术上，它真正达成文本 + 多图像的多模态输入，主体一致性表现居同类产品前列，生成速度较 3.0 版本大幅提升，更是国内首个支持 4K ...
+- 😊 [【源力觉醒 创作者计划】开源、易用、强中文：文心一言4.5或是 普通人/非AI程序员 的第一款中文AI？](https://blog.csdn.net/qq_61654952/article/details/149088569) 🔥🔥🔥 超热
+  国外的AI技术确实很强，但它毕竟是国外的。记得ChatGPT刚推出时，有中国IP登录痕迹的账号直接被封禁😨。即使现在有了DeepSeek的突破，但像自持高贵的Gemini依然不为国内用户提供服务😓😡。...
+- 😐 [AI+大数据时代：如何从架构到生态重构时序数据库的价值？](https://blog.csdn.net/linshantang/article/details/153269236) 🔥🔥 很热
+  在数据爆炸的ZB/YB时代，时序数据库(TSDB)面临四大核心挑战：海量数据写入、毫秒级查询响应、低成本归档存储以及高基数处理能力。Apache IoTDB作为专为工业物联网设计的原生时序数据库，凭借...
+- 😊 [人工智能小白必读：一份超详细的AI学习路线图！](https://blog.csdn.net/Trb201012/article/details/138059398) 🔥🔥 很热
+  哈喽~ 大家好！今天为大家带来一份史无前例的人工智能学习路线。大家都喜欢看修仙小说吧，修仙小说中的修仙等级：炼气、筑基、金丹等各种境界，更是引人入胜。今天，小编将AI学习路线和修仙故事巧妙地融合在一起...
+- 😊 [Kimi发布AI智能体OK Computer实战：网页/PPT/绘本一键生成，小白也能轻松掌握大模型应用！](https://blog.csdn.net/2301_80239908/article/details/153203171) 🔥 热门
+  文章介绍了KIMI最新推出的AI智能体OK Computer的功能与应用。作者通过实战案例展示了OK Computer在制作旅行规划网页、留学规划PPT和儿童绘本三个场景中的出色表现。该智能体能根据简...
+- 😐 [Java后端开发神器：飞算JavaAI让我从菜鸟变高手](https://blog.csdn.net/linshantang/article/details/149048831) 📈 关注
+  Java开发，难在哪？对新手来说，是 Spring 庞杂的生态和似乎永远也写不完的"样板代码"；对老手而言，则是日复一日的增删改查（CRUD）和维护难以读懂的旧系统。我们花费了太多时间在"搬砖"上，而...
 
 
 ### 网络安全资讯
 
-- [黑客正滥用Windows Hyper-V功能隐匿Linux虚拟机，以规避终端检测与响应机制的检测](https://www.anquanke.com/post/id/313062) - 安全公告，详情请点击链接查看完整内容
-- [第八届“强网”拟态防御国际精英挑战赛 - WIN！致敬mt 复现](https://paper.seebug.org/3409/) - 作者：flyyy  
-前言
-拟态比赛的时候时间过于匆忙，并没有很多时间看这道题目，因此赛后进行了复现，复现过程中需要感谢@zikh26师傅和神秘的@Nik Xe大哥的帮助。
-
-为什么第二道iot还没复...
-- [动态自适应欺骗防御：重构网络安全防御新格局](https://www.4hou.com/posts/RX90) - 随着全球数字化进程的加速，网络安全已成为关乎国家发展、社会稳定以及企业生存的关键因素。近年来，新型网络攻击手段不断涌现，勒索病毒、高级持续性威胁、供应链安全等外部威胁不断增长；以AI大模型为核心的技术...
+- [iPhone未来图景：卫星通信将支持地图导航、照片传输及“自然交互”功能](https://www.anquanke.com/post/id/313091) - 安全公告，详情请点击链接查看完整内容
+- [面向人工智能驱动入侵检测系统的自动化可解释拒绝服务攻击分析](https://paper.seebug.org/3410/) - 作者：Paul Badu Yakubua, Lesther Santanaa, Mohamed Rahouti等
+译者：知道创宇404实验室翻译组
+原文链接：https://arxiv.org/htm...
+- [Balancer协议V2池遭黑客攻击 损失超1.28亿美元](https://www.4hou.com/posts/NG4K) - Balancer协议宣布其V2流动性池成为黑客攻击目标，据报道此次攻击造成的损失估计超过1.28亿美元。Balancer是基于以太坊区块链构建的去中心化金融（DeFi）协议，兼具自动做市商与流动性基础...
 
 
 ### 技术就业趋势
 
-边缘计算和IoT专家在制造业和智能城市项目中需求增加。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
-- 😐 [AI搅不动今年的“双十一”](https://cloud.tencent.com/developer/article/2584512) 📈 关注
-  2025年的“双十一”，战线拉长到了37天。京东的“双十一”从10月9日开始，淘宝天猫于10月15日开启预售、20日现货开卖，一直持续到11月14日。
-- 😐 [你的程序为何卡顿？从LINUX I/O三大模式寻找答案](https://cloud.tencent.com/developer/article/2584448) 📊 普通
-  在LINUX中，内核空间和用户空间都位于虚拟内存中。LINUX采用两级保护机制：0级供内核使用，3级供用户程序使用。每个进程都有独立的用户空间（0~3G），对其他进程不可见，而最高的1G虚拟内核空间则...
-- 😊 [大模型+反诈+算力三重突破 腾讯云三项成果闪耀金融科技应用场景大赛](https://cloud.tencent.com/developer/article/2584511) 📊 普通
-  10月30日，在2025金融街论坛年会金融科技大会上，由北京市西城区人民政府主办、中关村科技园区西城园管委会承办的“2025金融科技应用场景大赛”终评结果在北京正式公布。
+- 😊 [Spark SQL(一)：基本流程](https://cloud.tencent.com/developer/article/2584885) 📈 关注
+  Spark SQL在Spark项目定位如下，基于Spark Core提供结构化和半结构化数据的SQL处理能力[1]。 Spark SQL优化器实现框架称为
+- 😐 [Spark SQL(四)：基本概念-Join连接](https://cloud.tencent.com/developer/article/2584890) 📊 普通
+  
+- 😊 [单线程如何撑起百万连接？I/O多路复用：现代网络架构的基石](https://cloud.tencent.com/developer/article/2584896) 📊 普通
+  I/O多路复用（I/O Multiplexing）是一种允许单个线程同时监视多个文件描述符的I/O模型。其核心价值在于，它将应用程序从低效的I/O等待中解放出来，实现了“一次等待，响应多个事件”的高效...
 
 
 ### GitHub 趋势项目
 
+- [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [usestrix/strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
-- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
+- [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker
 
 
 
 
 ### AI 研究论文
 
-- [X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human
-  Demonstrations](http://arxiv.org/abs/2511.04671v1) - Maximus A. Pace, Prithwish Dan, Chuanruo Ning, Atiksh Bhardwaj, Audrey Du, Edward W. Duan, Wei-Chiu Ma, Kushal Kedia
-  Human videos can be recorded quickly and at scale, making them an appealing
-source of training data for robot learning. However, humans and robots dif...
+- [Lightning Grasp: High Performance Procedural Grasp Synthesis with
+  Contact Fields](http://arxiv.org/abs/2511.07418v1) - Zhao-Heng Yin, Pieter Abbeel
+  Despite years of research, real-time diverse grasp synthesis for dexterous
+hands remains an unsolved core challenge in robotics and computer graphics....
 
-- [VeriCoT: Neuro-symbolic Chain-of-Thought Validation via Logical
-  Consistency Checks](http://arxiv.org/abs/2511.04662v1) - Yu Feng, Nathaniel Weir, Kaj Bostrom, Sam Bayless, Darion Cassel, Sapana Chaudhary, Benjamin Kiesl-Reiter, Huzefa Rangwala
-  LLMs can perform multi-step reasoning through Chain-of-Thought (CoT), but
-they cannot reliably verify their own logic. Even when they reach correct
-an...
+- [Language Generation with Infinite Contamination](http://arxiv.org/abs/2511.07417v1) - Anay Mehrotra, Grigoris Velegkas, Xifan Yu, Felix Zhou
+  We study language generation in the limit, where an algorithm observes an
+adversarial enumeration of strings from an unknown target language $K$ and m...
 
-- [DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for
-  Embodied LLM-Based Multi-Agent Collaboration](http://arxiv.org/abs/2511.04646v1) - Narjes Nourzad, Hanqing Yang, Shiyu Chen, Carlee Joe-Wong
-  Cooperative multi-agent planning requires agents to make joint decisions with
-partial information and limited communication. Coordination at the traje...
+- [Robot Learning from a Physical World Model](http://arxiv.org/abs/2511.07416v1) - Jiageng Mao, Sicheng He, Hao-Ning Wu, Yang You, Shuyang Sun, Zhicheng Wang, Yanan Bao, Huizhong Chen, Leonidas Guibas, Vitor Guizilini, Howard Zhou, Yue Wang
+  We introduce PhysWorld, a framework that enables robot learning from video
+generation through physical world modeling. Recent video generation models ...
 
 
 
@@ -151,25 +146,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $268.47 📉 -1.30 (-0.5%)
-- **GOOGL**: $278.83 📉 -5.92 (-2.1%)
-- **MSFT**: $496.82 📉 -0.28 (-0.1%)
+- **AAPL**: $269.43 📈 +1.22 (+0.5%)
+- **GOOGL**: $290.10 📈 +11.27 (+4.0%)
+- **MSFT**: $506.00 📈 +9.18 (+1.8%)
 
 
 ### 🛠️ 开发者工具推荐
 
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**两数之和** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 栈, 字符串
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -185,9 +180,9 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《代码整洁之道》** - Robert C. Martin
 
-容器编排平台的完整指南 (分类: 云原生)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -198,13 +193,13 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 ### 🚀 创业公司动态
 
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
@@ -216,100 +211,101 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Synthwave Mix** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
 
-**微服务架构设计** (难度: 高级)
+**AI模型部署** (难度: 中等)
 
-设计一个电商系统的微服务架构，包含用户、订单、支付等服务
+将一个机器学习模型部署到云端，实现API调用
 
-🏷️ 标签: 架构设计, 微服务 | ⏱️ 预计时间: 4-8小时 | 🎯 奖励积分: 150
+🏷️ 标签: AI, 部署, 云计算 | ⏱️ 预计时间: 3-6小时 | 🎯 奖励积分: 120
 
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**写测试用例**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：🏗️ 架构师
 
-挑战ID: `fb294e` | 日期: 2025-11-09
+挑战ID: `3917b5` | 日期: 2025-11-11
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Tauri** (Rust) - ⭐ 70k+
 
-高性能代码编辑器
+使用Rust构建跨平台桌面应用
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-世界上有10种人：懂二进制的和不懂二进制的。
+如果调试是去除bug的过程，那么编程就是放入bug的过程。
 
 
 ### 🐙 GitHub 生态统计
@@ -323,7 +319,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-09 08:11:13
+- 📅 更新时间: 2025-11-11 08:14:06
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -334,14 +330,16 @@ function formatCurrency(amount) { ... }
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 13.4/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 19.0/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- OpenAI (1次)
-- AR (1次)
+- AI (5次)
+- AR (2次)
+- ChatGPT (1次)
+- GPT (1次)
+- 大数据 (1次)
 
 
 ### 🤖 关于此项目
