@@ -55,74 +55,70 @@
 
 MIT
 
-## 今日更新 (2025-11-11)
+## 今日更新 (2025-11-12)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- 😊 [【源力觉醒 创作者计划】开源、易用、强中文：文心一言4.5或是 普通人/非AI程序员 的第一款中文AI？](https://blog.csdn.net/qq_61654952/article/details/149088569) 🔥🔥🔥 超热
-  国外的AI技术确实很强，但它毕竟是国外的。记得ChatGPT刚推出时，有中国IP登录痕迹的账号直接被封禁😨。即使现在有了DeepSeek的突破，但像自持高贵的Gemini依然不为国内用户提供服务😓😡。...
-- 😐 [AI+大数据时代：如何从架构到生态重构时序数据库的价值？](https://blog.csdn.net/linshantang/article/details/153269236) 🔥🔥 很热
-  在数据爆炸的ZB/YB时代，时序数据库(TSDB)面临四大核心挑战：海量数据写入、毫秒级查询响应、低成本归档存储以及高基数处理能力。Apache IoTDB作为专为工业物联网设计的原生时序数据库，凭借...
-- 😊 [人工智能小白必读：一份超详细的AI学习路线图！](https://blog.csdn.net/Trb201012/article/details/138059398) 🔥🔥 很热
-  哈喽~ 大家好！今天为大家带来一份史无前例的人工智能学习路线。大家都喜欢看修仙小说吧，修仙小说中的修仙等级：炼气、筑基、金丹等各种境界，更是引人入胜。今天，小编将AI学习路线和修仙故事巧妙地融合在一起...
-- 😊 [Kimi发布AI智能体OK Computer实战：网页/PPT/绘本一键生成，小白也能轻松掌握大模型应用！](https://blog.csdn.net/2301_80239908/article/details/153203171) 🔥 热门
-  文章介绍了KIMI最新推出的AI智能体OK Computer的功能与应用。作者通过实战案例展示了OK Computer在制作旅行规划网页、留学规划PPT和儿童绘本三个场景中的出色表现。该智能体能根据简...
-- 😐 [Java后端开发神器：飞算JavaAI让我从菜鸟变高手](https://blog.csdn.net/linshantang/article/details/149048831) 📈 关注
-  Java开发，难在哪？对新手来说，是 Spring 庞杂的生态和似乎永远也写不完的"样板代码"；对老手而言，则是日复一日的增删改查（CRUD）和维护难以读懂的旧系统。我们花费了太多时间在"搬砖"上，而...
+- 😊 [重磅！李飞飞团队 80 页 Agent AI 综述：全方位详解技术演进与未来方向](https://blog.csdn.net/CSDN_430422/article/details/151139340) 🔥🔥 很热
+  智能体AI：迈向通用人工智能的多模态交互新范式 斯坦福大学等机构联合发表的《Agent AI》综述论文提出，结合大型语言模型（LLM）和视觉语言模型（VLM）的"智能体AI"正成为实现通用人工智能（A...
+- 😐 [Adobe Illustrator Ai 2025下载安装保姆级教程（附安装包）](https://blog.csdn.net/ps_xiaowang/article/details/147518770) 📈 关注
+  文章分享了Adobe Illustrator 2025的安装全流程和使用经验。作者从清理电脑环境、检查磁盘空间等准备工作开始，详细介绍了下载安装包、解压、以管理员身份运行等关键步骤，并推荐将软件安装在...
+- 😊 [飞算JavaAI：重新定义研发效能，让代码生成如丝般顺滑](https://blog.csdn.net/lwcwam/article/details/149033176) 📈 关注
+  《飞算JavaAI：智能编程助手的革命性突破》摘要：飞算JavaAI作为新一代智能编程助手，通过本地化智能分析引擎和上下文感知的代码生成算法，彻底改变了传统Java开发模式。该系统具备三大核心优势：1...
+- 😊 [​​​​​​​今日github AI科技工具汇总（20250415更新）](https://blog.csdn.net/xinxiyinhe/article/details/147238248) 📈 关注
+  以上工具与趋势可通过对应GitHub仓库链接进一步探索。如需了解具体实现或参与开源贡献，建议关注GitHub官方博客及开发者社区动态。
+- 😐 [万字长文详解 AI 大模型发展史：从萌芽到爆发，史上最全整理](https://blog.csdn.net/CSDN_430422/article/details/149507169) 📈 关注
+  万字长文详解 AI 大模型发展史：从萌芽到爆发，史上最全整理
 
 
 ### 网络安全资讯
 
-- [iPhone未来图景：卫星通信将支持地图导航、照片传输及“自然交互”功能](https://www.anquanke.com/post/id/313091) - 安全公告，详情请点击链接查看完整内容
+- [数据模型驱动：HTTP协议头中的状态转移 —— 基于ZoomEye Dorks的Web资产行为规范分析](https://www.anquanke.com/post/id/313125) - 安全公告，详情请点击链接查看完整内容
 - [面向人工智能驱动入侵检测系统的自动化可解释拒绝服务攻击分析](https://paper.seebug.org/3410/) - 作者：Paul Badu Yakubua, Lesther Santanaa, Mohamed Rahouti等
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/htm...
-- [Balancer协议V2池遭黑客攻击 损失超1.28亿美元](https://www.4hou.com/posts/NG4K) - Balancer协议宣布其V2流动性池成为黑客攻击目标，据报道此次攻击造成的损失估计超过1.28亿美元。Balancer是基于以太坊区块链构建的去中心化金融（DeFi）协议，兼具自动做市商与流动性基础...
+- [2025年网络安全“金帽子”年度评选活动投票通道正式开启！](https://www.4hou.com/posts/6MZQ) - 在智能技术深度融合的当下，网络安全已不仅仅是纯粹的技术议题，更是支撑社会运转的重要基石。伴随生成式人工智能、隐私计算等新一代信息技术的快速迭代，整个安全格局正在经历一场静默而深刻的重塑。此背景下，既催...
 
 
 ### 技术就业趋势
 
-具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
+远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
 
 ### 科技热点
 
-- 😊 [Spark SQL(一)：基本流程](https://cloud.tencent.com/developer/article/2584885) 📈 关注
-  Spark SQL在Spark项目定位如下，基于Spark Core提供结构化和半结构化数据的SQL处理能力[1]。 Spark SQL优化器实现框架称为
-- 😐 [Spark SQL(四)：基本概念-Join连接](https://cloud.tencent.com/developer/article/2584890) 📊 普通
-  
-- 😊 [单线程如何撑起百万连接？I/O多路复用：现代网络架构的基石](https://cloud.tencent.com/developer/article/2584896) 📊 普通
-  I/O多路复用（I/O Multiplexing）是一种允许单个线程同时监视多个文件描述符的I/O模型。其核心价值在于，它将应用程序从低效的I/O等待中解放出来，实现了“一次等待，响应多个事件”的高效...
+- 😐 [我们对AI认识远远不足，所以透明度才至关重要｜腾研对话海外名家](https://cloud.tencent.com/developer/article/2584916) 📈 关注
+  我们正在进入一个AI无处不在，却又几乎难以察觉其存在的时代。它悄然参与我们的社交、内容、服务、消费，甚至影响着我们的情绪、偏好与行为。但我们真的知道，它在哪儿、做了什么、由谁控制吗？当我们看不清，就无...
+- 😐 [Python处理Excel的5个“神仙库”，办公效率直接翻倍！](https://cloud.tencent.com/developer/article/2584537) 📊 普通
+  还在手动录入Excel到深夜？百份表格批量改格式改到手腕发酸？跨表核对数据反复出错返工？打工人别硬扛了！Python里藏着5个处理Excel的“神仙库”——从基础读写、批量分析到格式美化，全场景覆盖，...
+- 😊 [多端开发背景下，腾讯的应对方式和效果如何？](https://cloud.tencent.com/developer/article/2585113) 📊 普通
+  在当前移动互联网生态中，用户设备与交互场景日趋多元，开发者面临着多操作系统、多终端形态并存的挑战。尤其鸿蒙系统推出，挑战进一步加剧。同时，应用形态也日趋多样，除原生应用外，H5 页面、小程序等轻量化形...
 
 
 ### GitHub 趋势项目
 
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [usestrix/strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games) - A list of open source games.
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-- [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) - Post-training with Tinker
 
 
 
 
 ### AI 研究论文
 
-- [Lightning Grasp: High Performance Procedural Grasp Synthesis with
-  Contact Fields](http://arxiv.org/abs/2511.07418v1) - Zhao-Heng Yin, Pieter Abbeel
-  Despite years of research, real-time diverse grasp synthesis for dexterous
-hands remains an unsolved core challenge in robotics and computer graphics....
+- [A Deep Reinforcement Learning Approach for Ramp Metering Based on Traffic Video Data](https://arxiv.org/pdf/2012.12104v1) - Bing Liu, Yu Tang, Yuxiong Ji, Yu Shen, Yuchuan Du
+  Ramp metering that uses traffic signals to regulate vehicle flows from the on-ramps has been widely implemented to improve vehicle mobility of the fre...
 
-- [Language Generation with Infinite Contamination](http://arxiv.org/abs/2511.07417v1) - Anay Mehrotra, Grigoris Velegkas, Xifan Yu, Felix Zhou
-  We study language generation in the limit, where an algorithm observes an
-adversarial enumeration of strings from an unknown target language $K$ and m...
+- [Rethink AI-based Power Grid Control: Diving Into Algorithm Design](https://arxiv.org/pdf/2012.13026v1) - Xiren Zhou, Siqi Wang, Ruisheng Diao, Desong Bian, Jiahui Duan, Di Shi
+  Recently, deep reinforcement learning (DRL)-based approach has shown promisein solving complex decision and control problems in power engineering doma...
 
-- [Robot Learning from a Physical World Model](http://arxiv.org/abs/2511.07416v1) - Jiageng Mao, Sicheng He, Hao-Ning Wu, Yang You, Shuyang Sun, Zhicheng Wang, Yanan Bao, Huizhong Chen, Leonidas Guibas, Vitor Guizilini, Howard Zhou, Yue Wang
-  We introduce PhysWorld, a framework that enables robot learning from video
-generation through physical world modeling. Recent video generation models ...
+- [Fuzzy Commitments Offer Insufficient Protection to Biometric Templates Produced by Deep Learning](https://arxiv.org/pdf/2012.13293v1) - Danny Keller, Margarita Osadchy, Orr Dunkelman
+  In this work, we study the protection that fuzzy commitments offer when they are applied to facial images, processed by the state of the art deep lear...
 
 
 
@@ -146,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $269.43 📈 +1.22 (+0.5%)
-- **GOOGL**: $290.10 📈 +11.27 (+4.0%)
-- **MSFT**: $506.00 📈 +9.18 (+1.8%)
+- **AAPL**: $275.25 📈 +5.82 (+2.2%)
+- **GOOGL**: $291.31 📈 +1.21 (+0.4%)
+- **MSFT**: $508.68 📈 +2.68 (+0.5%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+给定二叉树，找出其最大深度
 
-标签: 数组, 哈希表
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -175,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《设计模式》** - Gang of Four
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -193,20 +189,20 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 ### 🚀 创业公司动态
 
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
@@ -239,15 +235,15 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
@@ -260,9 +256,9 @@ test('should calculate tax correctly', () => {
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `3917b5` | 日期: 2025-11-11
+挑战ID: `c3b4ae` | 日期: 2025-11-12
 
 
 ### 📊 技术话题投票
@@ -280,32 +276,32 @@ test('should calculate tax correctly', () => {
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Serverless** ☁️ +7% - 无服务器架构普及
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-使用Rust构建跨平台桌面应用
+现代Web应用框架
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**全栈开发** (中级) 📊
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+程序员的口头禅：在我的机器上运行得很好！
 
 
 ### 🐙 GitHub 生态统计
@@ -319,7 +315,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-11 08:14:06
+- 📅 更新时间: 2025-11-12 08:14:30
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -330,16 +326,13 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
+- 😊 积极新闻: 4 (50.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 19.0/100
+- 🔥 平均热度: 11.2/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- AR (2次)
-- ChatGPT (1次)
-- GPT (1次)
-- 大数据 (1次)
+- AI (6次)
+- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
