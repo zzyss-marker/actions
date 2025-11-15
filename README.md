@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2025-11-14)
+## 今日更新 (2025-11-15)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- 😊 [【征文计划】码上分享：基于 Rokid CXR-M SDK 构建「AI远程协作助手」实战全记录](https://blog.csdn.net/weixin_44976692/article/details/153324632) 🔥 热门
-  1. **设备连接与状态管理**：蓝牙/Wi-Fi 双通道连接、电量/亮度/音量监控；2. **实时协作引擎**：第一视角拍照/录像、语音流传输、远程控制；3. **AI增强场景**：提词器、翻译、自...
-- 😊 [[源力觉醒 创作者计划]_文心大模型4.5开源：从技术突破到生态共建的国产AI解读与本地部署指南](https://blog.csdn.net/2302_78391795/article/details/149757120) 🔥 热门
-  2025 年 6 月 30 日，百度文心大模型 4.5 系列全量开源，以 0.3B 到 424B 参数的完整矩阵构建起覆盖全场景的 AI 技术底座。该系列凭借异构多模态 MoE 架构实现计算效率跃升，...
-- 😐 [AI赋能项目管理VPSoft：新手必知的智能升级](https://blog.csdn.net/2503_93852266/article/details/154661509) 📈 关注
-  AI技术正在彻底改变项目管理方式，帮助新手从被动救火转向主动掌控。通过智能任务分配、进度预警和风险识别，AI能显著提升项目效率，减少返工率。中国信通院报告显示，使用AI的企业在任务分配、进度跟踪和缺陷...
-- 😐 [AI 的本地部署与自主训练全流程指南](https://blog.csdn.net/2301_78846431/article/details/148618276) 📈 关注
-  ### 《AI的本地部署与自主训练全流程指南》摘要  本文系统解析AI本地部署与自主训练的完整路径。从硬件（CPU/GPU配置）与软件（Python框架搭建）环境准备入手，详述数据收集、清洗、标注及划...
-- 😊 [AI炒股的项目开源了,DeepSeek仍然以显著优势领先](https://blog.csdn.net/luansj/article/details/154150172) 📊 普通
-  ,
+- 😊 [HexStrike AI 部署教程](https://blog.csdn.net/2301_76272092/article/details/153135532) 🔥 热门
+  HexStrike AI 是一个革命性的人工智能驱动的进攻性安全框架，它将专业安全工具与自主人工智能代理相结合，提供全面的安全测试功能。HexStrike AI 基于多代理架构构建，利用智能决策、实时...
+- 😊 [当AI用数据训练功能模型：初级Python开发者如何用创意超参数优化职业生涯？—— 老码农的算法奇遇记](https://blog.csdn.net/qq_33650655/article/details/153477939) 🔥 热门
+  本文探讨了AI时代初级Python开发者如何应对AI分析用户数据并生成功能模块的挑战，守护自身创意价值。文章从AI工作原理入手，揭示了其基于模式识别的局限性，并通过幽默比喻和Python代码示例展示了...
+- 😊 [如何在CANN 7.0框架下，利用Ascend C快速开发自定义AI算子](https://blog.csdn.net/IRpickstars/article/details/154574669) 📈 关注
+  2025年昇腾CANN训练营第二季现已正式启动！本季训练营基于CANN开源开放全场景，精心设计了四大定制化专题课程：0基础入门系列、码力全开特辑、开发者案例等，旨在助力不同阶段的开发者快速提升Asce...
+- 😊 [AutoGenTestCase - 借助AI大模型生成测试用例](https://blog.csdn.net/m0_58552717/article/details/148408721) 📈 关注
+  AutoGenTestCase是一款基于AI大模型的自动化测试用例生成工具，通过NLP技术解析需求文档或代码，智能生成结构化测试用例。核心功能包括需求解析、多场景覆盖和CI/CD集成，能显著提升测试效...
+- 😊 [【AI智能体】Coze 提取对标账号短视频生成视频文案实战详解](https://blog.csdn.net/zhangcongyi420/article/details/152653479) 📈 关注
+  Coze 提取对标账号短视频生成视频文案实战详解
 
 
 ### 网络安全资讯
@@ -81,17 +81,17 @@ MIT
 - [IndirectAD：面向商品推广的推荐系统实用数据投毒攻击研究](https://paper.seebug.org/3412/) - 作者：Zihao Wang1, Tianhao Mao2, Xiaofeng Wang, Di Tang, Xiaozhong Liu
 译者：知道创宇404实验室翻译组
 原文链接：https://ar...
-- [GlassWorm恶意软件卷土重来 三款新VSCode扩展下载量超万次](https://www.4hou.com/posts/YZg9) - 上月曾入侵OpenVSX与Visual Studio Code应用市场的GlassWorm恶意软件攻击活动再度回归，此次新增三款携带恶意载荷的VSCode扩展，累计下载量已超1万次。GlassWorm...
+- [IDC实测报告出炉，360安全运营智能体综合实力持续领跑中国市场](https://www.4hou.com/posts/nlKD) - 近日，全球领先的IT市场研究和咨询公司IDC发布《IDC Technology Assessment：中国安全运营智能体实测，2025》报告，围绕安全智能体在安全运营中的应用落地情况，从八大维度开展实...
 
 
 ### 技术就业趋势
 
-数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
+区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
 
 ### 科技热点
 
-- 😐 [职责分离的艺术：剖析主从Reactor模型如何实现极致的并发性能](https://cloud.tencent.com/developer/article/2586022) 📊 普通
-  Reactor单线程模型在Reactor单线程模型中，所谓的“单线程”主要针对I/O操作而言，即所有的I/O操作（如accept()、read()、write()和connect()）都在同一个线程上...
+- 😊 [AI智能体的阅读笔记：来自国外大佬的2篇技术爽文](https://cloud.tencent.com/developer/article/2586466) 🔥🔥 很热
+  Anthropic（Anthropic PBC，是一家美国的人工智能（AI）初创企业和公益公司，由OpenAI的前成员创立。），他们公司提出明确定义，区分了工作流和大模型的区别：
 - 😊 [开源实践：我的技术成长加速器 | 对话 OpenCloudOS 优秀贡献者黄振业](https://cloud.tencent.com/developer/article/2586264) 📊 普通
   在 OpenCloudOS 社区的发展进程中，越来越多年轻开发者凭借专业能力与热忱，为国产操作系统生态建设注入新活力。今天我们聚焦犀牛鸟优秀贡献者 —— 华中科技大学计算机科学与技术学院研究生黄振业，...
 - 😟 [TRTC功能上新，多网聚合加速扫除社交通信、在线教育等多场景网络痛点](https://cloud.tencent.com/developer/article/2586265) 📊 普通
@@ -111,14 +111,14 @@ MIT
 
 ### AI 研究论文
 
-- [A Deep Reinforcement Learning Approach for Ramp Metering Based on Traffic Video Data](https://arxiv.org/pdf/2012.12104v1) - Bing Liu, Yu Tang, Yuxiong Ji, Yu Shen, Yuchuan Du
-  Ramp metering that uses traffic signals to regulate vehicle flows from the on-ramps has been widely implemented to improve vehicle mobility of the fre...
+- [Black-Box On-Policy Distillation of Large Language Models](https://arxiv.org/abs/2511.10643v1) - Tianzhu Ye, Li Dong, Zewen Chi, Xun Wu, Shaohan Huang, Furu Wei
+  Black-box distillation creates student large language models (LLMs) by learning from a proprietary teacher model's text outputs alone, without access ...
 
-- [Rethink AI-based Power Grid Control: Diving Into Algorithm Design](https://arxiv.org/pdf/2012.13026v1) - Xiren Zhou, Siqi Wang, Ruisheng Diao, Desong Bian, Jiahui Duan, Di Shi
-  Recently, deep reinforcement learning (DRL)-based approach has shown promisein solving complex decision and control problems in power engineering doma...
+- [Instella: Fully Open Language Models with Stellar Performance](https://arxiv.org/abs/2511.10628v1) - Jiang Liu, Jialian Wu, Xiaodong Yu, Yusheng Su, Prakamya Mishra, Gowtham Ramesh, Sudhanshu Ranjan, Chaitanya Manem, Ximeng Sun, Ze Wang, Pratik Prabhanjan Brahma, Zicheng Liu, Emad Barsoum
+  Large language models (LLMs) have demonstrated remarkable performance across a wide range of tasks, yet the majority of high-performing models remain ...
 
-- [Fuzzy Commitments Offer Insufficient Protection to Biometric Templates Produced by Deep Learning](https://arxiv.org/pdf/2012.13293v1) - Danny Keller, Margarita Osadchy, Orr Dunkelman
-  In this work, we study the protection that fuzzy commitments offer when they are applied to facial images, processed by the state of the art deep lear...
+- [Querying Labeled Time Series Data with Scenario Programs](https://arxiv.org/abs/2511.10627v1) - Edward Kim, Devan Shanker, Varun Bharadwaj, Hongbeen Park, Jinkyu Kim, Hazem Torfah, Daniel J Fremont, Sanjit A Seshia
+  Simulation-based testing has become a crucial complement to road testing for ensuring the safety of cyber physical systems (CPS). As a result, signifi...
 
 
 
@@ -142,16 +142,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $272.95 📉 -0.52 (-0.2%)
-- **GOOGL**: $278.57 📉 -8.14 (-2.8%)
-- **MSFT**: $503.29 📉 -7.85 (-1.5%)
+- **AAPL**: $272.41 📉 -0.54 (-0.2%)
+- **GOOGL**: $276.41 📉 -2.16 (-0.8%)
+- **MSFT**: $510.18 📈 +6.89 (+1.4%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
@@ -176,9 +176,9 @@ WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的�
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《代码整洁之道》** - Robert C. Martin
 
-深度学习领域的权威教材 (分类: 人工智能)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,28 +188,28 @@ WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的�
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -223,51 +223,53 @@ WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的�
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**使用有意义的变量名**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**网络建设**: 参加技术会议和meetup，建立专业人脉网络
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 每月参加至少一次技术聚会或在线会议
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🥷 代码忍者
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `0b8b7a` | 日期: 2025-11-14
+挑战ID: `1ebe41` | 日期: 2025-11-15
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
@@ -276,30 +278,30 @@ git commit -m "Add user authentication feature"
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Kubernetes** 📈 +8% - 容器编排需求增长
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-高性能代码编辑器
+现代Web应用框架
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**全栈开发** (中级) 📊
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+世界上有10种人：懂二进制的和不懂二进制的。
 
 
 ### 🐙 GitHub 生态统计
@@ -313,7 +315,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-14 08:14:17
+- 📅 更新时间: 2025-11-15 08:11:54
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -324,12 +326,14 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
+- 😊 积极新闻: 7 (87.5%)
 - 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 7.1/100
+- 🔥 平均热度: 14.2/100
 
 🏷️ **热门关键词**:
-- AI (5次)
+- AI (6次)
+- 人工智能 (2次)
+- OpenAI (1次)
 
 
 ### 🤖 关于此项目
