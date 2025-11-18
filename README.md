@@ -55,47 +55,47 @@
 
 MIT
 
-## 今日更新 (2025-11-17)
+## 今日更新 (2025-11-18)
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- 😊 [重磅！OpenAI首款AI浏览器ChatGPT Atlas正式上线（附下载体验方式）](https://blog.csdn.net/qq_59308920/article/details/153790484) 🔥🔥🔥 超热
-  penAI正式发布首款AI原生浏览器ChatGPT Atlas，基于Chromium开发，界面与传统浏览器类似。核心功能包括AI侧边栏、浏览器记忆和智能体模式，支持付费用户实现自动化操作。目前已在ma...
-- 😊 [[毕设选题] 2025-2026 年 计算机科学与技术专业毕设选题推荐汇总 web应用 / 大数据/人工智能 新颖题目 大全✅​](https://blog.csdn.net/qq_37340229/article/details/154017859) 🔥🔥 很热
-  计算机选题合集涵盖Web应用开发、移动应用开发、数据库与大数据处理、信息安全应用、智能系统开发等五大研究方向的选题指南与实践案例。适合计算机应用技术、软件工程、网络工程等相关专业的本科生做毕业设计参考...
-- 😊 [《赋能AI解锁Coze智能体搭建核心技能（1）--- 初识coze》](https://blog.csdn.net/2401_87342824/article/details/154023286) 📈 关注
-  《初识Coze：字节跳动AI智能体开发平台入门指南》摘要： Coze（扣子）是字节跳动推出的零代码AI智能体开发平台，支持用户快速构建对话机器人等AI应用并部署至多平台。其产品生态包含四大组件：开发平...
-- 😟 [2025 最好用的 AI 工具大全推荐，看这一篇就够了！【建议保存】](https://blog.csdn.net/2401_85343303/article/details/147991963) 📈 关注
-  这一年被轰炸最多的问题是什么？那一定是——>“大佬，这个 XXX 是用啥 AI 搞的？”“求推荐！有没有能一键搞定 XXX 的神器？”今天我来整理一篇 AI 工具合集，是时候再来一波终极安利了。这次，...
-- 😐 [机器学习算法——常规算法，在同的业务场景也需要使用不同的算法(一)](https://blog.csdn.net/2301_77628600/article/details/140755225) 📊 普通
-  👨‍💻。
+- 😊 [多模态技术深度探索：融合视觉与语言的AI新范式](https://blog.csdn.net/2301_79139273/article/details/154370011) 🔥🔥 很热
+  摘要 本文由AI技术专家蒋星熠Jaxonic撰写，深入解析了多模态人工智能技术的最新发展与应用。文章首先介绍了多模态学习的基本概念及其与单模态AI的区别，通过对比表呈现关键差异；随后详细梳理了多模态技...
+- 😊 [Spring AI与DeepSeek实战：打造企业级智能体](https://blog.csdn.net/mr_yuanshen/article/details/153653306) 📈 关注
+  在 AI 技术蓬勃发展的今天，国产大模型DeepSeek凭借其低成本高性能的特点，成为企业智能化转型的热门选择。而Spring AI作为 Java 生态的 AI 集成框架，通过统一API、简化配置等特...
+- 😐 [Context7 + MCP：让 AI 编程助手实时获取最新文档的利器](https://blog.csdn.net/qq_44810930/article/details/147976546) 📈 关注
+  在使用 AI 编程助手时，开发者常遇到生成的代码引用过时 API 或虚构函数的问题，这源于模型训练数据的滞后。为解决这一“幻觉”问题，Upstash 团队推出了 Context7，一个基于 MCP 协...
+- 😊 [Java+AI 开发：从技术栈到落地的全攻略](https://blog.csdn.net/qq_57076730/article/details/151158699) 📈 关注
+  现在的 Java+AI 开发，早已不是 “用 Java 写业务 + 调个 AI 接口” 的简单组合 —— 核心是 **“Java 的工程化能力支撑 AI 落地，AI 的智能化能力升级 Java 应用”...
+- 😐 [我花一周测了8个降AI工具，这5个最实用【附三步降AIGC率方法】](https://blog.csdn.net/huayishuo/article/details/153326600) 📊 普通
+  希望你们别再踩我踩过的坑。
 
 
 ### 网络安全资讯
 
-- [一场通过Telegram传播的网络钓鱼活动正针对欧洲企业，利用HTML附件窃取用户凭证](https://www.anquanke.com/post/id/313153) - 安全公告，详情请点击链接查看完整内容
-- [IndirectAD：面向商品推广的推荐系统实用数据投毒攻击研究](https://paper.seebug.org/3412/) - 作者：Zihao Wang1, Tianhao Mao2, Xiaofeng Wang, Di Tang, Xiaozhong Liu
+- [pgAdmin4存在高危漏洞，可致攻击者在服务器上执行远程代码](https://www.anquanke.com/post/id/313226) - 安全公告，详情请点击链接查看完整内容
+- [思维链劫持](https://paper.seebug.org/3413/) - 作者：Jianli Zhao, Tingchen Fu, Rylan Schaeffer, Mrinank Sharma, Fazl Barez
 译者：知道创宇404实验室翻译组
-原文链接：https://ar...
-- [具身智能高歌猛进，政策、技术、市场三重驱动，安全底座何处寻？](https://www.4hou.com/posts/8g45) - 在人工智能浪潮的推动下，具身智能机器人正从科幻走向现实，成为引领下一代产业变革的关键力量。随着国家政策的持续引导、技术标准的逐步完善以及市场应用的加速落地，具身智能机器人迎来了前所未有的发展机遇。然而...
+原文链接：https...
+- [获IDC首推！360以安全工作空间重构智能时代安全边界](https://www.4hou.com/posts/Bv3n) - 近日，全球领先的IT市场研究和咨询公司IDC发布《中国安全工作空间实践方案市场洞察与品牌推荐，2025：数据安全、零信任与AI能力成为产品标配》，对中国市场主要的安全工作空间解决方案提供商进行评估，3...
 
 
 ### 技术就业趋势
 
-区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
+数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
 
 ### 科技热点
 
-- 😊 [腾讯企点发布《智能营销白皮书》：AI赋能全链路 助力企业实现“魔力增长”](https://cloud.tencent.com/developer/article/2586429) 📈 关注
-  在流量红利见顶、行业竞争加剧的时代，传统粗放式营销增长模式正面临严峻挑战。获客成本高，用户注意力分散、数据割裂、个性化难以规模化……企业从“流量收割”转向“用户精耕”迫在眉睫。在此背景下，如何在存量时...
-- 😊 [腾讯云副总裁李学朝：企点营销云三大升级 助力企业打造“一专多能”AI营销团队](https://cloud.tencent.com/developer/article/2586431) 📈 关注
-  面对“增量”转向“存量”的新常态，企业正普遍陷入“增长焦虑”。9月17日，在2025腾讯全球数字生态大会上，腾讯云腾讯企点营销云全面升级，推出以“Magic Agent”为核心的全链路营销智能体，旨在...
-- 😊 [我决定用AI重写这个34.7万次下载的Python库](https://cloud.tencent.com/developer/article/2586499) 📈 关注
-  今天想和大家分享一个重要的决定：我的开源项目 python-office（下载量34.7万次），即将用AI编程技术进行全面重写。
+- 😐 [AI时代技术写作的必要性与价值](https://cloud.tencent.com/developer/article/2587478) 🔥 热门
+  过去的一年里，我发现自己写技术文章的频率明显减少了。一方面，确实有时候会感到有点懒散；另一方面，在这个AI迅速发展的时代，我发现那些侧重于传递知识的文章似乎不再像以前那样受到重视了。因为现在的人工智能...
+- 😐 [我们很可能正走向一个“无工作社会”｜腾研对话海外名家](https://cloud.tencent.com/developer/article/2586668) 🔥 热门
+  本文根据英国国家学术院院士、剑桥大学人类学教授、国王学院终身院士艾伦·麦克法兰（Alan Macfarlane）在腾讯研究院 AI&Society 海外专家面对面系列对话中的分享整理而成，分享主题为“...
+- 😊 [史诗级更新！国内首个支持Skills模式的编程助手，开启AI编程二阶段！](https://cloud.tencent.com/developer/article/2586272) 📈 关注
+  自 CodeBuddy  及行业 AI Coding 工具诞生发布以来，伴随业界 LLM 的高速发展，特别是近半年 AI Agent 在行业内的快速崛起，在我们与外部企业负责人、高校院校负责人，以及团...
 
 
 ### GitHub 趋势项目
@@ -111,14 +111,14 @@ MIT
 
 ### AI 研究论文
 
-- [Private Frequency Estimation Via Residue Number Systems](https://arxiv.org/abs/2511.11569v1) - Héber H. Arcolezi
-  We present 	extsf{ModularSubsetSelection} (MSS), a new algorithm for locally differentially private (LDP) frequency estimation. Given a universe of s...
+- [Scaling Spatial Intelligence with Multimodal Foundation Models](https://arxiv.org/abs/2511.13719v1) - Zhongang Cai, Ruisi Wang, Chenyang Gu, Fanyi Pu, Junxiang Xu, Yubo Wang, Wanqi Yin, Zhitao Yang, Chen Wei, Qingping Sun, Tongxi Zhou, Jiaqi Li, Hui En Pang, Oscar Qian, Yukun Wei, Zhiqian Lin, Xuanke Shi, Kewang Deng, Xiaoyang Han, Zukai Chen, Xiangyu Fan, Hanming Deng, Lewei Lu, Liang Pan, Bo Li, Ziwei Liu, Quan Wang, Dahua Lin, Lei Yang
+  Despite remarkable progress, multimodal foundation models still exhibit surprising deficiencies in spatial intelligence. In this work, we explore scal...
 
-- [A Unified Convergence Analysis for Semi-Decentralized Learning: Sampled-to-Sampled vs. Sampled-to-All Communication](https://arxiv.org/abs/2511.11560v1) - Angelo Rodio, Giovanni Neglia, Zheng Chen, Erik G. Larsson
-  In semi-decentralized federated learning, devices primarily rely on device-to-device communication but occasionally interact with a central server. Pe...
+- [UnSAMv2: Self-Supervised Learning Enables Segment Anything at Any Granularity](https://arxiv.org/abs/2511.13714v1) - Junwei Yu, Trevor Darrell, XuDong Wang
+  The Segment Anything Model (SAM) family has become a widely adopted vision foundation model, but its ability to control segmentation granularity remai...
 
-- [Human-AI collaborative autonomous synthesis with pulsed laser deposition for remote epitaxy](https://arxiv.org/abs/2511.11558v1) - Asraful Haque, Daniel T. Yimam, Jawad Chowdhury, Ralph Bulanadi, Ivan Vlassiouk, John Lasseter, Sujoy Ghosh, Christopher M. Rouleau, Kai Xiao, Yongtao Liu, Eva Zarkadoula, Rama K. Vasudevan, Sumner B. Harris
-  Autonomous laboratories typically rely on data-driven decision-making, occasionally with human-in-the-loop oversight to inject domain expertise. Fully...
+- [From Black Box to Insight: Explainable AI for Extreme Event Preparedness](https://arxiv.org/abs/2511.13712v1) - Kiana Vu, İsmet Selçuk Özer, Phung Lai, Zheng Wu, Thilanka Munasinghe, Jennifer Wei
+  As climate change accelerates the frequency and severity of extreme events such as wildfires, the need for accurate, explainable, and actionable forec...
 
 
 
@@ -142,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $272.41 📉 -0.54 (-0.2%)
-- **GOOGL**: $276.41 📉 -2.16 (-0.8%)
-- **MSFT**: $510.18 📈 +6.89 (+1.4%)
+- **AAPL**: $267.46 📉 -4.95 (-1.8%)
+- **GOOGL**: $285.02 📈 +8.61 (+3.1%)
+- **MSFT**: $507.49 📉 -2.69 (-0.5%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-将两个升序链表合并为一个新的升序链表
+给定字符串，找出其中最长的回文子串
 
-标签: 链表, 递归
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -171,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《设计模式》** - Gang of Four
 
-深度学习领域的权威教材 (分类: 人工智能)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,21 +188,21 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
@@ -247,54 +247,54 @@ git commit -m "Add user authentication feature"
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：⚡ 性能优化师
 
-挑战ID: `c60259` | 日期: 2025-11-17
+挑战ID: `a6e644` | 日期: 2025-11-18
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-现代Web应用框架
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**AI工程师** (中级) 📈
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
@@ -313,7 +313,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-17 08:15:51
+- 📅 更新时间: 2025-11-18 08:14:42
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -324,16 +324,14 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 20.4/100
+- 😊 积极新闻: 4 (50.0%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 17.5/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- ChatGPT (1次)
-- GPT (1次)
-- OpenAI (1次)
-- 人工智能 (1次)
+- AI (8次)
+- 人工智能 (2次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
