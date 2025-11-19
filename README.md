@@ -55,7 +55,7 @@
 
 MIT
 
-## 今日更新 (2025-11-18)
+## 今日更新 (2025-11-19)
 
 ### 今日名言
 
@@ -63,39 +63,39 @@ MIT
 
 ### AI 技术动态
 
-- 😊 [多模态技术深度探索：融合视觉与语言的AI新范式](https://blog.csdn.net/2301_79139273/article/details/154370011) 🔥🔥 很热
-  摘要 本文由AI技术专家蒋星熠Jaxonic撰写，深入解析了多模态人工智能技术的最新发展与应用。文章首先介绍了多模态学习的基本概念及其与单模态AI的区别，通过对比表呈现关键差异；随后详细梳理了多模态技...
-- 😊 [Spring AI与DeepSeek实战：打造企业级智能体](https://blog.csdn.net/mr_yuanshen/article/details/153653306) 📈 关注
-  在 AI 技术蓬勃发展的今天，国产大模型DeepSeek凭借其低成本高性能的特点，成为企业智能化转型的热门选择。而Spring AI作为 Java 生态的 AI 集成框架，通过统一API、简化配置等特...
-- 😐 [Context7 + MCP：让 AI 编程助手实时获取最新文档的利器](https://blog.csdn.net/qq_44810930/article/details/147976546) 📈 关注
-  在使用 AI 编程助手时，开发者常遇到生成的代码引用过时 API 或虚构函数的问题，这源于模型训练数据的滞后。为解决这一“幻觉”问题，Upstash 团队推出了 Context7，一个基于 MCP 协...
-- 😊 [Java+AI 开发：从技术栈到落地的全攻略](https://blog.csdn.net/qq_57076730/article/details/151158699) 📈 关注
-  现在的 Java+AI 开发，早已不是 “用 Java 写业务 + 调个 AI 接口” 的简单组合 —— 核心是 **“Java 的工程化能力支撑 AI 落地，AI 的智能化能力升级 Java 应用”...
-- 😐 [我花一周测了8个降AI工具，这5个最实用【附三步降AIGC率方法】](https://blog.csdn.net/huayishuo/article/details/153326600) 📊 普通
-  希望你们别再踩我踩过的坑。
+- 😐 [手把手教你在单片机上部署深度学习模型——基于STM32CubeMX与X-Cube-AI](https://blog.csdn.net/weixin_63113550/article/details/145967973) 🔥🔥 很热
+  在嵌入式设备上部署深度学习模型已成为边缘计算的热门方向。本文将以STM32F429开发板(使用的是野火的STM32F429挑战者开发板)为例，结合STM32CubeMX和X-Cube-AI工具包，详细...
+- 😊 [Qwen3-VL-4B-Instruct：轻量级多模态AI模型的技术解析与实践指南](https://blog.csdn.net/Liudef06/article/details/153972137) 📈 关注
+  Qwen3-VL-4B-Instruct是阿里推出的轻量级多模态AI模型，仅40亿参数却支持256K长文本和跨模态理解。该模型采用创新架构，包括动态分辨率调整、深层视觉特征融合等技术，在多项基准测试中...
+- 😐 [科研利器！斯坦福大学力荐的五款学术搜索AI大模型，文献检索与深度综述一网打尽！](https://blog.csdn.net/2401_84495872/article/details/148743304) 📈 关注
+  【科研必备：5款AI学术搜索神器推荐】为解决文献检索效率低下问题，本文精选5款斯坦福大学认证的AI学术工具：SciSpace（ChatwithPDF+智能写作）；Consensus（2亿文献精准检索）...
+- 😟 [智慧医疗：FHIR R5、联邦学习与MLOps三位一体的AI产品化实战指南（案例）](https://blog.csdn.net/kkiron/article/details/154728162) 📈 关注
+  本文介绍了一个为Python本地环境设计的FHIR R5映射模板，用于患者30天内再入院风险预测场景。该模板包含两个核心功能：首先将类EHR表格数据（CSV格式）转换为符合FHIR R5规范的JSON...
+- 😊 [超绝AI 编程助手：快速上手 Augment Code，提升开发效率！](https://blog.csdn.net/brownxd/article/details/149023511) 📈 关注
+  Augment Code入门教程摘要Augment Code是一款基于AI的智能编程助手，提供代码生成、重构和补全功能。它支持VSCode和JetBrains IDE插件安装，提供两种工作模式：Age...
 
 
 ### 网络安全资讯
 
-- [pgAdmin4存在高危漏洞，可致攻击者在服务器上执行远程代码](https://www.anquanke.com/post/id/313226) - 安全公告，详情请点击链接查看完整内容
+- [【团队巅峰赛】年终冲榜ing，登顶豪享『出国行』](https://www.anquanke.com/post/id/313234) - 安全公告，详情请点击链接查看完整内容
 - [思维链劫持](https://paper.seebug.org/3413/) - 作者：Jianli Zhao, Tingchen Fu, Rylan Schaeffer, Mrinank Sharma, Fazl Barez
 译者：知道创宇404实验室翻译组
 原文链接：https...
-- [获IDC首推！360以安全工作空间重构智能时代安全边界](https://www.4hou.com/posts/Bv3n) - 近日，全球领先的IT市场研究和咨询公司IDC发布《中国安全工作空间实践方案市场洞察与品牌推荐，2025：数据安全、零信任与AI能力成为产品标配》，对中国市场主要的安全工作空间解决方案提供商进行评估，3...
+- [监管通报70款APP违法违规收集个人信息，涉及宠物服务、医疗健康、出行租车、物流查询等民生高频使用场景](https://www.4hou.com/posts/5MYZ) - 依据《网络安全法》《个人信息保护法》等法律法规，按照《中央网信办、工业和信息化部、公安部、市场监管总局关于开展2025年个人信息保护系列专项行动的公告》要求，经国家计算机病毒应急处理中心检测，70款移...
 
 
 ### 技术就业趋势
 
-数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
+区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
 
 ### 科技热点
 
-- 😐 [AI时代技术写作的必要性与价值](https://cloud.tencent.com/developer/article/2587478) 🔥 热门
-  过去的一年里，我发现自己写技术文章的频率明显减少了。一方面，确实有时候会感到有点懒散；另一方面，在这个AI迅速发展的时代，我发现那些侧重于传递知识的文章似乎不再像以前那样受到重视了。因为现在的人工智能...
-- 😐 [我们很可能正走向一个“无工作社会”｜腾研对话海外名家](https://cloud.tencent.com/developer/article/2586668) 🔥 热门
-  本文根据英国国家学术院院士、剑桥大学人类学教授、国王学院终身院士艾伦·麦克法兰（Alan Macfarlane）在腾讯研究院 AI&Society 海外专家面对面系列对话中的分享整理而成，分享主题为“...
-- 😊 [史诗级更新！国内首个支持Skills模式的编程助手，开启AI编程二阶段！](https://cloud.tencent.com/developer/article/2586272) 📈 关注
-  自 CodeBuddy  及行业 AI Coding 工具诞生发布以来，伴随业界 LLM 的高速发展，特别是近半年 AI Agent 在行业内的快速崛起，在我们与外部企业负责人、高校院校负责人，以及团...
+- 😊 [当 AI 成为生产力底座，如何打通产业落地“最后一公里”？](https://cloud.tencent.com/developer/article/2587845) 🔥🔥 很热
+  2025 年，人工智能正从“技术可用”迈向“与产业共生”的深度发展阶段。在政策引导、技术突破与市场需求的三重驱动下，AI 已不再是孤立的算法模型，而是作为数智基因，深度融入制造、零售、能源等核心产业的...
+- 😊 [技术创作特训营 | 新版内容评分逻辑说明](https://cloud.tencent.com/developer/article/2587238) 📊 普通
+  为进一步优化技术创作特训营的评选机制，更好地鼓励优质、深度的技术内容产出，本期特训营正式推出
+- 😊 [腾讯云 x 泸州老窖：在线业务与实时分析的一体化解决之道](https://cloud.tencent.com/developer/article/2587843) 📊 普通
+  为了更好地为泸州老窖的业务稳健运行保驾护航，腾讯技术架构团队和泸州老窖核心服务商“汉得信息”一起，通过TDSQL-C 只读分析引擎，成功打造了在线事务处理（OLTP）与在线分析处理（OLAP）一体化融...
 
 
 ### GitHub 趋势项目
@@ -111,14 +111,14 @@ MIT
 
 ### AI 研究论文
 
-- [Scaling Spatial Intelligence with Multimodal Foundation Models](https://arxiv.org/abs/2511.13719v1) - Zhongang Cai, Ruisi Wang, Chenyang Gu, Fanyi Pu, Junxiang Xu, Yubo Wang, Wanqi Yin, Zhitao Yang, Chen Wei, Qingping Sun, Tongxi Zhou, Jiaqi Li, Hui En Pang, Oscar Qian, Yukun Wei, Zhiqian Lin, Xuanke Shi, Kewang Deng, Xiaoyang Han, Zukai Chen, Xiangyu Fan, Hanming Deng, Lewei Lu, Liang Pan, Bo Li, Ziwei Liu, Quan Wang, Dahua Lin, Lei Yang
-  Despite remarkable progress, multimodal foundation models still exhibit surprising deficiencies in spatial intelligence. In this work, we explore scal...
+- [ARC Is a Vision Problem!](https://arxiv.org/abs/2511.14761v1) - Keya Hu, Ali Cy, Linlu Qiu, Xiaoman Delores Ding, Runqian Wang, Yeyin Eva Zhu, Jacob Andreas, Kaiming He
+  The Abstraction and Reasoning Corpus (ARC) is designed to promote research on abstract reasoning, a fundamental aspect of human intelligence. Common a...
 
-- [UnSAMv2: Self-Supervised Learning Enables Segment Anything at Any Granularity](https://arxiv.org/abs/2511.13714v1) - Junwei Yu, Trevor Darrell, XuDong Wang
-  The Segment Anything Model (SAM) family has become a widely adopted vision foundation model, but its ability to control segmentation granularity remai...
+- [Heterogeneous Multi-Agent Proximal Policy Optimization for Power Distribution System Restoration](https://arxiv.org/abs/2511.14730v1) - Parya Dolatyabi, Mahdi Khodayar
+  Restoring power distribution systems (PDS) after large-scale outages requires sequential switching operations that reconfigure feeder topology and coo...
 
-- [From Black Box to Insight: Explainable AI for Extreme Event Preparedness](https://arxiv.org/abs/2511.13712v1) - Kiana Vu, İsmet Selçuk Özer, Phung Lai, Zheng Wu, Thilanka Munasinghe, Jennifer Wei
-  As climate change accelerates the frequency and severity of extreme events such as wildfires, the need for accurate, explainable, and actionable forec...
+- [Automated proving in planar geometry based on the complex number identity method and elimination](https://arxiv.org/abs/2511.14728v1) - Zoltán Kovács, Xicheng Peng
+  We improve the complex number identity proving method to a fully automated procedure, based on elimination ideals. By using declarative equations or r...
 
 
 
@@ -142,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $267.46 📉 -4.95 (-1.8%)
-- **GOOGL**: $285.02 📈 +8.61 (+3.1%)
-- **MSFT**: $507.49 📉 -2.69 (-0.5%)
+- **AAPL**: $267.44 📉 -0.02 (-0.0%)
+- **GOOGL**: $284.28 📉 -0.74 (-0.3%)
+- **MSFT**: $493.79 📉 -13.70 (-2.7%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**两数之和** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 字符串, 动态规划
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -171,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《代码整洁之道》** - Robert C. Martin
 
-面向对象设计的经典模式 (分类: 软件设计)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,14 +188,14 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
@@ -207,9 +207,9 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Ambient Coding** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -235,13 +235,15 @@ D. PATCH更快
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**写测试用例**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
@@ -254,28 +256,28 @@ git commit -m "Add user authentication feature"
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `a6e644` | 日期: 2025-11-18
+挑战ID: `4387e8` | 日期: 2025-11-19
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
+- **AI** 🔥 +15% - 人工智能持续火热
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
@@ -283,23 +285,23 @@ git commit -m "Add user authentication feature"
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-现代JavaScript/TypeScript运行时
+现代Web应用框架
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**全栈开发** (中级) 📊
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-程序员最讨厌的两件事：1. 写文档 2. 没有文档
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -313,7 +315,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-18 08:14:42
+- 📅 更新时间: 2025-11-19 08:14:25
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -324,14 +326,15 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 17.5/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 16.2/100
 
 🏷️ **热门关键词**:
-- AI (8次)
-- 人工智能 (2次)
-- AR (1次)
+- AI (6次)
+- 深度学习 (1次)
+- 边缘计算 (1次)
+- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
