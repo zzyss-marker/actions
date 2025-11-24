@@ -55,54 +55,54 @@
 
 MIT
 
-## 今日更新 (2025-11-23)
+## 今日更新 (2025-11-24)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😐 [AI时代的新SEO玩法：使用SERP API构建排名追踪系统](https://blog.csdn.net/qq_38951259/article/details/154383337) 🔥🔥🔥 超热
-  搜索引擎设置，包括传统的Google、百度、Bing以及AI搜索引擎（ChatGPT Search、Perplexity AI、 Bing Chat (Copilot)、Google Gemini。真...
-- 😊 [2025年英伟达人工智能发展战略研究报告｜附162页PDF文件下载](https://blog.csdn.net/2401_84204207/article/details/154124242) 🔥🔥 很热
-  报告旨在为产业同行、政策制定者与研究机构提供一份全景式的战略参考：既解码英伟达的技术研发路径与生态控制策略，也结合国内AI产业的突围实践反思差距与机遇。期望以这份研究为“抛砖引玉”之石，助力中国在AI...
-- 😊 [飞算JavaAI赋能企业级电商管理系统开发实践——一位资深开发者的技术选型与落地总结](https://blog.csdn.net/michaelline/article/details/151722602) 📈 关注
-  本文介绍了一位资深开发者使用飞算JavaAI开发供应商管理系统的实践经验。该系统涉及多角色权限、复杂审批流程和数据一致性等企业级需求。开发团队面临人力紧张和架构扩展性挑战，通过飞算JavaAI实现了高...
-- 😊 [当AI优化SQL查询：初级开发者的入行门槛焦虑与破解指南](https://blog.csdn.net/qq_33650655/article/details/154211723) 📈 关注
-  本文探讨了AI时代初级SQL开发者如何应对入行门槛提高的焦虑。文章分析了AI自动化SQL查询的现状与局限性，揭示了其模式匹配能力的不足，并通过实战案例和代码示例展示了人类开发者在业务理解与创意优化上的...
-- 😐 [【全网最详细！十万字解析】SpringAI+Deepseek大模型应用开发实战笔记-上半（进阶+详细+完整代码）](https://blog.csdn.net/2201_75669520/article/details/148834250) 📈 关注
-  黑马程序员SpringAI+DeepSeek大模型应用开发实战学习笔记，10万字全网最全解析！！！
+- 😊 [2025年AI风口职业：人工智能训练师入门指南，零基础也能入局](https://blog.csdn.net/sinat_29150509/article/details/153884538) 🔥 热门
+  人工智能训练师成为2025年热门职业，凭借高薪、政策红利和人才缺口优势吸引从业者。
+- 😊 [AI 对话高效输入指令攻略（五）：AI+PicDoc文生图表工具：解锁高效图表创作新范式](https://blog.csdn.net/Pocker_Spades_A/article/details/150348949) 📈 关注
+  摘要： PicDoc是一款零门槛AI图表生成工具，通过文字描述即可快速创建思维导图、流程图、时间轴等专业图表，无需编程或设计基础。用户登录后输入文本内容，系统自动解析并生成可视化图表，支持30+行业模...
+- 😊 [在Windows上通过WSL体验openEuler：打造高效的AI开发环境](https://blog.csdn.net/weixin_37800531/article/details/154481488) 📈 关注
+  openEuler WSL版评测：Windows下的高效Linux开发体验 摘要：本次评测验证了openEuler通过WSL在Windows系统的安装使用体验。测试环境采用Windows 11专业版，...
+- 😊 [spring-ai-alibaba 学习之 Jmanus 概览](https://blog.csdn.net/u011648768/article/details/152517881) 📈 关注
+  JManus是阿里巴巴开源的基于Spring AI Alibaba的AI Agent管理系统，采用纯Java实现。系统核心功能包括智能体管理、计划模板执行、MCP集成和模型管理，支持从海量数据中精确提...
+- 😊 [Google AI Studio详细使用说明 (AI工具篇五)](https://blog.csdn.net/xiaozhude/article/details/151124405) 📈 关注
+  Google AI Studio 是一个功能强大的在线平台，让开发者与创意人士能轻松驾驭 Google 的前沿 AI 模型（如 Gemini）。从快速验证一个灵感到深度定制模型行为，AI Studio...
 
 
 ### 网络安全资讯
 
-- [N-able N-central 中存在严重漏洞，允许攻击者未授权交互遗留API并读取敏感文件](https://www.anquanke.com/post/id/313330) - 安全公告，详情请点击链接查看完整内容
+- [中国安全研究闪耀国际顶会！360创新技术成果获ASE 2025杰出文章奖](https://www.anquanke.com/post/id/313337) - 安全公告，详情请点击链接查看完整内容
 - [FORGEDAN：一种用于破解对齐大型语言模型的进化框架](https://paper.seebug.org/3416/) - 作者：Siyang Cheng, Gaotian Liu, Rui Mei等
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html/2511.13548v1
 摘要
 ...
-- [全球TOP10轮胎企业实证：SMC2精准管控21000+人跨区邮件安全](https://www.4hou.com/posts/NG3K) - 城市道路的乘用车、物流园的货车、工地上的工程车……这些“奔跑的交通工具”里，不少都装着赛轮集团的高品质轮胎。作为全球轮胎行业TOP10企业，赛轮集团有限公司（以下简称“赛轮集团”）的业务早已“跑”向全...
+- [“ShadowRay 2.0”全球攻击活动：利用旧漏洞劫持Ray集群构建自传播挖矿僵尸网络](https://www.4hou.com/posts/J13l) - 一场名为“ShadowRay 2.0”的全球攻击活动正利用一处旧版代码执行漏洞，劫持暴露在公网的Ray集群，将其改造为具备自传播能力的加密货币挖矿僵尸网络。Ray是由Anyscale开发的开源框架，可...
 
 
 ### 技术就业趋势
 
-数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
+- 😊 [腾讯发布 Q3 财报：云存储产品力持续增强，与 AI 需求发展形成“供需共振”](https://cloud.tencent.com/developer/article/2589722) 🔥🔥 很热
+  针对 AIGC、自动驾驶、具身智能等客户对存储大容量、高性能、低时延的需求，腾讯云对象存储 COS 提供“端到端”的解决方案，帮助用户解决 AI 场景下遇到的多项困难和挑战，同时实现业务的快速增长。
 - 😊 [一图看懂！腾讯专有云TCE vs VMware 技术特性大PK](https://cloud.tencent.com/developer/article/2589719) 📈 关注
   报告显示，73%的 VMware 客户正在考虑未来三年内寻找替代与升级解决方案。除了满足现有的平替需求外，客户也在寻求升级为全栈能力、生态构建与智能化运维的综合性解决方案，更多地考虑IT基础设施面向未...
-- 😊 [腾讯云TBDS在海量Iceberg的治理之路](https://cloud.tencent.com/developer/article/2589720) 📈 关注
-  TBDS（Tencent Big Data Suite）是腾讯基于多年大数据实践构建的一站式、高性能、企业级大数据存储计算分析平台。该平台覆盖数据全生命周期，具备安全、可靠、易用等特性，能够全面满足企...
-- 😐 [技术创作特训营｜优质好文征集企划📣](https://cloud.tencent.com/developer/article/2588066) 📊 普通
-  新规则赋能真创作，技术人的创作舞台已就位！在本期技术创作特训营，腾讯云开发者社区邀请您放慢节奏，沉淀思考，将专业知识转化为易懂的干货，用真诚的分享传递技术温度。不管是实操技巧、行业洞察还是踩坑总结，只...
+- 😊 [Vibe Coding：从设计到落地，技术小白也能零帧起手开发智能应用](https://cloud.tencent.com/developer/article/2590195) 📊 普通
+  在日常的运营分析工作中，我几乎每天都与Excel文件打交道，各个平台导出的数据往往有几百MB、甚至上GB。为了联合分析，每次打开多个文件，复制、xlookup、筛选、透视都会卡顿很久。这些障碍直接影响...
 
 
 ### GitHub 趋势项目
 
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
@@ -113,14 +113,14 @@ MIT
 
 ### AI 研究论文
 
-- [Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://arxiv.org/abs/2511.16674v1) - George Cazenavette, Antonio Torralba, Vincent Sitzmann
-  The task of dataset distillation aims to find a small set of synthetic images such that training a model on them reproduces the performance of the sam...
+- [Enhancing Quranic Learning: A Multimodal Deep Learning Approach for Arabic Phoneme Recognition](https://arxiv.org/abs/2511.17477v1) - Ayhan Kucukmanisa, Derya Gelmez, Sukru Selim Calik, Zeynep Hilal Kilimci
+  Recent advances in multimodal deep learning have greatly enhanced the capability of systems for speech analysis and pronunciation assessment. Accurate...
 
-- [Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation](https://arxiv.org/abs/2511.16671v1) - Ziyu Guo, Renrui Zhang, Hongyu Li, Manyuan Zhang, Xinyan Chen, Sifan Wang, Yan Feng, Peng Pei, Pheng-Ann Heng
-  Recent advances in visual generation have increasingly explored the integration of reasoning capabilities. They incorporate textual reasoning, i.e., t...
+- [Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2511.17473v1) - Zhen Wang, Zhifeng Gao, Guolin Ke
+  Test-time scaling has been shown to substantially improve large language models' (LLMs) mathematical reasoning. However, for a large portion of mathem...
 
-- [Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter](https://arxiv.org/abs/2511.16665v1) - Qinghao Hu, Shang Yang, Junxian Guo, Xiaozhe Yao, Yujun Lin, Yuxian Gu, Han Cai, Chuang Gan, Ana Klimovic, Song Han
-  The emergence of Large Language Models (LLMs) with strong reasoning capabilities marks a significant milestone, unlocking new frontiers in complex pro...
+- [PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM](https://arxiv.org/abs/2511.17467v1) - Siqi Liang, Yudi Zhang, Yue Guo
+  We propose a novel framework for persona-based language model system, motivated by the need for personalized AI agents that adapt to individual user p...
 
 
 
@@ -151,18 +151,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-判断字符串中的括号是否有效匹配
+给定字符串，找出其中最长的回文子串
 
-标签: 栈, 字符串
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -173,14 +173,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
+JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Python编程：从入门到实践》** - Eric Matthes
 
-面向对象设计的经典模式 (分类: 软件设计)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -190,86 +190,87 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
 
-**安全漏洞修复** (难度: 高级)
+**算法优化挑战** (难度: 中等)
 
-识别并修复一个Web应用中的安全漏洞
+优化一个排序算法，使其在大数据集上的性能提升50%
 
-🏷️ 标签: 安全, Web开发 | ⏱️ 预计时间: 2-5小时 | 🎯 奖励积分: 130
+🏷️ 标签: 算法, 性能优化 | ⏱️ 预计时间: 2-4小时 | 🎯 奖励积分: 100
 
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**遵循单一职责原则**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🛡️ 安全卫士
+今日挑战徽章：⚡ 性能优化师
 
-挑战ID: `6f536d` | 日期: 2025-11-23
+挑战ID: `edca49` | 日期: 2025-11-24
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
@@ -278,30 +279,30 @@ git commit -m "Add user authentication feature"
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **Blockchain** 📉 -3% - 区块链热度回落
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-使用Rust构建跨平台桌面应用
+现代Web应用框架
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**AI工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
 
-程序员最讨厌的两件事：1. 写文档 2. 没有文档
+程序员的三大美德：懒惰、急躁和傲慢。
 
 
 ### 🐙 GitHub 生态统计
@@ -315,7 +316,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-23 08:12:38
+- 📅 更新时间: 2025-11-24 08:15:38
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -326,16 +327,15 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
+- 😊 积极新闻: 8 (100.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 17.5/100
+- 🔥 平均热度: 13.6/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- AR (2次)
-- ChatGPT (1次)
-- GPT (1次)
+- AI (6次)
+- 自动驾驶 (1次)
 - 人工智能 (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
