@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2025-11-24)
+## 今日更新 (2025-11-25)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- 😊 [2025年AI风口职业：人工智能训练师入门指南，零基础也能入局](https://blog.csdn.net/sinat_29150509/article/details/153884538) 🔥 热门
-  人工智能训练师成为2025年热门职业，凭借高薪、政策红利和人才缺口优势吸引从业者。
-- 😊 [AI 对话高效输入指令攻略（五）：AI+PicDoc文生图表工具：解锁高效图表创作新范式](https://blog.csdn.net/Pocker_Spades_A/article/details/150348949) 📈 关注
-  摘要： PicDoc是一款零门槛AI图表生成工具，通过文字描述即可快速创建思维导图、流程图、时间轴等专业图表，无需编程或设计基础。用户登录后输入文本内容，系统自动解析并生成可视化图表，支持30+行业模...
-- 😊 [在Windows上通过WSL体验openEuler：打造高效的AI开发环境](https://blog.csdn.net/weixin_37800531/article/details/154481488) 📈 关注
-  openEuler WSL版评测：Windows下的高效Linux开发体验 摘要：本次评测验证了openEuler通过WSL在Windows系统的安装使用体验。测试环境采用Windows 11专业版，...
-- 😊 [spring-ai-alibaba 学习之 Jmanus 概览](https://blog.csdn.net/u011648768/article/details/152517881) 📈 关注
-  JManus是阿里巴巴开源的基于Spring AI Alibaba的AI Agent管理系统，采用纯Java实现。系统核心功能包括智能体管理、计划模板执行、MCP集成和模型管理，支持从海量数据中精确提...
-- 😊 [Google AI Studio详细使用说明 (AI工具篇五)](https://blog.csdn.net/xiaozhude/article/details/151124405) 📈 关注
-  Google AI Studio 是一个功能强大的在线平台，让开发者与创意人士能轻松驾驭 Google 的前沿 AI 模型（如 Gemini）。从快速验证一个灵感到深度定制模型行为，AI Studio...
+- 😐 [AIGC - Raphael AI：全球首个无限制免费 AI 图片生成器](https://blog.csdn.net/yangshangwei/article/details/153793160) 📈 关注
+  摘要： Raphael AI是全球首个完全免费、无限制的AI图像生成器，由Flux.1-Dev模型驱动，支持多风格图像生成且无需注册。其核心优势包括极速生成（数秒内完成）、精准语义理解（Flux Ko...
+- 😐 [黑马Java第二阶段：JavaWeb+AI（笔记）](https://blog.csdn.net/qq_44154915/article/details/148206665) 📈 关注
+  Web，即全球广域网（World Wide Web，简称 www）是通过浏览器访问的网站系统前端程序：负责界面展示（HTML/CSS/JS）服务端程序：处理业务逻辑（Java、SpringBoot）数...
+- 😐 [《程序员AI之路：从Python起步》完全学习导航](https://blog.csdn.net/weixin_38291577/article/details/154061997) 📈 关注
+  旨在为所有新老读者提供一条清晰、无痛的学习路径。作为一名有10年经验的Java程序员，我将分享自己从Python起步，重学数学，到攻克AI算法的真实历程。（本阶段内容持续更新中，将系统讲解微积分、线性...
+- 😟 [AI+运维：用大模型实现日志分析与故障定位](https://blog.csdn.net/YS_Geo/article/details/151153577) 📈 关注
+  由于ERNIE-Bot在中文处理上的优势，我们也考虑使用ERNIE-Bot的SDK，但为了演示的通用性，这里使用一个更抽象的LLM_API类。近年来，随着大模型（LLMs）在自然语言处理、模式识别和信...
+- 😊 [AI 自动化测试：接口测试全流程自动化的实现方法](https://blog.csdn.net/qq_41187124/article/details/152272902) 📈 关注
+  AI自动化测试：接口测试全流程实现方法 本文探讨了AI技术在接口自动化测试中的应用，提出从"手工作坊"到"智能工厂"的升级方案。传统自动化测试面临维护成本高、易碎性等痛点，而AI驱动的自动化测试能实现...
 
 
 ### 网络安全资讯
@@ -83,21 +83,22 @@ MIT
 原文链接：https://arxiv.org/html/2511.13548v1
 摘要
 ...
-- [“ShadowRay 2.0”全球攻击活动：利用旧漏洞劫持Ray集群构建自传播挖矿僵尸网络](https://www.4hou.com/posts/J13l) - 一场名为“ShadowRay 2.0”的全球攻击活动正利用一处旧版代码执行漏洞，劫持暴露在公网的Ray集群，将其改造为具备自传播能力的加密货币挖矿僵尸网络。Ray是由Anyscale开发的开源框架，可...
+- [2025腾讯云大模型安全攻防沙龙，议程定了！顶级专家&amp;学者&amp;智能攻防团队，等你来“战”](https://www.4hou.com/posts/XP8l) - 11月29日，由腾讯云与腾讯安全联合主办的2025腾讯云大模型安全攻防沙龙将在广州拉开帷幕！众多行业领袖、技术大咖、资深学者、顶尖攻防团队将齐聚羊城，围绕大模型安全攻防前沿议题、产业最佳实践进行思维碰...
 
 
 ### 技术就业趋势
 
-具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
-- 😊 [腾讯发布 Q3 财报：云存储产品力持续增强，与 AI 需求发展形成“供需共振”](https://cloud.tencent.com/developer/article/2589722) 🔥🔥 很热
-  针对 AIGC、自动驾驶、具身智能等客户对存储大容量、高性能、低时延的需求，腾讯云对象存储 COS 提供“端到端”的解决方案，帮助用户解决 AI 场景下遇到的多项困难和挑战，同时实现业务的快速增长。
-- 😊 [一图看懂！腾讯专有云TCE vs VMware 技术特性大PK](https://cloud.tencent.com/developer/article/2589719) 📈 关注
-  报告显示，73%的 VMware 客户正在考虑未来三年内寻找替代与升级解决方案。除了满足现有的平替需求外，客户也在寻求升级为全栈能力、生态构建与智能化运维的综合性解决方案，更多地考虑IT基础设施面向未...
-- 😊 [Vibe Coding：从设计到落地，技术小白也能零帧起手开发智能应用](https://cloud.tencent.com/developer/article/2590195) 📊 普通
-  在日常的运营分析工作中，我几乎每天都与Excel文件打交道，各个平台导出的数据往往有几百MB、甚至上GB。为了联合分析，每次打开多个文件，复制、xlookup、筛选、透视都会卡顿很久。这些障碍直接影响...
+- 😐 [腾讯云音视频解决方案10连冠，AI全链路解决方案持续落地各行业](https://cloud.tencent.com/developer/article/2591028) 📈 关注
+  IDC中国研究经理魏云峰表示，在过去乃至未来的数个周期内，在不同场景中探索使用AI大模型或多模态模型都将是整个视频云行业的主题。我们观察到，几乎所有经典视频云产品服务的客户，均开始尝试或正式部署了“视...
+- 😐 [​明晚7点直播前瞻 | TDSQL-C全球数据库与TDSQL直连架构深度揭秘！业务出海，数据库也得跟上！​](https://cloud.tencent.com/developer/article/2591051) 📊 普通
+  🎯 直播主题
+全球数据同步与架构极致简化：TDSQL-C全球数据库与TDSQL直连架构深度揭秘
+- 😊 [腾讯专有云 TCE ：赋能深圳二院龙华医院，打造大湾区智慧医疗新标杆](https://cloud.tencent.com/developer/article/2591053) 📊 普通
+  智慧医院的高效运转，需要稳定、强大的数字底座。在深圳市第二人民医院龙华医院的建设中，腾讯专有云 TCE 凭借性能卓越、安全稳定的优势，成为医院“超级数据心脏”——融合创新医院数字底座的核心内核。
 
 
 ### GitHub 趋势项目
@@ -113,14 +114,14 @@ MIT
 
 ### AI 研究论文
 
-- [Enhancing Quranic Learning: A Multimodal Deep Learning Approach for Arabic Phoneme Recognition](https://arxiv.org/abs/2511.17477v1) - Ayhan Kucukmanisa, Derya Gelmez, Sukru Selim Calik, Zeynep Hilal Kilimci
-  Recent advances in multimodal deep learning have greatly enhanced the capability of systems for speech analysis and pronunciation assessment. Accurate...
+- [VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection](https://arxiv.org/abs/2511.19436v1) - Qiang Wang, Xinyuan Gao, SongLin Dong, Jizhou Han, Jiangyang Li, Yuhang He, Yihong Gong
+  We present VDC-Agent, a self-evolving framework for Video Detailed Captioning that requires neither human annotations nor larger teacher models. The a...
 
-- [Masked-and-Reordered Self-Supervision for Reinforcement Learning from Verifiable Rewards](https://arxiv.org/abs/2511.17473v1) - Zhen Wang, Zhifeng Gao, Guolin Ke
-  Test-time scaling has been shown to substantially improve large language models' (LLMs) mathematical reasoning. However, for a large portion of mathem...
+- [Mixture of Horizons in Action Chunking](https://arxiv.org/abs/2511.19433v1) - Dong Jing, Gang Wang, Jiaqi Liu, Weiliang Tang, Zelong Sun, Yunchao Yao, Zhenyu Wei, Yunhui Liu, Zhiwu Lu, Mingyu Ding
+  Vision-language-action (VLA) models have shown remarkable capabilities in robotic manipulation, but their performance is sensitive to the $	extbf{act...
 
-- [PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM](https://arxiv.org/abs/2511.17467v1) - Siqi Liang, Yudi Zhang, Yue Guo
-  We propose a novel framework for persona-based language model system, motivated by the need for personalized AI agents that adapt to individual user p...
+- [Prompt Less, Smile More: MTP with Semantic Engineering in Lieu of Prompt Engineering](https://arxiv.org/abs/2511.19427v1) - Jayanaka L. Dantanarayana, Savini Kashmira, Thakee Nathees, Zichen Zhang, Krisztian Flautner, Lingjia Tang, Jason Mars
+  AI-Integrated programming is emerging as a foundational paradigm for building intelligent systems with large language models (LLMs). Recent approaches...
 
 
 
@@ -144,25 +145,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $271.49 📈 +5.24 (+2.0%)
-- **GOOGL**: $299.66 📈 +10.21 (+3.5%)
-- **MSFT**: $472.12 📉 -6.31 (-1.3%)
+- **AAPL**: $275.92 📈 +4.43 (+1.6%)
+- **GOOGL**: $318.58 📈 +18.92 (+6.3%)
+- **MSFT**: $474.00 📈 +1.88 (+0.4%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**二叉树的最大深度** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+给定二叉树，找出其最大深度
 
-标签: 字符串, 动态规划
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -178,9 +179,9 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《设计模式》** - Gang of Four
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -190,28 +191,28 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Ambient Coding** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -225,41 +226,42 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**写测试用例**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：💡 创新者
 
-挑战ID: `edca49` | 日期: 2025-11-24
+挑战ID: `79840d` | 日期: 2025-11-25
 
 
 ### 📊 技术话题投票
@@ -278,31 +280,31 @@ function formatCurrency(amount) { ... }
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-现代Web应用框架
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**全栈开发** (中级) 📊
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+程序员的口头禅：在我的机器上运行得很好！
 
 
 ### 🐙 GitHub 生态统计
@@ -316,7 +318,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-24 08:15:38
+- 📅 更新时间: 2025-11-25 08:15:15
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -327,15 +329,12 @@ function formatCurrency(amount) { ... }
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 8 (100.0%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 13.6/100
+- 😊 积极新闻: 2 (25.0%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 9.4/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- 自动驾驶 (1次)
-- 人工智能 (1次)
-- AR (1次)
 
 
 ### 🤖 关于此项目
