@@ -55,55 +55,52 @@
 
 MIT
 
-## 今日更新 (2025-11-25)
+## 今日更新 (2025-11-26)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😐 [AIGC - Raphael AI：全球首个无限制免费 AI 图片生成器](https://blog.csdn.net/yangshangwei/article/details/153793160) 📈 关注
-  摘要： Raphael AI是全球首个完全免费、无限制的AI图像生成器，由Flux.1-Dev模型驱动，支持多风格图像生成且无需注册。其核心优势包括极速生成（数秒内完成）、精准语义理解（Flux Ko...
-- 😐 [黑马Java第二阶段：JavaWeb+AI（笔记）](https://blog.csdn.net/qq_44154915/article/details/148206665) 📈 关注
-  Web，即全球广域网（World Wide Web，简称 www）是通过浏览器访问的网站系统前端程序：负责界面展示（HTML/CSS/JS）服务端程序：处理业务逻辑（Java、SpringBoot）数...
-- 😐 [《程序员AI之路：从Python起步》完全学习导航](https://blog.csdn.net/weixin_38291577/article/details/154061997) 📈 关注
-  旨在为所有新老读者提供一条清晰、无痛的学习路径。作为一名有10年经验的Java程序员，我将分享自己从Python起步，重学数学，到攻克AI算法的真实历程。（本阶段内容持续更新中，将系统讲解微积分、线性...
-- 😟 [AI+运维：用大模型实现日志分析与故障定位](https://blog.csdn.net/YS_Geo/article/details/151153577) 📈 关注
-  由于ERNIE-Bot在中文处理上的优势，我们也考虑使用ERNIE-Bot的SDK，但为了演示的通用性，这里使用一个更抽象的LLM_API类。近年来，随着大模型（LLMs）在自然语言处理、模式识别和信...
-- 😊 [AI 自动化测试：接口测试全流程自动化的实现方法](https://blog.csdn.net/qq_41187124/article/details/152272902) 📈 关注
-  AI自动化测试：接口测试全流程实现方法 本文探讨了AI技术在接口自动化测试中的应用，提出从"手工作坊"到"智能工厂"的升级方案。传统自动化测试面临维护成本高、易碎性等痛点，而AI驱动的自动化测试能实现...
+- 😊 [深度解析六大AI爬虫工具：crawl4ai、FireCrawl、Scrapegraph-ai、Jina、SearXNG、Tavily技术对比与实战指南](https://blog.csdn.net/awei0916/article/details/147742745) 🔥🔥🔥 超热
+  在AI大模型时代，数据获取与处理是构建智能应用的核心环节。传统爬虫面临技术门槛高、反爬应对复杂、动态内容处理困难等挑战，而AI驱动的爬虫工具通过融合大语言模型（LLM）、图神经网络、自动化解析等技术，...
+- 😐 [AI与单片机之：STM32上运行AI大模型的四种方案！（含案例，建议收藏）](https://blog.csdn.net/AI_zhuli/article/details/151160946) 🔥 热门
+  【摘要】本文介绍了在STM32单片机上运行AI大模型的四种可行方案：1）STM32Cube.AI将训练好的神经网络转换为C库；2）TensorFlow Lite Micro+CMSIS-NN实现端侧推...
+- 😊 [AI 对话高效输入指令攻略（四）：AI+Apache ECharts：生成各种专业图表](https://blog.csdn.net/Pocker_Spades_A/article/details/149937054) 🔥 热门
+  本文介绍了利用AI与Apache ECharts高效生成专业图表的方法。Apache ECharts作为开源可视化库，具备图表类型丰富、交互性强、高度定制化等优势，支持多场景数据展示。核心流程为：进入...
+- 😊 [阿里新一代企业级多 AI 智能体开发框架 AgentScope 技术架构全解析](https://blog.csdn.net/musicml/article/details/152340520) 📈 关注
+  在研发协同场景中，“需求 Agent”“开发 Agent”“测试 Agent” 通过同一 Environment 通信：需求 Agent 发布需求文档→Environment 通知开发 Agent 接...
+- 😊 [零基础学AI大模型之向量数据库介绍与技术选型思考](https://blog.csdn.net/chandfy/article/details/153792784) 📈 关注
+  摘要 本文探讨了向量数据库在AI大模型中的关键技术选型问题。首先分析了传统数据库（如MySQL）存储高维向量的三大局限：维度灾难导致索引失效、缺乏高效相似度计算能力、实时性与扩展性不足。随后阐述了向量...
 
 
 ### 网络安全资讯
 
-- [中国安全研究闪耀国际顶会！360创新技术成果获ASE 2025杰出文章奖](https://www.anquanke.com/post/id/313337) - 安全公告，详情请点击链接查看完整内容
-- [FORGEDAN：一种用于破解对齐大型语言模型的进化框架](https://paper.seebug.org/3416/) - 作者：Siyang Cheng, Gaotian Liu, Rui Mei等
+- [FluentBit中存在关键漏洞，可导致攻击者远程攻陷云环境](https://www.anquanke.com/post/id/313397) - 安全公告，详情请点击链接查看完整内容
+- [AutoBackdoor：通过大语言模型代理实现自动化后门攻击](https://paper.seebug.org/3417/) - 作者：Yige Li, Zhe Li, Wei Zhao, Nay Myat Min, Hanxun Huang, Xingjun Ma, Jun Sun
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2511.13548v1
-摘要
-...
-- [2025腾讯云大模型安全攻防沙龙，议程定了！顶级专家&amp;学者&amp;智能攻防团队，等你来“战”](https://www.4hou.com/posts/XP8l) - 11月29日，由腾讯云与腾讯安全联合主办的2025腾讯云大模型安全攻防沙龙将在广州拉开帷幕！众多行业领袖、技术大咖、资深学者、顶尖攻防团队将齐聚羊城，围绕大模型安全攻防前沿议题、产业最佳实践进行思维碰...
+原文链接：...
+- [微软：Windows 11 24H2 高危漏洞导致文件资源管理器等核心组件崩溃](https://www.4hou.com/posts/QX9q) - 微软已确认Windows 11 24H2版本存在一处高危漏洞：自2025年7月起发布的累计更新在系统部署过程中，会导致文件资源管理器、开始菜单及其他关键系统组件崩溃。该漏洞的触发场景包括两种：一是“安...
 
 
 ### 技术就业趋势
 
-边缘计算和IoT专家在制造业和智能城市项目中需求增加。
+人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
 
 ### 科技热点
 
-- 😐 [腾讯云音视频解决方案10连冠，AI全链路解决方案持续落地各行业](https://cloud.tencent.com/developer/article/2591028) 📈 关注
-  IDC中国研究经理魏云峰表示，在过去乃至未来的数个周期内，在不同场景中探索使用AI大模型或多模态模型都将是整个视频云行业的主题。我们观察到，几乎所有经典视频云产品服务的客户，均开始尝试或正式部署了“视...
-- 😐 [​明晚7点直播前瞻 | TDSQL-C全球数据库与TDSQL直连架构深度揭秘！业务出海，数据库也得跟上！​](https://cloud.tencent.com/developer/article/2591051) 📊 普通
-  🎯 直播主题
-全球数据同步与架构极致简化：TDSQL-C全球数据库与TDSQL直连架构深度揭秘
-- 😊 [腾讯专有云 TCE ：赋能深圳二院龙华医院，打造大湾区智慧医疗新标杆](https://cloud.tencent.com/developer/article/2591053) 📊 普通
-  智慧医院的高效运转，需要稳定、强大的数字底座。在深圳市第二人民医院龙华医院的建设中，腾讯专有云 TCE 凭借性能卓越、安全稳定的优势，成为医院“超级数据心脏”——融合创新医院数字底座的核心内核。
+- 😊 [腾讯云数据库 2025H1 增速领跑行业，自研TDSQL体系与 AI 驱动打开增长新空间](https://cloud.tencent.com/developer/article/2591904) 📈 关注
+  IDC 最新发布的《2025 年上半年中国关系型数据库软件市场跟踪报告》显示，在第一梯队Top4厂商的竞争中，腾讯云 TDSQL 在公有云市场环比增速位列第一，AWS位居第二；在本地部署市场中，TDS...
+- 😐 [Agent全面爆发！一文搞懂Agent开发核心链路](https://cloud.tencent.com/developer/article/2591036) 📈 关注
+  当数据自己会思考，当代码拥有自主决策的能力——从Workflow到Agentic AI，一个完全自主的数据分析师，究竟是如何诞生的？
+- 😊 [腾讯云开源DeepSeek量化部署方案：性能最高提升3.9X！](https://cloud.tencent.com/developer/article/2591906) 📊 普通
+  随着大语言模型规模持续增长，如何降低推理成本成为业界焦点。量化是一种主流的稳定高效的降本部署方式。腾讯云联合小红书Hilab Infra团队，在SGLang 中实现了DeepSeek量化模型的高效推理...
 
 
 ### GitHub 趋势项目
 
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
 - [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
@@ -114,14 +111,14 @@ MIT
 
 ### AI 研究论文
 
-- [VDC-Agent: When Video Detailed Captioners Evolve Themselves via Agentic Self-Reflection](https://arxiv.org/abs/2511.19436v1) - Qiang Wang, Xinyuan Gao, SongLin Dong, Jizhou Han, Jiangyang Li, Yuhang He, Yihong Gong
-  We present VDC-Agent, a self-evolving framework for Video Detailed Captioning that requires neither human annotations nor larger teacher models. The a...
+- [MedROV: Towards Real-Time Open-Vocabulary Detection Across Diverse Medical Imaging Modalities](https://arxiv.org/abs/2511.20650v1) - Tooba Tehreem Sheikh, Jean Lahoud, Rao Muhammad Anwer, Fahad Shahbaz Khan, Salman Khan, Hisham Cholakkal
+  Traditional object detection models in medical imaging operate within a closed-set paradigm, limiting their ability to detect objects of novel labels....
 
-- [Mixture of Horizons in Action Chunking](https://arxiv.org/abs/2511.19433v1) - Dong Jing, Gang Wang, Jiaqi Liu, Weiliang Tang, Zelong Sun, Yunchao Yao, Zhenyu Wei, Yunhui Liu, Zhiwu Lu, Mingyu Ding
-  Vision-language-action (VLA) models have shown remarkable capabilities in robotic manipulation, but their performance is sensitive to the $	extbf{act...
+- [MotionV2V: Editing Motion in a Video](https://arxiv.org/abs/2511.20640v1) - Ryan Burgert, Charles Herrmann, Forrester Cole, Michael S Ryoo, Neal Wadhwa, Andrey Voynov, Nataniel Ruiz
+  While generative video models have achieved remarkable fidelity and consistency, applying these capabilities to video editing remains a complex challe...
 
-- [Prompt Less, Smile More: MTP with Semantic Engineering in Lieu of Prompt Engineering](https://arxiv.org/abs/2511.19427v1) - Jayanaka L. Dantanarayana, Savini Kashmira, Thakee Nathees, Zichen Zhang, Krisztian Flautner, Lingjia Tang, Jason Mars
-  AI-Integrated programming is emerging as a foundational paradigm for building intelligent systems with large language models (LLMs). Recent approaches...
+- [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639v1) - Jiaru Zou, Xiyuan Yang, Ruizhong Qiu, Gaotang Li, Katherine Tieu, Pan Lu, Ke Shen, Hanghang Tong, Yejin Choi, Jingrui He, James Zou, Mengdi Wang, Ling Yang
+  Multi-agent systems (MAS) extend large language models (LLMs) from independent single-model reasoning to coordinative system-level intelligence. While...
 
 
 
@@ -145,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $275.92 📈 +4.43 (+1.6%)
-- **GOOGL**: $318.58 📈 +18.92 (+6.3%)
-- **MSFT**: $474.00 📈 +1.88 (+0.4%)
+- **AAPL**: $276.97 📈 +1.05 (+0.4%)
+- **GOOGL**: $323.44 📈 +4.86 (+1.5%)
+- **MSFT**: $476.99 📈 +2.99 (+0.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**二叉树的最大深度** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-给定二叉树，找出其最大深度
+给定字符串，找出其中最长的回文子串
 
-标签: 树, 递归
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -174,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Python编程：从入门到实践》** - Eric Matthes
 
-面向对象设计的经典模式 (分类: 软件设计)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -191,28 +188,28 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🚀 创业公司动态
 
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Synthwave Mix** - Various Artists
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -252,27 +249,27 @@ test('should calculate tax correctly', () => {
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：⚡ 性能优化师
 
-挑战ID: `79840d` | 日期: 2025-11-25
+挑战ID: `28579d` | 日期: 2025-11-26
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
@@ -280,31 +277,31 @@ test('should calculate tax correctly', () => {
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代JavaScript/TypeScript运行时
+高性能代码编辑器
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**云架构师** (高级) 🚀
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -318,7 +315,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-25 08:15:15
+- 📅 更新时间: 2025-11-26 08:15:11
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -329,12 +326,14 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 2 (25.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 9.4/100
+- 😊 积极新闻: 6 (75.0%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 19.8/100
 
 🏷️ **热门关键词**:
-- AI (6次)
+- AI (7次)
+- 神经网络 (2次)
+- AR (2次)
 
 
 ### 🤖 关于此项目
