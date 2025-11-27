@@ -55,47 +55,41 @@
 
 MIT
 
-## 今日更新 (2025-11-26)
+## 今日更新 (2025-11-27)
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
 
 ### AI 技术动态
 
-- 😊 [深度解析六大AI爬虫工具：crawl4ai、FireCrawl、Scrapegraph-ai、Jina、SearXNG、Tavily技术对比与实战指南](https://blog.csdn.net/awei0916/article/details/147742745) 🔥🔥🔥 超热
-  在AI大模型时代，数据获取与处理是构建智能应用的核心环节。传统爬虫面临技术门槛高、反爬应对复杂、动态内容处理困难等挑战，而AI驱动的爬虫工具通过融合大语言模型（LLM）、图神经网络、自动化解析等技术，...
-- 😐 [AI与单片机之：STM32上运行AI大模型的四种方案！（含案例，建议收藏）](https://blog.csdn.net/AI_zhuli/article/details/151160946) 🔥 热门
-  【摘要】本文介绍了在STM32单片机上运行AI大模型的四种可行方案：1）STM32Cube.AI将训练好的神经网络转换为C库；2）TensorFlow Lite Micro+CMSIS-NN实现端侧推...
-- 😊 [AI 对话高效输入指令攻略（四）：AI+Apache ECharts：生成各种专业图表](https://blog.csdn.net/Pocker_Spades_A/article/details/149937054) 🔥 热门
-  本文介绍了利用AI与Apache ECharts高效生成专业图表的方法。Apache ECharts作为开源可视化库，具备图表类型丰富、交互性强、高度定制化等优势，支持多场景数据展示。核心流程为：进入...
-- 😊 [阿里新一代企业级多 AI 智能体开发框架 AgentScope 技术架构全解析](https://blog.csdn.net/musicml/article/details/152340520) 📈 关注
-  在研发协同场景中，“需求 Agent”“开发 Agent”“测试 Agent” 通过同一 Environment 通信：需求 Agent 发布需求文档→Environment 通知开发 Agent 接...
-- 😊 [零基础学AI大模型之向量数据库介绍与技术选型思考](https://blog.csdn.net/chandfy/article/details/153792784) 📈 关注
-  摘要 本文探讨了向量数据库在AI大模型中的关键技术选型问题。首先分析了传统数据库（如MySQL）存储高维向量的三大局限：维度灾难导致索引失效、缺乏高效相似度计算能力、实时性与扩展性不足。随后阐述了向量...
+- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
+  新模型在推理能力和上下文窗口方面有显著改进
 
 
 ### 网络安全资讯
 
-- [FluentBit中存在关键漏洞，可导致攻击者远程攻陷云环境](https://www.anquanke.com/post/id/313397) - 安全公告，详情请点击链接查看完整内容
-- [AutoBackdoor：通过大语言模型代理实现自动化后门攻击](https://paper.seebug.org/3417/) - 作者：Yige Li, Zhe Li, Wei Zhao, Nay Myat Min, Hanxun Huang, Xingjun Ma, Jun Sun
+- [英国议会委员会提出立法建议，拟建立软件安全责任制度](https://www.anquanke.com/post/id/313382) - 安全公告，详情请点击链接查看完整内容
+- [代码中的阴影：探索基于大语言模型的多智能体软件开发系统的风险与防御措施](https://paper.seebug.org/3418/) - 作者：Xiaoqing Wang, Keman Huang, Bin Liang, Hongyu Li, Xiaoyong Du
 译者：知道创宇404实验室翻译组
-原文链接：...
-- [微软：Windows 11 24H2 高危漏洞导致文件资源管理器等核心组件崩溃](https://www.4hou.com/posts/QX9q) - 微软已确认Windows 11 24H2版本存在一处高危漏洞：自2025年7月起发布的累计更新在系统部署过程中，会导致文件资源管理器、开始菜单及其他关键系统组件崩溃。该漏洞的触发场景包括两种：一是“安...
+原文链接：https://arxiv...
+- [【漫话】重庆信通设计院：如何做 低成本高收益的信息安全防护（上）](https://www.4hou.com/posts/9j04) - 信息安全防护的落地逻辑与核心方法提到信息安全防护很多企业会陷入“投入大才能保安全”的认知误区实则安全防护的核心在于“精准发力”不依赖昂贵设备和复杂系统通过“明确重点、简化流程、按需匹配”的思路就能用有...
 
 
 ### 技术就业趋势
 
-人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
+区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
 
 ### 科技热点
 
-- 😊 [腾讯云数据库 2025H1 增速领跑行业，自研TDSQL体系与 AI 驱动打开增长新空间](https://cloud.tencent.com/developer/article/2591904) 📈 关注
-  IDC 最新发布的《2025 年上半年中国关系型数据库软件市场跟踪报告》显示，在第一梯队Top4厂商的竞争中，腾讯云 TDSQL 在公有云市场环比增速位列第一，AWS位居第二；在本地部署市场中，TDS...
-- 😐 [Agent全面爆发！一文搞懂Agent开发核心链路](https://cloud.tencent.com/developer/article/2591036) 📈 关注
-  当数据自己会思考，当代码拥有自主决策的能力——从Workflow到Agentic AI，一个完全自主的数据分析师，究竟是如何诞生的？
-- 😊 [腾讯云开源DeepSeek量化部署方案：性能最高提升3.9X！](https://cloud.tencent.com/developer/article/2591906) 📊 普通
-  随着大语言模型规模持续增长，如何降低推理成本成为业界焦点。量化是一种主流的稳定高效的降本部署方式。腾讯云联合小红书Hilab Infra团队，在SGLang 中实现了DeepSeek量化模型的高效推理...
+- 😊 [Gemini 3实测：综合最强、代码最强、数学最强、多模态最强的六边形 AI 来了？](https://cloud.tencent.com/developer/article/2591902) 🔥🔥 很热
+  Google 发布了最新的 Gemini 3 模型，首日便做到了屠榜，基本在所有榜单上面超过了GPT-5.1和Claude Sonnet 4.5。
+
+总体上看，Gemini 3 Pro 是目前「综合实...
+- 😊 [GenAI难破优质内容创作的“不可能三角”｜破晓访谈](https://cloud.tencent.com/developer/article/2592019) 🔥🔥 很热
+  生成式人工智能（GenAI）正引爆一场深刻的内容生产力范式革命。从文本、图像到视频、音乐等系列惊艳应用，正在打破高质量动态内容生成的壁垒，将过去被认为是人类专属的复杂创意工作推向机器可及的范围。这种指...
+- 😊 [Anthropic  Skills 中文文档站：让 Anthropic Skills 更易用](https://cloud.tencent.com/developer/article/2592400) 🔥 热门
+  Anthropic 作为 AI 领域的领军企业，推出了 Skills 开源仓库，为开发者提供了一系列强大的 AI 能力增强模块。然而，原始仓库全英文文档、内容分散，给中文开发者的学习和使用带来了一定门...
 
 
 ### GitHub 趋势项目
@@ -111,14 +105,14 @@ MIT
 
 ### AI 研究论文
 
-- [MedROV: Towards Real-Time Open-Vocabulary Detection Across Diverse Medical Imaging Modalities](https://arxiv.org/abs/2511.20650v1) - Tooba Tehreem Sheikh, Jean Lahoud, Rao Muhammad Anwer, Fahad Shahbaz Khan, Salman Khan, Hisham Cholakkal
-  Traditional object detection models in medical imaging operate within a closed-set paradigm, limiting their ability to detect objects of novel labels....
+- [Revisiting Generalization Across Difficulty Levels: It's Not So Easy](https://arxiv.org/abs/2511.21692v1) - Yeganeh Kordi, Nihal V. Nayak, Max Zuo, Ilana Nguyen, Stephen H. Bach
+  We investigate how well large language models (LLMs) generalize across different task difficulties, a key question for effective data curation and eva...
 
-- [MotionV2V: Editing Motion in a Video](https://arxiv.org/abs/2511.20640v1) - Ryan Burgert, Charles Herrmann, Forrester Cole, Michael S Ryoo, Neal Wadhwa, Andrey Voynov, Nataniel Ruiz
-  While generative video models have achieved remarkable fidelity and consistency, applying these capabilities to video editing remains a complex challe...
+- [ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689v1) - Hongjin Su, Shizhe Diao, Ximing Lu, Mingjie Liu, Jiacheng Xu, Xin Dong, Yonggan Fu, Peter Belcak, Hanrong Ye, Hongxu Yin, Yi Dong, Evelina Bakhturina, Tao Yu, Yejin Choi, Jan Kautz, Pavlo Molchanov
+  Large language models are powerful generalists, yet solving deep and complex problems such as those of the Humanity's Last Exam (HLE) remains both con...
 
-- [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639v1) - Jiaru Zou, Xiyuan Yang, Ruizhong Qiu, Gaotang Li, Katherine Tieu, Pan Lu, Ke Shen, Hanghang Tong, Yejin Choi, Jingrui He, James Zou, Mengdi Wang, Ling Yang
-  Multi-agent systems (MAS) extend large language models (LLMs) from independent single-model reasoning to coordinative system-level intelligence. While...
+- [G$^2$VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning](https://arxiv.org/abs/2511.21688v1) - Wenbo Hu, Jingli Lin, Yilin Long, Yunlong Ran, Lihan Jiang, Yifan Wang, Chenming Zhu, Runsen Xu, Tai Wang, Jiangmiao Pang
+  Vision-Language Models (VLMs) still lack robustness in spatial intelligence, demonstrating poor performance on spatial understanding and reasoning tas...
 
 
 
@@ -142,25 +136,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $276.97 📈 +1.05 (+0.4%)
-- **GOOGL**: $323.44 📈 +4.86 (+1.5%)
-- **MSFT**: $476.99 📈 +2.99 (+0.6%)
+- **AAPL**: $277.55 📈 +0.58 (+0.2%)
+- **GOOGL**: $319.95 📉 -3.49 (-1.1%)
+- **MSFT**: $485.50 📈 +8.51 (+1.8%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**合并两个有序链表** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+将两个升序链表合并为一个新的升序链表
 
-标签: 字符串, 动态规划
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -171,7 +165,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
 
 
 ### 📚 技术书籍推荐
@@ -188,21 +182,21 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
@@ -223,27 +217,26 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**遵循单一职责原则**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
@@ -256,9 +249,9 @@ test('should calculate tax correctly', () => {
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `28579d` | 日期: 2025-11-26
+挑战ID: `7bf89c` | 日期: 2025-11-27
 
 
 ### 📊 技术话题投票
@@ -280,28 +273,28 @@ test('should calculate tax correctly', () => {
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-高性能代码编辑器
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**全栈开发** (中级) 📊
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-为什么程序员喜欢黑暗？因为光会产生bug！
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -315,7 +308,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-26 08:15:11
+- 📅 更新时间: 2025-11-27 08:17:20
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -327,13 +320,13 @@ test('should calculate tax correctly', () => {
 
 - 📰 新闻总数: 8
 - 😊 积极新闻: 6 (75.0%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 19.8/100
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 18.2/100
 
 🏷️ **热门关键词**:
-- AI (7次)
-- 神经网络 (2次)
-- AR (2次)
+- AI (8次)
+- GPT (1次)
+- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
