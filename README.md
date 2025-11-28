@@ -55,30 +55,38 @@
 
 MIT
 
-## 今日更新 (2025-11-27)
+## 今日更新 (2025-11-28)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
-  新模型在推理能力和上下文窗口方面有显著改进
+- 😊 [大模型之Spring AI实战系列（三十二）：Spring Boot + DeepSeek 实战指南：工具函数（Function Call）实战应用](https://blog.csdn.net/xiaobing259/article/details/148792694) 🔥🔥 很热
+  随着人工智能技术的飞速发展，大模型在各个领域的应用日益广泛，为开发者带来了前所未有的机遇和挑战。在众多的框架和平台中，Spring Boot以其简洁、高效的特点，成为了构建企业级应用的首选之一。而De...
+- 😐 [（5）ModalAI VOXL2](https://blog.csdn.net/qq_20016593/article/details/146912035) 🔥 热门
+  Ardupilot官网关于《Non-GPS navigation》的翻译 —《(5) ModalAI VOXL2》。
+- 😐 [零基础学AI大模型之Embedding与LLM大模型对比全解析](https://blog.csdn.net/chandfy/article/details/153751364) 📈 关注
+  摘要：本文深入解析文本嵌入（Embedding）与大语言模型（LLM）的核心差异与协作关系。通过类比“语义地图”形象说明Embedding如何将文字转换为可计算的向量坐标，实现语义相似度判断。文章对比...
+- 😐 [AI 的本地部署与自主训练全流程指南](https://blog.csdn.net/2301_78846431/article/details/148618276) 📈 关注
+  ### 《AI的本地部署与自主训练全流程指南》摘要  本文系统解析AI本地部署与自主训练的完整路径。从硬件（CPU/GPU配置）与软件（Python框架搭建）环境准备入手，详述数据收集、清洗、标注及划...
+- 😊 [AI Agent 之工具使用：从函数定义到实际应用](https://blog.csdn.net/qq_40303030/article/details/154183529) 📈 关注
+  本文深入探讨了AIAgent工具系统的核心技术，包括工具的定义方法、函数调用技术和ReActAgent的构建。文章首先阐述了工具对AI能力扩展的重要性，然后详细介绍了搜索、计算器和时间查询等基础工具的...
 
 
 ### 网络安全资讯
 
 - [英国议会委员会提出立法建议，拟建立软件安全责任制度](https://www.anquanke.com/post/id/313382) - 安全公告，详情请点击链接查看完整内容
-- [代码中的阴影：探索基于大语言模型的多智能体软件开发系统的风险与防御措施](https://paper.seebug.org/3418/) - 作者：Xiaoqing Wang, Keman Huang, Bin Liang, Hongyu Li, Xiaoyong Du
+- [快速响应：在边缘网关利用 IDS 和 LLMs 实现物联网实时入侵推理](https://paper.seebug.org/3419/) - 作者：Saeid Jamshidi, Amin Nikanjam,Negar Shahabi,Kawser Wazed Nafi等
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv...
-- [【漫话】重庆信通设计院：如何做 低成本高收益的信息安全防护（上）](https://www.4hou.com/posts/9j04) - 信息安全防护的落地逻辑与核心方法提到信息安全防护很多企业会陷入“投入大才能保安全”的认知误区实则安全防护的核心在于“精准发力”不依赖昂贵设备和复杂系统通过“明确重点、简化流程、按需匹配”的思路就能用有...
+原文链接：https://arxi...
+- [安全巨头数据泄露事件警示：企业邮件安全该补哪些短板？](https://www.4hou.com/posts/gyml) - 近期，网络安全巨头CrowdStrike遭遇内部信息泄露事件，攻击方“Scattered Lapsus$ Hunters”仅通过2.5万美元利诱内部员工便获取了企业内部仪表盘、Okta单点登录面板等敏...
 
 
 ### 技术就业趋势
 
-区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
+云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
 
 ### 科技热点
 
@@ -86,10 +94,10 @@ MIT
   Google 发布了最新的 Gemini 3 模型，首日便做到了屠榜，基本在所有榜单上面超过了GPT-5.1和Claude Sonnet 4.5。
 
 总体上看，Gemini 3 Pro 是目前「综合实...
-- 😊 [GenAI难破优质内容创作的“不可能三角”｜破晓访谈](https://cloud.tencent.com/developer/article/2592019) 🔥🔥 很热
-  生成式人工智能（GenAI）正引爆一场深刻的内容生产力范式革命。从文本、图像到视频、音乐等系列惊艳应用，正在打破高质量动态内容生成的壁垒，将过去被认为是人类专属的复杂创意工作推向机器可及的范围。这种指...
-- 😊 [Anthropic  Skills 中文文档站：让 Anthropic Skills 更易用](https://cloud.tencent.com/developer/article/2592400) 🔥 热门
-  Anthropic 作为 AI 领域的领军企业，推出了 Skills 开源仓库，为开发者提供了一系列强大的 AI 能力增强模块。然而，原始仓库全英文文档、内容分散，给中文开发者的学习和使用带来了一定门...
+- 😊 [腾讯企点携手生态伙伴启动“医疗数字运河”计划，助力70万家基层诊所药房数字化升级](https://cloud.tencent.com/developer/article/2592944) 📊 普通
+  腾讯企点和腾讯健康，携手医药工业、零售药房及生态伙伴，日前共同启动“医疗数字运河”平台，依托大模型、智能体、微信生态、数字化患教平台，连接基层医疗机构、连锁药房、医药企业，推动以患者为中心的基层医疗服...
+- 😊 [lodash中intersection的作用](https://cloud.tencent.com/developer/article/2593273) 📊 普通
+  。适用于需要快速找到多个集合共同元素的场景，尤其在处理复杂数据或多源数据同步时非常实用。
 
 
 ### GitHub 趋势项目
@@ -143,18 +151,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-将两个升序链表合并为一个新的升序链表
+给定字符串，找出其中最长的回文子串
 
-标签: 链表, 递归
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -165,14 +173,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《设计模式》** - Gang of Four
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -182,14 +190,14 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
@@ -201,9 +209,9 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Brain.fm Focus** - Brain.fm
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -217,84 +225,85 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**写测试用例**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🧠 算法大师
+今日挑战徽章：⚡ 性能优化师
 
-挑战ID: `7bf89c` | 日期: 2025-11-27
+挑战ID: `bdc53f` | 日期: 2025-11-28
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Tauri** (Rust) - ⭐ 70k+
 
-现代JavaScript/TypeScript运行时
+使用Rust构建跨平台桌面应用
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**云架构师** (高级) 🚀
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-程序员最讨厌的两件事：1. 写文档 2. 没有文档
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -308,7 +317,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-27 08:17:20
+- 📅 更新时间: 2025-11-28 08:15:01
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -319,14 +328,15 @@ function formatCurrency(amount) { ... }
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 18.2/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 15.9/100
 
 🏷️ **热门关键词**:
-- AI (8次)
-- GPT (1次)
+- AI (6次)
 - 人工智能 (1次)
+- GPT (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
