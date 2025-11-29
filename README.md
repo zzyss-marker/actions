@@ -55,29 +55,29 @@
 
 MIT
 
-## 今日更新 (2025-11-28)
+## 今日更新 (2025-11-29)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😊 [大模型之Spring AI实战系列（三十二）：Spring Boot + DeepSeek 实战指南：工具函数（Function Call）实战应用](https://blog.csdn.net/xiaobing259/article/details/148792694) 🔥🔥 很热
-  随着人工智能技术的飞速发展，大模型在各个领域的应用日益广泛，为开发者带来了前所未有的机遇和挑战。在众多的框架和平台中，Spring Boot以其简洁、高效的特点，成为了构建企业级应用的首选之一。而De...
-- 😐 [（5）ModalAI VOXL2](https://blog.csdn.net/qq_20016593/article/details/146912035) 🔥 热门
-  Ardupilot官网关于《Non-GPS navigation》的翻译 —《(5) ModalAI VOXL2》。
-- 😐 [零基础学AI大模型之Embedding与LLM大模型对比全解析](https://blog.csdn.net/chandfy/article/details/153751364) 📈 关注
-  摘要：本文深入解析文本嵌入（Embedding）与大语言模型（LLM）的核心差异与协作关系。通过类比“语义地图”形象说明Embedding如何将文字转换为可计算的向量坐标，实现语义相似度判断。文章对比...
-- 😐 [AI 的本地部署与自主训练全流程指南](https://blog.csdn.net/2301_78846431/article/details/148618276) 📈 关注
-  ### 《AI的本地部署与自主训练全流程指南》摘要  本文系统解析AI本地部署与自主训练的完整路径。从硬件（CPU/GPU配置）与软件（Python框架搭建）环境准备入手，详述数据收集、清洗、标注及划...
-- 😊 [AI Agent 之工具使用：从函数定义到实际应用](https://blog.csdn.net/qq_40303030/article/details/154183529) 📈 关注
-  本文深入探讨了AIAgent工具系统的核心技术，包括工具的定义方法、函数调用技术和ReActAgent的构建。文章首先阐述了工具对AI能力扩展的重要性，然后详细介绍了搜索、计算器和时间查询等基础工具的...
+- 😊 [【深入浅出】：人工智能从入门到实战](https://blog.csdn.net/user340/article/details/154455788) 🔥🔥🔥 超热
+  人工智能（Artificial Intelligence，简称AI）是21世纪最具颠覆性的技术之一。它已深入渗透到生活的方方面面，从日常使用的智能语音助手，到前沿的自动驾驶技术；从提升医疗诊断精度，到...
+- 😟 [ChatTTS语音合成只能本地用？cpolar让跨平台协作无障碍！](https://blog.csdn.net/Pocker_Spades_A/article/details/154189691) 🔥 热门
+  做自媒体的朋友是不是经常遇到：想给视频配个自然的AI语音，又怕文字稿泄露？ChatTTS本地部署版帮你解决，语音合成效果堪比真人，数据还不外流🔒。但问题来了，团队成员不在一个网络，想一起调整语音参数只...
+- 😊 [手把手AR+AI眼镜OSSG 从零到成品“复刻”路线图清单/工具/ai等](https://blog.csdn.net/taoanbang/article/details/150544566) 🔥 热门
+  目标：两周冲刺，做出可佩戴 + 近眼显示 + 摄像头识别 + 实时字幕/翻译的眼镜MVP，并为后续功能扩展（手势、SLAM、应用商店）留好位。
+- 😊 [AI 应用开发工程师（Agent方向）：打造未来的智能体架构！](https://blog.csdn.net/qq_43499381/article/details/146228948) 📈 关注
+  在 AI 领域，AI Agent（智能体） 正在成为最热门的方向之一。从 智能客服 到 自动化办公助手，再到 企业知识管理，AI Agent 正在改变人与机器的交互方式。那么，AI 应用开发工程师（A...
+- 😐 [C# 使用豆包 AI 模型实现首尾帧模式的视频生成](https://blog.csdn.net/michaelline/article/details/154995421) 📈 关注
+  本文介绍了如何通过C#调用火山引擎豆包视频生成模型API实现AI视频创作。作者详细说明了注册火山引擎、获取API密钥的步骤，并提供了完整的C#代码示例，包括创建视频任务、查询任务状态和获取结果列表等功...
 
 
 ### 网络安全资讯
 
-- [英国议会委员会提出立法建议，拟建立软件安全责任制度](https://www.anquanke.com/post/id/313382) - 安全公告，详情请点击链接查看完整内容
+- [大规模npm供应链攻击“亡命开关”正驱动恶意软件攻击，其持久化机制依赖特定激活条件](https://www.anquanke.com/post/id/313473) - 安全公告，详情请点击链接查看完整内容
 - [快速响应：在边缘网关利用 IDS 和 LLMs 实现物联网实时入侵推理](https://paper.seebug.org/3419/) - 作者：Saeid Jamshidi, Amin Nikanjam,Negar Shahabi,Kawser Wazed Nafi等
 译者：知道创宇404实验室翻译组
 原文链接：https://arxi...
@@ -86,14 +86,12 @@ MIT
 
 ### 技术就业趋势
 
-云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
+可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
 
 ### 科技热点
 
-- 😊 [Gemini 3实测：综合最强、代码最强、数学最强、多模态最强的六边形 AI 来了？](https://cloud.tencent.com/developer/article/2591902) 🔥🔥 很热
-  Google 发布了最新的 Gemini 3 模型，首日便做到了屠榜，基本在所有榜单上面超过了GPT-5.1和Claude Sonnet 4.5。
-
-总体上看，Gemini 3 Pro 是目前「综合实...
+- 😐 [人人都能生成教程图？Nano Banana Pro 让你0基础做出年薪50万的效果图！](https://cloud.tencent.com/developer/article/2592825) 📈 关注
+  最近的 AI 圈子里，如果说哪款工具最容易让普通人“秒体验到未来”，Nano Banana Pro 一定榜上有名。它由于接入了最新的 Gemini 3 Pro，所以它的世界知识更加丰富。
 - 😊 [腾讯企点携手生态伙伴启动“医疗数字运河”计划，助力70万家基层诊所药房数字化升级](https://cloud.tencent.com/developer/article/2592944) 📊 普通
   腾讯企点和腾讯健康，携手医药工业、零售药房及生态伙伴，日前共同启动“医疗数字运河”平台，依托大模型、智能体、微信生态、数字化患教平台，连接基层医疗机构、连锁药房、医药企业，推动以患者为中心的基层医疗服...
 - 😊 [lodash中intersection的作用](https://cloud.tencent.com/developer/article/2593273) 📊 普通
@@ -144,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $277.55 📈 +0.58 (+0.2%)
-- **GOOGL**: $319.95 📉 -3.49 (-1.1%)
-- **MSFT**: $485.50 📈 +8.51 (+1.8%)
+- **AAPL**: $278.85 📈 +1.30 (+0.5%)
+- **GOOGL**: $320.18 📈 +0.23 (+0.1%)
+- **MSFT**: $492.01 📈 +6.51 (+1.3%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**合并两个有序链表** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+将两个升序链表合并为一个新的升序链表
 
-标签: 字符串, 动态规划
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -173,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Kubernetes权威指南》** - 龚正等
 
-面向对象设计的经典模式 (分类: 软件设计)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -190,28 +188,28 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🚀 创业公司动态
 
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Ambient Coding** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -225,12 +223,12 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
@@ -258,52 +256,52 @@ test('should calculate tax correctly', () => {
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `bdc53f` | 日期: 2025-11-28
+挑战ID: `b5edd1` | 日期: 2025-11-29
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Zed** (Rust) - ⭐ 25k+
 
-使用Rust构建跨平台桌面应用
+高性能代码编辑器
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**全栈开发** (中级) 📊
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-为什么程序员喜欢黑暗？因为光会产生bug！
+世界上有10种人：懂二进制的和不懂二进制的。
 
 
 ### 🐙 GitHub 生态统计
@@ -317,7 +315,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-11-28 08:15:01
+- 📅 更新时间: 2025-11-29 08:13:14
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -329,14 +327,14 @@ test('should calculate tax correctly', () => {
 
 - 📰 新闻总数: 8
 - 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 15.9/100
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 17.0/100
 
 🏷️ **热门关键词**:
 - AI (6次)
+- AR (3次)
 - 人工智能 (1次)
-- GPT (1次)
-- AR (1次)
+- 自动驾驶 (1次)
 
 
 ### 🤖 关于此项目
