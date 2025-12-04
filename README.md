@@ -55,47 +55,47 @@
 
 MIT
 
-## 今日更新 (2025-12-03)
+## 今日更新 (2025-12-04)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- 😟 [（综述）基于深度学习的制造业表面缺陷检测图像合成方法综述](https://blog.csdn.net/LJ1147517021/article/details/154443892) 📈 关注
-  综述：制造业表面缺陷检测中的图像合成方法，重点探讨了基于计算机图形学和深度学习的解决方案。针对深度学习模型训练中数据不足、不平衡和标注成本高的问题，文章系统比较了两类方法的优缺点：计算机图形学方法可精...
-- 😐 [【Kotlin内联函数】](https://blog.csdn.net/studyForMokey/article/details/154314167) 📊 普通
-  Kotlin内联函数
-- 😟 [从0开始学算法——第一天（认识算法）](https://blog.csdn.net/2401_84407045/article/details/154406347) 📊 普通
-  初步学习算法的朋友，可能觉得算法是个很高大上的东西，其实不然。算法就是从我们的生活中，从解决一个个问题中诞生的。我们可以从一个简单的小故事开始，从前有一个聪明的厨师，名叫小美。如何在有限的时间内完成所...
-- 😐 [BIO NIO（新的IO模型）IO多路复用](https://blog.csdn.net/Aaa11111443/article/details/154389060) 📊 普通
-  一个 Selector 可注册多个 IO 通道，线程只需调用 selector.select() 阻塞等待，操作系统会主动通知 “就绪的通道”（如有数据可读的连接），线程再批量处理这些通道 —— 这是...
-- 😐 [Java基础](https://blog.csdn.net/Broken_x/article/details/154290950) 📊 普通
-  本文是Java基础八股文系列的第一篇，主要面向应届生、实习生和秋招准备者。文章系统梳理了Java基础核心知识点，包含12个关键章节： Java语言特性：介绍平台无关性、JDK/JRE/JVM区别、程序...
+- 😊 [2025 年 10 大最佳 AI 代码审查工具及其工作原理](https://blog.csdn.net/yangsongyao/article/details/146025910) 🔥🔥 很热
+  使用人工智能进行代码分析是一个过程，涉及使用 AI 驱动的解决方案来检查和改进软件应用程序的代码。AI 工具可以与版本控制系统和开发环境集成。它们基于错误检测、性能优化和风格一致性来评估代码。
+- 😐 [1分钟对接500个大模型？这才叫 AI 开发！](https://blog.csdn.net/weixin_41701290/article/details/154064213) 🔥 热门
+  传统的 API 网关通常放在你的应用和各种后端服务之间；而 AI 网关是专门为 AI 应用设计的，放在你的应用和各种 AI 模型服务之间（比如 OpenAI、通义千问、DeepSeek 等等）。
+- 😊 [AI 规范驱动开发“三剑客”深度对比：Spec-Kit、Kiro 与 OpenSpec 实战指南](https://blog.csdn.net/haolove527/article/details/154644466) 🔥 热门
+  本文对比了三大AI规范驱动开发工具（Spec-Kit、Kiro和OpenSpec）的核心差异：Spec-Kit适合企业级标准化开发，强调治理能力；Kiro适合快速原型开发，自动化程度高；OpenSpe...
+- 😊 [二十三,AI代码生成的最佳实践：提示词模板与优化技巧](https://blog.csdn.net/2401_88760782/article/details/146287310) 📈 关注
+  外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-1SpI5wR9-1742051093159)(这里是图片描述，实际发布时需替换为真实图片)]
+- 😐 [cline插件 idea安装AI插件](https://blog.csdn.net/A3106205247/article/details/154823153) 📊 普通
+  1
 
 
 ### 网络安全资讯
 
-- [Devolutions Server 中存在严重漏洞（CVE-2025-13757），已认证的攻击者可利用SQL注入窃取所有存储的密码](https://www.anquanke.com/post/id/313498) - 安全公告，详情请点击链接查看完整内容
-- [PRISM：基于语义草图协作的自适应云边大语言模型推理隐私感知路由](https://paper.seebug.org/3421/) - 作者：Junfei Zhan, Haoxun Shen, Zheng Lin, Tengjiao He
+- [Django框架中存在漏洞（CVE-2025-13372），可导致PostgreSQL FilteredRelation功能出现SQL注入风险](https://www.anquanke.com/post/id/313545) - 安全公告，详情请点击链接查看完整内容
+- [AttackPilot：基于大语言模型智能体的机器学习服务自主推理攻击](https://paper.seebug.org/3422/) - 作者：Yixin Wu, Rui Wen, Chi Cui,Michael Backes, Yang Zhang
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/251...
-- [当 AI 智能体运用到企业：全新安全风险随之浮现](https://www.4hou.com/posts/VWB5) - 现如今，AI助手已不再局限于总结会议纪要、撰写邮件和回答问题，它们开始主动执行操作，例如创建工单、分析日志、管理账户，甚至自动修复故障。进入智能体AI（Agentic AI）时代后，这类AI不仅会告知...
+原文链接：https://arxiv.org/htm...
+- [Glassworm 恶意软件卷土重来 第三波恶意插件入侵VS Code生态平台](https://www.4hou.com/posts/qoyR) - 10月首次现身OpenVSX与微软Visual Studio应用市场的Glassworm攻击活动已演进至第三波，目前两大平台新增24款恶意插件。OpenVSX与微软Visual Studio应用市场均...
 
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
 
 ### 科技热点
 
-- 😊 [数据与 AI 双向奔赴，腾讯云架构师技术沙龙精彩回顾](https://cloud.tencent.com/developer/article/2595776) 📈 关注
-  在 AI 落地过程中，开发者和企业面临的核心瓶颈是数据。能否获取高质量数据、高效处理数据、有效使用数据成为企业智能化发展的关键基石。无数据，不智能。那么在具体实践上，企业如何实现数据与 AI 的双向赋...
-- 😊 [破局AI编程困境：规范驱动的价值与OpenSpec实践路径](https://cloud.tencent.com/developer/article/2595573) 📈 关注
-  随着大语言模型技术的迭代，AI编程工具已实现从"代码补全"到"功能生成"的跨越，开发者只需输入提示词，即可快速获得代码片段甚至完整模块，开发效率提升显著。但在实际应用中，这种"便捷性"背后隐藏着三大核...
-- 😐 [PQC-KMS DEK Delivery](https://cloud.tencent.com/developer/article/2595778) 📈 关注
-  在后量子时代，保护静态数据的关键在于升级密钥管理服务（KMS）的核心能力。传统的 RSA 或 ECC 密钥一旦被量子计算机攻破，所有被其加密保护的数据加密密钥（DEK）都将面临风险。
+- 😊 [「腾讯云NoSQL」技术之向量数据库篇: 索引六边形战士IVF-RabitQ如何实现集性能、成本、召回于一身](https://cloud.tencent.com/developer/article/2596007) 🔥 热门
+  导语：向量数据库，堪称支撑推荐系统、图像识别及大模型检索增强生成（RAG）等 AI 应用的核心基石。然而，当业务数据规模从百万级跃升至百亿甚至千亿时，如何在海量数据下平衡检索性能、召回精度与硬件成本，...
+- 😐 [全栈云迁移：多云时代，腾讯专有云TCE护航企业平滑上云](https://cloud.tencent.com/developer/article/2596140) 📈 关注
+  导读：现代企业 IT 架构正加速向异构基础架构与多云模式演进。Gartner 研究副总裁 Sid Nag在 2024 年 12 月指出：“到 2027 年，90% 的企业将采用混合云方法”。这种架构使...
+- 😊 [告别RDP爆破恐慌：Codebuddy 5步打造实时IP白名单系统](https://cloud.tencent.com/developer/article/2596053) 📊 普通
+  问了下Codebuddy，说是除了暴力破解，也有可能是客户端网络不稳定重连频繁触发，并且给了我一个脚本测试
 
 
 ### GitHub 趋势项目
@@ -111,7 +111,14 @@ MIT
 
 ### AI 研究论文
 
-- arXiv 论文数据暂时不可用，请稍后再查看
+- [SkillFactory: Self-Distillation For Learning Cognitive Behaviors](https://arxiv.org/abs/2512.04072v1) - Zayne Sprague, Jack Lu, Manya Wadhwa, Sedrick Keh, Mengye Ren, Greg Durrett
+  Reasoning models leveraging long chains of thought employ various cognitive skills, such as verification of their answers, backtracking, retrying by a...
+
+- [Fare Comparison App of Uber, Ola and Rapido](https://arxiv.org/abs/2512.04065v1) - Ashlesha Gopinath Sawant, Sahil S. Jadhav, Vidhan R. Jain, Shriraj S. Jagtap, Prachi Jadhav, Soham Jadhav, Ichha Raina
+  In todays increasing world, it is very important to have good hailing services like Ola, Uber, and Rapido as it is very essential for our daily transp...
+
+- [Polarization by Design: How Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs](https://arxiv.org/abs/2512.04047v1) - Nadav Kunievsky
+  In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historicall...
 
 
 
@@ -135,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $286.19 📈 +3.09 (+1.1%)
-- **GOOGL**: $315.81 📈 +0.92 (+0.3%)
-- **MSFT**: $490.00 📈 +3.26 (+0.7%)
+- **AAPL**: $284.15 📉 -2.04 (-0.7%)
+- **GOOGL**: $319.63 📈 +3.82 (+1.2%)
+- **MSFT**: $477.73 📉 -12.27 (-2.5%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+判断字符串中的括号是否有效匹配
 
-标签: 数组, 哈希表
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -169,9 +176,9 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《深度学习》** - Ian Goodfellow
 
-面向对象设计的经典模式 (分类: 软件设计)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -187,22 +194,22 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -228,73 +235,72 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**遵循单一职责原则**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🥷 代码忍者
+今日挑战徽章：💡 创新者
 
-挑战ID: `428379` | 日期: 2025-12-03
+挑战ID: `fd1360` | 日期: 2025-12-04
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-高性能代码编辑器
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**全栈开发** (中级) 📊
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-真正的程序员不需要注释，代码就是最好的文档。
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -308,7 +314,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-12-03 08:16:58
+- 📅 更新时间: 2025-12-04 08:15:47
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -319,14 +325,15 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 2 (25.0%)
-- 😟 消极新闻: 2 (25.0%)
-- 🔥 平均热度: 5.8/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 13.2/100
 
 🏷️ **热门关键词**:
-- AI (2次)
-- 深度学习 (1次)
-- 量子计算 (1次)
+- AI (6次)
+- 人工智能 (1次)
+- OpenAI (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
