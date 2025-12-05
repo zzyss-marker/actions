@@ -55,70 +55,70 @@
 
 MIT
 
-## 今日更新 (2025-12-04)
+## 今日更新 (2025-12-05)
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- 😊 [2025 年 10 大最佳 AI 代码审查工具及其工作原理](https://blog.csdn.net/yangsongyao/article/details/146025910) 🔥🔥 很热
-  使用人工智能进行代码分析是一个过程，涉及使用 AI 驱动的解决方案来检查和改进软件应用程序的代码。AI 工具可以与版本控制系统和开发环境集成。它们基于错误检测、性能优化和风格一致性来评估代码。
-- 😐 [1分钟对接500个大模型？这才叫 AI 开发！](https://blog.csdn.net/weixin_41701290/article/details/154064213) 🔥 热门
-  传统的 API 网关通常放在你的应用和各种后端服务之间；而 AI 网关是专门为 AI 应用设计的，放在你的应用和各种 AI 模型服务之间（比如 OpenAI、通义千问、DeepSeek 等等）。
-- 😊 [AI 规范驱动开发“三剑客”深度对比：Spec-Kit、Kiro 与 OpenSpec 实战指南](https://blog.csdn.net/haolove527/article/details/154644466) 🔥 热门
-  本文对比了三大AI规范驱动开发工具（Spec-Kit、Kiro和OpenSpec）的核心差异：Spec-Kit适合企业级标准化开发，强调治理能力；Kiro适合快速原型开发，自动化程度高；OpenSpe...
-- 😊 [二十三,AI代码生成的最佳实践：提示词模板与优化技巧](https://blog.csdn.net/2401_88760782/article/details/146287310) 📈 关注
-  外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-1SpI5wR9-1742051093159)(这里是图片描述，实际发布时需替换为真实图片)]
-- 😐 [cline插件 idea安装AI插件](https://blog.csdn.net/A3106205247/article/details/154823153) 📊 普通
-  1
+- 😊 [【深入浅出】：人工智能从入门到实战](https://blog.csdn.net/user340/article/details/154455788) 🔥🔥🔥 超热
+  人工智能（Artificial Intelligence，简称AI）是21世纪最具颠覆性的技术之一。它已深入渗透到生活的方方面面，从日常使用的智能语音助手，到前沿的自动驾驶技术；从提升医疗诊断精度，到...
+- 😊 [告别显存焦虑：阿里开源 Z-Image 如何用 6B 参数立足AI 绘画时代](https://blog.csdn.net/linshantang/article/details/155419551) 📈 关注
+  在 AI 图像生成领域，“模型越大、画质越好、速度越慢”似乎已成定律。然而，阿里通义团队最新开源的 6B 参数模型 Z-Image-Turbo，正试图打破这个“不可能三角”。它以惊人的 1 秒出图速度...
+- 😊 [AI虚拟女友/角色扮演/AI聊天伴侣开源项目汇总](https://blog.csdn.net/qq_45066628/article/details/146231386) 📈 关注
+  各位开发者小伙伴们，今天给大家解锁一波超实用的AI黑科技！近期GitHub上涌现了大量开源的AI虚拟伴侣项目，从高情商对话模型到角色扮演系统，从情感陪聊助手到个性化女友定制工具，这些项目不仅支持本地一...
+- 😊 [开源逆袭！Wan2.1让家用电脑也能跑AI视频生成](https://blog.csdn.net/lrq13965748542/article/details/153686773) 📈 关注
+  摘要 国内团队开发的Wan2.1开源文生视频模型在VBench榜单上超越多款闭源产品，具备三大优势：1）硬件要求低（8G显存可生成720P视频）；2）场景一致性出色；3）支持本地部署。通过ComfyU...
+- 😊 [Windsurf AI IDE 完全使用指南](https://blog.csdn.net/m0_73774439/article/details/155094401) 📈 关注
+  创建"codeReview": "请以高级工程师的角度审查这段代码，关注性能、安全性和可维护性","optimize": "优化这段代码，重点关注时间复杂度和空间复杂度","document": "为...
 
 
 ### 网络安全资讯
 
 - [Django框架中存在漏洞（CVE-2025-13372），可导致PostgreSQL FilteredRelation功能出现SQL注入风险](https://www.anquanke.com/post/id/313545) - 安全公告，详情请点击链接查看完整内容
-- [AttackPilot：基于大语言模型智能体的机器学习服务自主推理攻击](https://paper.seebug.org/3422/) - 作者：Yixin Wu, Rui Wen, Chi Cui,Michael Backes, Yang Zhang
+- [基于大型语言模型的恶意软件检测与解释：低秩适配（LoRA）与全量微调的准确性 - 效率权衡及对比研究](https://paper.seebug.org/3423/) - 作者：Stephen C. Gravereaux, Sheikh Rabiul Islam
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/htm...
-- [Glassworm 恶意软件卷土重来 第三波恶意插件入侵VS Code生态平台](https://www.4hou.com/posts/qoyR) - 10月首次现身OpenVSX与微软Visual Studio应用市场的Glassworm攻击活动已演进至第三波，目前两大平台新增24款恶意插件。OpenVSX与微软Visual Studio应用市场均...
+原文链接：https://arxiv.org/html/2511.1965...
+- [安卓电视 YouTube 客户端 SmartTube 遭入侵 恶意更新强制推送](https://www.4hou.com/posts/rpzk) - 安卓电视平台的开源YouTube客户端SmartTube已确认遭入侵——攻击者获取开发者的数字签名密钥后，向用户推送了包含恶意代码的更新包。此次安全事件由多名用户反馈发现：安卓内置杀毒模块Google...
 
 
 ### 技术就业趋势
 
-人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
+数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
 
 ### 科技热点
 
-- 😊 [「腾讯云NoSQL」技术之向量数据库篇: 索引六边形战士IVF-RabitQ如何实现集性能、成本、召回于一身](https://cloud.tencent.com/developer/article/2596007) 🔥 热门
-  导语：向量数据库，堪称支撑推荐系统、图像识别及大模型检索增强生成（RAG）等 AI 应用的核心基石。然而，当业务数据规模从百万级跃升至百亿甚至千亿时，如何在海量数据下平衡检索性能、召回精度与硬件成本，...
-- 😐 [全栈云迁移：多云时代，腾讯专有云TCE护航企业平滑上云](https://cloud.tencent.com/developer/article/2596140) 📈 关注
-  导读：现代企业 IT 架构正加速向异构基础架构与多云模式演进。Gartner 研究副总裁 Sid Nag在 2024 年 12 月指出：“到 2027 年，90% 的企业将采用混合云方法”。这种架构使...
-- 😊 [告别RDP爆破恐慌：Codebuddy 5步打造实时IP白名单系统](https://cloud.tencent.com/developer/article/2596053) 📊 普通
-  问了下Codebuddy，说是除了暴力破解，也有可能是客户端网络不稳定重连频繁触发，并且给了我一个脚本测试
+- 😐 [【TKE原生节点】自定义挂载路径 bind mount 容器数据目录](https://cloud.tencent.com/developer/article/2596373) 🔥 热门
+  如果挂载数据盘路径为默认路径：/var/lib/container，会自动 bind mount 容器默认的数据目录使用挂载的数据盘，即会有如下挂载：
+- 😐 [当我们请一群00后「整顿广告」](https://cloud.tencent.com/developer/article/2596349) 📊 普通
+  讲个故事。有媒体曾在1998年刊登过一个著名案例：超市收银员发现，年轻爸爸在给孩子买纸尿裤时，往往会顺手给自己带一罐啤酒。
+- 😐 [TKE集群GlobalRouter网络模式如何调整单节点max-pods数](https://cloud.tencent.com/developer/article/2596377) 📊 普通
+  有些TKE老客户早期创建的集群，默认勾选的GlobalRouter网络模式，控制台选择的"容器子网"默认单节点最大pod数64，也可能当时节点规格不高调到更小(比如16)，这个最大pod数和每个节点的...
 
 
 ### GitHub 趋势项目
 
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
-- [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [basecamp/fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 
 
 
 
 ### AI 研究论文
 
-- [SkillFactory: Self-Distillation For Learning Cognitive Behaviors](https://arxiv.org/abs/2512.04072v1) - Zayne Sprague, Jack Lu, Manya Wadhwa, Sedrick Keh, Mengye Ren, Greg Durrett
-  Reasoning models leveraging long chains of thought employ various cognitive skills, such as verification of their answers, backtracking, retrying by a...
+- [The Universal Weight Subspace Hypothesis](https://arxiv.org/abs/2512.05117v1) - Prakhar Kaushik, Shravan Chaudhari, Ankit Vaidya, Rama Chellappa, Alan Yuille
+  We show that deep neural networks trained across diverse tasks exhibit remarkably similar low-dimensional parametric subspaces. We provide the first l...
 
-- [Fare Comparison App of Uber, Ola and Rapido](https://arxiv.org/abs/2512.04065v1) - Ashlesha Gopinath Sawant, Sahil S. Jadhav, Vidhan R. Jain, Shriraj S. Jagtap, Prachi Jadhav, Soham Jadhav, Ichha Raina
-  In todays increasing world, it is very important to have good hailing services like Ola, Uber, and Rapido as it is very essential for our daily transp...
+- [DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation](https://arxiv.org/abs/2512.05112v1) - Dongzhi Jiang, Renrui Zhang, Haodong Li, Zhuofan Zong, Ziyu Guo, Jun He, Claire Guo, Junyan Ye, Rongyao Fang, Weijia Li, Rui Liu, Hongsheng Li
+  Recent unified multimodal large language models (MLLMs) have shown impressive capabilities, incorporating chain-of-thought (CoT) reasoning for enhance...
 
-- [Polarization by Design: How Elites Could Shape Mass Preferences as AI Reduces Persuasion Costs](https://arxiv.org/abs/2512.04047v1) - Nadav Kunievsky
-  In democracies, major policy decisions typically require some form of majority or consensus, so elites must secure mass support to govern. Historicall...
+- [ShadowDraw: From Any Object to Shadow-Drawing Compositional Art](https://arxiv.org/abs/2512.05110v1) - Rundong Luo, Noah Snavely, Wei-Chiu Ma
+  We introduce ShadowDraw, a framework that transforms ordinary 3D objects into shadow-drawing compositional art. Given a 3D object, our system predicts...
 
 
 
@@ -142,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $284.15 📉 -2.04 (-0.7%)
-- **GOOGL**: $319.63 📈 +3.82 (+1.2%)
-- **MSFT**: $477.73 📉 -12.27 (-2.5%)
+- **AAPL**: $280.70 📉 -3.45 (-1.2%)
+- **GOOGL**: $317.62 📉 -2.01 (-0.6%)
+- **MSFT**: $480.84 📈 +3.11 (+0.7%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**两数之和** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 栈, 字符串
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -171,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《Kubernetes权威指南》** - 龚正等
 
-深度学习领域的权威教材 (分类: 人工智能)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -189,27 +189,27 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 ### 🚀 创业公司动态
 
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Brain.fm Focus** - Brain.fm
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -223,41 +223,42 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**写测试用例**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `fd1360` | 日期: 2025-12-04
+挑战ID: `666cea` | 日期: 2025-12-05
 
 
 ### 📊 技术话题投票
@@ -275,32 +276,32 @@ function formatCurrency(amount) { ... }
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-现代JavaScript/TypeScript运行时
+现代Web应用框架
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**云架构师** (高级) 🚀
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+世界上有10种人：懂二进制的和不懂二进制的。
 
 
 ### 🐙 GitHub 生态统计
@@ -314,7 +315,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-12-04 08:15:47
+- 📅 更新时间: 2025-12-05 08:14:28
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -327,13 +328,13 @@ function formatCurrency(amount) { ... }
 - 📰 新闻总数: 8
 - 😊 积极新闻: 5 (62.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 13.2/100
+- 🔥 平均热度: 15.2/100
 
 🏷️ **热门关键词**:
 - AI (6次)
+- AR (2次)
 - 人工智能 (1次)
-- OpenAI (1次)
-- AR (1次)
+- 自动驾驶 (1次)
 
 
 ### 🤖 关于此项目
