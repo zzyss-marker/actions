@@ -55,70 +55,70 @@
 
 MIT
 
-## 今日更新 (2025-12-11)
+## 今日更新 (2025-12-12)
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- 😐 [Spatial Joy 2025 全球 AR&AI 赛事：开发者要的资源、玩法、避坑攻略都在这](https://blog.csdn.net/weixin_62765017/article/details/154528445) 🔥 热门
-  Spatial Joy 2025 全球 AR&AI 赛事：开发者要的资源、玩法、避坑攻略都在这
+- 😐 [“边界AI平台”本质，警惕AI陷阱](https://blog.csdn.net/tomora/article/details/151804101) 🔥 热门
+  【摘要】边界AI平台作为大模型中间件，通过封装GPT-4等主流模型API提供服务，技术本质是标准化接口开发。其268元终身会员模式存在争议，因实际未提供显著增值服务且成本优势不足，主要依赖国内用户访问...
+- 😊 [【Coze-AI智能体平台】 吃透 Coze 智能体开发：3 大模式 + 模型配置 + 提示词技巧全攻略](https://blog.csdn.net/2401_87342824/article/details/154239243) 🔥 热门
+  本文聚焦Coze智能体搭建核心基础，开篇点明AI作为开发工具的赋能价值。核心围绕智能体开发展开，先定义智能体是基于大语言模型、具备主动适应能力的系统，区分其与传统自动化工具的差异；随后详解Coze智能...
+- 😐 [Silly Tavern酒馆ai角色卡与世界书导入超详细教程！](https://blog.csdn.net/weixin_41961749/article/details/148652847) 📈 关注
+  前几天，我在设置 Silly Tavern 的时候，想导入一个喜欢的角色卡，结果发现不少朋友其实已经下载好了角色资源，但却不知道怎么正确导入使用。这篇文章就作为一份完整的新手向教程，一步步教你如何在 ...
 - 😊 [【AI 解析】Gemini 3 全面解析：从认知到落地](https://blog.csdn.net/weixin_63944437/article/details/155094566) 📈 关注
   Google推出Gemini 3模型，在多模态理解、深度推理和交互能力上实现显著提升。该模型支持文本、图像、视频、音频和代码的统一处理，具备长上下文窗口和Deep Think推理模式，在数学和科学任务...
-- 😊 [人工智能训练师三级实操题第一部分数据处理](https://blog.csdn.net/liqngjun123/article/details/149483838) 📈 关注
-  本文系统介绍了数据处理的完整流程，包括数据采集、清洗预处理、标准化、分组统计、可视化和保存等关键环节。通过Python代码实例演示了如何加载CSV数据、处理缺失值和异常值、进行Z-score标准化、分...
-- 😊 [借用AI工具（cursor/vscode) 调试matlab代码(2025.4最新实测）](https://blog.csdn.net/m0_55795604/article/details/147458650) 📈 关注
-  本文实测环境：MATLAB 2025a + Windows 11你只需cursor或者copliot即可用AI直接优化现有MATLAB工程。
-- 😐 [微信小程序实现AI对话功能完整方案（仿DeepSeek）](https://blog.csdn.net/qq_16242613/article/details/154918724) 📈 关注
-  微信小程序实现AI对话功能完整方案（仿DeepSeek）
+- 😐 [智慧医疗：FHIR R5、联邦学习与MLOps三位一体的AI产品化实战指南（上）](https://blog.csdn.net/kkiron/article/details/154726874) 📈 关注
+  智慧医疗：FHIR R5、联邦学习与MLOps三位一体的AI产品化
 
 
 ### 网络安全资讯
 
 - [VMP的手动分析和AI还原](https://www.anquanke.com/post/id/313690) - 安全公告，详情请点击链接查看完整内容
-- [Typhon: 一种 pyjail 自动化绕过的思路及其粗略实现](https://paper.seebug.org/3428/) - 作者：LamentXU
-原文链接：https://www.cnblogs.com/LAMENTXU/articles/19101758
-Typhon项目已加入知道创宇404实验室星链计划，项目地址：h...
-- [漏洞预警 | React/Next.js组件RCE漏洞（CVE-2025-55182）详情分析-【附验证环境】](https://www.4hou.com/posts/NGzm) - 一、漏洞背景近日，React 核心团队确认了一个存在于 React Server Components (RSC) 实现中的严重远程代码执行 (RCE) 漏洞。该漏洞被分配了 CVE-2025-551...
+- [强网杯S9 Real World - monotint](https://paper.seebug.org/3430/) - 作者：flyyy  
+前言
+本次强网杯线下和0x300R的师傅们一起打了，其他师傅都太强啦。但最后一天的时间很短，我们最后demo的4题，基本都因为环境问题，没有成功，其中就包括了我这里demo 的m...
+- [Predator间谍软件采用新型攻击载体实施零点击攻击](https://www.4hou.com/posts/yzKz) - 安全研究员最新发现，Predator间谍软件已启用一款名为Aladdin的零点击感染机制——目标对象无需任何主动操作，仅需浏览到一则恶意广告，其设备便会遭到入侵。这一功能强大且此前从未被披露的攻击载体...
 
 
 ### 技术就业趋势
 
-区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
 - 😊 [AI for Science，走到哪一步了？](https://cloud.tencent.com/developer/article/2597360) 📈 关注
   日前，谷歌DeepMind 发文《AlphaFold：五年来的影响》，回顾五年来蛋白质结构预测的技术突破对于推动科学进步的巨大作用。
-- 😊 [DeepSeek V3.2 / V3.2-Speciale 正式发布：开源阵营的又一次「硬刚闭源」时刻？](https://cloud.tencent.com/developer/article/2597008) 📊 普通
-  我都记不清这是DeepSeek官方今天的多少次开源模型了，只能说每次都给我们一个惊喜。从年初的R1到现在的V3.2版本，只能说DeepSeek无愧是开源界的“源神”称号。
-- 😐 [市场份额第一！有请这位“销冠”](https://cloud.tencent.com/developer/article/2597359) 📊 普通
-  最近，据IDC《中国客户数据平台市场跟踪研究报告 2025H1》显示，腾讯企点营销云CDP（客户数据平台）位居市场份额第一，持续领跑～👏
+- 😐 [【TCR】从 AWS 环境一键迁移镜像到TCR](https://cloud.tencent.com/developer/article/2597673) 📊 普通
+  1.  执行机器：一台 aws 服务器或cloudshell作为跳板机执行同步镜像脚本（需要有aws 命令并配置好账号认证） 。
+- 😐 [Win徽标+R不显示运行命令的历史记录，一句注册表搞定](https://cloud.tencent.com/developer/article/2597659) 📊 普通
+  
 
 
 ### GitHub 趋势项目
 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
-- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
-- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+- [tempoxyz/tempo](https://github.com/tempoxyz/tempo) - the blockchain for payments
 
 
 
 
 ### AI 研究论文
 
-- [LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating](https://arxiv.org/abs/2512.09920v1) - Junting Chen, Yunchuan Li, Panfeng Jiang, Jiacheng Du, Zixuan Chen, Chenrui Tie, Jiajun Deng, Lin Shao
-  Towards human-robot coexistence, socially aware navigation is significant for mobile robots. Yet existing studies on this area focus mainly on path ef...
+- [SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model](https://arxiv.org/abs/2512.10957v1) - Yukai Shi, Weiyu Li, Zihao Wang, Hongyang Li, Xingyu Chen, Ping Tan, Lei Zhang
+  We propose a decoupled 3D scene generation framework called SceneMaker in this work. Due to the lack of sufficient open-set de-occlusion and pose esti...
 
-- [FALCON: Few-step Accurate Likelihoods for Continuous Flows](https://arxiv.org/abs/2512.09914v1) - Danyal Rehman, Tara Akhound-Sadegh, Artem Gazizov, Yoshua Bengio, Alexander Tong
-  Scalable sampling of molecular states in thermodynamic equilibrium is a long-standing challenge in statistical physics. Boltzmann Generators tackle th...
+- [Hierarchical Dataset Selection for High-Quality Data Sharing](https://arxiv.org/abs/2512.10952v1) - Xiaona Zhou, Yingyan Zeng, Ran Jin, Ismini Lourentzou
+  The success of modern machine learning hinges on access to high-quality training data. In many real-world scenarios, such as acquiring data from publi...
 
-- [Supervised learning pays attention](https://arxiv.org/abs/2512.09912v1) - Erin Craig, Robert Tibshirani
-  In-context learning with attention enables large neural networks to make context-specific predictions by selectively focusing on relevant examples. He...
+- [Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation](https://arxiv.org/abs/2512.10949v1) - Yiwen Tang, Zoey Guo, Kaixin Zhu, Ray Zhang, Qizhi Chen, Dongzhi Jiang, Junli Liu, Bohan Zeng, Haoming Song, Delin Qu, Tianyi Bai, Dan Xu, Wentao Zhang, Bin Zhao
+  Reinforcement learning (RL), earlier proven to be effective in large language and multi-modal models, has been successfully extended to enhance 2D ima...
 
 
 
@@ -142,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $278.78 📈 +1.60 (+0.6%)
-- **GOOGL**: $320.21 📈 +3.13 (+1.0%)
-- **MSFT**: $478.56 📉 -13.46 (-2.7%)
+- **AAPL**: $278.03 📉 -0.75 (-0.3%)
+- **GOOGL**: $312.43 📉 -7.78 (-2.4%)
+- **MSFT**: $483.47 📈 +5.15 (+1.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**两数之和** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 栈, 字符串
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -176,9 +176,9 @@ WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的�
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Kubernetes权威指南》** - 龚正等
 
-面向对象设计的经典模式 (分类: 软件设计)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,28 +188,28 @@ WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的�
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Ambient Coding** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -249,27 +249,27 @@ test('should calculate tax correctly', () => {
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🧠 算法大师
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `6b1bd3` | 日期: 2025-12-11
+挑战ID: `1a40a8` | 日期: 2025-12-12
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
@@ -278,18 +278,18 @@ test('should calculate tax correctly', () => {
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代Web应用框架
+高性能代码编辑器
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
@@ -301,7 +301,7 @@ test('should calculate tax correctly', () => {
 
 ### 😄 程序员笑话
 
-为什么程序员喜欢黑暗？因为光会产生bug！
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -315,7 +315,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-12-11 08:16:30
+- 📅 更新时间: 2025-12-12 08:15:59
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -326,14 +326,13 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
+- 😊 积极新闻: 3 (37.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 8.5/100
+- 🔥 平均热度: 10.4/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- AR (1次)
-- 人工智能 (1次)
+- AI (6次)
+- GPT (1次)
 
 
 ### 🤖 关于此项目
