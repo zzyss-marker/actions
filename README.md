@@ -55,72 +55,74 @@
 
 MIT
 
-## 今日更新 (2025-12-17)
+## 今日更新 (2025-12-18)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- 😐 [工程化路径：当我们信任并拥抱 AI，超级潜力才真正被点燃](https://blog.csdn.net/xiaofeng10330111/article/details/155077449) 📈 关注
-  AI 的潜力不取决于模型规模，而取决于组织是否愿意真正把任务交给 AI。多数企业看见 AI 却吃不到红利，是因为仍以“工具思维”使用它，缺乏授权、不敢信任、不愿调整结构。解决之道是“工程化信任”——可...
+- 😊 [本地 AI 模型随心用！Cherry Studio + cpolar解锁跨设备智能办公](https://blog.csdn.net/weixin_44976692/article/details/155614614) 🔥 热门
+  摘要： Cherry Studio 是一款集成在线与本地 AI 模型的多功能客户端，支持调用硅基流动等平台的在线模型，也可对接本地部署的 Ollama 模型（如千问 QWQ-32B、DeepSeek-...
+- 😊 [AI自动生成PPT报告产品技术实现与应用案例](https://blog.csdn.net/EAlReport/article/details/155495524) 🔥 热门
+  AI自动生成PPT报告产品通过NLP、机器学习和低代码技术的深度融合，彻底改变了传统报告编制的低效模式。在工业质量管理场景中，已展现出强大的价值创造力——不仅将报告周期从数天压缩至小时级，更通过数据洞...
+- 😐 [【Cherry Studio配置MCP服务全流程解析：让AI自动调用工具处理任务】](https://blog.csdn.net/qyj19920704/article/details/146564986) 📈 关注
+  最近 AI 领域真是隔几天就有一个新热度，随着越来越多的使用 MCP 制作的 Agent 产品出现，MCP 这个新名词也频繁刷屏，有着大火的趋势，那么什么是 MCP 呢？MCP 是一种接口协议，由 A...
 - 😟 [AI 最先替代的开发工作：从重复劳动到人机协同的新范式](https://blog.csdn.net/csdn_silent/article/details/155222159) 📈 关注
   AI 最先替代的不是“程序员”，而是“重复性编码劳动”。谁还在只做“复制粘贴式开发”，谁就最危险；谁能驾驭 AI、聚焦价值创造，谁就更不可替代。前端、后端、测试中的“模板化部分”都会被吞噬，但工程判断...
-- 😟 [AI - CurSor精准上下文+应用（三）](https://blog.csdn.net/MinggeQingchun/article/details/155313309) 📈 关注
-  可约束代码风格（如强制用驼峰命名、要求函数必须写注释 ）能限定技术选型（如禁止使用某老旧库、优先用项目指定工具类 ）提前指定核心参数（如提前设置连接数据库的地址和账号密码等）Rule主要的配置方案有两...
-- 😊 [借力AI，DooTask重塑项目管理效率新标杆](https://blog.csdn.net/weixin_43151418/article/details/155016579) 📈 关注
-  DooTask 作为项目管理软件，接入通义千问等主流 AI 工具，构建智能化协作生态，其 “多 AI 协同” 模式适配不同团队需求，AI 贯穿项目全流程，在规划、执行监控、复盘优化阶段提升效率，反映了...
-- 😐 [Python在AI虚拟教学视频开发中的核心技术与前景展望](https://blog.csdn.net/deepever/article/details/147517651) 📈 关注
-  Python在AI虚拟教学视频开发中的核心技术与前景展望
+- 😊 [AI如何助力7c-c起草视频？快马平台一键生成代码](https://blog.csdn.net/StarfallRaven13/article/details/155449050) 📈 关注
+  模块化开发的必要性：AI生成的框架已经做好了功能解耦，修改一个模块不会影响其他部分接口设计的重要性：AI预先定义的API规范让前后端协作更顺畅测试驱动开发：利用AI生成的测试用例模板，可以快速编写单元...
 
 
 ### 网络安全资讯
 
-- [Z0Scan设计与实现：通用插件与分布式扫描新思路](https://www.anquanke.com/post/id/312991) - 安全公告，详情请点击链接查看完整内容
-- [Argus：一种基于层级引用关系的多智能体敏感信息泄露检测框架](https://paper.seebug.org/3435/) - 作者：Bin Wang, Hui Li, Liyang Zhang等
-译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2512.08326v1
-摘要
-代码仓库...
-- [MITRE 发布 2025 年度TOP25最危险软件弱点榜单](https://www.4hou.com/posts/2XLj) - MITRE公布了2025年度最危险的25类软件弱点榜单，这些弱点是2024年6月至2025年6月期间披露的39000余个安全漏洞的核心诱因。软件弱点指软件在代码编写、功能实现、架构搭建或设计环节中存在...
+- [【原创首发】首个“AI勒索软件”--纽约大学团队“PromptLock”深度剖析](https://www.anquanke.com/post/id/312173) - 安全公告，详情请点击链接查看完整内容
+- [AFL Fuzz QEMU 新版适配：深度解析 Patch 细节](https://paper.seebug.org/3433/) - 作者：知道创宇404实验室
+本文将深度解析 AFL++ 对 QEMU 的 patch 细节。
+
+
+AFL对 QEMU 的修改
+首先，下面列出 AFL对 QEMU 的修改目录：
+ accel/tcg/c...
+- [黑客借 React2Shell 漏洞发起 EtherRAT 恶意软件攻击](https://www.4hou.com/posts/J1v9) - 在近期的React2Shell漏洞攻击事件中，一款名为EtherRAT的新型恶意植入程序被安全研究人员发现，该程序不仅内置五种独立的Linux系统持久化机制，还会借助以太坊智能合约与攻击者建立通信链路...
 
 
 ### 技术就业趋势
 
-远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
+数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
 
 ### 科技热点
 
-- 😊 [17万条推理轨迹扒出AI推理的真相：有劲儿，但用错了地方｜哈佛新论文解读](https://cloud.tencent.com/developer/article/2598836) 📈 关注
-  一方面，Google 刚刚发布的 Gemini 3 再次以一种近乎暴力美学的方式验证了 Scaling Law 的有效性。更庞大的参数、更狂野的算力堆叠、更低的数据 Loss。只要卡够多，奇迹似乎就能...
-- 😟 [给Win10 LTSC 2021离线集成2025年11月补丁KB5068781时会报14099、0x80073713的错误码（不论使用dism还是dism++）](https://cloud.tencent.com/developer/article/2597996) 📊 普通
-  本文分享的链接都出自微软公开ISO文件，不涉及商业分享，系统如何激活看个人能力，激活不了就试用30天。
-- 😐 [游戏IP×文旅，将走向何方？](https://cloud.tencent.com/developer/article/2598479) 📊 普通
-  从大阪环球影城打破“次元壁”的“任天堂世界”主题园区，到山西文旅借《黑神话：悟空》之势助推古建筑文化火遍全球，随着数字技术的蓬勃发展与实体经济的深度结合，向着文化数字化转型的政策蓝图，自古并行的“神游...
+- 😊 [腾讯云斩获“AI领航杯”全国总决赛金奖！](https://cloud.tencent.com/developer/article/2600105) 🔥🔥 很热
+  近日，由中国互联网协会举办的首届“AI领航杯”“人工智能+”应用与技能大赛全国总决赛收官，腾讯玄武实验室自研“基于语义同构标签的端云协同隐私保护系统HaS”斩获AI领航星光金奖。该系统凭借其在隐私保护...
+- 😊 [DeepSeek爆火，OpsPilot才是运维最坚实的幕后主心骨](https://cloud.tencent.com/developer/article/2599915) 🔥🔥 很热
+  DeepSeek的火爆，正驱动人工智能迈入超速迭代周期，推动AI以前所未有的速度改变着我们的生活和工作方式。在AI技术的加持下，企业对内和对外业务中频现AI“高光时刻”，大大提高了运转效率，然而随着A...
+- 😐 [[玩转树莓派CM0 之 BLE] Python 与 BLE 设备通信指南 -- P1](https://cloud.tencent.com/developer/article/2599721) 📊 普通
+  用一个简单的比喻, 这就像美食街里有许多商贩在叫卖 (从设备广播) , 而顾客 (主设备) 听到感兴趣的吆喝后, 可以主动走过去交易. 商贩只能等待顾客上门, 而不能主动将商品塞给顾客.
 
 
 ### GitHub 趋势项目
 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
-- [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - A book for Learning the Foundations of LLMs
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
+- [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 
 
 
 
 ### AI 研究论文
 
-- [TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2512.14698v1) - Jun Zhang, Teng Wang, Yuying Ge, Yixiao Ge, Xinhao Li, Ying Shan, Limin Wang
-  This paper does not introduce a novel method but instead establishes a straightforward, incremental, yet essential baseline for video temporal groundi...
+- [Spatia: Video Generation with Updatable Spatial Memory](https://arxiv.org/abs/2512.15716v1) - Jinjing Zhao, Fangyun Wei, Zhening Liu, Hongyang Zhang, Chang Xu, Yan Lu
+  Existing video generation models struggle to maintain long-term spatial and temporal consistency due to the dense, high-dimensional nature of video si...
 
-- [Spherical Leech Quantization for Visual Tokenization and Generation](https://arxiv.org/abs/2512.14697v1) - Yue Zhao, Hanwen Jiang, Zhenlin Xu, Chutong Yang, Ehsan Adeli, Philipp Krähenbühl
-  Non-parametric quantization has received much attention due to its efficiency on parameters and scalability to a large codebook. In this paper, we pre...
+- [Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants](https://arxiv.org/abs/2512.15712v1) - Vincent Huang, Dami Choi, Daniel D. Johnson, Sarah Schwettmann, Jacob Steinhardt
+  Interpreting the internal activations of neural networks can produce more faithful explanations of their behavior, but is difficult due to the complex...
 
-- [Universal Reasoning Model](https://arxiv.org/abs/2512.14693v1) - Zitian Gao, Lynx Chen, Yihao Xiao, He Xing, Ran Tao, Haoming Luo, Joey Zhou, Bryan Dai
-  Universal transformers (UTs) have been widely used for complex reasoning tasks such as ARC-AGI and Sudoku, yet the specific sources of their performan...
+- [Artism: AI-Driven Dual-Engine System for Art Generation and Critique](https://arxiv.org/abs/2512.15710v1) - Shuai Liu, Yiqing Tian, Yang Chen, Mar Canet Sola
+  This paper proposes a dual-engine AI architectural method designed to address the complex problem of exploring potential trajectories in the evolution...
 
 
 
@@ -144,25 +146,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $274.61 📈 +0.50 (+0.2%)
-- **GOOGL**: $306.57 📉 -1.65 (-0.5%)
-- **MSFT**: $476.39 📈 +1.57 (+0.3%)
+- **AAPL**: $271.84 📉 -2.77 (-1.0%)
+- **GOOGL**: $296.72 📉 -9.85 (-3.2%)
+- **MSFT**: $476.12 📉 -0.27 (-0.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**合并两个有序链表** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+将两个升序链表合并为一个新的升序链表
 
-标签: 字符串, 动态规划
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -173,14 +175,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Python编程：从入门到实践》** - Eric Matthes
 
-面向对象设计的经典模式 (分类: 软件设计)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -190,14 +192,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
@@ -209,9 +211,9 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Brain.fm Focus** - Brain.fm
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -237,40 +239,41 @@ D. 面向对象
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**写测试用例**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🛡️ 安全卫士
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `334790` | 日期: 2025-12-17
+挑战ID: `455dea` | 日期: 2025-12-18
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
@@ -278,31 +281,31 @@ function formatCurrency(amount) { ... }
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代JavaScript/TypeScript运行时
+高性能代码编辑器
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+如果调试是去除bug的过程，那么编程就是放入bug的过程。
 
 
 ### 🐙 GitHub 生态统计
@@ -316,7 +319,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-12-17 08:15:54
+- 📅 更新时间: 2025-12-18 08:15:43
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -327,12 +330,16 @@ function formatCurrency(amount) { ... }
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 2 (25.0%)
-- 😟 消极新闻: 3 (37.5%)
-- 🔥 平均热度: 8.6/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 20.8/100
 
 🏷️ **热门关键词**:
-- AI (6次)
+- AI (7次)
+- 人工智能 (2次)
+- 隐私保护 (1次)
+- AR (1次)
+- 机器学习 (1次)
 
 
 ### 🤖 关于此项目
