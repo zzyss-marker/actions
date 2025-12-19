@@ -55,37 +55,34 @@
 
 MIT
 
-## 今日更新 (2025-12-18)
+## 今日更新 (2025-12-19)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😊 [本地 AI 模型随心用！Cherry Studio + cpolar解锁跨设备智能办公](https://blog.csdn.net/weixin_44976692/article/details/155614614) 🔥 热门
-  摘要： Cherry Studio 是一款集成在线与本地 AI 模型的多功能客户端，支持调用硅基流动等平台的在线模型，也可对接本地部署的 Ollama 模型（如千问 QWQ-32B、DeepSeek-...
-- 😊 [AI自动生成PPT报告产品技术实现与应用案例](https://blog.csdn.net/EAlReport/article/details/155495524) 🔥 热门
-  AI自动生成PPT报告产品通过NLP、机器学习和低代码技术的深度融合，彻底改变了传统报告编制的低效模式。在工业质量管理场景中，已展现出强大的价值创造力——不仅将报告周期从数天压缩至小时级，更通过数据洞...
-- 😐 [【Cherry Studio配置MCP服务全流程解析：让AI自动调用工具处理任务】](https://blog.csdn.net/qyj19920704/article/details/146564986) 📈 关注
-  最近 AI 领域真是隔几天就有一个新热度，随着越来越多的使用 MCP 制作的 Agent 产品出现，MCP 这个新名词也频繁刷屏，有着大火的趋势，那么什么是 MCP 呢？MCP 是一种接口协议，由 A...
-- 😟 [AI 最先替代的开发工作：从重复劳动到人机协同的新范式](https://blog.csdn.net/csdn_silent/article/details/155222159) 📈 关注
-  AI 最先替代的不是“程序员”，而是“重复性编码劳动”。谁还在只做“复制粘贴式开发”，谁就最危险；谁能驾驭 AI、聚焦价值创造，谁就更不可替代。前端、后端、测试中的“模板化部分”都会被吞噬，但工程判断...
-- 😊 [AI如何助力7c-c起草视频？快马平台一键生成代码](https://blog.csdn.net/StarfallRaven13/article/details/155449050) 📈 关注
-  模块化开发的必要性：AI生成的框架已经做好了功能解耦，修改一个模块不会影响其他部分接口设计的重要性：AI预先定义的API规范让前后端协作更顺畅测试驱动开发：利用AI生成的测试用例模板，可以快速编写单元...
+- 😟 [AI可解释性：打开深度学习黑箱的技术手段](https://blog.csdn.net/2501_94261392/article/details/155745300) 🔥 热门
+  摘要：可解释性技术在AI系统测试中发挥关键作用，通过揭示模型决策机制，帮助定位缺陷、满足合规要求并建立用户信任。技术方法包括事后解释（LIME、SHAP）和原生可解释模型（注意力机制），应用在测试设计...
+- 😊 [2025年国内AI大模型排行榜](https://blog.csdn.net/2401_84495872/article/details/147253150) 🔥 热门
+  1、什么是大型语言模型？大模型是一种使用海量参数和数据进行预训练的深度学习模型,可以在多个领域和任务中展现出强大的泛化能力和自监督学习能力。下面列举一系列大模型，及建设方。2、2025年国内AI大模型...
+- 😊 [【Spring AI】第一弹：在 A‏I 应用平台上创建‏智能体应用、工作流‏应用和使用 SDK 、HTTP、Spring AI 、LangChain4j 四种方式接入阿里云百炼灵积大模型](https://blog.csdn.net/2402_84916296/article/details/151113935) 🔥 热门
+  在 A‏I 应用平台上创建‏智能体应用、工作流‏应用和使用 SDK 、HTTP、Spring AI 、LangChain4j 四种方式接入阿里云百炼灵积大模型
+- 😐 [深度解析 MySQL 与 MCP 集成：从环境构建到 AI 驱动的数据交互全流程](https://blog.csdn.net/2301_80863610/article/details/155846129) 📈 关注
+  在当前大语言模型（LLM）应用开发的浪潮中，MCP（Model Context Protocol）协议正在成为连接 AI 模型与本地数据设施的关键桥梁。本文将以 MySQL 数据库为例，详细拆解如何通...
+- 😊 [【AI 解析】Gemini 3 全面解析：从认知到落地](https://blog.csdn.net/weixin_63944437/article/details/155094566) 📈 关注
+  Google推出Gemini 3模型，在多模态理解、深度推理和交互能力上实现显著提升。该模型支持文本、图像、视频、音频和代码的统一处理，具备长上下文窗口和Deep Think推理模式，在数学和科学任务...
 
 
 ### 网络安全资讯
 
-- [【原创首发】首个“AI勒索软件”--纽约大学团队“PromptLock”深度剖析](https://www.anquanke.com/post/id/312173) - 安全公告，详情请点击链接查看完整内容
-- [AFL Fuzz QEMU 新版适配：深度解析 Patch 细节](https://paper.seebug.org/3433/) - 作者：知道创宇404实验室
-本文将深度解析 AFL++ 对 QEMU 的 patch 细节。
-
-
-AFL对 QEMU 的修改
-首先，下面列出 AFL对 QEMU 的修改目录：
- accel/tcg/c...
-- [黑客借 React2Shell 漏洞发起 EtherRAT 恶意软件攻击](https://www.4hou.com/posts/J1v9) - 在近期的React2Shell漏洞攻击事件中，一款名为EtherRAT的新型恶意植入程序被安全研究人员发现，该程序不仅内置五种独立的Linux系统持久化机制，还会借助以太坊智能合约与攻击者建立通信链路...
+- [利润仅$200？Anthropic 最新研究揭示 AI 自动挖掘 0-day 的真实经济账](https://www.anquanke.com/post/id/313896) - 安全公告，详情请点击链接查看完整内容
+- [面向企业安全的机器学习民主化：一种自持续攻击检测框架](https://paper.seebug.org/3436/) - 作者：Sadegh Momeni, Ge Zhang, Birkett Huber
+译者：知道创宇404实验室翻译组
+原文链接：https://arxiv.org/html/2512.08802v1
+...
+- [Fortinet携手NVIDIA 为AI数据中心打造隔离式基础设施加速方案](https://www.4hou.com/posts/7Mg8) - 近日，专注推动网络与安全融合的全球性综合网络安全解决方案供应商 Fortinet®（Nasdaq：FTNT），重磅发布一项创新集成方案：将FortiGate VM（虚拟云防火墙）直接部署于NVIDIA...
 
 
 ### 技术就业趋势
@@ -94,35 +91,35 @@ AFL对 QEMU 的修改
 
 ### 科技热点
 
-- 😊 [腾讯云斩获“AI领航杯”全国总决赛金奖！](https://cloud.tencent.com/developer/article/2600105) 🔥🔥 很热
-  近日，由中国互联网协会举办的首届“AI领航杯”“人工智能+”应用与技能大赛全国总决赛收官，腾讯玄武实验室自研“基于语义同构标签的端云协同隐私保护系统HaS”斩获AI领航星光金奖。该系统凭借其在隐私保护...
-- 😊 [DeepSeek爆火，OpsPilot才是运维最坚实的幕后主心骨](https://cloud.tencent.com/developer/article/2599915) 🔥🔥 很热
-  DeepSeek的火爆，正驱动人工智能迈入超速迭代周期，推动AI以前所未有的速度改变着我们的生活和工作方式。在AI技术的加持下，企业对内和对外业务中频现AI“高光时刻”，大大提高了运转效率，然而随着A...
-- 😐 [[玩转树莓派CM0 之 BLE] Python 与 BLE 设备通信指南 -- P1](https://cloud.tencent.com/developer/article/2599721) 📊 普通
-  用一个简单的比喻, 这就像美食街里有许多商贩在叫卖 (从设备广播) , 而顾客 (主设备) 听到感兴趣的吆喝后, 可以主动走过去交易. 商贩只能等待顾客上门, 而不能主动将商品塞给顾客.
+- 😟 [Elasticsearch 快照删除超时？三步定位根因](https://cloud.tencent.com/developer/article/2601098) 📊 普通
+  本文描述问题及解决方法同样适用于 腾讯云 Elasticsearch Service（ES）。
+- 😐 [腾讯云TDP2025年终荣耀时刻·第一弹｜同行](https://cloud.tencent.com/developer/article/2601302) 📊 普通
+  当一行行代码在指尖跃动，当一声声吐槽被认真聆听，当一个个需求采纳落地。那些在技术深处执着求索、在生态共建中并肩前行的身影，值得我们共同看见、共同铭记。腾讯云TDP开发者生态，因每一位建设者的热情与智慧...
+- 😊 [粤车南下的“数字守护者”，腾讯专有云TCS稳定护航香港机场智能停车场](https://cloud.tencent.com/developer/article/2601749) 📊 普通
+  2025年11月15日零时，在港珠澳大桥珠海公路口岸，首辆符合“粤车南下”出境条件的私家车驶入“一站式”查验通道，标志着政策的正式落地。作为“粤车南下”政策的重要配套设施，香港机场管理局负责建设与运营...
 
 
 ### GitHub 趋势项目
 
-- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
-- [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another 🐊 📦
 
 
 
 
 ### AI 研究论文
 
-- [Spatia: Video Generation with Updatable Spatial Memory](https://arxiv.org/abs/2512.15716v1) - Jinjing Zhao, Fangyun Wei, Zhening Liu, Hongyang Zhang, Chang Xu, Yan Lu
-  Existing video generation models struggle to maintain long-term spatial and temporal consistency due to the dense, high-dimensional nature of video si...
+- [EasyV2V: A High-quality Instruction-based Video Editing Framework](https://arxiv.org/abs/2512.16920v1) - Jinjie Mai, Chaoyang Wang, Guocheng Gordon Qian, Willi Menapace, Sergey Tulyakov, Bernard Ghanem, Peter Wonka, Ashkan Mirzaei
+  While image editing has advanced rapidly, video editing remains less explored, facing challenges in consistency, control, and generalization. We study...
 
-- [Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants](https://arxiv.org/abs/2512.15712v1) - Vincent Huang, Dami Choi, Daniel D. Johnson, Sarah Schwettmann, Jacob Steinhardt
-  Interpreting the internal activations of neural networks can produce more faithful explanations of their behavior, but is difficult due to the complex...
+- [DVGT: Driving Visual Geometry Transformer](https://arxiv.org/abs/2512.16919v1) - Sicheng Zuo, Zixun Xie, Wenzhao Zheng, Shaoqing Xu, Fang Li, Shengyin Jiang, Long Chen, Zhi-Xin Yang, Jiwen Lu
+  Perceiving and reconstructing 3D scene geometry from visual inputs is crucial for autonomous driving. However, there still lacks a driving-targeted de...
 
-- [Artism: AI-Driven Dual-Engine System for Art Generation and Critique](https://arxiv.org/abs/2512.15710v1) - Shuai Liu, Yiqing Tian, Yang Chen, Mar Canet Sola
-  This paper proposes a dual-engine AI architectural method designed to address the complex problem of exploring potential trajectories in the evolution...
+- [Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](https://arxiv.org/abs/2512.16921v1) - Qihao Liu, Chengzhi Mao, Yaojie Liu, Alan Yuille, Wen-Sheng Chu
+  Conventional evaluation methods for multimodal LLMs (MLLMs) lack interpretability and are often insufficient to fully disclose significant capability ...
 
 
 
@@ -146,25 +143,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $271.84 📉 -2.77 (-1.0%)
-- **GOOGL**: $296.72 📉 -9.85 (-3.2%)
-- **MSFT**: $476.12 📉 -0.27 (-0.1%)
+- **AAPL**: $272.19 📈 +0.35 (+0.1%)
+- **GOOGL**: $302.46 📈 +5.74 (+1.9%)
+- **MSFT**: $483.98 📈 +7.86 (+1.7%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+判断字符串中的括号是否有效匹配
 
-标签: 链表, 递归
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -175,14 +172,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
+第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《深度学习》** - Ian Goodfellow
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -193,27 +190,27 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 ### 🚀 创业公司动态
 
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Ambient Coding** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -239,30 +236,30 @@ D. 面向对象
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：🏗️ 架构师
 
-挑战ID: `455dea` | 日期: 2025-12-18
+挑战ID: `81fb31` | 日期: 2025-12-19
 
 
 ### 📊 技术话题投票
@@ -281,7 +278,7 @@ test('should calculate tax correctly', () => {
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
@@ -289,23 +286,23 @@ test('should calculate tax correctly', () => {
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-高性能代码编辑器
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**全栈开发** (中级) 📊
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+世界上有10种人：懂二进制的和不懂二进制的。
 
 
 ### 🐙 GitHub 生态统计
@@ -319,7 +316,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-12-18 08:15:43
+- 📅 更新时间: 2025-12-19 08:15:36
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -330,16 +327,14 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 20.8/100
+- 😊 积极新闻: 4 (50.0%)
+- 😟 消极新闻: 2 (25.0%)
+- 🔥 平均热度: 12.6/100
 
 🏷️ **热门关键词**:
-- AI (7次)
-- 人工智能 (2次)
-- 隐私保护 (1次)
+- AI (5次)
+- 深度学习 (2次)
 - AR (1次)
-- 机器学习 (1次)
 
 
 ### 🤖 关于此项目
