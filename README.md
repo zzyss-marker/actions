@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2025-12-20)
+## 今日更新 (2025-12-21)
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [【Coze - AI Agent 开发平台】-- 你真的了解 Coze 吗](https://blog.csdn.net/sanfengerwang/article/details/155952050) 🔥🔥 很热
-  在数字化浪潮席卷全球的今天，人工智能技术正以前所未有的速度重塑我们的生活与工作方式。Coze 作为新兴的技术工具或平台（具体定义需根据上下文补充），凭借其独特的功能和创新的设计理念，逐渐成为行业内的焦...
-- 😊 [ShellExView神器：AI如何帮你分析Windows Shell扩展](https://blog.csdn.net/SapphireOwl29/article/details/155444869) 📈 关注
-  最近在优化Windows系统性能时，发现Shell扩展（Shell Extensions）对系统响应速度影响很大。这些扩展虽然增强了右键菜单等功能，但劣质或恶意扩展会导致资源占用过高、菜单延迟甚至安全...
-- 😐 [AI赋能原则4解读思考：AI 不是“可选的加分项”，而是重构生存方式的基础设施](https://blog.csdn.net/xiaofeng10330111/article/details/155385046) 📈 关注
-  本文阐述了里德·霍夫曼提出的“AI 不是选择题，而是生存题”的本质含义：AI 正在重塑能力门槛、竞争速度与价值分配，个人与组织若不能有效协同 AI，将在未来经济中失去位置。文章从挑战与机遇两端分析 A...
-- 😐 [AI的提示词专栏：通过 “Logit Bias” 精细调控词汇生成](https://blog.csdn.net/weixin_43151418/article/details/153319714) 📈 关注
-  本文围绕 “Logit Bias（对数几率偏移）” 展开全面解析，先阐释其核心概念，说明它通过干预模型词汇对数几率实现精准调控，区别于 Temperature 等全局参数；接着介绍其在敏感信息管控、核...
-- 😊 [不只是升级！Odoo 19 正式发布：迎接真正的“AI智能一体化”时代！](https://blog.csdn.net/Odoo_Official/article/details/153471257) 📈 关注
-  1500 万用户的选择！Odoo 19 现已发布，定义企业管理新标准！
+- 😐 [【Dify + Bright Data MCP】：零代码构建AI社媒分析师，自动采集YouTube/TikTok/Instagram数据并生成商业洞察](https://blog.csdn.net/lwcwam/article/details/151967869) 🔥 热门
+  本文介绍了如何利用Bright Data MCP Server构建AI社交媒体分析系统，解决传统爬虫方案在数据采集与分析中的痛点。MCP Server作为企业级Web数据API网关，支持YouTube...
+- 😊 [MCP协议：CAD设计的“AI大脑”革命——从图纸到智能决策的全链路跃迁](https://blog.csdn.net/lgf228/article/details/150475805) 📈 关注
+  摘要 MCP协议通过标准化接口连接AI与CAD系统，实现设计自动化、缺陷检测等智能化应用。文章解析MCP的分层架构和动态路由机制，展示其在电力巡检、工业设计等场景的技术优势，如将光伏巡检效率提升80%...
+- 😊 [AI写小说神器怎么选？实测10款免费AI写小说工具（2025最新）](https://blog.csdn.net/EdwardAITooL/article/details/154495232) 📈 关注
+  本文测评了2025年最热门的10款小说创作AI工具，从新手入门到职业写作需求进行了全面分析。重点推荐了笔灵AI的全篇生成、DeepSeek的文本润色、Kimi的长文拆解等特色功能，并针对不同写作阶段提...
+- 😊 [小智 AI 聊天机器人ESP32项目源码执行流程剖析（一）](https://blog.csdn.net/qq8864/article/details/146520785) 📈 关注
+  该项目使用c++语言进行esp32单片机程序开发。采用模块化设计，借助 ESP - IDF 框架内置的freeRTOS内核实现多线程处理，提高了系统的稳定性和响应性能。主要模块包括主程序模块、应用程序...
+- 😐 [2025华为HCIA-AI认证详细报考指南来啦~](https://blog.csdn.net/IT99_/article/details/149274162) 📈 关注
+  零基础也能看懂的保姆级攻略！明明做好了学习计划，却卡在报名第一步？考试题型有哪些？重点考什么？费用多少？这篇纯干货指南一次性讲透！
 
 
 ### 网络安全资讯
@@ -86,25 +86,25 @@ MIT
 
 ### 技术就业趋势
 
-具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
-- 😟 [Elasticsearch 快照删除超时？三步定位根因](https://cloud.tencent.com/developer/article/2601098) 📊 普通
-  本文描述问题及解决方法同样适用于 腾讯云 Elasticsearch Service（ES）。
-- 😐 [腾讯云TDP2025年终荣耀时刻·第一弹｜同行](https://cloud.tencent.com/developer/article/2601302) 📊 普通
-  当一行行代码在指尖跃动，当一声声吐槽被认真聆听，当一个个需求采纳落地。那些在技术深处执着求索、在生态共建中并肩前行的身影，值得我们共同看见、共同铭记。腾讯云TDP开发者生态，因每一位建设者的热情与智慧...
-- 😊 [粤车南下的“数字守护者”，腾讯专有云TCS稳定护航香港机场智能停车场](https://cloud.tencent.com/developer/article/2601749) 📊 普通
-  2025年11月15日零时，在港珠澳大桥珠海公路口岸，首辆符合“粤车南下”出境条件的私家车驶入“一站式”查验通道，标志着政策的正式落地。作为“粤车南下”政策的重要配套设施，香港机场管理局负责建设与运营...
+- 😊 [全面布局智能视频图像压缩，腾讯TNC编解码多项国际赛事夺魁](https://cloud.tencent.com/developer/article/2602550) 📈 关注
+  在VCIP会议主办的第四届低复杂度端到端图像压缩实战赛中，腾讯香农实验室研发的腾讯神经网络编解码器TNC（Tencent Neural Codec）在相同码率下画质最好，从全球参赛方案中脱颖而出，摘得...
+- 😐 [从 Demo 到生产：打造我的技术资讯 + 知识库 Agent](https://cloud.tencent.com/developer/article/2602939) 📊 普通
+  场景很具体：每天早上，Agent 自动抓取 GitHub Trending、掘金热榜、Reddit programming 等的内容，过滤噪音，按主题分类。然后跟我本地的技术知识库做比对——这条资讯是...
+- 😐 [【运维自动化-标准运维】如何创建条件分支流程](https://cloud.tencent.com/developer/article/2602700) 📊 普通
+  分支表达式也可以通过 ${key} 方式引用全局变量，如: ${v1} == ‘1’ ‘test’ in ${v1}
 
 
 ### GitHub 趋势项目
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym) - Build RL environments for LLM training
-- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
 
 
@@ -149,18 +149,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**二叉树的最大深度** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-给定二叉树，找出其最大深度
+给定字符串，找出其中最长的回文子串
 
-标签: 树, 递归
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -176,9 +176,9 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《Python编程：从入门到实践》** - Eric Matthes
 
-容器编排平台的完整指南 (分类: 云原生)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,14 +188,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
@@ -207,9 +207,9 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Ambient Coding** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -223,27 +223,27 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
@@ -258,7 +258,7 @@ const a = 25;
 
 今日挑战徽章：⚡ 性能优化师
 
-挑战ID: `8dc5a6` | 日期: 2025-12-20
+挑战ID: `ca6abf` | 日期: 2025-12-21
 
 
 ### 📊 技术话题投票
@@ -277,19 +277,19 @@ const a = 25;
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Zed** (Rust) - ⭐ 25k+
 
-使用Rust构建跨平台桌面应用
+高性能代码编辑器
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
@@ -301,7 +301,7 @@ const a = 25;
 
 ### 😄 程序员笑话
 
-真正的程序员不需要注释，代码就是最好的文档。
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -315,7 +315,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-12-20 08:13:29
+- 📅 更新时间: 2025-12-21 08:13:42
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -327,13 +327,12 @@ const a = 25;
 
 - 📰 新闻总数: 8
 - 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 10.6/100
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 9.4/100
 
 🏷️ **热门关键词**:
 - AI (5次)
-- 人工智能 (1次)
-- AR (1次)
+- 神经网络 (1次)
 
 
 ### 🤖 关于此项目
