@@ -55,70 +55,72 @@
 
 MIT
 
-## 今日更新 (2025-12-21)
+## 今日更新 (2025-12-23)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
 
 ### AI 技术动态
 
-- 😐 [【Dify + Bright Data MCP】：零代码构建AI社媒分析师，自动采集YouTube/TikTok/Instagram数据并生成商业洞察](https://blog.csdn.net/lwcwam/article/details/151967869) 🔥 热门
-  本文介绍了如何利用Bright Data MCP Server构建AI社交媒体分析系统，解决传统爬虫方案在数据采集与分析中的痛点。MCP Server作为企业级Web数据API网关，支持YouTube...
-- 😊 [MCP协议：CAD设计的“AI大脑”革命——从图纸到智能决策的全链路跃迁](https://blog.csdn.net/lgf228/article/details/150475805) 📈 关注
-  摘要 MCP协议通过标准化接口连接AI与CAD系统，实现设计自动化、缺陷检测等智能化应用。文章解析MCP的分层架构和动态路由机制，展示其在电力巡检、工业设计等场景的技术优势，如将光伏巡检效率提升80%...
-- 😊 [AI写小说神器怎么选？实测10款免费AI写小说工具（2025最新）](https://blog.csdn.net/EdwardAITooL/article/details/154495232) 📈 关注
-  本文测评了2025年最热门的10款小说创作AI工具，从新手入门到职业写作需求进行了全面分析。重点推荐了笔灵AI的全篇生成、DeepSeek的文本润色、Kimi的长文拆解等特色功能，并针对不同写作阶段提...
-- 😊 [小智 AI 聊天机器人ESP32项目源码执行流程剖析（一）](https://blog.csdn.net/qq8864/article/details/146520785) 📈 关注
-  该项目使用c++语言进行esp32单片机程序开发。采用模块化设计，借助 ESP - IDF 框架内置的freeRTOS内核实现多线程处理，提高了系统的稳定性和响应性能。主要模块包括主程序模块、应用程序...
-- 😐 [2025华为HCIA-AI认证详细报考指南来啦~](https://blog.csdn.net/IT99_/article/details/149274162) 📈 关注
-  零基础也能看懂的保姆级攻略！明明做好了学习计划，却卡在报名第一步？考试题型有哪些？重点考什么？费用多少？这篇纯干货指南一次性讲透！
+- 😊 [【AIGC】ChatGPT应用之道：如何打破『专家幻象』，提升AI协作质量](https://blog.csdn.net/2201_75539691/article/details/143232670) 🔥🔥 很热
+  本文探讨了如何通过优化提示词（Prompt）的设计，提高用户与生成式AI的交互体验。借助Scott Guthrie的专业建议，分析了在提升Prompt精确度的同时，如何简化用户操作、减少学习门槛，特别...
+- 😊 [Manus使用的MCP协议是什么？人工智能知识分享的“万能插头”](https://blog.csdn.net/RenGJ010617/article/details/146335228) 🔥🔥 很热
+  什么是MCP协议？人工智能知识分享的“新桥梁”，Manus使用的MCP协议到底是什么？当一个大型语言模型（比如GPT或Claude）需要访问外部数据源时，它是如何完成这个任务的？如果模型需要调用搜索引...
+- 😐 [AI本地部署工具哪家强？7款热门工具横向对比](https://blog.csdn.net/ainnle/article/details/145679181) 🔥 热门
+  那本文将对七款热门 AI 工具 OpenWebUI、AnythingLLM、Ollama、Cherry Studio、LM Studio、Dify 和 FastGPT 进行多维度对比，以便您根据自身需...
+- 😊 [LazyLLM 测评 | 低代码颠覆 AI 开发！代码专家智能体进阶模块实战](https://blog.csdn.net/weixin_43151418/article/details/155503914) 📈 关注
+  LazyLLM 是商汤大装置推出的开源低代码框架，作为构建和优化多 Agent 应用的一站式开发框架，覆盖应用搭建、数据准备、模型部署、微调、评测等全流程开发环节，提供丰富的工具支持。其以模块化设计打...
+- 😊 [自动化信息交付：深度解析AI驱动的每日简报系统架构与实现](https://blog.csdn.net/K48932/article/details/153519032) 📈 关注
+  本指南将以前所未有的深度，详细拆解构建过程中的每一个环节，从最初的构思，到智能体的精心调教，再到动态数据的注入和最终的自动化邮件推送，你将掌握的不仅仅是一个应用的搭建方法，更是一种全新的、利用AI解决...
 
 
 ### 网络安全资讯
 
-- [CVE-2025-37164（CVSS 评分 10.0）：未验证身份即可远程执行代码，HPE OneView 漏洞或致数据中心遭完全控制](https://www.anquanke.com/post/id/313860) - 安全公告，详情请点击链接查看完整内容
-- [React2Shell 漏洞利用分析报告](https://paper.seebug.org/3437/) - 作者：知道创宇积极防御实验室
-1. 背景
-根据创宇安全智脑监测，近期披露的React2shell漏洞正在被积极利用。React 是一个用于构建用户界面的 JavaScript 库，其中React Se...
-- [Fortinet携手NVIDIA 为AI数据中心打造隔离式基础设施加速方案](https://www.4hou.com/posts/7Mg8) - 近日，专注推动网络与安全融合的全球性综合网络安全解决方案供应商 Fortinet®（Nasdaq：FTNT），重磅发布一项创新集成方案：将FortiGate VM（虚拟云防火墙）直接部署于NVIDIA...
+- [极智守护 驭见未来｜第一届小米汽车守护活动圆满结束](https://www.anquanke.com/post/id/313963) - 安全公告，详情请点击链接查看完整内容
+- [基于 Transformer 的多模态融合用于视觉监控中可解释的可疑度评估](https://paper.seebug.org/3438/) - 作者：Kuldeep Singh Yadav, Lalan Kumar
+译者：知道创宇404实验室翻译组
+原文链接：https://arxiv.org/html/2512.09311v1
+摘要
+可疑度...
+- [快手平台深夜遭黑灰产攻击，平台紧急修复并报警](https://www.4hou.com/posts/mkDE) - 12月22日晚间，国内知名短视频平台快手遭遇有组织的黑灰产攻击，大量直播间被非法植入色情低俗内容，引发广泛关注。截至发稿，平台方已采取紧急措施，封禁违规直播间，并向公安机关报案。据消息，当晚众多网友反...
 
 
 ### 技术就业趋势
 
-低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
+软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
 
 ### 科技热点
 
-- 😊 [全面布局智能视频图像压缩，腾讯TNC编解码多项国际赛事夺魁](https://cloud.tencent.com/developer/article/2602550) 📈 关注
-  在VCIP会议主办的第四届低复杂度端到端图像压缩实战赛中，腾讯香农实验室研发的腾讯神经网络编解码器TNC（Tencent Neural Codec）在相同码率下画质最好，从全球参赛方案中脱颖而出，摘得...
-- 😐 [从 Demo 到生产：打造我的技术资讯 + 知识库 Agent](https://cloud.tencent.com/developer/article/2602939) 📊 普通
-  场景很具体：每天早上，Agent 自动抓取 GitHub Trending、掘金热榜、Reddit programming 等的内容，过滤噪音，按主题分类。然后跟我本地的技术知识库做比对——这条资讯是...
-- 😐 [【运维自动化-标准运维】如何创建条件分支流程](https://cloud.tencent.com/developer/article/2602700) 📊 普通
-  分支表达式也可以通过 ${key} 方式引用全局变量，如: ${v1} == ‘1’ ‘test’ in ${v1}
+- 😐 [如何度过AI变革的“乱纪元”？](https://cloud.tencent.com/developer/article/2604157) 📈 关注
+  近期，源自硅谷裁员的消息，不断在媒体上被广泛解读和传播。根据追踪裁员动态网站Layoffs.fyi的统计，今年已有超过218家科技公司进行裁员，总人数超过11万。在 “硅谷10万大裁员”的叙事渲染下，...
+- 😐 [对话式AI，我们斩获“亚太领导者”！](https://cloud.tencent.com/developer/article/2604156) 📈 关注
+  腾讯云超越众多全球头部厂商，荣获最高评级“第一象限领导者”，也是唯一入选该象限的中国企业。✌️
+- 😐 [有些蓝屏是bcdedit命令导致的](https://cloud.tencent.com/developer/article/2603749) 📊 普通
+  比如https://cloud.tencent.com/developer/article/2027949
 
 
 ### GitHub 趋势项目
 
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 
 
 
 
 ### AI 研究论文
 
-- [EasyV2V: A High-quality Instruction-based Video Editing Framework](https://arxiv.org/abs/2512.16920v1) - Jinjie Mai, Chaoyang Wang, Guocheng Gordon Qian, Willi Menapace, Sergey Tulyakov, Bernard Ghanem, Peter Wonka, Ashkan Mirzaei
-  While image editing has advanced rapidly, video editing remains less explored, facing challenges in consistency, control, and generalization. We study...
+- [Scalably Enhancing the Clinical Validity of a Task Benchmark with Physician Oversight](https://arxiv.org/abs/2512.19691v1) - Junze Ye, Daniel Tawfik, Alex J. Goodell, Nikhil V. Kotha, Mark K. Buyyounouski, Mohsen Bayati
+  Automating the calculation of clinical risk scores offers a significant opportunity to reduce physician administrative burden and enhance patient care...
 
-- [DVGT: Driving Visual Geometry Transformer](https://arxiv.org/abs/2512.16919v1) - Sicheng Zuo, Zixun Xie, Wenzhao Zheng, Shaoqing Xu, Fang Li, Shengyin Jiang, Long Chen, Zhi-Xin Yang, Jiwen Lu
-  Perceiving and reconstructing 3D scene geometry from visual inputs is crucial for autonomous driving. However, there still lacks a driving-targeted de...
+- [WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion](https://arxiv.org/abs/2512.19678v1) - Hanyang Kong, Xingyi Yang, Xiaoxu Zheng, Xinchao Wang
+  Generating long-range, geometrically consistent video presents a fundamental dilemma: while consistency demands strict adherence to 3D geometry in pix...
 
-- [Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](https://arxiv.org/abs/2512.16921v1) - Qihao Liu, Chengzhi Mao, Yaojie Liu, Alan Yuille, Wen-Sheng Chu
-  Conventional evaluation methods for multimodal LLMs (MLLMs) lack interpretability and are often insufficient to fully disclose significant capability ...
+- [Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies](https://arxiv.org/abs/2512.19673v1) - Yuqiao Tan, Minzheng Wang, Shizhu He, Huanxuan Liao, Chengfeng Zhao, Qiunan Lu, Tian Liang, Jun Zhao, Kang Liu
+  Existing reinforcement learning (RL) approaches treat large language models (LLMs) as a single unified policy, overlooking their internal mechanisms. ...
 
 
 
@@ -142,25 +144,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $273.67 📈 +1.48 (+0.5%)
-- **GOOGL**: $307.16 📈 +4.70 (+1.6%)
-- **MSFT**: $485.92 📈 +1.94 (+0.4%)
+- **AAPL**: $270.97 📉 -2.70 (-1.0%)
+- **GOOGL**: $309.78 📈 +2.62 (+0.9%)
+- **MSFT**: $484.92 📉 -1.00 (-0.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**两数之和** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 字符串, 动态规划
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -171,14 +173,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《Kubernetes权威指南》** - 龚正等
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,8 +190,8 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
@@ -200,25 +202,25 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
 
-**安全漏洞修复** (难度: 高级)
+**算法优化挑战** (难度: 中等)
 
-识别并修复一个Web应用中的安全漏洞
+优化一个排序算法，使其在大数据集上的性能提升50%
 
-🏷️ 标签: 安全, Web开发 | ⏱️ 预计时间: 2-5小时 | 🎯 奖励积分: 130
+🏷️ 标签: 算法, 性能优化 | ⏱️ 预计时间: 2-4小时 | 🎯 奖励积分: 100
 
 
 ### 🧠 技术小测验
@@ -235,73 +237,73 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `ca6abf` | 日期: 2025-12-21
+挑战ID: `cd8352` | 日期: 2025-12-23
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Tauri** (Rust) - ⭐ 70k+
 
-高性能代码编辑器
+使用Rust构建跨平台桌面应用
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+程序员的三大美德：懒惰、急躁和傲慢。
 
 
 ### 🐙 GitHub 生态统计
@@ -315,7 +317,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-12-21 08:13:42
+- 📅 更新时间: 2025-12-23 08:15:30
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -328,11 +330,14 @@ test('should calculate tax correctly', () => {
 - 📰 新闻总数: 8
 - 😊 积极新闻: 4 (50.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 9.4/100
+- 🔥 平均热度: 19.2/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- 神经网络 (1次)
+- AI (6次)
+- GPT (3次)
+- ChatGPT (1次)
+- 人工智能 (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
