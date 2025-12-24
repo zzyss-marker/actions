@@ -55,72 +55,72 @@
 
 MIT
 
-## 今日更新 (2025-12-23)
+## 今日更新 (2025-12-24)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- 😊 [【AIGC】ChatGPT应用之道：如何打破『专家幻象』，提升AI协作质量](https://blog.csdn.net/2201_75539691/article/details/143232670) 🔥🔥 很热
-  本文探讨了如何通过优化提示词（Prompt）的设计，提高用户与生成式AI的交互体验。借助Scott Guthrie的专业建议，分析了在提升Prompt精确度的同时，如何简化用户操作、减少学习门槛，特别...
-- 😊 [Manus使用的MCP协议是什么？人工智能知识分享的“万能插头”](https://blog.csdn.net/RenGJ010617/article/details/146335228) 🔥🔥 很热
-  什么是MCP协议？人工智能知识分享的“新桥梁”，Manus使用的MCP协议到底是什么？当一个大型语言模型（比如GPT或Claude）需要访问外部数据源时，它是如何完成这个任务的？如果模型需要调用搜索引...
-- 😐 [AI本地部署工具哪家强？7款热门工具横向对比](https://blog.csdn.net/ainnle/article/details/145679181) 🔥 热门
-  那本文将对七款热门 AI 工具 OpenWebUI、AnythingLLM、Ollama、Cherry Studio、LM Studio、Dify 和 FastGPT 进行多维度对比，以便您根据自身需...
-- 😊 [LazyLLM 测评 | 低代码颠覆 AI 开发！代码专家智能体进阶模块实战](https://blog.csdn.net/weixin_43151418/article/details/155503914) 📈 关注
-  LazyLLM 是商汤大装置推出的开源低代码框架，作为构建和优化多 Agent 应用的一站式开发框架，覆盖应用搭建、数据准备、模型部署、微调、评测等全流程开发环节，提供丰富的工具支持。其以模块化设计打...
-- 😊 [自动化信息交付：深度解析AI驱动的每日简报系统架构与实现](https://blog.csdn.net/K48932/article/details/153519032) 📈 关注
-  本指南将以前所未有的深度，详细拆解构建过程中的每一个环节，从最初的构思，到智能体的精心调教，再到动态数据的注入和最终的自动化邮件推送，你将掌握的不仅仅是一个应用的搭建方法，更是一种全新的、利用AI解决...
+- 😊 [2025行业盘点追踪，迈向生产级医疗AI：三大核心实践趋势的落地路径分析](https://blog.csdn.net/kkiron/article/details/155966362) 📈 关注
+  摘要 医疗AI落地面临的核心挑战是如何将大型语言模型（LLM）从基准高分转化为临床可用的系统。本文提出三大关键工程实践： 提示工程与微调的组合：通过轻量级提示优化（如指令设计、检索增强）快速验证价值，...
+- 😊 [利用快马AI平台快速构建基于 okztwo 的高效数据分析应用](https://blog.csdn.net/YellowSun24/article/details/154282226) 📈 关注
+  这次实践让我深刻体会到AI辅助编程的效率优势：1. 需求描述越具体，生成的代码越精准2. 平台自动处理了很多工程化细节3. 特别适合快速原型开发4. okztwo 的性能优势得到了充分发挥对于想要快速...
+- 😐 [koboldcpp完全指南：从安装到精通的AI模型部署新范式](https://blog.csdn.net/gitblog_01039/article/details/153910336) 📈 关注
+  你是否还在为本地部署AI模型的复杂流程而困扰？是否想要一个无需繁琐配置就能运行多种GGML和GGUF模型的解决方案？本文将带你全面掌握koboldcpp——这款源自KoboldAI的轻量级AI部署工具...
+- 😊 [昇腾AI计算架构的基石 - 深度剖析CANN与Ascend C](https://blog.csdn.net/sinat_41617212/article/details/155450764) 📈 关注
+  本文深入解析华为昇腾AI核心引擎CANN及其编程语言AscendC，重点探讨软硬件协同设计理念与性能优化实践。文章从达芬奇架构特性出发，系统阐述AscendC的三级存储体系、流水线并行模型及Intri...
+- 😊 [豆包风波后的破局者：智谱 AutoGLM 让“AI 手机”走向公共基建](https://blog.csdn.net/weixin_73134956/article/details/155874505) 📈 关注
+  摘要：2025年12月，AI手机技术从"豆包手机"遭遇大厂封锁到智谱AutoGLM开源实现突破。AutoGLM通过开源框架将手机操作能力开放给全行业，采用"规划+定位"架构支持50+款APP，相比封闭...
 
 
 ### 网络安全资讯
 
-- [极智守护 驭见未来｜第一届小米汽车守护活动圆满结束](https://www.anquanke.com/post/id/313963) - 安全公告，详情请点击链接查看完整内容
+- [慧与 OneView 产品高危漏洞（CVE-2025-37164）：可被用于远程代码执行](https://www.anquanke.com/post/id/314010) - 安全公告，详情请点击链接查看完整内容
 - [基于 Transformer 的多模态融合用于视觉监控中可解释的可疑度评估](https://paper.seebug.org/3438/) - 作者：Kuldeep Singh Yadav, Lalan Kumar
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html/2512.09311v1
 摘要
 可疑度...
-- [快手平台深夜遭黑灰产攻击，平台紧急修复并报警](https://www.4hou.com/posts/mkDE) - 12月22日晚间，国内知名短视频平台快手遭遇有组织的黑灰产攻击，大量直播间被非法植入色情低俗内容，引发广泛关注。截至发稿，平台方已采取紧急措施，封禁违规直播间，并向公安机关报案。据消息，当晚众多网友反...
+- [梆梆安全亮相2025“全国网络普法行・北京站”，科技赋能反诈普法新体验](https://www.4hou.com/posts/7MPG) - 2025年11月19日，2025年“全国网络普法行·北京站”启动仪式暨收官总结活动在中国人民大学成功举办。本次活动由中央网信办、司法部共同指导，北京市委网信办、北京市司法局联合主办，中国互联网发展基金...
 
 
 ### 技术就业趋势
 
-软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- 😐 [如何度过AI变革的“乱纪元”？](https://cloud.tencent.com/developer/article/2604157) 📈 关注
-  近期，源自硅谷裁员的消息，不断在媒体上被广泛解读和传播。根据追踪裁员动态网站Layoffs.fyi的统计，今年已有超过218家科技公司进行裁员，总人数超过11万。在 “硅谷10万大裁员”的叙事渲染下，...
-- 😐 [对话式AI，我们斩获“亚太领导者”！](https://cloud.tencent.com/developer/article/2604156) 📈 关注
-  腾讯云超越众多全球头部厂商，荣获最高评级“第一象限领导者”，也是唯一入选该象限的中国企业。✌️
-- 😐 [有些蓝屏是bcdedit命令导致的](https://cloud.tencent.com/developer/article/2603749) 📊 普通
-  比如https://cloud.tencent.com/developer/article/2027949
+- 😊 [2025，我的“风”起时分：从自动化办公到AI编程的破局之路](https://cloud.tencent.com/developer/article/2605266) 📈 关注
+  桌上的台灯亮起，照亮了键盘和一叠笔记，上面潦草地记录着“2025规划”——最顶端写着三个词：开源、AI、重庆技术社区。
+- 😟 [windows上云激活报错0xC004F074](https://cloud.tencent.com/developer/article/2604501) 📊 普通
+  问题：云下没有使用kms server激活的方式，而是用一些kms相关的.exe激活的，上云后使用云平台kms server激活报错0xC004F074软件授权服务报告无法激活计算机
+- 😐 [比特币系统崩溃的理论模型与博弈防线](https://cloud.tencent.com/developer/article/2605303) 📊 普通
+  探讨这些极限场景并非为了制造恐慌，而是为了厘清该系统的安全假设究竟建立在何种博弈基础之上。
 
 
 ### GitHub 趋势项目
 
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Typst-based CV/resume generator for academics and engineers
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+- [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+- [safety-research/bloom](https://github.com/safety-research/bloom) - bloom - evaluate any behavior immediately  🌸🌱
 
 
 
 
 ### AI 研究论文
 
-- [Scalably Enhancing the Clinical Validity of a Task Benchmark with Physician Oversight](https://arxiv.org/abs/2512.19691v1) - Junze Ye, Daniel Tawfik, Alex J. Goodell, Nikhil V. Kotha, Mark K. Buyyounouski, Mohsen Bayati
-  Automating the calculation of clinical risk scores offers a significant opportunity to reduce physician administrative burden and enhance patient care...
+- [LongVideoAgent: Multi-Agent Reasoning with Long Videos](https://arxiv.org/abs/2512.20618v1) - Runtao Liu, Ziyi Liu, Jiaqi Tang, Yue Ma, Renjie Pi, Jipeng Zhang, Qifeng Chen
+  Recent advances in multimodal LLMs and systems that use tools for long-video QA point to the promise of reasoning over hour-long episodes. However, ma...
 
-- [WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion](https://arxiv.org/abs/2512.19678v1) - Hanyang Kong, Xingyi Yang, Xiaoxu Zheng, Xinchao Wang
-  Generating long-range, geometrically consistent video presents a fundamental dilemma: while consistency demands strict adherence to 3D geometry in pix...
+- [Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning](https://arxiv.org/abs/2512.20605v1) - Seijin Kobayashi, Yanick Schimpf, Maximilian Schlegel, Angelika Steger, Maciej Wolczyk, Johannes von Oswald, Nino Scherre, Kaitlin Maile, Guillaume Lajoie, Blake A. Richards, Rif A. Saurous, James Manyika, Blaise Agüera y Arcas, Alexander Meulemans, João Sacramento
+  Large-scale autoregressive models pretrained on next-token prediction and finetuned with reinforcement learning (RL) have achieved unprecedented succe...
 
-- [Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies](https://arxiv.org/abs/2512.19673v1) - Yuqiao Tan, Minzheng Wang, Shizhu He, Huanxuan Liao, Chengfeng Zhao, Qiunan Lu, Tian Liang, Jun Zhao, Kang Liu
-  Existing reinforcement learning (RL) approaches treat large language models (LLMs) as a single unified policy, overlooking their internal mechanisms. ...
+- [Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs](https://arxiv.org/abs/2512.20595v1) - Dhruv Anand, Ehsan Shareghi
+  We introduce Cube Bench, a Rubik's-cube benchmark for evaluating spatial and sequential reasoning in multimodal large language models (MLLMs). The ben...
 
 
 
@@ -144,25 +144,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $270.97 📉 -2.70 (-1.0%)
-- **GOOGL**: $309.78 📈 +2.62 (+0.9%)
-- **MSFT**: $484.92 📉 -1.00 (-0.2%)
+- **AAPL**: $272.36 📈 +1.53 (+0.6%)
+- **GOOGL**: $314.35 📈 +4.57 (+1.5%)
+- **MSFT**: $486.85 📈 +2.14 (+0.4%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+给定二叉树，找出其最大深度
 
-标签: 数组, 哈希表
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -173,14 +173,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
+第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《深度学习》** - Ian Goodfellow
 
-容器编排平台的完整指南 (分类: 云原生)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -190,8 +190,8 @@ WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的�
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
@@ -202,9 +202,9 @@ WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的�
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
@@ -225,27 +225,25 @@ WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的�
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**使用版本控制**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
@@ -260,28 +258,28 @@ const a = 25;
 
 今日挑战徽章：🧠 算法大师
 
-挑战ID: `cd8352` | 日期: 2025-12-23
+挑战ID: `3a726c` | 日期: 2025-12-24
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
@@ -296,14 +294,14 @@ const a = 25;
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**AI工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -317,7 +315,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-12-23 08:15:30
+- 📅 更新时间: 2025-12-24 08:15:25
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -328,16 +326,12 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 19.2/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 9.4/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- GPT (3次)
-- ChatGPT (1次)
-- 人工智能 (1次)
-- AR (1次)
 
 
 ### 🤖 关于此项目
