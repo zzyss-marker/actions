@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2025-12-27)
+## 今日更新 (2025-12-28)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😐 [一系列带你学会Spring AI](https://blog.csdn.net/sniper_fandc/article/details/154754495) 🔥🔥🔥 超热
-  自从Transformer诞生以来，LLM（Large Language Model）大模型技术就开始蓬勃发展，从ChatGPT系列到国内的DeepSeek、通义千问系列，大模型技术不断迭代，一次次突...
-- 😊 [10倍写作效率！AI小白必学：Cursor+Word MCP打造智慧文档生成神器](https://blog.csdn.net/HUANGXIN9898/article/details/150430125) 📈 关注
-  通过Cursor+Word MCP的强大组合，对于个人用户，以前用AI生成文档内容要手动更新到word，手动调整格式，现在直接在一个对话框中完所有的步骤，极大的提高了我们的办公效率，如果和 上一篇讲的...
-- 😐 [微信克隆人，聊天记录训练专属AI（2.WeClone训练模型）](https://blog.csdn.net/m0_73177436/article/details/153031306) 📈 关注
-  🚀 从聊天记录💡创建数字化身的一站式解决方案使用聊天日志微调 LLM 以捕捉您的独特风格，然后绑定到聊天机器人，让您的数字自我栩栩如生。将上个文章的数据集放在该welone的dataset/csv文件...
-- 😐 [2025年全球10大AI大模型排行榜出炉！中国独占6席](https://blog.csdn.net/2401_84204207/article/details/149155448) 📈 关注
-  2025年是AI大模型的爆发之年，也是AI大模型发展的分水岭，谁能留在牌桌上，谁能引领AI最前沿，都是该见分晓的时候了。全球AI大模型那么多，究竟谁好谁坏？让我们拨开AI大模型的面纱，退去营销的潮水，...
-- 😊 [LangChain v1.0：从零开始构建企业级AI智能体全攻略！](https://blog.csdn.net/2301_80239908/article/details/154526629) 📈 关注
-  LangChain v1.0完成了从"玩具框架"到生产级解决方案的蜕变，通过create_agent接口、content_blocks标准化和简化命名空间三大核心改进，显著提升了开发效率(40%)、系...
+- 😊 [【论文解读】Attention Is All You Need —— AI 时代的“开山之作“，经典中的经典（transformer小白导读）](https://blog.csdn.net/m0_74779543/article/details/155076755) 🔥 热门
+  Google于2017年提出的Transformer架构，通过完全基于自注意力机制的模型设计，彻底摒弃了传统的循环与卷积结构，实现了前所未有的并行训练能力与强大的长距离依赖建模。该模型不仅在机器翻译任...
+- 😐 [AI之Tool：AI-Video-Transcriber的简介、安装和使用方法、案例应用之详细攻略](https://blog.csdn.net/qq_41185868/article/details/153913548) 🔥 热门
+  ​AI之Tool：AI-Video-Transcriber的简介、安装和使用方法、案例应用之详细攻略目录AI-Video-Transcriber的简介AI-Video-Transcriber的安装和使...
+- 😐 [Mac 从零开始配置 VS Code + Claude/Codex AI 协同开发环境教程](https://blog.csdn.net/yangyin007/article/details/153692230) 📈 关注
+  在这之前，我从未用过mcp，只用过最原始的 vs code插件，codex gemini Claude 的官方插件。我的claude 是 官网pro订阅（Google pay付款），codex是 一刀...
+- 😐 [Trae AI IDE 进阶操作指南：快捷键、指令与高效交互技巧大全](https://blog.csdn.net/2501_93893719/article/details/153704000) 📈 关注
+  掌握Trae AI IDE的快捷键、指令和交互技巧，能让开发过程更流畅、产出更可靠。快捷键加速日常操作，指令系统解锁AI潜力，而智能交互技巧则确保协作效果。实践这些方法，您将在项目中节省时间，减少错误...
+- 😟 [AI 最先替代的开发工作：从重复劳动到人机协同的新范式](https://blog.csdn.net/csdn_silent/article/details/155222159) 📈 关注
+  AI 最先替代的不是“程序员”，而是“重复性编码劳动”。谁还在只做“复制粘贴式开发”，谁就最危险；谁能驾驭 AI、聚焦价值创造，谁就更不可替代。前端、后端、测试中的“模板化部分”都会被吞噬，但工程判断...
 
 
 ### 网络安全资讯
@@ -88,7 +88,7 @@ MIT
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
@@ -102,11 +102,11 @@ MIT
 
 ### GitHub 趋势项目
 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-- [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
-- [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN) - RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
 
 
 
@@ -151,18 +151,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+给定字符串，找出其中最长的回文子串
 
-标签: 数组, 哈希表
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -173,14 +173,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《代码整洁之道》** - Robert C. Martin
 
-深度学习领域的权威教材 (分类: 人工智能)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -190,8 +190,8 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
@@ -209,9 +209,9 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Brain.fm Focus** - Brain.fm
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -225,12 +225,12 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
@@ -250,59 +250,59 @@ function formatCurrency(amount) { ... }
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🛡️ 安全卫士
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `4e1e2c` | 日期: 2025-12-27
+挑战ID: `1db2dc` | 日期: 2025-12-28
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-使用Rust构建跨平台桌面应用
+现代Web应用框架
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -316,7 +316,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-12-27 08:13:38
+- 📅 更新时间: 2025-12-28 08:13:46
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -327,15 +327,12 @@ function formatCurrency(amount) { ... }
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 2 (25.0%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 14.4/100
+- 😊 积极新闻: 1 (12.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 10.5/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- ChatGPT (1次)
-- GPT (1次)
-- AR (1次)
 
 
 ### 🤖 关于此项目
