@@ -55,72 +55,70 @@
 
 MIT
 
-## 今日更新 (2025-12-29)
+## 今日更新 (2025-12-30)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
 
 ### AI 技术动态
 
-- 😊 [【Gemini】Google AI Studio 使用指南：轻松玩转 Gemini 模型(免费试用(百万token) Gemini 2.5 Flash Preview 05-20)](https://blog.csdn.net/O_____V_____O/article/details/148260130) 🔥 热门
-  Google AI Studio 是 Google 提供的一个交互式平台，允许用户直接在浏览器中体验和使用 Gemini 系列模型。它提供了一个简单但功能强大的界面，使开发者和非开发者都能轻松地使用 ...
-- 😊 [开源！智慧天际线AI巡检平台，适配机器狗、大疆无人机，支持一键起飞、三维航线规划、禁飞区、单兵模式、App、国产信创私有化部署](https://blog.csdn.net/klandor2008/article/details/155491870) 🔥 热门
-  由于信息来源众多，若文章内容出现版权问题，或文中使用的图片、资料、下载链接等，如涉及侵权，请告知我们，我们将尽快处理。，具备强大的扩展性与稳定的数据传输能力，内嵌高性能三维地图，支持远程实时操控无人机...
-- 😊 [原生多模态AI架构：统一训练与跨模态推理的系统实现与性能优化](https://blog.csdn.net/Rqaqedamancy/article/details/153281023) 📈 关注
-  原生多模态AI架构设计：从理论到工程实践 本文深入探讨原生多模态AI架构的设计与实现，提出从"拼接式融合"到"原生统一"的范式转变。通过构建统一Token空间和跨模态注意力机制，实现模态间深度语义理解...
-- 😟 [AI的提示词专栏：学术写作 Prompt，论文摘要、引言、结论生成](https://blog.csdn.net/weixin_43151418/article/details/153473453) 📈 关注
-  本文聚焦学术写作中摘要、引言与结论三大核心模块，系统拆解其写作逻辑与痛点，提供针对性 Prompt 设计方案及实战案例。首先分析三大模块功能差异与常见问题，如摘要重点模糊、引言逻辑断层等，对应给出 P...
-- 😐 [规范驱动开发：用 AI 写生产级代码的完整指南](https://blog.csdn.net/dyc87112/article/details/154773417) 📈 关注
-  规范驱动开发是一种方法论：用“形式化、详尽的规范”作为可执行蓝图，驱动 AI 进行代码生成。规范是事实来源，指导自动化的生成、校验与维护；你编写清晰的需求，AI 负责实现。传统开发通常是“开发者写需求...
+- 😊 [深度解析六大AI爬虫工具：crawl4ai、FireCrawl、Scrapegraph-ai、Jina、SearXNG、Tavily技术对比与实战指南](https://blog.csdn.net/awei0916/article/details/147742745) 🔥🔥🔥 超热
+  在AI大模型时代，数据获取与处理是构建智能应用的核心环节。传统爬虫面临技术门槛高、反爬应对复杂、动态内容处理困难等挑战，而AI驱动的爬虫工具通过融合大语言模型（LLM）、图神经网络、自动化解析等技术，...
+- 😊 [【蔬菜识别系统】Python+TensorFlow+Vue3+Django+人工智能+深度学习+卷积网络+resnet50算法](https://blog.csdn.net/meridian002/article/details/156060468) 🔥🔥🔥 超热
+  蔬菜识别系统，基于TensorFlow搭建卷积神经网络算法，通过对8种常见的蔬菜图片数据集（‘土豆’, ‘大白菜’, ‘大葱’, ‘莲藕’, ‘菠菜’, ‘西红柿’, ‘韭菜’, ‘黄瓜’）进行训练，...
+- 😊 [生成式人工智能的未来之路：对话系统与自主代理的交汇与展望](https://blog.csdn.net/Srlua/article/details/140611304) 🔥🔥 很热
+  生成式人工智能（AI）在对话系统（Chat）和自主代理（Agent）两个领域的发展不仅展示了其多样化的应用场景，也反映了技术的深度与广度。对话系统主要聚焦于通过自然语言处理（NLP）技术，使机器能够理...
+- 😊 [从局域网到随时随地！这款 AI 客户端Cherry Studio+cpolar让远程协作更高效](https://blog.csdn.net/fcawyxb/article/details/155978922) 🔥 热门
+  从局域网到随时随地！这款 AI 客户端Cherry Studio+cpolar让远程协作更高效
+- 😊 [AI 提升效率指南：如何高效书写提示词](https://blog.csdn.net/Chase_______/article/details/155537964) 📈 关注
+  通过介绍多种提示词写法，帮助零基础入门读者、有AI工具使用经验读者快速掌握如何写一个优秀的提示词
 
 
 ### 网络安全资讯
 
 - [EmEditor 遭攻陷：“沃尔沙姆” 伪装者篡改官方安装包，植入间谍软件](https://www.anquanke.com/post/id/314096) - 安全公告，详情请点击链接查看完整内容
-- [渗透测试实战对决：AI 代理与网络安全专业人员性能深度对比](https://paper.seebug.org/3440/) - 作者：Justin W. Lin, Eliot Krzysztof Jones等
+- [zkFL-Health：面向医疗人工智能隐私保护的区块链赋能零知识联邦学习](https://paper.seebug.org/3441/) - 作者：Savvy Sharma, George Petrovic, Sarthak Kaushik
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2512.09882
-摘要
-...
-- [新型MacSync恶意软件投放器成功规避macOS Gatekeeper检测](https://www.4hou.com/posts/nlEY) - 针对macOS系统的MacSync信息窃取恶意软件最新变种，正通过经数字签名且过公证的Swift应用进行传播。苹果设备管理平台的安全研究人员指出，与以往采用“拖放至终端”或ClickFix等较低级手段...
+原文链接：https://arxiv.org/html/2512....
+- [《彩虹六号：围攻》重大黑客入侵事件致无数玩家获赠数十亿游戏币](https://www.4hou.com/posts/MXLP) - 育碧旗下游戏《彩虹六号：围攻》（以下简称《彩六：围攻》）近日发生系统入侵事件，黑客借助内部系统漏洞，实现了对玩家账号的封禁与解封操控、游戏内监管信息流篡改，还向全球范围内的大量账号违规发放海量游戏货币...
 
 
 ### 技术就业趋势
 
-数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
-- 😊 [低代码直播组件 TUILiveKit 全新升级，30 分钟开启增长新机遇](https://cloud.tencent.com/developer/article/2608471) 📊 普通
-  腾讯云音视频全新升级的直播组件TUILiveKit，用“快、全、稳”三大核心优势，颠覆传统直播的开发模式，让直播从一道“研发难题”变成了简单的“选择题”。完善的低代码组件和UI、丰富的互动能力，帮助开...
-- 😊 [腾讯云一体化知识库：通过数据构建不可替代的媒体生产系统](https://cloud.tencent.com/developer/article/2608473) 📊 普通
-  腾讯云推出的新一代数据智能平台DIaaS（Data Intelligence as a Service），构建“一体化”知识库打通存量文档、音频、视频、图片等多模态数据；通过Multi-Agent任务...
-- 😐 [性能炸裂、成本降低20%，腾讯云 TDSQL Boundless 如何做到的？](https://cloud.tencent.com/developer/article/2608469) 📊 普通
-  企业要么为保障性能预留超额资源，导致运维成本高企；要么因架构僵化，在业务峰值时频繁出现卡顿。如何打破这种平衡困局？腾讯云给出的答案，藏在新一代分布式数据库 TDSQL Boundless 中。
+- 😊 [参会指南 | 腾讯云架构师峰会：连接每一位渴望突破的技术人，共同构筑 AI 新时代的架构未来](https://cloud.tencent.com/developer/article/2608464) 📈 关注
+  扫描海报下方二维码或点击文末左下角「阅读原文」即可报名。12 月 27 日，北京 · 富力万丽酒店，期待与您共赴盛会！
+- 😐 [搭建你的第一个MCP](https://cloud.tencent.com/developer/article/2608523) 📊 普通
+  MCP（Model Context Protocol）是一种解决 LLM 与外部系统交互的开放标准，使 LLM 可以连接各种数据源和工具。简单的理解是 MCP 提供了一系列工具给 LLM 调用，LLM...
+- 😊 [腾讯技术面：聊聊MySQL五大核心模块](https://cloud.tencent.com/developer/article/2608467) 📊 普通
+  本文系统剖析了MySQL的核心技术架构，重点聚焦于分层逻辑结构、InnoDB存储引擎设计、事务机制与并发控制、主从复制原理及分区策略五大模块。文章旨在帮助开发者深入理解MySQL的运行机制与性能优化要...
 
 
 ### GitHub 趋势项目
 
-- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - No description
-- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [Sergeydigl3/zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) - (NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux
-- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
+- [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - No description
+- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
 
 
 
 
 ### AI 研究论文
 
-- [Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1) - Shengkun Cui, Rahul Krishna, Saurabh Jha, Ravishankar K. Iyer
-  Cloud incidents pose major operational challenges in production, with unresolved production cloud incidents cost on average over $2M per hour. Prior r...
+- [Multilingual Hidden Prompt Injection Attacks on LLM-Based Academic Reviewing](https://arxiv.org/abs/2512.23684v1) - Panagiotis Theocharopoulos, Ajinkya Kulkarni, Mathew Magimai. -Doss
+  Large language models (LLMs) are increasingly considered for use in high-impact workflows, including academic peer review. However, LLMs are vulnerabl...
 
-- [Pruning as a Game: Equilibrium-Driven Sparsification of Neural Networks](https://arxiv.org/abs/2512.22106v1) - Zubair Shah, Noaman Khan
-  Neural network pruning is widely used to reduce model size and computational cost. Yet, most existing methods treat sparsity as an externally imposed ...
+- [Web World Models](https://arxiv.org/abs/2512.23676v1) - Jichen Feng, Yifan Zhang, Chenggong Zhang, Yifu Lu, Shilong Liu, Mengdi Wang
+  Language agents increasingly require persistent worlds in which they can act, remember, and learn. Existing approaches sit at two extremes: convention...
 
-- [A2P-Vis: an Analyzer-to-Presenter Agentic Pipeline for Visual Insights Generation and Reporting](https://arxiv.org/abs/2512.22101v1) - Shuyu Gan, Renxiang Wang, James Mooney, Dongyeop Kang
-  Automating end-to-end data science pipeline with AI agents still stalls on two gaps: generating insightful, diverse visual evidence and assembling it ...
+- [Nested Browser-Use Learning for Agentic Information Seeking](https://arxiv.org/abs/2512.23647v1) - Baixuan Li, Jialong Wu, Wenbiao Yin, Kuan Li, Zhongwang Zhang, Huifeng Yin, Zhengwei Tao, Liwen Zhang, Pengjun Xie, Jingren Zhou, Yong Jiang
+  Information-seeking (IS) agents have achieved strong performance across a range of wide and deep search tasks, yet their tool use remains largely rest...
 
 
 
@@ -144,15 +142,15 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $273.40 📉 -0.41 (-0.1%)
-- **GOOGL**: $313.51 📉 -0.58 (-0.2%)
-- **MSFT**: $487.71 📉 -0.31 (-0.1%)
+- **AAPL**: $273.76 📈 +0.36 (+0.1%)
+- **GOOGL**: $313.56 📈 +0.05 (+0.0%)
+- **MSFT**: $487.10 📉 -0.61 (-0.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
@@ -173,7 +171,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
@@ -191,20 +189,20 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 ### 🚀 创业公司动态
 
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
@@ -225,42 +223,42 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `946f28` | 日期: 2025-12-29
+挑战ID: `9d5496` | 日期: 2025-12-30
 
 
 ### 📊 技术话题投票
@@ -278,11 +276,11 @@ test('should calculate tax correctly', () => {
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
@@ -296,14 +294,14 @@ test('should calculate tax correctly', () => {
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -317,7 +315,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-12-29 08:16:51
+- 📅 更新时间: 2025-12-30 08:15:45
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -328,12 +326,16 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 9.1/100
+- 😊 积极新闻: 7 (87.5%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 21.0/100
 
 🏷️ **热门关键词**:
 - AI (5次)
+- 神经网络 (2次)
+- AR (2次)
+- 人工智能 (2次)
+- 深度学习 (1次)
 
 
 ### 🤖 关于此项目
