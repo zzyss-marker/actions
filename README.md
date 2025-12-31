@@ -55,33 +55,33 @@
 
 MIT
 
-## 今日更新 (2025-12-30)
+## 今日更新 (2025-12-31)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- 😊 [深度解析六大AI爬虫工具：crawl4ai、FireCrawl、Scrapegraph-ai、Jina、SearXNG、Tavily技术对比与实战指南](https://blog.csdn.net/awei0916/article/details/147742745) 🔥🔥🔥 超热
-  在AI大模型时代，数据获取与处理是构建智能应用的核心环节。传统爬虫面临技术门槛高、反爬应对复杂、动态内容处理困难等挑战，而AI驱动的爬虫工具通过融合大语言模型（LLM）、图神经网络、自动化解析等技术，...
-- 😊 [【蔬菜识别系统】Python+TensorFlow+Vue3+Django+人工智能+深度学习+卷积网络+resnet50算法](https://blog.csdn.net/meridian002/article/details/156060468) 🔥🔥🔥 超热
-  蔬菜识别系统，基于TensorFlow搭建卷积神经网络算法，通过对8种常见的蔬菜图片数据集（‘土豆’, ‘大白菜’, ‘大葱’, ‘莲藕’, ‘菠菜’, ‘西红柿’, ‘韭菜’, ‘黄瓜’）进行训练，...
-- 😊 [生成式人工智能的未来之路：对话系统与自主代理的交汇与展望](https://blog.csdn.net/Srlua/article/details/140611304) 🔥🔥 很热
-  生成式人工智能（AI）在对话系统（Chat）和自主代理（Agent）两个领域的发展不仅展示了其多样化的应用场景，也反映了技术的深度与广度。对话系统主要聚焦于通过自然语言处理（NLP）技术，使机器能够理...
-- 😊 [从局域网到随时随地！这款 AI 客户端Cherry Studio+cpolar让远程协作更高效](https://blog.csdn.net/fcawyxb/article/details/155978922) 🔥 热门
-  从局域网到随时随地！这款 AI 客户端Cherry Studio+cpolar让远程协作更高效
-- 😊 [AI 提升效率指南：如何高效书写提示词](https://blog.csdn.net/Chase_______/article/details/155537964) 📈 关注
-  通过介绍多种提示词写法，帮助零基础入门读者、有AI工具使用经验读者快速掌握如何写一个优秀的提示词
+- 😊 [【飞算JavaAI】智能开发助手赋能Java领域，飞算JavaAI全方位解析](https://blog.csdn.net/Morse_Chen/article/details/149048031) 📈 关注
+  数字化浪潮下Java开发挑战多，飞算JavaAI于2025年1月发布，支持自然语言与语音交互，有三大核心能力，能重塑AI编码价值，安装便捷，有“智能引导”等多功能板块，可提升开发效率与质量。
+- 😐 [对比传统方法：AI处理xooooxxoooxxx模式的效率优势](https://blog.csdn.net/RubyLion28/article/details/155411617) 📈 关注
+  最近我在做一个项目时，正好遇到了类似的需求，于是决定做个实验，对比下传统人工编写代码和AI自动生成代码在处理这种模式时的效率差异。使用AI生成算法时，只需要向AI描述清楚xooooxxoooxxx模式...
+- 😊 [安全书籍推荐第一期《白话AI安全：32个故事带你读懂AI的攻防博弈》](https://blog.csdn.net/qq_50377269/article/details/155751802) 📈 关注
+  本书以虚拟角色“安教授”与学生“小翼”“小白”之间的教学对话展开，将AI安全知识系统性融入32个精彩的故事中。这些故事可以分为五个部分，即我们要知道的最核心的五件事：AI安全基本知识、AI安全的挑战、...
+- 😐 [救命！这 AI 写代码比我还快？速戳飞算 JavaAI 2.0测评](https://blog.csdn.net/2302_79751907/article/details/148930271) 📈 关注
+  当 “传统代码开发” 遇上 “飞算 AI”，会迸发出怎样的惊喜？回想以往，面对复杂的功能需求，程序员只能手动编写大量代码。而现在，有了飞算 AI，一切都变得截然不同！只需在飞算 AI 平台输入需求，它...
+- 😊 [国产电科金仓数据库金仓KES V9 2025：AI时代的数据库融合标杆](https://blog.csdn.net/2302_79751907/article/details/149468774) 📈 关注
+  金仓 KES V9 2025 打破数据库领域诸多 “不可能”，实现异构迁移 “零修改”、多模数据一体化，兼具高并发性能与智能运维，重新定义融合数据库价值。
 
 
 ### 网络安全资讯
 
 - [EmEditor 遭攻陷：“沃尔沙姆” 伪装者篡改官方安装包，植入间谍软件](https://www.anquanke.com/post/id/314096) - 安全公告，详情请点击链接查看完整内容
-- [zkFL-Health：面向医疗人工智能隐私保护的区块链赋能零知识联邦学习](https://paper.seebug.org/3441/) - 作者：Savvy Sharma, George Petrovic, Sarthak Kaushik
+- [面向软件供应链安全自主防御的智能体人工智能：从溯源到漏洞缓解的进阶之路](https://paper.seebug.org/3443/) - 作者：Toqeer Ali Syed, Mohammad Riyaz Belgaum, Salman Jan等
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2512....
-- [《彩虹六号：围攻》重大黑客入侵事件致无数玩家获赠数十亿游戏币](https://www.4hou.com/posts/MXLP) - 育碧旗下游戏《彩虹六号：围攻》（以下简称《彩六：围攻》）近日发生系统入侵事件，黑客借助内部系统漏洞，实现了对玩家账号的封禁与解封操控、游戏内监管信息流篡改，还向全球范围内的大量账号违规发放海量游戏货币...
+原文链接：https://arxiv.org/html...
+- [MongoBleed高危漏洞遭在野利用 8万台MongoDB服务器暴露风险](https://www.4hou.com/posts/OGNB) - 一款影响多个MongoDB版本的高危漏洞——MongoBleed（CVE-2025-14847）正被黑客在野活跃利用，目前全球公网暴露的潜在易受攻击服务器已超8万台。该漏洞的公开利用工具及相关技术细节...
 
 
 ### 技术就业趋势
@@ -90,21 +90,21 @@ MIT
 
 ### 科技热点
 
-- 😊 [参会指南 | 腾讯云架构师峰会：连接每一位渴望突破的技术人，共同构筑 AI 新时代的架构未来](https://cloud.tencent.com/developer/article/2608464) 📈 关注
-  扫描海报下方二维码或点击文末左下角「阅读原文」即可报名。12 月 27 日，北京 · 富力万丽酒店，期待与您共赴盛会！
-- 😐 [搭建你的第一个MCP](https://cloud.tencent.com/developer/article/2608523) 📊 普通
-  MCP（Model Context Protocol）是一种解决 LLM 与外部系统交互的开放标准，使 LLM 可以连接各种数据源和工具。简单的理解是 MCP 提供了一系列工具给 LLM 调用，LLM...
-- 😊 [腾讯技术面：聊聊MySQL五大核心模块](https://cloud.tencent.com/developer/article/2608467) 📊 普通
-  本文系统剖析了MySQL的核心技术架构，重点聚焦于分层逻辑结构、InnoDB存储引擎设计、事务机制与并发控制、主从复制原理及分区策略五大模块。文章旨在帮助开发者深入理解MySQL的运行机制与性能优化要...
+- 😊 [腾讯云大数据专家工程师孙云龙：Data+AI重构数据管理新范式](https://cloud.tencent.com/developer/article/2609501) 🔥 热门
+  12月18日，由中国互联网协会主办，数字经济观察网、国润互联信息技术研究院承办的“2025（第二届）集团企业数智化技术创新与生态大会”在北京成功召开。腾讯云大数据专家工程师孙云龙受邀出席，并以《Dat...
+- 😊 [民航结算 “上云焕新”：腾讯专有云TCE撑起行业安全与效率双重防线](https://cloud.tencent.com/developer/article/2609429) 📊 普通
+  当你指尖轻点完成机票支付，或许不会想到：这张电子客票，牵动着航空公司、机场、代理商等多方主体交织的结算网络。日均航班起降1.7万架次、旅客发送量超200万人次的背后，每时每刻就有上亿条民航数据在结算网...
+- 😊 [【Data Agent】WeData Unity Semantics：数据分析智能体需要高质量场景化的「上下文」](https://cloud.tencent.com/developer/article/2609503) 📊 普通
+  小张交付了，鉴于小张的工作口碑，我相信他的结果，但后来发现他给的结果和数据工程师小王做的报表数据对不上😭，只能说小张、小王的工作也不完美。
 
 
 ### GitHub 趋势项目
 
-- [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - No description
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+- [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.
+- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 
 
 
@@ -142,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $273.76 📈 +0.36 (+0.1%)
-- **GOOGL**: $313.56 📈 +0.05 (+0.0%)
-- **MSFT**: $487.10 📉 -0.61 (-0.1%)
+- **AAPL**: $273.08 📉 -0.68 (-0.2%)
+- **GOOGL**: $313.85 📈 +0.29 (+0.1%)
+- **MSFT**: $487.48 📈 +0.38 (+0.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**两数之和** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 字符串, 动态规划
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -171,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
+第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《深度学习》** - Ian Goodfellow
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -223,12 +223,12 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
@@ -249,59 +249,59 @@ const a = 25;
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：🏗️ 架构师
 
-挑战ID: `9d5496` | 日期: 2025-12-30
+挑战ID: `d96ed5` | 日期: 2025-12-31
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
-- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Tauri** (Rust) - ⭐ 70k+
 
-高性能代码编辑器
+使用Rust构建跨平台桌面应用
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**AI工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
 
-程序员最讨厌的两件事：1. 写文档 2. 没有文档
+如果调试是去除bug的过程，那么编程就是放入bug的过程。
 
 
 ### 🐙 GitHub 生态统计
@@ -315,7 +315,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-12-30 08:15:45
+- 📅 更新时间: 2025-12-31 08:15:29
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -326,16 +326,13 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 7 (87.5%)
+- 😊 积极新闻: 6 (75.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 21.0/100
+- 🔥 平均热度: 11.2/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- 神经网络 (2次)
-- AR (2次)
-- 人工智能 (2次)
-- 深度学习 (1次)
+- AI (6次)
+- 大数据 (1次)
 
 
 ### 🤖 关于此项目
