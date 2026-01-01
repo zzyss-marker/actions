@@ -55,29 +55,29 @@
 
 MIT
 
-## 今日更新 (2025-12-31)
+## 今日更新 (2026-01-01)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😊 [【飞算JavaAI】智能开发助手赋能Java领域，飞算JavaAI全方位解析](https://blog.csdn.net/Morse_Chen/article/details/149048031) 📈 关注
-  数字化浪潮下Java开发挑战多，飞算JavaAI于2025年1月发布，支持自然语言与语音交互，有三大核心能力，能重塑AI编码价值，安装便捷，有“智能引导”等多功能板块，可提升开发效率与质量。
-- 😐 [对比传统方法：AI处理xooooxxoooxxx模式的效率优势](https://blog.csdn.net/RubyLion28/article/details/155411617) 📈 关注
-  最近我在做一个项目时，正好遇到了类似的需求，于是决定做个实验，对比下传统人工编写代码和AI自动生成代码在处理这种模式时的效率差异。使用AI生成算法时，只需要向AI描述清楚xooooxxoooxxx模式...
-- 😊 [安全书籍推荐第一期《白话AI安全：32个故事带你读懂AI的攻防博弈》](https://blog.csdn.net/qq_50377269/article/details/155751802) 📈 关注
-  本书以虚拟角色“安教授”与学生“小翼”“小白”之间的教学对话展开，将AI安全知识系统性融入32个精彩的故事中。这些故事可以分为五个部分，即我们要知道的最核心的五件事：AI安全基本知识、AI安全的挑战、...
-- 😐 [救命！这 AI 写代码比我还快？速戳飞算 JavaAI 2.0测评](https://blog.csdn.net/2302_79751907/article/details/148930271) 📈 关注
-  当 “传统代码开发” 遇上 “飞算 AI”，会迸发出怎样的惊喜？回想以往，面对复杂的功能需求，程序员只能手动编写大量代码。而现在，有了飞算 AI，一切都变得截然不同！只需在飞算 AI 平台输入需求，它...
-- 😊 [国产电科金仓数据库金仓KES V9 2025：AI时代的数据库融合标杆](https://blog.csdn.net/2302_79751907/article/details/149468774) 📈 关注
-  金仓 KES V9 2025 打破数据库领域诸多 “不可能”，实现异构迁移 “零修改”、多模数据一体化，兼具高并发性能与智能运维，重新定义融合数据库价值。
+- 😊 [两周，我搞懂了AI如何“计算”新材料：从金属合金到MOFs的科研实战体验](https://blog.csdn.net/cuiliuyun/article/details/155747348) 🔥 热门
+  摘要：本文介绍了两大前沿专题，探讨计算化学与AI技术在材料研究中的应用。专题一聚焦MOFs材料，系统讲解从量子化学计算到图神经网络的全链条研究方法，涵盖CP2K结构优化、RASPA2吸附模拟及CGCN...
+- 😐 [语义解析革命：飞算JavaAI三层架构重塑企业级代码生成链路](https://blog.csdn.net/m0_74385041/article/details/150289635) 📈 关注
+  《飞算JavaAI测评：自然语言编程如何重塑Java开发》 本文通过三周深度体验，系统评测飞算JavaAI 2.0的核心能力与行业价值。工具通过三层语义解析架构，可将"创建JWT鉴权接口"等自然语言指...
+- 😐 [AI的提示词专栏：用结构化 JSON 提示模型返回可解析的数据](https://blog.csdn.net/weixin_43151418/article/details/153260215) 📈 关注
+  本文聚焦如何通过 Prompt 引导大语言模型（LLM）稳定输出可解析的 JSON 数据，解决模型输出格式混乱导致程序报错的核心问题。首先阐述 JSON 作为 “模型 - 程序” 交互通用语言的优势，...
+- 😊 [AI推荐的远控靠谱吗？远程老玩家测评8款2025知名远控](https://blog.csdn.net/2302_80105876/article/details/155863047) 📈 关注
+  AI推荐的远程控制软件是否靠谱？本文通过测评8款2025年主流远控产品给出专业解答。国产ToDesk以9.5分夺冠，支持多平台2K240帧超清连接；老牌向日葵(8.1分)功能稳定但商业化明显；网易UU...
+- 😊 [全品类电商AI助手诞生，AI试衣+万饰穿戴+图生视频，覆盖全链路](https://blog.csdn.net/Dreamshop_AI/article/details/156069077) 📈 关注
+  DreamshopAI升级推出三大核心功能，全面革新电商视觉生产流程：AI试衣功能通过智能识别服装款式和材质，7-15天模特拍摄缩短至几分钟；万饰穿戴功能突破品类限制，精准还原珠宝、箱包等商品的材质细...
 
 
 ### 网络安全资讯
 
-- [EmEditor 遭攻陷：“沃尔沙姆” 伪装者篡改官方安装包，植入间谍软件](https://www.anquanke.com/post/id/314096) - 安全公告，详情请点击链接查看完整内容
+- [iOS安全开发中的Frida检测](https://www.anquanke.com/post/id/314115) - 安全公告，详情请点击链接查看完整内容
 - [面向软件供应链安全自主防御的智能体人工智能：从溯源到漏洞缓解的进阶之路](https://paper.seebug.org/3443/) - 作者：Toqeer Ali Syed, Mohammad Riyaz Belgaum, Salman Jan等
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html...
@@ -86,7 +86,7 @@ MIT
 
 ### 技术就业趋势
 
-边缘计算和IoT专家在制造业和智能城市项目中需求增加。
+数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
 
 ### 科技热点
 
@@ -100,10 +100,10 @@ MIT
 
 ### GitHub 趋势项目
 
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+- [google-gemini/computer-use-preview](https://github.com/google-gemini/computer-use-preview) - No description
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-- [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
-- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 
 
@@ -111,14 +111,14 @@ MIT
 
 ### AI 研究论文
 
-- [Multilingual Hidden Prompt Injection Attacks on LLM-Based Academic Reviewing](https://arxiv.org/abs/2512.23684v1) - Panagiotis Theocharopoulos, Ajinkya Kulkarni, Mathew Magimai. -Doss
-  Large language models (LLMs) are increasingly considered for use in high-impact workflows, including academic peer review. However, LLMs are vulnerabl...
+- [SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](https://arxiv.org/abs/2512.25075v1) - Zhening Huang, Hyeonho Jeong, Xuelin Chen, Yulia Gryaditskaya, Tuanfeng Y. Wang, Joan Lasenby, Chun-Hao Huang
+  We present SpaceTimePilot, a video diffusion model that disentangles space and time for controllable generative rendering. Given a monocular video, Sp...
 
-- [Web World Models](https://arxiv.org/abs/2512.23676v1) - Jichen Feng, Yifan Zhang, Chenggong Zhang, Yifu Lu, Shilong Liu, Mengdi Wang
-  Language agents increasingly require persistent worlds in which they can act, remember, and learn. Existing approaches sit at two extremes: convention...
+- [Coordinated Humanoid Manipulation with Choice Policies](https://arxiv.org/abs/2512.25072v1) - Haozhi Qi, Yen-Jen Wang, Toru Lin, Brent Yi, Yi Ma, Koushil Sreenath, Jitendra Malik
+  Humanoid robots hold great promise for operating in human-centric environments, yet achieving robust whole-body coordination across the head, hands, a...
 
-- [Nested Browser-Use Learning for Agentic Information Seeking](https://arxiv.org/abs/2512.23647v1) - Baixuan Li, Jialong Wu, Wenbiao Yin, Kuan Li, Zhongwang Zhang, Huifeng Yin, Zhengwei Tao, Liwen Zhang, Pengjun Xie, Jingren Zhou, Yong Jiang
-  Information-seeking (IS) agents have achieved strong performance across a range of wide and deep search tasks, yet their tool use remains largely rest...
+- [Vulcan: Instance-Optimal Systems Heuristics Through LLM-Driven Search](https://arxiv.org/abs/2512.25065v1) - Rohit Dwivedula, Divyanshu Saxena, Sujay Yadalam, Daehyeok Kim, Aditya Akella
+  Resource-management tasks in modern operating and distributed systems continue to rely primarily on hand-designed heuristics for tasks such as schedul...
 
 
 
@@ -142,16 +142,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $273.08 📉 -0.68 (-0.2%)
-- **GOOGL**: $313.85 📈 +0.29 (+0.1%)
-- **MSFT**: $487.48 📈 +0.38 (+0.1%)
+- **AAPL**: $271.86 📉 -1.18 (-0.4%)
+- **GOOGL**: $313.00 📉 -0.85 (-0.3%)
+- **MSFT**: $483.62 📉 -3.91 (-0.8%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
@@ -171,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《设计模式》** - Gang of Four
 
-深度学习领域的权威教材 (分类: 人工智能)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,21 +188,21 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
@@ -235,15 +235,13 @@ D. PATCH更快
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**使用版本控制**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
@@ -256,9 +254,9 @@ const a = 25;
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：💡 创新者
 
-挑战ID: `d96ed5` | 日期: 2025-12-31
+挑战ID: `d697b9` | 日期: 2026-01-01
 
 
 ### 📊 技术话题投票
@@ -276,8 +274,8 @@ const a = 25;
 
 ### 🔥 技术热词趋势
 
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
@@ -285,23 +283,23 @@ const a = 25;
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Zed** (Rust) - ⭐ 25k+
 
-使用Rust构建跨平台桌面应用
+高性能代码编辑器
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**全栈开发** (中级) 📊
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+程序员的口头禅：在我的机器上运行得很好！
 
 
 ### 🐙 GitHub 生态统计
@@ -315,7 +313,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2025-12-31 08:15:29
+- 📅 更新时间: 2026-01-01 08:15:18
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -328,10 +326,11 @@ const a = 25;
 - 📰 新闻总数: 8
 - 😊 积极新闻: 6 (75.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 11.2/100
+- 🔥 平均热度: 13.5/100
 
 🏷️ **热门关键词**:
 - AI (6次)
+- 神经网络 (1次)
 - 大数据 (1次)
 
 
