@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-01-01)
+## 今日更新 (2026-01-02)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [两周，我搞懂了AI如何“计算”新材料：从金属合金到MOFs的科研实战体验](https://blog.csdn.net/cuiliuyun/article/details/155747348) 🔥 热门
-  摘要：本文介绍了两大前沿专题，探讨计算化学与AI技术在材料研究中的应用。专题一聚焦MOFs材料，系统讲解从量子化学计算到图神经网络的全链条研究方法，涵盖CP2K结构优化、RASPA2吸附模拟及CGCN...
-- 😐 [语义解析革命：飞算JavaAI三层架构重塑企业级代码生成链路](https://blog.csdn.net/m0_74385041/article/details/150289635) 📈 关注
-  《飞算JavaAI测评：自然语言编程如何重塑Java开发》 本文通过三周深度体验，系统评测飞算JavaAI 2.0的核心能力与行业价值。工具通过三层语义解析架构，可将"创建JWT鉴权接口"等自然语言指...
-- 😐 [AI的提示词专栏：用结构化 JSON 提示模型返回可解析的数据](https://blog.csdn.net/weixin_43151418/article/details/153260215) 📈 关注
-  本文聚焦如何通过 Prompt 引导大语言模型（LLM）稳定输出可解析的 JSON 数据，解决模型输出格式混乱导致程序报错的核心问题。首先阐述 JSON 作为 “模型 - 程序” 交互通用语言的优势，...
-- 😊 [AI推荐的远控靠谱吗？远程老玩家测评8款2025知名远控](https://blog.csdn.net/2302_80105876/article/details/155863047) 📈 关注
-  AI推荐的远程控制软件是否靠谱？本文通过测评8款2025年主流远控产品给出专业解答。国产ToDesk以9.5分夺冠，支持多平台2K240帧超清连接；老牌向日葵(8.1分)功能稳定但商业化明显；网易UU...
-- 😊 [全品类电商AI助手诞生，AI试衣+万饰穿戴+图生视频，覆盖全链路](https://blog.csdn.net/Dreamshop_AI/article/details/156069077) 📈 关注
-  DreamshopAI升级推出三大核心功能，全面革新电商视觉生产流程：AI试衣功能通过智能识别服装款式和材质，7-15天模特拍摄缩短至几分钟；万饰穿戴功能突破品类限制，精准还原珠宝、箱包等商品的材质细...
+- 😊 [Rokid AR眼镜智能提词器开发实战：从SDK集成到AI自动跟踪](https://blog.csdn.net/m0_68390957/article/details/155428188) 🔥 热门
+  传统提词器存在明显痛点：演讲者盯着大屏幕或平板念稿，观众一眼就能看出在读稿子，眼神飘忽不定，演讲氛围尴尬。Rokid AR眼镜提供了更好的解决方案：文字直接显示在视野上方，观众完全看不出演讲者在看提词...
+- 😊 [脉脉独家【AI创作者xAMA】｜当豆包手机遭遇“全网封杀”：AI学会操作手机，我们的饭碗还保得住吗？](https://blog.csdn.net/2503_91389547/article/details/156123101) 🔥 热门
+  AI技术新突破引发职场焦虑：字节跳动豆包手机功能遭国产手机厂商集体屏蔽，引发技术圈对GUI Agent（图形界面操作AI）的热议。脉脉平台讨论显示，职场人担忧AI已能直接操作图形界面完成复杂任务，可能...
+- 😐 [NVIDIA AI Enterprise (NVAIE) 运维实战：面向医疗行业的深度培训路径分析](https://blog.csdn.net/kkiron/article/details/156383688) 🔥 热门
+  医疗AI基础设施的标准化运维实践：基于NVIDIA AI Enterprise的解决方案 本文系统阐述了NVIDIA AI Enterprise(NVAIE)平台在医疗AI应用中的关键作用与运维体系。...
+- 😊 [Spring AI Advisors 深度解析与应用指南](https://blog.csdn.net/Vita_min_C/article/details/156278229) 📈 关注
+  摘要：本文深入解析了Spring AI Advisors的核心功能与应用场景，介绍了其在AI交互中的关键作用。Advisors通过拦截和增强AI请求/响应流程，实现内容过滤、上下文管理等功能，支持链式...
+- 😊 [2025 年 AI 行业年度总结](https://blog.csdn.net/weixin_43829633/article/details/156229737) 📈 关注
+  全面复盘2025年AI领域的重大进展：从DeepSeek-R1到Gemini 3的模型突破，从提示词工程向上下文工程的范式转移，Claude Code与Manus代表的通用Agent路径分化，AI产品...
 
 
 ### 网络安全资讯
@@ -86,7 +86,7 @@ MIT
 
 ### 技术就业趋势
 
-数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
@@ -100,11 +100,11 @@ MIT
 
 ### GitHub 趋势项目
 
-- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
-- [google-gemini/computer-use-preview](https://github.com/google-gemini/computer-use-preview) - No description
-- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
+- [awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples) - Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 
 
 
@@ -149,18 +149,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+给定字符串，找出其中最长的回文子串
 
-标签: 数组, 哈希表
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -171,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《代码整洁之道》** - Robert C. Martin
 
-面向对象设计的经典模式 (分类: 软件设计)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -189,27 +189,27 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 ### 🚀 创业公司动态
 
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Synthwave Mix** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -223,51 +223,52 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**遵循单一职责原则**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `d697b9` | 日期: 2026-01-01
+挑战ID: `ceecc7` | 日期: 2026-01-02
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
@@ -275,19 +276,19 @@ git commit -m "Add user authentication feature"
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
-- **Serverless** ☁️ +7% - 无服务器架构普及
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-高性能代码编辑器
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
@@ -299,7 +300,7 @@ git commit -m "Add user authentication feature"
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+程序员的三大美德：懒惰、急躁和傲慢。
 
 
 ### 🐙 GitHub 生态统计
@@ -313,7 +314,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-01-01 08:15:18
+- 📅 更新时间: 2026-01-02 08:15:16
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -324,13 +325,13 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
+- 😊 积极新闻: 7 (87.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 13.5/100
+- 🔥 平均热度: 13.6/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- 神经网络 (1次)
+- AR (1次)
 - 大数据 (1次)
 
 
