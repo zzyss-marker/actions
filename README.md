@@ -55,54 +55,57 @@
 
 MIT
 
-## 今日更新 (2026-01-08)
+## 今日更新 (2026-01-09)
 
 ### 今日名言
 
-> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- 😊 [全场景教育 AI 助手诞生，Web + 小程序 + 实时同步，随时随地想用就用](https://blog.csdn.net/2302_80262940/article/details/155156028) 📈 关注
-  这一期，我们用 “闯关探险” 的模式，完成了 “Web 端 + 微信小程序 + 数据同步中枢” 的全场景搭建 —— 教师有了高效的 PC 端管理工具，家长和学生有了便捷的移动端口袋助手，多端数据实时互...
-- 😊 [2025行业盘点追踪，迈向生产级医疗AI：三大核心实践趋势的落地路径分析](https://blog.csdn.net/kkiron/article/details/155966362) 📈 关注
-  摘要 医疗AI落地面临的核心挑战是如何将大型语言模型（LLM）从基准高分转化为临床可用的系统。本文提出三大关键工程实践： 提示工程与微调的组合：通过轻量级提示优化（如指令设计、检索增强）快速验证价值，...
-- 😊 [想拥有自己的本地AI大脑？Open-AutoGLM部署教程来了，支持离线运行！](https://blog.csdn.net/QuickDebug/article/details/156156541) 📈 关注
-  想搭建专属本地AI？本文详解Open-AutoGLM本地部署方法，支持离线运行，保障数据隐私，适用于智能问答、知识管理等场景。配置简单，兼容性强，打造私人AI大脑值得收藏。
-- 😊 [当开发者遇上AI副驾驶：效率翻倍还是技能退化？](https://blog.csdn.net/qq_41187124/article/details/155770916) 📈 关注
-  AI副驾驶正深度改变开发者工作方式：从代码补全到测试生成，AI工具如GitHub Copilot能显著提升效率（任务速度提升55%），但也引发技能退化的担忧。关键挑战在于平衡工具使用与能力培养——过度...
-- 😊 [VS Code 中可免费使用的 AI 编程插件](https://blog.csdn.net/qq_43592064/article/details/156048839) 📊 普通
-  VS Code 中可免费使用的 AI 编程插件
+- 😊 [【AI学习】深入探秘AI之神经网络的奥秘](https://blog.csdn.net/weixin_63944437/article/details/156389519) 🔥🔥🔥 超热
+  神经网络是人工智能的核心技术，其发展经历了从简单规则系统到深度学习的演进过程。神经元作为基本单元，通过加权求和与激活函数实现信息处理，激活函数如Sigmoid、ReLU等对网络性能至关重要。前馈神经网...
+- 😊 [【愚公系列】《扣子开发 AI Agent 智能体应用》018-提示词编写和优化（扣子平台设置提示词案例）](https://blog.csdn.net/aa2528877987/article/details/156048336) 🔥 热门
+  本文介绍了在扣子平台设置提示词的方法与技巧。提示词作为指导AI生成内容的关键指令，其质量直接影响输出效果。文章详细讲解了四种设置方式：1）在资源库创建可复用提示词；2）为智能体配置人设与回复逻辑；3）...
+- 😐 [实测脉脉核心功能+【AI创作者×AMA】深度体验：职场人找人脉、学AI创作的宝藏平台](https://blog.csdn.net/user340/article/details/156599236) 📈 关注
+  摘要： 脉脉作为实名制职场社交平台，通过真实身份认证构建高质量职场信息生态，提供公司点评、行业圈子、人脉链接等功能，满足求职避坑、专业交流与资源拓展需求。近期参与的【AI创作者×AMA】活动聚焦AI创...
+- 😐 [探索通义万相 2.1：借助蓝耘智算平台开启 AI 创作新旅程](https://blog.csdn.net/2301_81313679/article/details/146216892) 📈 关注
+  图生视频，是通过一系列节点的连接与参数设置，将静态图片转化为动态视频。图中的工作流涉及了模型加载、采样处理、视频合成等关键环节。模型相关节点：“WanVideo sampler”和“WanVideoW...
+- 😐 [【Java 面试宝典】30 道 AI 大模型与Agent 算法工程研发与后端工程开发技术面试题宝典（精选面试题和面试必过的答案完整详细解析）](https://blog.csdn.net/universsky2015/article/details/155772711) 📈 关注
+  考察点：生成范式、模型家族。自回归 LM：建模 p(x₁,…,x_T) = ∏ p(x_t | x_
 
 
 ### 网络安全资讯
 
 - [新型谷歌云钓鱼骗局曝光：结合电话呼叫与伪造客服邮件实施攻击](https://www.anquanke.com/post/id/314204) - 安全公告，详情请点击链接查看完整内容
-- [V8 安全简单记录](https://paper.seebug.org/3446/) - 作者：陈广
-原文链接：https://blog.chain0x0.com/blog/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AE%89%E5%85%A8%E7%AE%80%E5%...
-- [嘶吼快讯|网安厂商动态汇（第1期）](https://www.4hou.com/posts/6M3L) - 聚焦网安厂商最新动作，整合新品发布、战略合作、技术升级等核心动态，省去碎片化信息筛选时间，1 篇GET网安厂商近期关键动作！网安厂商最新动态360荣获海南省科学技术进步一等奖近日，2024年度海南省科...
+- [DeepSeek-R1：通过强化学习激发大型语言模型的推理能力](https://paper.seebug.org/3447/) - 作者：DeepSeek-AI
+译者：知道创宇404实验室翻译组
+原文链接：https://arxiv.org/pdf/2501.12948
+摘要
+通用推理是人工智能领域一项长期且艰巨的挑战。近年来，以...
+- [【附下载】2025人工智能安全政策、法规、标准指南等年终汇编](https://www.4hou.com/posts/l0ZV) - 本期要点14+ 白皮书与报告23+ 标准与指南3+ 法律法规3+ 评测体系3+ 行业规范5+ 政策与行动汇编清单及详情完整版资料原文特别说明：本文类别仅为大致分类，请以专业书籍为准白皮书与报告《202...
 
 
 ### 技术就业趋势
 
-数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
+远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
 
 ### 科技热点
 
-- 😊 [产品月报｜AI 工作台 SRE 数字分身支持前端性能监控资源、APM 应用拓扑功能增强...](https://cloud.tencent.com/developer/article/2612873) 🔥 热门
-  腾讯云可观测平台（Tencent Cloud Observability Platform，TCOP）是集指标、链路、日志于一体的全栈智能观测平台。结合强大的可视化和告警能力，为您提供一体化、智能化监...
-- 😐 [不是程序员，也该用代码编辑器：AI 时代的写作工作台](https://cloud.tencent.com/developer/article/2612824) 📈 关注
-  但如果你日常做的工作离不开写、改、找、替、整理、版本管理——无论是写公众号、写方案、写论文、写周报、整理资料、维护知识库——那你其实是在做一件事：高频的文本编辑。
-- 😐 [提示词：你的《浪浪山小妖怪》，用AI 复现故事创作](https://cloud.tencent.com/developer/article/2612818) 📊 普通
-  
+- 😊 [还在 draw.io 里拖拖拽拽？让 AI 替你画架构图](https://cloud.tencent.com/developer/article/2612920) 📈 关注
+  GitHub 上近期爆火的 AI 画图开源项目 next-ai-draw-io ，能够通过 EdgeOne Pages 一键部署上线了！仅需一句话，即可生成架构图、流程图和 UML 图等，极大提升了绘...
+- 😊 [Kiro六大要义：重新定义 AI 时代的编程效率边界](https://cloud.tencent.com/developer/article/2612842) 📈 关注
+  亚马逊推出的 AI 开发工具 Kiro，并非简单的“编程辅助工具”，而是对开发全流程的一次系统性重构。经过为期两周的深度实测，结合 5 个真实项目的落地实践，我发现 Kiro 的六大要义，本质上是对程...
+- 😐 [原创分享计划2026年1月特别激励活动](https://cloud.tencent.com/developer/article/2612556) 📊 普通
+  腾讯云开发者社区是腾讯云面向开发者打造的技术交流型社区，每月有1200W 用户访问社区学习技术、解决问题。为鼓励更多优质技术内容的输出与沉淀，社区面向腾讯员工发布原创分享计划，目前已经有超过千名腾讯作...
 
 
 ### GitHub 趋势项目
 
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-- [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
+- [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) - MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
 
 
@@ -110,14 +113,14 @@ MIT
 
 ### AI 研究论文
 
-- [Embedding Autonomous Agents in Resource-Constrained Robotic Platforms](https://arxiv.org/abs/2601.04191v1) - Negar Halakou, Juan F. Gutierrez, Ye Sun, Han Jiang, Xueming Wu, Yilun Song, Andres Gomez
-  Many embedded devices operate under resource constraints and in dynamic environments, requiring local decision-making capabilities. Enabling devices t...
+- [GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization](https://arxiv.org/abs/2601.05242v1) - Shih-Yang Liu, Xin Dong, Ximing Lu, Shizhe Diao, Peter Belcak, Mingjie Liu, Min-Hung Chen, Hongxu Yin, Yu-Chiang Frank Wang, Kwang-Ting Cheng, Yejin Choi, Jan Kautz, Pavlo Molchanov
+  As language models become increasingly capable, users expect them to provide not only accurate responses but also behaviors aligned with diverse human...
 
-- [Agent Drift: Quantifying Behavioral Degradation in Multi-Agent LLM Systems Over Extended Interactions](https://arxiv.org/abs/2601.04170v1) - Abhishek Rath
-  Multi-agent Large Language Model (LLM) systems have emerged as powerful architectures for complex task decomposition and collaborative problem-solving...
+- [RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation](https://arxiv.org/abs/2601.05241v1) - Boyang Wang, Haoran Zhang, Shujie Zhang, Jinkun Hao, Mingda Jia, Qi Lv, Yucheng Mao, Zhaoyang Lyu, Jia Zeng, Xudong Xu, Jiangmiao Pang
+  The diversity, quantity, and quality of manipulation data are critical for training effective robot policies. However, due to hardware and physical se...
 
-- [Clinical Data Goes MEDS? Let's OWL make sense of it](https://arxiv.org/abs/2601.04164v1) - Alberto Marfoglia, Jong Ho Jhee, Adrien Coulet
-  The application of machine learning on healthcare data is often hindered by the lack of standardized and semantically explicit representation, leading...
+- [Robust Reasoning as a Symmetry-Protected Topological Phase](https://arxiv.org/abs/2601.05240v1) - Ilmo Sung
+  Large language models suffer from "hallucinations"-logical inconsistencies induced by semantic noise. We propose that current architectures operate in...
 
 
 
@@ -141,25 +144,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $260.33 📉 -2.03 (-0.8%)
-- **GOOGL**: $321.98 📈 +7.80 (+2.5%)
-- **MSFT**: $483.47 📈 +4.96 (+1.0%)
+- **AAPL**: $259.04 📉 -1.31 (-0.5%)
+- **GOOGL**: $325.44 📈 +3.41 (+1.1%)
+- **MSFT**: $478.11 📉 -5.53 (-1.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**二叉树的最大深度** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-给定二叉树，找出其最大深度
+将两个升序链表合并为一个新的升序链表
 
-标签: 树, 递归
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -187,14 +190,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
@@ -206,9 +209,9 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -222,80 +225,80 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**网络建设**: 参加技术会议和meetup，建立专业人脉网络
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 每月参加至少一次技术聚会或在线会议
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：🏗️ 架构师
 
-挑战ID: `51912c` | 日期: 2026-01-08
+挑战ID: `c8b0b3` | 日期: 2026-01-09
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-使用Rust构建跨平台桌面应用
+现代Web应用框架
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
@@ -314,7 +317,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-01-08 08:16:21
+- 📅 更新时间: 2026-01-09 08:15:43
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -325,12 +328,15 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
+- 😊 积极新闻: 4 (50.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 10.4/100
+- 🔥 平均热度: 16.6/100
 
 🏷️ **热门关键词**:
-- AI (8次)
+- AI (7次)
+- 人工智能 (1次)
+- 深度学习 (1次)
+- 神经网络 (1次)
 
 
 ### 🤖 关于此项目
