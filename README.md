@@ -55,29 +55,29 @@
 
 MIT
 
-## 今日更新 (2026-01-09)
+## 今日更新 (2026-01-10)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- 😊 [【AI学习】深入探秘AI之神经网络的奥秘](https://blog.csdn.net/weixin_63944437/article/details/156389519) 🔥🔥🔥 超热
-  神经网络是人工智能的核心技术，其发展经历了从简单规则系统到深度学习的演进过程。神经元作为基本单元，通过加权求和与激活函数实现信息处理，激活函数如Sigmoid、ReLU等对网络性能至关重要。前馈神经网...
-- 😊 [【愚公系列】《扣子开发 AI Agent 智能体应用》018-提示词编写和优化（扣子平台设置提示词案例）](https://blog.csdn.net/aa2528877987/article/details/156048336) 🔥 热门
-  本文介绍了在扣子平台设置提示词的方法与技巧。提示词作为指导AI生成内容的关键指令，其质量直接影响输出效果。文章详细讲解了四种设置方式：1）在资源库创建可复用提示词；2）为智能体配置人设与回复逻辑；3）...
-- 😐 [实测脉脉核心功能+【AI创作者×AMA】深度体验：职场人找人脉、学AI创作的宝藏平台](https://blog.csdn.net/user340/article/details/156599236) 📈 关注
-  摘要： 脉脉作为实名制职场社交平台，通过真实身份认证构建高质量职场信息生态，提供公司点评、行业圈子、人脉链接等功能，满足求职避坑、专业交流与资源拓展需求。近期参与的【AI创作者×AMA】活动聚焦AI创...
-- 😐 [探索通义万相 2.1：借助蓝耘智算平台开启 AI 创作新旅程](https://blog.csdn.net/2301_81313679/article/details/146216892) 📈 关注
-  图生视频，是通过一系列节点的连接与参数设置，将静态图片转化为动态视频。图中的工作流涉及了模型加载、采样处理、视频合成等关键环节。模型相关节点：“WanVideo sampler”和“WanVideoW...
-- 😐 [【Java 面试宝典】30 道 AI 大模型与Agent 算法工程研发与后端工程开发技术面试题宝典（精选面试题和面试必过的答案完整详细解析）](https://blog.csdn.net/universsky2015/article/details/155772711) 📈 关注
-  考察点：生成范式、模型家族。自回归 LM：建模 p(x₁,…,x_T) = ∏ p(x_t | x_
+- 😊 [Google 推出全新 AI 代码编辑器 Antigravity：免费支持 Gemini 3 Pro / Claude 4.5，上手体验](https://blog.csdn.net/qq_30110433/article/details/155020708) 🔥🔥 很热
+  2025 年了，还在花 20 美元/月买 Cursor Pro 的朋友们……想体验最新最强的 Gemini 3 Pro？免费想用 Claude 4.5 Thinking 模式？免费想切 GPT-OSS...
+- 😊 [AI Agent 开发实战：MCP + A2A + LangGraph 全流程解析【AI Agent 开发，未来三年必学！】](https://blog.csdn.net/weixin_52908342/article/details/156362489) 🔥 热门
+  AI Agent 正在从概念走向规模化落地，其价值已不再局限于“智能对话”，而是演进为能够感知环境、拆解任务、协同决策并持续优化的复杂系统。通过系统掌握 MCP、A2A、LangGraph 等关键技术...
+- 😊 [【TextIn大模型加速器 + 火山引擎】用Coze+TextIn+飞书搭建智能合同审查工作流](https://blog.csdn.net/IRpickstars/article/details/156466325) 🔥 热门
+  合同审查AI工作流通过TextIn+Coze+飞书技术栈实现法务自动化。该方案利用TextIn的高精度文档解析能力（支持PDF/图片等10+格式，95%准确率），结合Coze低代码平台搭建智能审查流程...
+- 😊 [Z-Image Turbo 本地安装教程！最近非常火的文生图AI模型，到底怎么样？](https://blog.csdn.net/xhu123123/article/details/155732077) 📈 关注
+  Z-Image本地部署指南：这款60亿参数的开源文生图模型支持NSFW输出，提供Z-ImageTurbo/base/editor三个版本，对中文理解精准且显卡要求低（8GB显存即可）。部署提供两种方式...
+- 😐 [NSP 新范式实战：AI 世界模型构建与物理规律建模指南](https://blog.csdn.net/2401_86326742/article/details/156699432) 📈 关注
+  在生成式 AI 浪潮中，Sora 等视频生成模型展示了惊人的视觉连贯性，但在物理一致性上仍频频“翻车”（如玻璃杯破碎后自动复原、物体反重力运动）。这是因为纯数据驱动（Data-Driven）的架构（如...
 
 
 ### 网络安全资讯
 
-- [新型谷歌云钓鱼骗局曝光：结合电话呼叫与伪造客服邮件实施攻击](https://www.anquanke.com/post/id/314204) - 安全公告，详情请点击链接查看完整内容
+- [CVE-2025-60262：H3C无线设备存在严重配置缺陷，攻击者可借此获取设备控制权](https://www.anquanke.com/post/id/314220) - 安全公告，详情请点击链接查看完整内容
 - [DeepSeek-R1：通过强化学习激发大型语言模型的推理能力](https://paper.seebug.org/3447/) - 作者：DeepSeek-AI
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/pdf/2501.12948
@@ -88,7 +88,7 @@ MIT
 
 ### 技术就业趋势
 
-远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
+数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
 
 ### 科技热点
 
@@ -104,9 +104,9 @@ MIT
 
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-- [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
-- [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker) - MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
-- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format
+- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 
 
 
@@ -144,25 +144,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $259.04 📉 -1.31 (-0.5%)
-- **GOOGL**: $325.44 📈 +3.41 (+1.1%)
-- **MSFT**: $478.11 📉 -5.53 (-1.1%)
+- **AAPL**: $259.37 📈 +0.33 (+0.1%)
+- **GOOGL**: $328.57 📈 +3.13 (+1.0%)
+- **MSFT**: $479.28 📈 +1.17 (+0.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**两数之和** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 链表, 递归
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -173,14 +173,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Kubernetes权威指南》** - 龚正等
 
-面向对象设计的经典模式 (分类: 软件设计)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -190,14 +190,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
@@ -225,53 +225,53 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：🏗️ 架构师
 
-挑战ID: `c8b0b3` | 日期: 2026-01-09
+挑战ID: `5439ad` | 日期: 2026-01-10
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
@@ -279,31 +279,31 @@ const a = 25;
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代Web应用框架
+高性能代码编辑器
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**全栈开发** (中级) 📊
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -317,7 +317,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-01-09 08:15:43
+- 📅 更新时间: 2026-01-10 08:13:18
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -328,15 +328,13 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
+- 😊 积极新闻: 6 (75.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 16.6/100
+- 🔥 平均热度: 15.4/100
 
 🏷️ **热门关键词**:
 - AI (7次)
-- 人工智能 (1次)
-- 深度学习 (1次)
-- 神经网络 (1次)
+- GPT (1次)
 
 
 ### 🤖 关于此项目
