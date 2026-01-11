@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-01-10)
+## 今日更新 (2026-01-11)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- 😊 [Google 推出全新 AI 代码编辑器 Antigravity：免费支持 Gemini 3 Pro / Claude 4.5，上手体验](https://blog.csdn.net/qq_30110433/article/details/155020708) 🔥🔥 很热
-  2025 年了，还在花 20 美元/月买 Cursor Pro 的朋友们……想体验最新最强的 Gemini 3 Pro？免费想用 Claude 4.5 Thinking 模式？免费想切 GPT-OSS...
-- 😊 [AI Agent 开发实战：MCP + A2A + LangGraph 全流程解析【AI Agent 开发，未来三年必学！】](https://blog.csdn.net/weixin_52908342/article/details/156362489) 🔥 热门
-  AI Agent 正在从概念走向规模化落地，其价值已不再局限于“智能对话”，而是演进为能够感知环境、拆解任务、协同决策并持续优化的复杂系统。通过系统掌握 MCP、A2A、LangGraph 等关键技术...
-- 😊 [【TextIn大模型加速器 + 火山引擎】用Coze+TextIn+飞书搭建智能合同审查工作流](https://blog.csdn.net/IRpickstars/article/details/156466325) 🔥 热门
-  合同审查AI工作流通过TextIn+Coze+飞书技术栈实现法务自动化。该方案利用TextIn的高精度文档解析能力（支持PDF/图片等10+格式，95%准确率），结合Coze低代码平台搭建智能审查流程...
-- 😊 [Z-Image Turbo 本地安装教程！最近非常火的文生图AI模型，到底怎么样？](https://blog.csdn.net/xhu123123/article/details/155732077) 📈 关注
-  Z-Image本地部署指南：这款60亿参数的开源文生图模型支持NSFW输出，提供Z-ImageTurbo/base/editor三个版本，对中文理解精准且显卡要求低（8GB显存即可）。部署提供两种方式...
-- 😐 [NSP 新范式实战：AI 世界模型构建与物理规律建模指南](https://blog.csdn.net/2401_86326742/article/details/156699432) 📈 关注
-  在生成式 AI 浪潮中，Sora 等视频生成模型展示了惊人的视觉连贯性，但在物理一致性上仍频频“翻车”（如玻璃杯破碎后自动复原、物体反重力运动）。这是因为纯数据驱动（Data-Driven）的架构（如...
+- 😐 [别再花几万买AI知识库了！3小时用LangChain搭完，适配主流大模型](https://blog.csdn.net/jiangjunshow/article/details/156695852) 🔥🔥 很热
+  现在企业都在卷AI知识库，客户咨询、员工培训、文档检索全靠它，但网上教程不是太老就是太复杂，动辄要学半个月？别慌！今天这套实战教程，纯小白也能3小时搞定企业级AI知识库，还能适配主流的GPT-4o、通...
+- 😐 [用快马AI 10分钟打造你的网页版Minecraft：mc.js.cooi实战指南](https://blog.csdn.net/TurquoiseSea98/article/details/154020412) 📈 关注
+  为了让地面更真实，我用mc.js.cooi提供的纹理生成器创建了16x16的草地网格，这个过程中发现纹理贴图路径需要特别注意相对位置。测试发现mc.js.cooi对阴影的支持有限，最后改用Three....
+- 😊 [国产AI代码工具对决：CodeGeeX 2.0与通义灵码，谁是你的菜？](https://blog.csdn.net/fq1986614/article/details/150550696) 📈 关注
+  国产AI代码工具对比：CodeGeeX2.0与通义灵码 CodeGeeX2.0基于Transformer架构优化，支持130+编程语言，推理速度快（15tokens/秒）。其核心功能包括智能代码生成、...
+- 😐 [零基础学AI大模型之AI大模型可视化界面](https://blog.csdn.net/chandfy/article/details/152094377) 📈 关注
+  文章核心围绕 Chatbox+Ollama 对接 DeepSeek-7B 模型展开实战，分步介绍 Chatbox 安装、Ollama 远程访问配置（环境变量设置）、模型参数配置及可视化交互测试（含基础...
+- 😐 [AI在医疗领域的十大应用场景：变革医疗健康未来与AI产品经理的新机遇](https://blog.csdn.net/qq_34419312/article/details/149219580) 📈 关注
+  AI在医疗领域的十大应用场景：变革医疗健康未来与AI产品经理的新机遇
 
 
 ### 网络安全资讯
@@ -88,25 +88,25 @@ MIT
 
 ### 技术就业趋势
 
-数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
-- 😊 [还在 draw.io 里拖拖拽拽？让 AI 替你画架构图](https://cloud.tencent.com/developer/article/2612920) 📈 关注
-  GitHub 上近期爆火的 AI 画图开源项目 next-ai-draw-io ，能够通过 EdgeOne Pages 一键部署上线了！仅需一句话，即可生成架构图、流程图和 UML 图等，极大提升了绘...
 - 😊 [Kiro六大要义：重新定义 AI 时代的编程效率边界](https://cloud.tencent.com/developer/article/2612842) 📈 关注
   亚马逊推出的 AI 开发工具 Kiro，并非简单的“编程辅助工具”，而是对开发全流程的一次系统性重构。经过为期两周的深度实测，结合 5 个真实项目的落地实践，我发现 Kiro 的六大要义，本质上是对程...
-- 😐 [原创分享计划2026年1月特别激励活动](https://cloud.tencent.com/developer/article/2612556) 📊 普通
-  腾讯云开发者社区是腾讯云面向开发者打造的技术交流型社区，每月有1200W 用户访问社区学习技术、解决问题。为鼓励更多优质技术内容的输出与沉淀，社区面向腾讯员工发布原创分享计划，目前已经有超过千名腾讯作...
+- 😐 [AI 辅助重构 20 万行代码：渐进式重建代码秩序](https://cloud.tencent.com/developer/article/2612872) 📈 关注
+  某次Code Review时发现一段逻辑明显写错了位置，询问作者为何如此实现，得到的回答让人无奈："我知道应该加在哪里，但那个文件已经几千行，几十个if-else嵌套在一起，需求排期很紧，评估了一下，...
+- 😊 [「我不是程序员」写给小白的Claude Code免费入门教程](https://cloud.tencent.com/developer/article/2612858) 📊 普通
+  https://claudecode.tangshuang.net/easy-course
 
 
 ### GitHub 趋势项目
 
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory infrastructure for LLMs and AI agents
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 
 
 
@@ -152,17 +152,17 @@ satellite communication systems has elevated the importance of secure vide...
 ### 🛠️ 开发者工具推荐
 
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+将两个升序链表合并为一个新的升序链表
 
-标签: 数组, 哈希表
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -173,14 +173,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《设计模式》** - Gang of Four
 
-容器编排平台的完整指南 (分类: 云原生)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -191,27 +191,27 @@ satellite communication systems has elevated the importance of secure vide...
 ### 🚀 创业公司动态
 
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Brain.fm Focus** - Brain.fm
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -225,85 +225,84 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**遵循单一职责原则**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `5439ad` | 日期: 2026-01-10
+挑战ID: `fef8f6` | 日期: 2026-01-11
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Serverless** ☁️ +7% - 无服务器架构普及
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Blockchain** 📉 -3% - 区块链热度回落
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-高性能代码编辑器
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**安全工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-程序员最讨厌的两件事：1. 写文档 2. 没有文档
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -317,7 +316,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-01-10 08:13:18
+- 📅 更新时间: 2026-01-11 08:13:50
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -328,9 +327,9 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
+- 😊 积极新闻: 3 (37.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 15.4/100
+- 🔥 平均热度: 12.8/100
 
 🏷️ **热门关键词**:
 - AI (7次)
