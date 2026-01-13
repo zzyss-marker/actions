@@ -55,72 +55,71 @@
 
 MIT
 
-## 今日更新 (2026-01-12)
+## 今日更新 (2026-01-13)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- 😊 [从零开始在Ubuntu上快速部署Docker和Dify：结合 Dify + 蓝耘 MaaS平台打造 AI 应用实战指南](https://blog.csdn.net/2301_76341691/article/details/151078946) 🔥🔥🔥 超热
-  在人工智能应用快速发展的今天，如何高效部署 AI 应用并灵活调用不同的大模型能力，已经成为开发者和企业的核心需求之一。本文将详细介绍如何在 Ubuntu 环境中借助 阿里云镜像源快速安装 Docker...
-- 😐 [PyTorch Grad-CAM完整教程：从入门到生成高质量AI热力图](https://blog.csdn.net/gitblog_00421/article/details/155655809) 🔥🔥 很热
-  你想知道深度学习模型是如何"思考"的吗？想要直观看到AI模型在识别图片时的关注焦点？本文将带你使用PyTorch Grad-CAM工具包，通过生成类别激活图直观展示模型关注的区域，让AI决策过程不再是...
-- 😊 [【博客之星2025年度总评选】2025年度技术博客总结：从Python基础到AI前沿的进阶之旅](https://blog.csdn.net/weixin_44299027/article/details/156332409) 🔥 热门
-  2025年是技术深耕与突破的一年，文章系统总结了个人成长历程。在技术层面实现了深度与广度的双重突破，从Python基础模块解析扩展到AI绘画、Gemini3.0等前沿领域，产出多篇高质量技术指南。内容...
-- 😊 [全场景教育 AI 助手诞生，Web + 小程序 + 实时同步，随时随地想用就用](https://blog.csdn.net/2302_80262940/article/details/155156028) 📈 关注
-  这一期，我们用 “闯关探险” 的模式，完成了 “Web 端 + 微信小程序 + 数据同步中枢” 的全场景搭建 —— 教师有了高效的 PC 端管理工具，家长和学生有了便捷的移动端口袋助手，多端数据实时互...
-- 😊 [AI赋能原则10解读思考：当人人都能从 AI 获益，人类整体将跨入新的生产力时代](https://blog.csdn.net/xiaofeng10330111/article/details/155396879) 📈 关注
-  本文基于霍夫曼《AI赋能》的第十条原则，系统解析了“政府 2.0”在 AI 时代的核心意义：政府的价值不再在于管理与监管，而在于通过建设国家级 AI 基础设施，让每个普通人都能获得智能化能力提升，从而...
+- 😊 [Java开发新变革！飞算JavaAI深度剖析与实战指南](https://blog.csdn.net/beautifulmemory/article/details/149032692) 📈 关注
+  飞算JavaAI重塑Java开发效率新标杆 摘要：飞算JavaAI作为全球首款Java智能开发助手，通过自然语言/语音输入、全流程自动化等技术革新，将开发效率提升10倍。其核心优势在于：1）完整工程源...
+- 😐 [AI的提示词专栏：选择模型的实用对比表（参数、费用、延迟、兼容性）](https://blog.csdn.net/weixin_43151418/article/details/153410546) 📈 关注
+  本文围绕大语言模型选型展开，先对比主流模型基础参数，呈现其开发者、参数规模、上下文窗口及能力优势，明晰参数与任务适配关系；再从输入输出 token 单价分析费用差异，给出成本优化建议；接着基于实测数据...
+- 😐 [零基础学AI大模型之RunnableLambda](https://blog.csdn.net/chandfy/article/details/154500632) 📈 关注
+  本文介绍了LangChain中的RunnableLambda组件，它能够将普通Python函数转换为符合LangChain协议的Runnable对象，使其无缝接入LCEL链式调用。文章通过类定义解析了...
+- 😐 [【微服务】Spring AI 使用详解](https://blog.csdn.net/congge_study/article/details/143460793) 📈 关注
+  Spring AI 使用详解
+- 😊 [VS Code 中可免费使用的 AI 编程插件](https://blog.csdn.net/qq_43592064/article/details/156048839) 📊 普通
+  VS Code 中可免费使用的 AI 编程插件
 
 
 ### 网络安全资讯
 
-- [CVE-2025-60262：H3C无线设备存在严重配置缺陷，攻击者可借此获取设备控制权](https://www.anquanke.com/post/id/314220) - 安全公告，详情请点击链接查看完整内容
-- [DeepSeek-R1：通过强化学习激发大型语言模型的推理能力](https://paper.seebug.org/3447/) - 作者：DeepSeek-AI
+- [XML陷阱：Struts 2高危漏洞CVE-2025-68493致数据泄露](https://www.anquanke.com/post/id/314266) - 安全公告，详情请点击链接查看完整内容
+- [模仿游戏：利用大型语言模型作为聊天机器人打击基于聊天的网络犯罪](https://paper.seebug.org/3449/) - 作者：Yifan Yao, Baojuan Wang, Jinhao Duan等
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/pdf/2501.12948
-摘要
-通用推理是人工智能领域一项长期且艰巨的挑战。近年来，以...
-- [Ni8mare高危漏洞来袭 黑客可远程劫持n8n服务器](https://www.4hou.com/posts/om3A) - 研究人员最新发现，一项被命名为Ni8mare的最高严重级漏洞，允许远程未授权攻击者完全接管本地部署的N8N工作流自动化平台。该安全漏洞编号为CVE-2026-21858，CVSS评分高达10分。据研究...
+原文链接：https://arxiv.org/html/2512.21371v1
+摘...
+- [嘶吼快讯|网安厂商动态汇（第3期）](https://www.4hou.com/posts/xypE) - 聚焦网安厂商最新动作，整合新品发布、战略合作、技术升级等核心动态，省去碎片化信息筛选时间，1 篇GET网安厂商近期关键动作！网安厂商最新动态观安信息蝉联“中国网络安全前二十家企业”近日，中国互联网协会...
 
 
 ### 技术就业趋势
 
-区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
-- 😊 [还在 draw.io 里拖拖拽拽？让 AI 替你画架构图](https://cloud.tencent.com/developer/article/2612930) 📈 关注
-  GitHub 上近期爆火的 AI 画图开源项目 next-ai-draw-io ，能够通过 EdgeOne Pages 一键部署上线了！仅需一句话，即可生成架构图、流程图和 UML 图等，极大提升了绘...
-- 😊 [Claude Code中文教程：100%免费，从入门到精通](https://cloud.tencent.com/developer/article/2612856) 📈 关注
-  2025年末，我完成了这部教程，整个教程共 9 部分，36 章，204 节，耗费了我非常多的心力。虽然教程中不少内容是通过对官网文档的梳理，让AI帮忙提供代码示例，但是要编撰整个教程的结构，让开发者从...
-- 😟 [Build in Public，才是普通人的 AI 之路](https://cloud.tencent.com/developer/article/2613624) 📈 关注
-  凌晨两点，写完最后一行代码，我习惯性地打开社交媒体，记录下今天解决的那个棘手bug和思路，十分钟后，评论区出现了几个同样遭遇此问题的程序员，我们开始了一场深夜技术交流。
+- 😐 [为什么有人选择和AI结婚？](https://cloud.tencent.com/developer/article/2613745) 📈 关注
+  就像好莱坞2013年的科幻电影《Her》的场景，目前，AI正在进入人类最私密的情感领域。一个以“虚拟伴侣”为象征的情感时代，正在现实发生。从美国到日本再到欧洲等地，已有人选择与AI建立深度情感关系，这...
+- 😊 [腾讯云WAF入选“Bot与Agent信任管理”全球代表性供应商](https://cloud.tencent.com/developer/article/2613743) 📈 关注
+  近日，国际权威研究机构Forrester发布了最新研究报告《The Bot And Agent Trust Management Software Landscape, Q4 2025》（以下简称“报...
+- 😐 [如何画好一张架构图丨终极典藏版](https://cloud.tencent.com/developer/article/2614078) 📊 普通
+  架构图是架构师、产品经理、开发工程师、测试工程师等各种角色之间进行沟通的语言和桥梁，让整个团队更能有效地协调工作。设计图不单单是架构师要掌握的，在一个产品的开发过程中，任何一个环节和角色都可以通过掌握...
 
 
 ### GitHub 趋势项目
 
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 
 
 
 
 ### AI 研究论文
 
-- [AdaFuse: Adaptive Ensemble Decoding with Test-Time Scaling for LLMs](https://arxiv.org/abs/2601.06022v1) - Chengming Cui, Tianxin Wei, Ziyi Chen, Ruizhong Qiu, Zhichen Zeng, Zhining Liu, Xuying Ning, Duo Zhou, Jingrui He
-  Large language models (LLMs) exhibit complementary strengths arising from differences in pretraining data, model architectures, and decoding behaviors...
+- [MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head](https://arxiv.org/abs/2601.07832v1) - Kewei Zhang, Ye Huang, Yufan Deng, Jincheng Yu, Junsong Chen, Huan Ling, Enze Xie, Daquan Zhou
+  While the Transformer architecture dominates many fields, its quadratic self-attention complexity hinders its use in large-scale applications. Linear ...
 
-- [The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning](https://arxiv.org/abs/2601.06002v1) - Qiguang Chen, Yantao Du, Ziniu Li, Jinhao Liu, Songyao Duan, Jiarui Guo, Minghao Liu, Jiaheng Liu, Tong Yang, Ge Zhang, Libo Qin, Wanxiang Che, Wenhao Huang
-  Large language models (LLMs) often fail to learn effective long chain-of-thought (Long CoT) reasoning from human or non-Long-CoT LLMs imitation. To un...
+- [Failure-Aware RL: Reliable Offline-to-Online Reinforcement Learning with Self-Recovery for Real-World Manipulation](https://arxiv.org/abs/2601.07821v1) - Huanyu Li, Kun Lei, Sheng Zang, Kaizhe Hu, Yongyuan Liang, Bo An, Xiaoli Li, Huazhe Xu
+  Post-training algorithms based on deep reinforcement learning can push the limits of robotic models for specific objectives, such as generalizability,...
 
-- [Open-Vocabulary 3D Instruction Ambiguity Detection](https://arxiv.org/abs/2601.05991v1) - Jiayu Ding, Haoran Tang, Ge Li
-  In safety-critical domains, linguistic ambiguity can have severe consequences; a vague command like "Pass me the vial" in a surgical setting could lea...
+- [Kinship Data Benchmark for Multi-hop Reasoning](https://arxiv.org/abs/2601.07794v1) - Tianda Sun, Dimitar Kazakov
+  Large language models (LLMs) are increasingly evaluated on their ability to perform multi-hop reasoning, i.e., to combine multiple pieces of informati...
 
 
 
@@ -144,25 +143,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $259.37 📈 +0.33 (+0.1%)
-- **GOOGL**: $328.57 📈 +3.13 (+1.0%)
-- **MSFT**: $479.28 📈 +1.17 (+0.2%)
+- **AAPL**: $260.25 📈 +0.88 (+0.3%)
+- **GOOGL**: $331.86 📈 +3.29 (+1.0%)
+- **MSFT**: $477.18 📉 -2.10 (-0.4%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-判断字符串中的括号是否有效匹配
+给定字符串，找出其中最长的回文子串
 
-标签: 栈, 字符串
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -173,7 +172,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
 
 
 ### 📚 技术书籍推荐
@@ -190,28 +189,28 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Ambient Coding** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -251,16 +250,16 @@ const a = 25;
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `079d7b` | 日期: 2026-01-12
+挑战ID: `fd515e` | 日期: 2026-01-13
 
 
 ### 📊 技术话题投票
@@ -278,27 +277,27 @@ const a = 25;
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-高性能代码编辑器
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**AI工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
@@ -317,7 +316,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-01-12 08:17:11
+- 📅 更新时间: 2026-01-13 08:16:07
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -328,15 +327,14 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 20.0/100
+- 😊 积极新闻: 3 (37.5%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 8.4/100
 
 🏷️ **热门关键词**:
-- AI (8次)
-- 人工智能 (1次)
-- Docker (1次)
-- 深度学习 (1次)
+- AI (6次)
+- AR (1次)
+- 微服务 (1次)
 
 
 ### 🤖 关于此项目
