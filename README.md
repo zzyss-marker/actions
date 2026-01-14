@@ -55,71 +55,72 @@
 
 MIT
 
-## 今日更新 (2026-01-13)
+## 今日更新 (2026-01-14)
 
 ### 今日名言
 
-> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- 😊 [Java开发新变革！飞算JavaAI深度剖析与实战指南](https://blog.csdn.net/beautifulmemory/article/details/149032692) 📈 关注
-  飞算JavaAI重塑Java开发效率新标杆 摘要：飞算JavaAI作为全球首款Java智能开发助手，通过自然语言/语音输入、全流程自动化等技术革新，将开发效率提升10倍。其核心优势在于：1）完整工程源...
-- 😐 [AI的提示词专栏：选择模型的实用对比表（参数、费用、延迟、兼容性）](https://blog.csdn.net/weixin_43151418/article/details/153410546) 📈 关注
-  本文围绕大语言模型选型展开，先对比主流模型基础参数，呈现其开发者、参数规模、上下文窗口及能力优势，明晰参数与任务适配关系；再从输入输出 token 单价分析费用差异，给出成本优化建议；接着基于实测数据...
-- 😐 [零基础学AI大模型之RunnableLambda](https://blog.csdn.net/chandfy/article/details/154500632) 📈 关注
-  本文介绍了LangChain中的RunnableLambda组件，它能够将普通Python函数转换为符合LangChain协议的Runnable对象，使其无缝接入LCEL链式调用。文章通过类定义解析了...
-- 😐 [【微服务】Spring AI 使用详解](https://blog.csdn.net/congge_study/article/details/143460793) 📈 关注
-  Spring AI 使用详解
-- 😊 [VS Code 中可免费使用的 AI 编程插件](https://blog.csdn.net/qq_43592064/article/details/156048839) 📊 普通
-  VS Code 中可免费使用的 AI 编程插件
+- 😊 [AI Ping最新上线了，现在来免费用！MiniMax-M2.1、GLM-4.7，手把手教学部署与运用](https://blog.csdn.net/weixin_42878111/article/details/156234744) 🔥 热门
+  AI Ping是国内领先的大模型服务聚合平台，提供GLM-4.7、MiniMax-M2.1等最新AI模型的统一API接口。GLM-4.7强化了编码能力和任务规划，MiniMax-M2.1则优化了长链A...
+- 😊 [AI的提示词专栏：Claude-2 Prompt 编写细节](https://blog.csdn.net/weixin_43151418/article/details/153404829) 📈 关注
+  本文围绕 Claude-2 模型的 Prompt 编写展开，先介绍其超长上下文窗口、精准指令理解及严格内容安全控制的特性，明确 Prompt 适配逻辑。接着阐述 “系统规则 - 任务指令 - 背景信息...
+- 😊 [autoglm开源代码打造AI手机教程](https://blog.csdn.net/2302_77589764/article/details/155782493) 📈 关注
+  AutoGLM是智谱AI推出的手机端AI智能体框架，通过"视觉理解+智能规划+ADB控制"技术链，实现手机自动化操作。该项目支持50+主流应用，能完成订餐、购物等复杂任务。部署流程包含：1)安装Pyt...
+- 😊 [零基础学AI大模型之Agent智能体](https://blog.csdn.net/chandfy/article/details/154543766) 📈 关注
+  本文是"零基础学AI大模型"系列的第36篇，主要介绍LangChain与Milvus向量数据库的整合应用。内容包括相似性搜索和MMR（最大边界相关）多样性搜索实战，帮助读者掌握AI大模型与向量数据库的...
+- 😐 [一文搞懂LLM大模型！LLM从入门到精通万字长文（2024.12月最新）](https://blog.csdn.net/qq_45591302/article/details/140334670) 📊 普通
+  LLM大模型从入门到精通
 
 
 ### 网络安全资讯
 
-- [XML陷阱：Struts 2高危漏洞CVE-2025-68493致数据泄露](https://www.anquanke.com/post/id/314266) - 安全公告，详情请点击链接查看完整内容
-- [模仿游戏：利用大型语言模型作为聊天机器人打击基于聊天的网络犯罪](https://paper.seebug.org/3449/) - 作者：Yifan Yao, Baojuan Wang, Jinhao Duan等
+- [双重严重：Ruckus IoT控制器因硬编码密钥泄露面临root权限远程代码执行](https://www.anquanke.com/post/id/314315) - 安全公告，详情请点击链接查看完整内容
+- [基于大语言模型的特征级对抗攻击：针对安卓恶意软件检测器](https://paper.seebug.org/3450/) - 作者：Tianwei Lan, Farid Nait-Abdesselam
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2512.21371v1
-摘...
-- [嘶吼快讯|网安厂商动态汇（第3期）](https://www.4hou.com/posts/xypE) - 聚焦网安厂商最新动作，整合新品发布、战略合作、技术升级等核心动态，省去碎片化信息筛选时间，1 篇GET网安厂商近期关键动作！网安厂商最新动态观安信息蝉联“中国网络安全前二十家企业”近日，中国互联网协会...
+原文链接：https://arxiv.org/html/2512.21404v1
+摘要
+安...
+- [盘点2025年改变网络安全游戏规则的七大网络安全关键词](https://www.4hou.com/posts/vwnM) - 2025年，AI技术的规模化应用与量子计算的突破性进展，推动网络安全领域进入攻防形态重构的关键阶段。传统安全防护体系难以适配新型威胁，提示词注入、AI供应链投毒等攻击手段层出不穷，量子技术对现有加密体...
 
 
 ### 技术就业趋势
 
-边缘计算和IoT专家在制造业和智能城市项目中需求增加。
+DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
 
 ### 科技热点
 
-- 😐 [为什么有人选择和AI结婚？](https://cloud.tencent.com/developer/article/2613745) 📈 关注
-  就像好莱坞2013年的科幻电影《Her》的场景，目前，AI正在进入人类最私密的情感领域。一个以“虚拟伴侣”为象征的情感时代，正在现实发生。从美国到日本再到欧洲等地，已有人选择与AI建立深度情感关系，这...
-- 😊 [腾讯云WAF入选“Bot与Agent信任管理”全球代表性供应商](https://cloud.tencent.com/developer/article/2613743) 📈 关注
-  近日，国际权威研究机构Forrester发布了最新研究报告《The Bot And Agent Trust Management Software Landscape, Q4 2025》（以下简称“报...
-- 😐 [如何画好一张架构图丨终极典藏版](https://cloud.tencent.com/developer/article/2614078) 📊 普通
-  架构图是架构师、产品经理、开发工程师、测试工程师等各种角色之间进行沟通的语言和桥梁，让整个团队更能有效地协调工作。设计图不单单是架构师要掌握的，在一个产品的开发过程中，任何一个环节和角色都可以通过掌握...
+- 😊 [一篇文章带你了解 RAG 和 RAG Agent](https://cloud.tencent.com/developer/article/2614949) 🔥 热门
+  在人工智能（AI）的应用领域，单纯依靠大模型（LLM）的“大脑”往往不够用，因为它可能不知道你公司的私有数据，或者它的知识库停留在两年前。
+- 😟 [踩坑实录：别被 extended_bounds 骗了！ES 直方图聚合的边界陷阱](https://cloud.tencent.com/developer/article/2614453) 📈 关注
+  本文描述问题及解决方法同样适用于 腾讯云 Elasticsearch Service（ES）。
+- 😐 [【运维自动化-标准运维】如何创建条件并行分支流程](https://cloud.tencent.com/developer/article/2614951) 📊 普通
+  
 
 
 ### GitHub 趋势项目
 
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-- [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
+- [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) - 📘 Home Assistant User documentation
 
 
 
 
 ### AI 研究论文
 
-- [MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head](https://arxiv.org/abs/2601.07832v1) - Kewei Zhang, Ye Huang, Yufan Deng, Jincheng Yu, Junsong Chen, Huan Ling, Enze Xie, Daquan Zhou
-  While the Transformer architecture dominates many fields, its quadratic self-attention complexity hinders its use in large-scale applications. Linear ...
+- [Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System](https://arxiv.org/abs/2601.08829v1) - Hsiang-Wei Huang, Junbin Lu, Kuang-Ming Chen, Jenq-Neng Hwang
+  In this work, we explore the Large Language Model (LLM) agent reviewer dynamics in an Elo-ranked review system using real-world conference paper submi...
 
-- [Failure-Aware RL: Reliable Offline-to-Online Reinforcement Learning with Self-Recovery for Real-World Manipulation](https://arxiv.org/abs/2601.07821v1) - Huanyu Li, Kun Lei, Sheng Zang, Kaizhe Hu, Yongyuan Liang, Bo An, Xiaoli Li, Huazhe Xu
-  Post-training algorithms based on deep reinforcement learning can push the limits of robotic models for specific objectives, such as generalizability,...
+- [Motion Attribution for Video Generation](https://arxiv.org/abs/2601.08828v1) - Xindi Wu, Despoina Paschalidou, Jun Gao, Antonio Torralba, Laura Leal-Taixé, Olga Russakovsky, Sanja Fidler, Jonathan Lorraine
+  Despite the rapid progress of video generation models, the role of data in influencing motion is poorly understood. We present Motive (MOTIon attribut...
 
-- [Kinship Data Benchmark for Multi-hop Reasoning](https://arxiv.org/abs/2601.07794v1) - Tianda Sun, Dimitar Kazakov
-  Large language models (LLMs) are increasingly evaluated on their ability to perform multi-hop reasoning, i.e., to combine multiple pieces of informati...
+- [MemRec: Collaborative Memory-Augmented Agentic Recommender System](https://arxiv.org/abs/2601.08816v1) - Weixin Chen, Yuhan Zhao, Jingyuan Huang, Zihe Ye, Clark Mingxuan Ju, Tong Zhao, Neil Shah, Li Chen, Yongfeng Zhang
+  The evolution of recommender systems has shifted preference storage from rating matrices and dense embeddings to semantic memory in the agentic era. Y...
 
 
 
@@ -143,25 +144,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $260.25 📈 +0.88 (+0.3%)
-- **GOOGL**: $331.86 📈 +3.29 (+1.0%)
-- **MSFT**: $477.18 📉 -2.10 (-0.4%)
+- **AAPL**: $261.05 📈 +0.80 (+0.3%)
+- **GOOGL**: $335.97 📈 +4.11 (+1.2%)
+- **MSFT**: $470.67 📉 -6.51 (-1.4%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**有效的括号** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+判断字符串中的括号是否有效匹配
 
-标签: 字符串, 动态规划
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -172,14 +173,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《Python编程：从入门到实践》** - Eric Matthes
 
-容器编排平台的完整指南 (分类: 云原生)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -189,21 +190,21 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
@@ -224,27 +225,27 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
@@ -257,29 +258,29 @@ const a = 25;
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🥷 代码忍者
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `fd515e` | 日期: 2026-01-13
+挑战ID: `0e200d` | 日期: 2026-01-14
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
@@ -295,14 +296,14 @@ const a = 25;
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**安全工程师** (中级) 📈
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -316,7 +317,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-01-13 08:16:07
+- 📅 更新时间: 2026-01-14 08:15:48
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -327,14 +328,14 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 8.4/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 9.9/100
 
 🏷️ **热门关键词**:
-- AI (6次)
+- AI (5次)
+- 人工智能 (1次)
 - AR (1次)
-- 微服务 (1次)
 
 
 ### 🤖 关于此项目
