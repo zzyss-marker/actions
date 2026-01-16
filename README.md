@@ -55,33 +55,35 @@
 
 MIT
 
-## 今日更新 (2026-01-15)
+## 今日更新 (2026-01-16)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- 😐 [零基础学AI大模型之RunnableParallel](https://blog.csdn.net/chandfy/article/details/154408101) 🔥 热门
-  本文是《零基础学AI大模型》系列教程的第36篇，聚焦LangChain与Milvus向量数据库的整合应用。文章延续了该系列对AI大模型技术的系统性讲解，通过实战案例展示如何实现相似性搜索功能。作为编程...
-- 😐 [金仓数据库 V9 体验测评：AI 时代国产数据库 “融合” 架构的真实观察](https://blog.csdn.net/2302_78391795/article/details/150784188) 📈 关注
-  2025 年8月，KingbaseES V9（下称“V9”）登场。一个关键词：融合。它既能替代多类国外数据库，又能覆盖事务处理、分析、AI 等多维场景，像一把工具齐全、开合自如的“瑞士军刀”。为什么它...
-- 😐 [AI + 教育：个性化学习推荐系统的工程实践与深度思考](https://blog.csdn.net/beautifulmemory/article/details/156462828) 📈 关注
-  本文深入探讨了AI在教育领域实现个性化学习的商业化路径与技术实践。文章指出，教育因其复杂的认知建构过程、稀疏且有噪声的数据环境，成为AI应用的高难度领域。真正的个性化学习系统需从“千人一面”迈向“千人...
-- 😊 [SillyTavern：打造专属AI聊天酒馆](https://blog.csdn.net/weixin_51527120/article/details/149063864) 📈 关注
-  SillyTavern是一款功能强大的开源AI对话前端工具，支持多种主流LLM模型接入。它提供响应式UI、可视小说模式、世界背景设定、图像生成、TTS语音等丰富功能，专为二次元爱好者和AI开发者打造。...
-- 😐 [学习SpringAI这一篇就够了](https://blog.csdn.net/weixin_44147535/article/details/148928790) 📊 普通
-  学习SpringAI这一篇就够了
+- 😊 [AI的提示词专栏：微调模型（Fine-tuned）Prompt 与原始模型的区别](https://blog.csdn.net/weixin_43151418/article/details/153409690) 📈 关注
+  本文先界定原始模型（预训练后未优化，需依赖详细 Prompt 引导）与微调模型（经特定数据二次训练，适配目标场景）的核心概念，再从指令详细度、领域知识依赖、示例数量需求等维度对比两者 Prompt 差...
+- 😐 [与AI沟通的正确方式——AI提示词：原理、策略与精通之道](https://blog.csdn.net/sixpp/article/details/155907542) 📈 关注
+  摘要 《提示词革命——AI时代的新语言》探讨了人机交互从命令行到自然语言的范式转变。提示词作为人类思维的结构化投射，通过概念到任务、语境到约束、需求到评估的三重转换，成为连接意图与执行的桥梁。文章分析...
+- 😊 [HexStrike AI：全自动渗透测试助手部署与配置全指南](https://blog.csdn.net/2401_89809494/article/details/156326530) 📈 关注
+  HexStrike AI：全自动渗透测试助手部署指南 HexStrike AI是一款基于Model Context Protocol(MCP)协议的AI驱动安全框架，集成了150+专业安全工具和12+...
+- 😐 [Lynxe的AI Agent系列 - 1 什么是 ReAct Agent？](https://blog.csdn.net/whisperzzza/article/details/155779720) 📈 关注
+  AI Agent是什么 ， 为什么需要 AI Agent . ReAct是什么？ 为什么需要 ReAct Agent。
+- 😊 [阿里巴巴达摩院人工智能训练师（高级）](https://blog.csdn.net/huang0612123/article/details/145726587) 📊 普通
+  阿里巴巴达摩院人工智能训练师（高级）
 
 
 ### 网络安全资讯
 
-- [双重严重：Ruckus IoT控制器因硬编码密钥泄露面临root权限远程代码执行](https://www.anquanke.com/post/id/314315) - 安全公告，详情请点击链接查看完整内容
-- [MCP-ITP：一种面向 MCP 的隐式工具投毒自动化框架](https://paper.seebug.org/3451/) - 作者：Ruiqi Li、Zhiqiang Wang、Yunhao Yao、Xiang-Yang Li
+- [科技云报到：个人AI时代，超级智能体如何真正为你而来？](https://www.anquanke.com/post/id/314352) - 安全公告，详情请点击链接查看完整内容
+- [KryptoPilot：一种面向自动化密码学漏洞利用的开放世界知识增强型大语言模型智能体](https://paper.seebug.org/3452/) - 作者：Xiaonan Liu、Zhihao Li、Xiao Lan等
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2601...
-- [实战见真章：梆梆安全荣获 “铸盾2025” 车联网攻防演练双项荣誉](https://www.4hou.com/posts/5M2q) - 近日，由上海市通信管理局联合市委网信办、市经信委、市交通委、市公安局、嘉定区人民政府及临港新片区管委会共同组织的“铸网2025”暨“铸盾2025”上海市车联网网络安全实战攻防活动总结大会顺利召开。大会...
+原文链接：https://arxiv.org/html/2601.09129v1
+摘要
+夺旗赛（...
+- [360年度勒索软件流行态势报告发布：AI成未来勒索对抗决胜因素](https://www.4hou.com/posts/KGgJ) - 近日，360数字安全集团以2025年全年勒索软件事件监测、分析与处置数据为基石，融合国内外一线安全态势数据、权威研究报告及国际热点事件情报，经综合研判梳理后，权威发布《2025年勒索软件流行态势报告》...
 
 
 ### 技术就业趋势
@@ -90,35 +92,42 @@ MIT
 
 ### 科技热点
 
-- 😐 [出海营销企业客户案例丨腾讯云可观测平台X易点天下共建多云统一监控平台](https://cloud.tencent.com/developer/article/2616383) 📊 普通
-  易点天下作为中国出海营销领域的头部服务商，为全球企业提供全链路营销服务及数字化出海解决方案，核心客户包括阿里、SHEIN、Temu 等知名企业。2025 年第一季度，其营收同比激增 93.18%，实现...
-- 😊 [好想来x腾讯云：打通万店数据，高效运营1.5亿会员](https://cloud.tencent.com/developer/article/2616670) 📊 普通
-  2025年，好想来门店数量突破 1.4 万家 (截至 2025 年6月)，会员体量超过 1.5亿（截至2025年8月）。
-- 😊 [DeepSeek-V4 传闻背后：预训练、Agent 化与稳定性的三重博弈](https://cloud.tencent.com/developer/article/2616284) 📊 普通
-  我毫不怀疑，在春节期间，DeepSeek将会发布自己的新模型。这是因为，每次一到重大的节日，DS 发新模型已经算是传统了。看看它之前发的好几个模型，都是在假期附近发布，真的是让我们这些程序员不活了～
+- 😐 [2026大模型伦理深度观察：理解AI、信任AI、与AI共处](https://cloud.tencent.com/developer/article/2617924) 🔥🔥 很热
+  2025年，大模型技术继续高歌猛进。在编程、科学推理、复杂问题解决等多个领域，前沿AI系统已展现出接近“博士级”的专业能力，业界对通用人工智能（AGI）的预期时间表不断提前。然而，能力的飞跃与理解的滞...
+- 😐 [提示词技巧分享：一劳永逸版！](https://cloud.tencent.com/developer/article/2617667) 📈 关注
+  首先你需要打开：Gemini 3.0 Pro（其他能识别图片视频、联网搜索的AI模型也行，但是可能效果没那么好）。跟它对话， 把我写好的这一整段话全部复制进去给它就行：
+- 😐 [kvm1.0机型不适用24H2/25H2/Server2025等往后的新系统以及UEFI镜像](https://cloud.tencent.com/developer/article/2617898) 📊 普通
+  常见的kvm1.0机型可能有存量S1、S2*、TS1/TS2、M1、I1/I2、BS1等，历史上的kvm1.0机型有这些
+kvm1.0机型：
+S2ne
+S2/TS2
+S1/TS1
+D1
+C2/TC2
+...
 
 
 ### GitHub 趋势项目
 
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
-- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
-- [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
+- [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 
 
 
 
 ### AI 研究论文
 
-- [Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning](https://arxiv.org/abs/2601.09708v1) - Chi-Pin Huang, Yunze Man, Zhiding Yu, Min-Hung Chen, Jan Kautz, Yu-Chiang Frank Wang, Fu-En Yang
-  Vision-Language-Action (VLA) tasks require reasoning over complex visual scenes and executing adaptive actions in dynamic environments. While recent s...
+- [MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching](https://arxiv.org/abs/2601.10712v1) - Changle Qu, Sunhao Dai, Hengyi Cai, Jun Xu, Shuaiqiang Wang, Dawei Yin
+  Tool-Integrated Reasoning (TIR) empowers large language models (LLMs) to tackle complex tasks by interleaving reasoning steps with external tool inter...
 
-- [Value-Aware Numerical Representations for Transformer Language Models](https://arxiv.org/abs/2601.09706v1) - Andreea Dutulescu, Stefan Ruseti, Mihai Dascalu
-  Transformer-based language models often achieve strong results on mathematical reasoning benchmarks while remaining fragile on basic numerical underst...
+- [Grounding Agent Memory in Contextual Intent](https://arxiv.org/abs/2601.10702v1) - Ruozhen Yang, Yucheng Jiang, Yueqi Jiang, Priyanka Kargupta, Yunyi Zhang, Jiawei Han
+  Deploying large language models in long-horizon, goal-oriented interactions remains challenging because similar entities and facts recur under differe...
 
-- [ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1) - Sicong Liu, Yanxian Huang, Mingwei Liu, Jiachi Chen, Ensheng Shi, Yuchi Ma, Hongyu Zhang, Yin Zhang, Yanlin Wang
-  Code generation tasks aim to automate the conversion of user requirements into executable code, significantly reducing manual development efforts and ...
+- [LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals](https://arxiv.org/abs/2601.10700v1) - Gilat Toker, Nitay Calderon, Ohad Amosy, Roi Reichart
+  Concept-based explanations quantify how high-level concepts (e.g., gender or experience) influence model behavior, which is crucial for decision-maker...
 
 
 
@@ -142,25 +151,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $259.96 📉 -1.09 (-0.4%)
-- **GOOGL**: $335.84 📉 -0.13 (-0.0%)
-- **MSFT**: $459.38 📉 -11.29 (-2.4%)
+- **AAPL**: $258.21 📉 -1.80 (-0.7%)
+- **GOOGL**: $332.78 📉 -3.11 (-0.9%)
+- **MSFT**: $456.66 📉 -2.72 (-0.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+将两个升序链表合并为一个新的升序链表
 
-标签: 数组, 哈希表
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -171,14 +180,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-世界上第一个域名是symbolics.com，注册于1985年3月15日
+JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《代码整洁之道》** - Robert C. Martin
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,28 +197,28 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Ambient Coding** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -223,12 +232,12 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
@@ -249,27 +258,27 @@ test('should calculate tax correctly', () => {
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🧠 算法大师
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `2fe816` | 日期: 2026-01-15
+挑战ID: `50aacb` | 日期: 2026-01-16
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
@@ -277,31 +286,31 @@ test('should calculate tax correctly', () => {
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-高性能代码编辑器
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**安全工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-为什么程序员喜欢黑暗？因为光会产生bug！
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -315,7 +324,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-01-15 08:16:10
+- 📅 更新时间: 2026-01-16 08:15:35
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -328,11 +337,11 @@ test('should calculate tax correctly', () => {
 - 📰 新闻总数: 8
 - 😊 积极新闻: 3 (37.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 8.5/100
+- 🔥 平均热度: 11.5/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- AR (1次)
+- AI (6次)
+- 人工智能 (2次)
 
 
 ### 🤖 关于此项目
