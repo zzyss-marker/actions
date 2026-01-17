@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-01-16)
+## 今日更新 (2026-01-17)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- 😊 [AI的提示词专栏：微调模型（Fine-tuned）Prompt 与原始模型的区别](https://blog.csdn.net/weixin_43151418/article/details/153409690) 📈 关注
-  本文先界定原始模型（预训练后未优化，需依赖详细 Prompt 引导）与微调模型（经特定数据二次训练，适配目标场景）的核心概念，再从指令详细度、领域知识依赖、示例数量需求等维度对比两者 Prompt 差...
-- 😐 [与AI沟通的正确方式——AI提示词：原理、策略与精通之道](https://blog.csdn.net/sixpp/article/details/155907542) 📈 关注
-  摘要 《提示词革命——AI时代的新语言》探讨了人机交互从命令行到自然语言的范式转变。提示词作为人类思维的结构化投射，通过概念到任务、语境到约束、需求到评估的三重转换，成为连接意图与执行的桥梁。文章分析...
-- 😊 [HexStrike AI：全自动渗透测试助手部署与配置全指南](https://blog.csdn.net/2401_89809494/article/details/156326530) 📈 关注
-  HexStrike AI：全自动渗透测试助手部署指南 HexStrike AI是一款基于Model Context Protocol(MCP)协议的AI驱动安全框架，集成了150+专业安全工具和12+...
-- 😐 [Lynxe的AI Agent系列 - 1 什么是 ReAct Agent？](https://blog.csdn.net/whisperzzza/article/details/155779720) 📈 关注
-  AI Agent是什么 ， 为什么需要 AI Agent . ReAct是什么？ 为什么需要 ReAct Agent。
-- 😊 [阿里巴巴达摩院人工智能训练师（高级）](https://blog.csdn.net/huang0612123/article/details/145726587) 📊 普通
-  阿里巴巴达摩院人工智能训练师（高级）
+- 😊 [2025年终AI大模型对决：Gemini 3 Flash vs GPT-5.2 vs Claude 4.5 全方位评测](https://blog.csdn.net/qq_32420383/article/details/156127658) 🔥🔥 很热
+  17号的时候 Google 发布了 Gemini 3 Flash，名字里带 Flash，那应该就是“轻，快，便”版本了，今天我们就拿这个版本，和其他几家的旗舰模型全方位对比一下，看看这个“轻，快，便”...
+- 😐 [别再花几万买AI知识库了！3小时用LangChain搭完，适配主流大模型](https://blog.csdn.net/jiangjunshow/article/details/156695852) 🔥🔥 很热
+  现在企业都在卷AI知识库，客户咨询、员工培训、文档检索全靠它，但网上教程不是太老就是太复杂，动辄要学半个月？别慌！今天这套实战教程，纯小白也能3小时搞定企业级AI知识库，还能适配主流的GPT-4o、通...
+- 😊 [在家玩 AI 绘图还能远程协作？ComfyUI+Flux.1结合cpolar的实用技巧](https://blog.csdn.net/COLLINSXU/article/details/156984794) 🔥 热门
+  摘要 本文介绍了如何部署ComfyUI并集成Flux.1模型实现AI绘图功能。主要内容包括：本地安装ComfyUI开源工具、配置中文界面、下载Flux.1模型（提供4种不同显存需求的版本选择）、加载C...
+- 😐 [2025 年六款热门 AI 数据分析工具横评](https://blog.csdn.net/yuanziok/article/details/150027423) 🔥 热门
+  随着大数据时代到来，AI数据分析工具成为企业数字化决策的关键支撑。本文对比分析了六款主流AI数据分析工具：FineChatBI凭借自然语言交互和一站式分析能力，实现"人人都是数据分析师"；Tablea...
+- 😊 [不用写一行代码！让本地大模型部署变得和玩游戏一样简单，离线畅聊AI](https://blog.csdn.net/Wufjsjjx/article/details/154075880) 📈 关注
+  今天，就带你解锁一个神器——LM Studio，无需编程基础，一键安装，轻松将强大的大语言模型部署在你的个人电脑上，实现离线、高速、私密的AI体验！
 
 
 ### 网络安全资讯
@@ -83,37 +83,30 @@ MIT
 原文链接：https://arxiv.org/html/2601.09129v1
 摘要
 夺旗赛（...
-- [360年度勒索软件流行态势报告发布：AI成未来勒索对抗决胜因素](https://www.4hou.com/posts/KGgJ) - 近日，360数字安全集团以2025年全年勒索软件事件监测、分析与处置数据为基石，融合国内外一线安全态势数据、权威研究报告及国际热点事件情报，经综合研判梳理后，权威发布《2025年勒索软件流行态势报告》...
+- [不止AI+！国投智能战略升级，“两稳三拓”定航向](https://www.4hou.com/posts/MXkR) - 车流如织的高速出口，执勤民警的目光扫过一辆正在减速的汽车。就在视线交汇的一刹那，关于这辆车的关键信息——车牌、历史记录、关联风险已清晰呈现在他眼前。“在过车的时间就已经能够提示到相关信息”，一线民警的...
 
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+网络安全人才缺口扩大，零信任安全模型专家需求激增。
 
 ### 科技热点
 
 - 😐 [2026大模型伦理深度观察：理解AI、信任AI、与AI共处](https://cloud.tencent.com/developer/article/2617924) 🔥🔥 很热
   2025年，大模型技术继续高歌猛进。在编程、科学推理、复杂问题解决等多个领域，前沿AI系统已展现出接近“博士级”的专业能力，业界对通用人工智能（AGI）的预期时间表不断提前。然而，能力的飞跃与理解的滞...
-- 😐 [提示词技巧分享：一劳永逸版！](https://cloud.tencent.com/developer/article/2617667) 📈 关注
-  首先你需要打开：Gemini 3.0 Pro（其他能识别图片视频、联网搜索的AI模型也行，但是可能效果没那么好）。跟它对话， 把我写好的这一整段话全部复制进去给它就行：
-- 😐 [kvm1.0机型不适用24H2/25H2/Server2025等往后的新系统以及UEFI镜像](https://cloud.tencent.com/developer/article/2617898) 📊 普通
-  常见的kvm1.0机型可能有存量S1、S2*、TS1/TS2、M1、I1/I2、BS1等，历史上的kvm1.0机型有这些
-kvm1.0机型：
-S2ne
-S2/TS2
-S1/TS1
-D1
-C2/TC2
-...
+- 😊 [腾讯云架构师北京同盟资源导航](https://cloud.tencent.com/developer/article/2617814) 📊 普通
+  「腾讯云架构师技术同盟」是腾讯云为架构领域知名专家与从业精英打造的专业技术社交圈，通过多样的技术交流会议、社群专业探讨、权威内容输出，打造业界领先的架构师专业技术组织。同盟共创，携手同道，关注每一位架...
+- 😟 [银行 SRE 模式：推广实用策略盘点](https://cloud.tencent.com/developer/article/2617922) 📊 普通
+  摘要：随着数字化转型的深入，SRE（Site Reliability Engineering）模式作为一种全新的运维理念，逐渐在银行业得到了应用。银行作为高风险、高可用性要求的行业，其信息系统的复杂性...
 
 
 ### GitHub 趋势项目
 
-- [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+- [Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) - My personal configuration for LazyVim !
+- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
 
 
 
@@ -151,25 +144,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $258.21 📉 -1.80 (-0.7%)
-- **GOOGL**: $332.78 📉 -3.11 (-0.9%)
-- **MSFT**: $456.66 📉 -2.72 (-0.6%)
+- **AAPL**: $255.53 📉 -2.68 (-1.0%)
+- **GOOGL**: $330.00 📉 -2.78 (-0.8%)
+- **MSFT**: $459.86 📈 +3.20 (+0.7%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+判断字符串中的括号是否有效匹配
 
-标签: 链表, 递归
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -185,9 +178,9 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《深度学习》** - Ian Goodfellow
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -197,28 +190,28 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -232,53 +225,52 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**遵循单一职责原则**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🥷 代码忍者
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `50aacb` | 日期: 2026-01-16
+挑战ID: `a59d2e` | 日期: 2026-01-17
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
@@ -286,31 +278,31 @@ test('should calculate tax correctly', () => {
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Rust** 🚀 +12% - 系统编程语言崛起
+- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代JavaScript/TypeScript运行时
+高性能代码编辑器
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+程序员的三大美德：懒惰、急躁和傲慢。
 
 
 ### 🐙 GitHub 生态统计
@@ -324,7 +316,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-01-16 08:15:35
+- 📅 更新时间: 2026-01-17 08:13:33
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -335,13 +327,16 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 11.5/100
+- 😊 积极新闻: 4 (50.0%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 20.5/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- 人工智能 (2次)
+- GPT (2次)
+- 人工智能 (1次)
+- AR (1次)
+- 大数据 (1次)
 
 
 ### 🤖 关于此项目
