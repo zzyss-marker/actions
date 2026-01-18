@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-01-17)
+## 今日更新 (2026-01-18)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- 😊 [2025年终AI大模型对决：Gemini 3 Flash vs GPT-5.2 vs Claude 4.5 全方位评测](https://blog.csdn.net/qq_32420383/article/details/156127658) 🔥🔥 很热
-  17号的时候 Google 发布了 Gemini 3 Flash，名字里带 Flash，那应该就是“轻，快，便”版本了，今天我们就拿这个版本，和其他几家的旗舰模型全方位对比一下，看看这个“轻，快，便”...
-- 😐 [别再花几万买AI知识库了！3小时用LangChain搭完，适配主流大模型](https://blog.csdn.net/jiangjunshow/article/details/156695852) 🔥🔥 很热
-  现在企业都在卷AI知识库，客户咨询、员工培训、文档检索全靠它，但网上教程不是太老就是太复杂，动辄要学半个月？别慌！今天这套实战教程，纯小白也能3小时搞定企业级AI知识库，还能适配主流的GPT-4o、通...
-- 😊 [在家玩 AI 绘图还能远程协作？ComfyUI+Flux.1结合cpolar的实用技巧](https://blog.csdn.net/COLLINSXU/article/details/156984794) 🔥 热门
-  摘要 本文介绍了如何部署ComfyUI并集成Flux.1模型实现AI绘图功能。主要内容包括：本地安装ComfyUI开源工具、配置中文界面、下载Flux.1模型（提供4种不同显存需求的版本选择）、加载C...
-- 😐 [2025 年六款热门 AI 数据分析工具横评](https://blog.csdn.net/yuanziok/article/details/150027423) 🔥 热门
-  随着大数据时代到来，AI数据分析工具成为企业数字化决策的关键支撑。本文对比分析了六款主流AI数据分析工具：FineChatBI凭借自然语言交互和一站式分析能力，实现"人人都是数据分析师"；Tablea...
-- 😊 [不用写一行代码！让本地大模型部署变得和玩游戏一样简单，离线畅聊AI](https://blog.csdn.net/Wufjsjjx/article/details/154075880) 📈 关注
-  今天，就带你解锁一个神器——LM Studio，无需编程基础，一键安装，轻松将强大的大语言模型部署在你的个人电脑上，实现离线、高速、私密的AI体验！
+- 😊 [AI模型竞技场全景：智能、速度与成本的综合较量](https://blog.csdn.net/weixin_38526314/article/details/156604400) 🔥🔥 很热
+  最新AI模型排行榜显示，Google的Gemini 3 Pro Preview以73分与OpenAI的GPT-5.2并列智能榜首，而小米的MiMo-V2-Flash则以每百万token仅0.15美元创...
+- 😊 [科研绘图：顶刊的图文摘要Graphical Abstract，如何巧用AI绘制？](https://blog.csdn.net/dinaxuejie/article/details/143032824) 🔥🔥 很热
+  区别于其他类型的科研绘图，图文摘要Graphical Abstract是用图形的方式来展示论文的主要发现，将论文的创新性和主要贡献视觉化展示。我调用了DALL E绘图模型，让GPT根据以上图文摘要的描...
+- 😊 [合合信息DocFlow产品解析与体验：人人可搭建的AI自动化单据处理工作流](https://blog.csdn.net/weixin_41793160/article/details/144991583) 📈 关注
+  DocFlow 是 TextIn 旗下的一款先进的文档自动化处理工具，专为企业提供文档分类与关键要素提取的一站式解决方案。依托于 TextIn 行业领先的文档解析与理解能力，DocFlow 能够轻松处...
+- 😊 [AI网络技术演进对路由协议的重塑分析（下）](https://blog.csdn.net/kkiron/article/details/156593949) 📈 关注
+  AI网络技术标准化呈现全球化与区域化并存态势。国际标准组织（IETF、IEEE、ITU-T等）构建基础框架，国内联盟则聚焦场景化创新，形成"核心标准统一+增值特性开放"的协同模式。技术演进面临性能与兼...
+- 😊 [AI生成伪代码](https://blog.csdn.net/2501_91821814/article/details/154279935) 📈 关注
+  摘要：AI生成伪代码工具通过自然语言处理和代码语义分析技术，实现了算法思路的智能转换与结构化表达。该工具支持自然语言或源代码输入，自动输出标准伪代码，适用于论文写作、课程教学和项目开发等场景。核心技术...
 
 
 ### 网络安全资讯
@@ -88,12 +88,12 @@ MIT
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
 
 ### 科技热点
 
-- 😐 [2026大模型伦理深度观察：理解AI、信任AI、与AI共处](https://cloud.tencent.com/developer/article/2617924) 🔥🔥 很热
-  2025年，大模型技术继续高歌猛进。在编程、科学推理、复杂问题解决等多个领域，前沿AI系统已展现出接近“博士级”的专业能力，业界对通用人工智能（AGI）的预期时间表不断提前。然而，能力的飞跃与理解的滞...
+- 😐 [如何写好 TAPD 需求单（AI辅助版）](https://cloud.tencent.com/developer/article/2617907) 📈 关注
+  📅 更新于: 2026-01-14  👥 面向: 产品经理、需求提出者  ⏱️ 阅读时间: 15 分钟  🎯 核心目标: 写出能直接被 AI 和开发团队理解、无需反复澄清的需求单
 - 😊 [腾讯云架构师北京同盟资源导航](https://cloud.tencent.com/developer/article/2617814) 📊 普通
   「腾讯云架构师技术同盟」是腾讯云为架构领域知名专家与从业精英打造的专业技术社交圈，通过多样的技术交流会议、社群专业探讨、权威内容输出，打造业界领先的架构师专业技术组织。同盟共创，携手同道，关注每一位架...
 - 😟 [银行 SRE 模式：推广实用策略盘点](https://cloud.tencent.com/developer/article/2617922) 📊 普通
@@ -102,11 +102,11 @@ MIT
 
 ### GitHub 趋势项目
 
+- [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) - My personal configuration for LazyVim !
+- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React with AI superpowers
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
-- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
 
 
 
@@ -151,18 +151,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+给定二叉树，找出其最大深度
 
-标签: 栈, 字符串
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -173,14 +173,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《代码整洁之道》** - Robert C. Martin
 
-深度学习领域的权威教材 (分类: 人工智能)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -190,14 +190,14 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
@@ -237,14 +237,15 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**写测试用例**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
@@ -257,9 +258,9 @@ function formatCurrency(amount) { ... }
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `a59d2e` | 日期: 2026-01-17
+挑战ID: `0e23c4` | 日期: 2026-01-18
 
 
 ### 📊 技术话题投票
@@ -279,9 +280,9 @@ function formatCurrency(amount) { ... }
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
-- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
@@ -302,7 +303,7 @@ function formatCurrency(amount) { ... }
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -316,7 +317,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-01-17 08:13:33
+- 📅 更新时间: 2026-01-18 08:13:33
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -327,16 +328,14 @@ function formatCurrency(amount) { ... }
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
+- 😊 积极新闻: 6 (75.0%)
 - 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 20.5/100
+- 🔥 平均热度: 15.2/100
 
 🏷️ **热门关键词**:
 - AI (6次)
 - GPT (2次)
-- 人工智能 (1次)
-- AR (1次)
-- 大数据 (1次)
+- OpenAI (1次)
 
 
 ### 🤖 关于此项目
