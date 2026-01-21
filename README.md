@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-01-20)
+## 今日更新 (2026-01-21)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- 😊 [Hunyuan-MT-7B-WEBUI翻译Kibana可视化配置说明](https://blog.csdn.net/weixin_35732273/article/details/156683317) 📈 关注
-  腾讯混元推出的Hunyuan-MT-7B-WEBUI将高性能翻译模型与图形化界面结合，实现开箱即用的多语言互译体验。通过Docker一键部署和WEBUI交互设计，大幅降低使用门槛。集成Kibana后，...
-- 😟 [Rspack下一代高性能 Web 构建工具](https://blog.csdn.net/qiuyufeng/article/details/156693831) 📊 普通
-  - Rspack 是由字节跳动团队开发的基于 Rust 语言的新一代 Web 构建工具，旨在解决现代前端项目中构建性能的瓶颈问题。随着前端项目的复杂度不断增加，传统的构建工具如 Webpack 在处理...
-- 😐 [【Vue3】前端Vue3最常用的 20 道面试题总结（含详细代码解析）](https://blog.csdn.net/qq_38060125/article/details/147934352) 📊 普通
-  10分钟彻底搞定20道最常用前端vue3开发面试题
-- 😟 [Web 毕设篇-适合小白、初级入门练手的 Spring Boot Web 毕业设计项目：教室信息管理系统（前后端源码 + 数据库 sql 脚本）](https://blog.csdn.net/Tingfeng__/article/details/144492225) 📊 普通
-  （1）用户信息管理：添加、修改、删除、查询等功能。（2）角色信息管理：添加、修改、删除、查询等功能。(1) 角色信息管理：添加、修改、删除、分配权限等功能。(1) 教室设施信息：添加、修改、删除、查询...
-- 😐 [速通前端篇 —— CSS](https://blog.csdn.net/2301_80854132/article/details/143821616) 📊 普通
-  CSS的介绍、基本语法规范、CSS选择器、CSS常见样式
+- 😐 [（第二篇）Spring AI 基础入门：从环境搭建到模型接入全攻略（覆盖国内外模型 + 本地部署）](https://blog.csdn.net/qq_40303030/article/details/153780850) 🔥🔥 很热
+  本文是 Spring AI 基础入门的保姆级教程，从环境搭建到模型接入全流程详解。涵盖 JDK17+Maven3.8+Spring Boot3.x 的核心配置，OpenAI/Azure OpenAI ...
+- 😐 [AI的提示词专栏：控制输出格式Markdown、HTML、LaTeX 的技巧](https://blog.csdn.net/weixin_43151418/article/details/153260720) 🔥 热门
+  本文聚焦大语言模型输出格式控制，解析 Markdown、HTML、LaTeX 三种主流格式的 Prompt 设计方法。首先阐述格式控制核心原理，即通过 Prompt 传递格式规则与边界，引导模型按预期...
+- 😊 [人工智能从入门到精通：机器学习基础算法实战与应用](https://blog.csdn.net/xcLeigh/article/details/156711265) 🔥 热门
+  理解机器学习的核心概念与分类，掌握线性回归、逻辑回归、决策树三大基础算法的原理与代码实现，完成真实数据集上的预测任务，对比不同算法的性能表现。
+- 😊 [AI的提示词专栏：生成式报告 Prompt，数据洞察报告自动化](https://blog.csdn.net/weixin_43151418/article/details/153474115) 📈 关注
+  本文聚焦生成式报告 Prompt 在数据洞察报告自动化中的应用，先指出传统报告效率低、质量不稳定、重复性高的痛点，阐述生成式 Prompt 通过缩短周期、提升质量稳定性、释放人力的解决价值。接着讲解其...
+- 😊 [为啥Manus告诉你“地区不可用”？简单说给你听！](https://blog.csdn.net/2401_84204413/article/details/149295083) 📈 关注
+  2025年7月，中国AI初创公司蝴蝶效应(BUTTERFLYEFFECT)宣布将总部从中国迁至新加坡，并裁减中国区约80名员工，保留40余名核心技术人员转岗新加坡。该公司年初推出的全球首款通用AI智能...
 
 
 ### 网络安全资讯
@@ -81,44 +81,44 @@ MIT
 - [AutoVulnPHP：基于大语言模型的两阶段 PHP 漏洞检测与自动定位](https://paper.seebug.org/3453/) - 作者：Zhiqiang Wang、Yizhong Ding、Zilong Xiao等
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html/2601.06177v1...
-- [黑客瞄准配置不当代理服务器 意图窃取商用大模型访问权限](https://www.4hou.com/posts/qogk) - 黑客正在系统性地搜寻配置不当的代理服务器，试图通过这些服务器获取对商用大语言模型（LLM）服务的访问权限。在这场始于2025年12月下旬的持续攻击活动中，攻击者已探测了超过73个LLM端点，并生成了8...
+- [Reprompt 攻击现身：可劫持 Microsoft Copilot 会话实施敏感数据窃取](https://www.4hou.com/posts/BvVW) - 研究人员发现了一种名为“Reprompt”的攻击方法，该方法允许攻击者渗透用户的 Microsoft Copilot 会话并下发指令，从而窃取敏感数据。 通过将恶意提示词隐藏在合法 URL 中并绕过 ...
 
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
 
 ### 科技热点
 
-- 😐 [读完200篇论文，看DeepMind、Meta、DeepSeek ，中美巨头都在描述哪种AGI叙事｜2025 AI 年度复盘](https://cloud.tencent.com/developer/article/2618761) 📈 关注
-  如果用一个词来形容这一年的技术体感，那就是「暴力美学」时代的终结。单纯依靠堆砌参数摘取低垂果实的日子已经过去，2025年的技术进化回归到了基础研究。
-- 😐 [深入解析：AI 智能体（Agent）是如何解决问题的？](https://cloud.tencent.com/developer/article/2618835) 📈 关注
-  在当今的 AI 浪潮中，我们经常听到“Agent（智能体）”这个词。但实际上，一个能够自主解决问题的 AI Agent 到底是如何工作的？它不仅仅是一个聊天机器人，更是一个拥有“手脚”和“神经系统”的...
-- 😟 [最佳实践：使用 Nginx 反向代理访问内网 Kibana](https://cloud.tencent.com/developer/article/2618813) 📊 普通
+- 😟 [Elasticsearch 搜索实战 | 告别 LIKE：亿级数据毫秒返回的秘密](https://cloud.tencent.com/developer/article/2618949) 📈 关注
   本文描述问题及解决方法同样适用于 腾讯云 Elasticsearch Service（ES）。
+- 😊 [双料第一！腾讯专有云位列中国专有云市场领导者](https://cloud.tencent.com/developer/article/2619316) 📊 普通
+  近日，国际权威调研机构弗若斯特沙利文（Frost & Sullivan）联合头豹研究院发布了《2025年中国专有云市场研究报告-雷达图》，腾讯专有云凭借领先优势脱颖而出，客户价值、出海领先两大核心评估...
+- 😊 [腾讯云架构师技术同盟×腾讯云智能顾问「卓越架构师计划」最佳实践合集](https://cloud.tencent.com/developer/article/2619315) 📊 普通
+  前言：2025 年 9 月，腾讯云架构师技术同盟与腾讯云智能顾问联合发布「卓越架构师计划」，项目发起初心是看见、沉淀卓越架构设计领域的最佳实践，目前，该计划已从来自各行各业的众多客户侧技术负责人、架构...
 
 
 ### GitHub 趋势项目
 
-- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
-- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
-- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
-- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
+- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+- [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
 
 
 
 ### AI 研究论文
 
-- [Do explanations generalize across large reasoning models?](https://arxiv.org/abs/2601.11517v1) - Koyena Pal, David Bau, Chandan Singh
-  Large reasoning models (LRMs) produce a textual chain of thought (CoT) in the process of solving a problem, which serves as a potentially powerful too...
+- [VideoMaMa: Mask-Guided Video Matting via Generative Prior](https://arxiv.org/abs/2601.14255v1) - Sangbeom Lim, Seoung Wug Oh, Jiahui Huang, Heeji Yoon, Seungryong Kim, Joon-Young Lee
+  Generalizing video matting models to real-world videos remains a significant challenge due to the scarcity of labeled data. To address this, we presen...
 
-- [Building Production-Ready Probes For Gemini](https://arxiv.org/abs/2601.11516v1) - János Kramár, Joshua Engels, Zheng Wang, Bilal Chughtai, Rohin Shah, Neel Nanda, Arthur Conmy
-  Frontier language model capabilities are improving rapidly. We thus need stronger mitigations against bad actors misusing increasingly powerful system...
+- [APEX-Agents](https://arxiv.org/abs/2601.14242v1) - Bertie Vidgen, Austin Mann, Abby Fennelly, John Wright Stanly, Lucas Rothman, Marco Burstein, Julien Benchek, David Ostrofsky, Anirudh Ravichandran, Debnil Sur, Neel Venugopal, Alannah Hsia, Isaac Robinson, Calix Huang, Olivia Varones, Daniyal Khan, Michael Haines, Zach Richards, Chirag Mahapatra, Brendan Foody, Osvald Nitski
+  We introduce the AI Productivity Index for Agents (APEX-Agents), a benchmark for assessing whether AI agents can execute long-horizon, cross-applicati...
 
-- [MetaboNet: The Largest Publicly Available Consolidated Dataset for Type 1 Diabetes Management](https://arxiv.org/abs/2601.11505v1) - Miriam K. Wolff, Peter Calhoun, Eleonora Maria Aiello, Yao Qin, Sam F. Royston
-  Progress in Type 1 Diabetes (T1D) algorithm development is limited by the fragmentation and lack of standardization across existing T1D management dat...
+- [Opportunities in AI/ML for the Rubin LSST Dark Energy Science Collaboration](https://arxiv.org/abs/2601.14235v1) - LSST Dark Energy Science Collaboration, Eric Aubourg, Camille Avestruz, Matthew R. Becker, Biswajit Biswas, Rahul Biswas, Boris Bolliet, Adam S. Bolton, Clecio R. Bom, Raphaël Bonnet-Guerrini, Alexandre Boucaud, Jean-Eric Campagne, Chihway Chang, Aleksandra Ćiprijanović, Johann Cohen-Tanugi, Michael W. Coughlin, John Franklin Crenshaw, Juan C. Cuevas-Tello, Juan de Vicente, Seth W. Digel, Steven Dillmann, Mariano Javier de León Dominguez Romero, Alex Drlica-Wagner, Sydney Erickson, Alexander T. Gagliano, Christos Georgiou, Aritra Ghosh, Matthew Grayling, Kirill A. Grishin, Alan Heavens, Lindsay R. House, Mustapha Ishak, Wassim Kabalan, Arun Kannawadi, François Lanusse, C. Danielle Leonard, Pierre-François Léget, Michelle Lochner, Yao-Yuan Mao, Peter Melchior, Grant Merz, Martin Millon, Anais Möller, Gautham Narayan, Yuuki Omori, Hiranya Peiris, Laurence Perreault-Levasseur, Andrés A. Plazas Malagón, Nesar Ramachandra, Benjamin Remy, Cécile Roucelle, Jaime Ruiz-Zapatero, Stefan Schuldt, Ignacio Sevilla-Noarbe, Ved G. Shah, Tjitske Starkenburg, Stephen Thorp, Laura Toribio San Cipriano, Tilman Tröster, Roberto Trotta, Padma Venkatraman, Amanda Wasserman, Tim White, Justine Zeghal, Tianqing Zhang, Yuanyuan Zhang
+  The Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST) will produce unprecedented volumes of heterogeneous astronomical data (images, ...
 
 
 
@@ -142,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $255.52 📉 -2.71 (-1.0%)
-- **GOOGL**: $330.00 📉 -2.78 (-0.8%)
-- **MSFT**: $459.86 📈 +3.20 (+0.7%)
+- **AAPL**: $246.70 📉 -8.82 (-3.5%)
+- **GOOGL**: $322.00 📉 -8.00 (-2.4%)
+- **MSFT**: $454.52 📉 -5.34 (-1.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+将两个升序链表合并为一个新的升序链表
 
-标签: 数组, 哈希表
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -171,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《Python编程：从入门到实践》** - Eric Matthes
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,28 +188,28 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Brain.fm Focus** - Brain.fm
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -235,73 +235,73 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🛡️ 安全卫士
+今日挑战徽章：💡 创新者
 
-挑战ID: `e20bca` | 日期: 2026-01-20
+挑战ID: `b4a8c0` | 日期: 2026-01-21
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Zed** (Rust) - ⭐ 25k+
 
-使用Rust构建跨平台桌面应用
+高性能代码编辑器
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**全栈开发** (中级) 📊
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-程序员最讨厌的两件事：1. 写文档 2. 没有文档
+如果调试是去除bug的过程，那么编程就是放入bug的过程。
 
 
 ### 🐙 GitHub 生态统计
@@ -315,7 +315,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-01-20 08:17:07
+- 📅 更新时间: 2026-01-21 08:17:35
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -326,14 +326,16 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 1 (12.5%)
-- 😟 消极新闻: 3 (37.5%)
-- 🔥 平均热度: 4.5/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 14.0/100
 
 🏷️ **热门关键词**:
-- AI (2次)
-- Docker (1次)
-- AR (1次)
+- AI (4次)
+- AR (2次)
+- OpenAI (1次)
+- 人工智能 (1次)
+- 机器学习 (1次)
 
 
 ### 🤖 关于此项目
