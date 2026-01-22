@@ -55,7 +55,7 @@
 
 MIT
 
-## 今日更新 (2026-01-21)
+## 今日更新 (2026-01-22)
 
 ### 今日名言
 
@@ -63,62 +63,62 @@ MIT
 
 ### AI 技术动态
 
-- 😐 [（第二篇）Spring AI 基础入门：从环境搭建到模型接入全攻略（覆盖国内外模型 + 本地部署）](https://blog.csdn.net/qq_40303030/article/details/153780850) 🔥🔥 很热
-  本文是 Spring AI 基础入门的保姆级教程，从环境搭建到模型接入全流程详解。涵盖 JDK17+Maven3.8+Spring Boot3.x 的核心配置，OpenAI/Azure OpenAI ...
-- 😐 [AI的提示词专栏：控制输出格式Markdown、HTML、LaTeX 的技巧](https://blog.csdn.net/weixin_43151418/article/details/153260720) 🔥 热门
-  本文聚焦大语言模型输出格式控制，解析 Markdown、HTML、LaTeX 三种主流格式的 Prompt 设计方法。首先阐述格式控制核心原理，即通过 Prompt 传递格式规则与边界，引导模型按预期...
-- 😊 [人工智能从入门到精通：机器学习基础算法实战与应用](https://blog.csdn.net/xcLeigh/article/details/156711265) 🔥 热门
-  理解机器学习的核心概念与分类，掌握线性回归、逻辑回归、决策树三大基础算法的原理与代码实现，完成真实数据集上的预测任务，对比不同算法的性能表现。
-- 😊 [AI的提示词专栏：生成式报告 Prompt，数据洞察报告自动化](https://blog.csdn.net/weixin_43151418/article/details/153474115) 📈 关注
-  本文聚焦生成式报告 Prompt 在数据洞察报告自动化中的应用，先指出传统报告效率低、质量不稳定、重复性高的痛点，阐述生成式 Prompt 通过缩短周期、提升质量稳定性、释放人力的解决价值。接着讲解其...
-- 😊 [为啥Manus告诉你“地区不可用”？简单说给你听！](https://blog.csdn.net/2401_84204413/article/details/149295083) 📈 关注
-  2025年7月，中国AI初创公司蝴蝶效应(BUTTERFLYEFFECT)宣布将总部从中国迁至新加坡，并裁减中国区约80名员工，保留40余名核心技术人员转岗新加坡。该公司年初推出的全球首款通用AI智能...
+- 😊 [【AI】重构知识体系：跨模态信息处理与关联理解](https://blog.csdn.net/2401_86326742/article/details/156836130) 🔥🔥 很热
+  跨模态信息处理的核心价值，正是打破这种模态壁垒，让AI能够在不同类型的数据间建立语义关联，这不仅是实现通用人工智能的关键一步，更是重构人类知识体系的技术基础——它让机器从“碎片化处理信息”升级为“整体...
+- 😊 [【Coze-AI智能体开发】【一】初识Coze：零代码玩转 AI 智能体开发，新手也能轻松搭建专属 AI 应用！](https://blog.csdn.net/2301_79248256/article/details/156457953) 🔥 热门
+  字节跳动推出的Coze（扣子）AI智能体开发平台，通过零代码/低代码方式降低了AI应用开发门槛，让非技术用户也能快速构建基于大模型的各类AI应用。平台提供可视化组件、插件集成、知识库管理等功能，支持智...
+- 😊 [【开发者导航】全自动 AI 视频创作与发布工具：LuoGen-agent](https://blog.csdn.net/wangxy_job/article/details/152631097) 📈 关注
+  LuoGen-agent是一款免费开源的AI全自动视频生成工具，能够实现从文案输入到成片输出的完整自动化流程。该工具支持智能仿写、语音合成、数字人口播、自动字幕生成等功能，可显著提升短视频创作效率。适...
+- 😊 [Python实现开源AI模型引入及测试全过程](https://blog.csdn.net/sixpp/article/details/156064660) 📈 关注
+  摘要 本文详细介绍了在Python环境中集成开源AI模型BERT的技术实现方案。从环境配置、模型加载到训练评估的全流程，包括：1) 使用Hugging Face Transformers库加载BERT...
+- 😐 [AI提效指南：生成精美PPT与漫画](https://blog.csdn.net/Chase_______/article/details/156243777) 📈 关注
+  用 NotebookLM 导入资料，在 Studio 生成 Slide Deck 并导出 PDF，再转换为 PPT；并用文本+提示词模板在信息图生成 2x2 四格漫画，用于更直观讲解知识点。
 
 
 ### 网络安全资讯
 
-- [科技云报到：2026，AI开启“共生智能”新纪元](https://www.anquanke.com/post/id/314398) - 安全公告，详情请点击链接查看完整内容
-- [AutoVulnPHP：基于大语言模型的两阶段 PHP 漏洞检测与自动定位](https://paper.seebug.org/3453/) - 作者：Zhiqiang Wang、Yizhong Ding、Zilong Xiao等
+- [珠穆朗玛峰勒索软件团伙据称宣称入侵了麦当劳印度系统](https://www.anquanke.com/post/id/314403) - 安全公告，详情请点击链接查看完整内容
+- [滥用医疗物联网：评估互联医疗设备多向量攻击的威胁模型与取证准备度](https://paper.seebug.org/3455/) - 作者：Isabel Straw、Akhil Polamarasetty、Mustafa Jaafar
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2601.06177v1...
-- [Reprompt 攻击现身：可劫持 Microsoft Copilot 会话实施敏感数据窃取](https://www.4hou.com/posts/BvVW) - 研究人员发现了一种名为“Reprompt”的攻击方法，该方法允许攻击者渗透用户的 Microsoft Copilot 会话并下发指令，从而窃取敏感数据。 通过将恶意提示词隐藏在合法 URL 中并绕过 ...
+原文链接：https://arxiv.org/html/2601...
+- [2026年邮件安全怎么防？3大攻击案例+ 1套防护指南，管理员直接用](https://www.4hou.com/posts/42lk) - 黑产攻击持续加剧，企业邮件安全如何破局？《2025年Q4企业邮箱安全性研究报告》给出了惊人数据：钓鱼邮件数量激增至4.25亿，环比暴涨近150%，同比翻倍，攻击规模呈“爆发式增长”！2025年，云服务...
 
 
 ### 技术就业趋势
 
-DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
+软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
 
 ### 科技热点
 
-- 😟 [Elasticsearch 搜索实战 | 告别 LIKE：亿级数据毫秒返回的秘密](https://cloud.tencent.com/developer/article/2618949) 📈 关注
-  本文描述问题及解决方法同样适用于 腾讯云 Elasticsearch Service（ES）。
-- 😊 [双料第一！腾讯专有云位列中国专有云市场领导者](https://cloud.tencent.com/developer/article/2619316) 📊 普通
-  近日，国际权威调研机构弗若斯特沙利文（Frost & Sullivan）联合头豹研究院发布了《2025年中国专有云市场研究报告-雷达图》，腾讯专有云凭借领先优势脱颖而出，客户价值、出海领先两大核心评估...
-- 😊 [腾讯云架构师技术同盟×腾讯云智能顾问「卓越架构师计划」最佳实践合集](https://cloud.tencent.com/developer/article/2619315) 📊 普通
-  前言：2025 年 9 月，腾讯云架构师技术同盟与腾讯云智能顾问联合发布「卓越架构师计划」，项目发起初心是看见、沉淀卓越架构设计领域的最佳实践，目前，该计划已从来自各行各业的众多客户侧技术负责人、架构...
+- 😊 [【融合创新】腾讯云获评年度国产化优秀代表厂商，TBDS+WeData打造一体化Data+AI平台](https://cloud.tencent.com/developer/article/2619923) 🔥 热门
+  1月14日，腾讯云大数据凭借在国产化领域的持续技术投入、生态适配能力与行业规模化落地实践，入选由金猿组委会联合数据猿、上海大数据联盟共同推出的《2025大数据产业年度国产化优秀代表厂商》榜单。
+- 😊 [迁移上云腾讯云 COS 全指南：方案选择与实施策略](https://cloud.tencent.com/developer/article/2619925) 📊 普通
+  随着企业业务的多元化发展和成本优化需求的日益增强，不少的企业开始审视其云服务架构，并选择将数据迁移至腾讯云 COS（对象存储服务）。选择腾讯云 COS 的核心优势如下：
+- 😐 [windows下，如何对一个文件，使用命令行计算其crc32值（校验文件用）](https://cloud.tencent.com/developer/article/2620035) 📊 普通
+  windows平台，命令行计算md5、sha1、sha256很方便，但是crc32，windows原生是没有的，一般用第三方软件：
 
 
 ### GitHub 趋势项目
 
+- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
+- [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
-- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-- [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
 
 
 
 ### AI 研究论文
 
-- [VideoMaMa: Mask-Guided Video Matting via Generative Prior](https://arxiv.org/abs/2601.14255v1) - Sangbeom Lim, Seoung Wug Oh, Jiahui Huang, Heeji Yoon, Seungryong Kim, Joon-Young Lee
-  Generalizing video matting models to real-world videos remains a significant challenge due to the scarcity of labeled data. To address this, we presen...
+- [Iterative Refinement Improves Compositional Image Generation](https://arxiv.org/abs/2601.15286v1) - Shantanu Jaiswal, Mihir Prabhudesai, Nikash Bhardwaj, Zheyang Qin, Amir Zadeh, Chuan Li, Katerina Fragkiadaki, Deepak Pathak
+  Text-to-image (T2I) models have achieved remarkable progress, yet they continue to struggle with complex prompts that require simultaneously handling ...
 
-- [APEX-Agents](https://arxiv.org/abs/2601.14242v1) - Bertie Vidgen, Austin Mann, Abby Fennelly, John Wright Stanly, Lucas Rothman, Marco Burstein, Julien Benchek, David Ostrofsky, Anirudh Ravichandran, Debnil Sur, Neel Venugopal, Alannah Hsia, Isaac Robinson, Calix Huang, Olivia Varones, Daniyal Khan, Michael Haines, Zach Richards, Chirag Mahapatra, Brendan Foody, Osvald Nitski
-  We introduce the AI Productivity Index for Agents (APEX-Agents), a benchmark for assessing whether AI agents can execute long-horizon, cross-applicati...
+- [Rethinking Video Generation Model for the Embodied World](https://arxiv.org/abs/2601.15282v1) - Yufan Deng, Zilin Pan, Hongyu Zhang, Xiaojie Li, Ruoqing Hu, Yufei Ding, Yiming Zou, Yan Zeng, Daquan Zhou
+  Video generation models have significantly advanced embodied intelligence, unlocking new possibilities for generating diverse robot data that capture ...
 
-- [Opportunities in AI/ML for the Rubin LSST Dark Energy Science Collaboration](https://arxiv.org/abs/2601.14235v1) - LSST Dark Energy Science Collaboration, Eric Aubourg, Camille Avestruz, Matthew R. Becker, Biswajit Biswas, Rahul Biswas, Boris Bolliet, Adam S. Bolton, Clecio R. Bom, Raphaël Bonnet-Guerrini, Alexandre Boucaud, Jean-Eric Campagne, Chihway Chang, Aleksandra Ćiprijanović, Johann Cohen-Tanugi, Michael W. Coughlin, John Franklin Crenshaw, Juan C. Cuevas-Tello, Juan de Vicente, Seth W. Digel, Steven Dillmann, Mariano Javier de León Dominguez Romero, Alex Drlica-Wagner, Sydney Erickson, Alexander T. Gagliano, Christos Georgiou, Aritra Ghosh, Matthew Grayling, Kirill A. Grishin, Alan Heavens, Lindsay R. House, Mustapha Ishak, Wassim Kabalan, Arun Kannawadi, François Lanusse, C. Danielle Leonard, Pierre-François Léget, Michelle Lochner, Yao-Yuan Mao, Peter Melchior, Grant Merz, Martin Millon, Anais Möller, Gautham Narayan, Yuuki Omori, Hiranya Peiris, Laurence Perreault-Levasseur, Andrés A. Plazas Malagón, Nesar Ramachandra, Benjamin Remy, Cécile Roucelle, Jaime Ruiz-Zapatero, Stefan Schuldt, Ignacio Sevilla-Noarbe, Ved G. Shah, Tjitske Starkenburg, Stephen Thorp, Laura Toribio San Cipriano, Tilman Tröster, Roberto Trotta, Padma Venkatraman, Amanda Wasserman, Tim White, Justine Zeghal, Tianqing Zhang, Yuanyuan Zhang
-  The Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST) will produce unprecedented volumes of heterogeneous astronomical data (images, ...
+- [MolecularIQ: Characterizing Chemical Reasoning Capabilities Through Symbolic Verification on Molecular Graphs](https://arxiv.org/abs/2601.15279v1) - Christoph Bartmann, Johannes Schimunek, Mykyta Ielanskyi, Philipp Seidl, Günter Klambauer, Sohvi Luukkonen
+  A molecule's properties are fundamentally determined by its composition and structure encoded in its molecular graph. Thus, reasoning about molecular ...
 
 
 
@@ -142,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $246.70 📉 -8.82 (-3.5%)
-- **GOOGL**: $322.00 📉 -8.00 (-2.4%)
-- **MSFT**: $454.52 📉 -5.34 (-1.2%)
+- **AAPL**: $247.65 📈 +0.95 (+0.4%)
+- **GOOGL**: $328.38 📈 +6.38 (+2.0%)
+- **MSFT**: $444.11 📉 -10.41 (-2.3%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+给定二叉树，找出其最大深度
 
-标签: 链表, 递归
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -171,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《设计模式》** - Gang of Four
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -194,22 +194,22 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -223,27 +223,26 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**遵循单一职责原则**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
@@ -256,20 +255,20 @@ test('should calculate tax correctly', () => {
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `b4a8c0` | 日期: 2026-01-21
+挑战ID: `8e0845` | 日期: 2026-01-22
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
@@ -277,31 +276,31 @@ test('should calculate tax correctly', () => {
 ### 🔥 技术热词趋势
 
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **Blockchain** 📉 -3% - 区块链热度回落
+- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Tauri** (Rust) - ⭐ 70k+
 
-高性能代码编辑器
+使用Rust构建跨平台桌面应用
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**AI工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+程序员的口头禅：在我的机器上运行得很好！
 
 
 ### 🐙 GitHub 生态统计
@@ -315,7 +314,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-01-21 08:17:35
+- 📅 更新时间: 2026-01-22 08:16:07
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -326,16 +325,14 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 1 (12.5%)
+- 😊 积极新闻: 6 (75.0%)
+- 😟 消极新闻: 0 (0.0%)
 - 🔥 平均热度: 14.0/100
 
 🏷️ **热门关键词**:
-- AI (4次)
-- AR (2次)
-- OpenAI (1次)
+- AI (6次)
 - 人工智能 (1次)
-- 机器学习 (1次)
+- 大数据 (1次)
 
 
 ### 🤖 关于此项目
