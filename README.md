@@ -55,70 +55,70 @@
 
 MIT
 
-## 今日更新 (2026-01-22)
+## 今日更新 (2026-01-23)
 
 ### 今日名言
 
-> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [【AI】重构知识体系：跨模态信息处理与关联理解](https://blog.csdn.net/2401_86326742/article/details/156836130) 🔥🔥 很热
-  跨模态信息处理的核心价值，正是打破这种模态壁垒，让AI能够在不同类型的数据间建立语义关联，这不仅是实现通用人工智能的关键一步，更是重构人类知识体系的技术基础——它让机器从“碎片化处理信息”升级为“整体...
-- 😊 [【Coze-AI智能体开发】【一】初识Coze：零代码玩转 AI 智能体开发，新手也能轻松搭建专属 AI 应用！](https://blog.csdn.net/2301_79248256/article/details/156457953) 🔥 热门
-  字节跳动推出的Coze（扣子）AI智能体开发平台，通过零代码/低代码方式降低了AI应用开发门槛，让非技术用户也能快速构建基于大模型的各类AI应用。平台提供可视化组件、插件集成、知识库管理等功能，支持智...
-- 😊 [【开发者导航】全自动 AI 视频创作与发布工具：LuoGen-agent](https://blog.csdn.net/wangxy_job/article/details/152631097) 📈 关注
-  LuoGen-agent是一款免费开源的AI全自动视频生成工具，能够实现从文案输入到成片输出的完整自动化流程。该工具支持智能仿写、语音合成、数字人口播、自动字幕生成等功能，可显著提升短视频创作效率。适...
-- 😊 [Python实现开源AI模型引入及测试全过程](https://blog.csdn.net/sixpp/article/details/156064660) 📈 关注
-  摘要 本文详细介绍了在Python环境中集成开源AI模型BERT的技术实现方案。从环境配置、模型加载到训练评估的全流程，包括：1) 使用Hugging Face Transformers库加载BERT...
-- 😐 [AI提效指南：生成精美PPT与漫画](https://blog.csdn.net/Chase_______/article/details/156243777) 📈 关注
-  用 NotebookLM 导入资料，在 Studio 生成 Slide Deck 并导出 PDF，再转换为 PPT；并用文本+提示词模板在信息图生成 2x2 四格漫画，用于更直观讲解知识点。
+- 😊 [手把手教你将神经网络部署到STM32：从模型训练到STM32CubeMX X-Cube-AI落地（附源码）](https://blog.csdn.net/2305_79740746/article/details/155111990) 🔥🔥🔥 超热
+  本文介绍了嵌入式人工智能与边缘计算的开发流程。首先通过Anaconda搭建Python环境，收集核素识别和机械臂质检两类数据。然后使用Keras训练轻量级CNN模型，并在PC端验证模型效果。接着通过S...
+- 😊 [如何利用AI Coding提效？从工具到思维的全面升级](https://blog.csdn.net/sinat_41617212/article/details/156676192) 📈 关注
+  AI编程（AICoding）已成为软件开发的核心趋势，2024年数据显示73%的开发者使用AI辅助编程。本文通过行业数据、专家观点和实战案例，系统阐述了AICoding的应用方法论：聚焦AI擅长场景（...
+- 😊 [AI论文写作提示词精选：9大全套合集+高效生成技巧推荐](https://blog.csdn.net/abi1021/article/details/156605081) 📈 关注
+  A：AI工具能够显著提升论文写作效率，但需要明确其定位为辅助工具而非替代品，使用者仍需亲自逐字审阅论文内容以确保对研究的熟悉度，尤其在答辩环节。在文献综述、数据整理、语法修正、结构优化等关键环节，AI...
+- 😊 [AI的提示词专栏：生成式报告 Prompt，数据洞察报告自动化](https://blog.csdn.net/weixin_43151418/article/details/153474115) 📈 关注
+  本文聚焦生成式报告 Prompt 在数据洞察报告自动化中的应用，先指出传统报告效率低、质量不稳定、重复性高的痛点，阐述生成式 Prompt 通过缩短周期、提升质量稳定性、释放人力的解决价值。接着讲解其...
+- 😟 [【深度硬核】AI Infra 架构漫游指南](https://blog.csdn.net/czzzxy/article/details/156241835) 📈 关注
+  CPU 是为复杂的逻辑控制和低延迟设计的，而 GPU 是为大规模并行计算设计的。传统的 CUDA Core 擅长处理 FP32 标量运算。而大模型训练的核心是矩阵乘法（GEMM）。H100 中的第四代...
 
 
 ### 网络安全资讯
 
-- [珠穆朗玛峰勒索软件团伙据称宣称入侵了麦当劳印度系统](https://www.anquanke.com/post/id/314403) - 安全公告，详情请点击链接查看完整内容
-- [滥用医疗物联网：评估互联医疗设备多向量攻击的威胁模型与取证准备度](https://paper.seebug.org/3455/) - 作者：Isabel Straw、Akhil Polamarasetty、Mustafa Jaafar
+- [威胁行为者将Visual Studio Code武器化，部署多阶段恶意软件](https://www.anquanke.com/post/id/314458) - 安全公告，详情请点击链接查看完整内容
+- [SILENTDRIFT：利用动作分块实现对视觉-语言-动作模型的隐蔽后门攻击](https://paper.seebug.org/3456/) - 作者：Bingxin Xu, Yuzhang Shang, Binghui Wang, Emilio Ferrara
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2601...
-- [2026年邮件安全怎么防？3大攻击案例+ 1套防护指南，管理员直接用](https://www.4hou.com/posts/42lk) - 黑产攻击持续加剧，企业邮件安全如何破局？《2025年Q4企业邮箱安全性研究报告》给出了惊人数据：钓鱼邮件数量激增至4.25亿，环比暴涨近150%，同比翻倍，攻击规模呈“爆发式增长”！2025年，云服务...
+原文链接：https://arxiv.org/h...
+- [特勤局手册 | 一位情报局技术行动专家的自白](https://www.4hou.com/posts/6Mnz) - 篇首语：确实，很少有文章聊起技术行动部门的故事，无论是属于执法机构，亦或者情报机构。2026年的第一篇，杨叔就先分享一位来自情报部门技术行动专家的自传故事。早在2025年下半年，杨叔在几场面向专业人士...
 
 
 ### 技术就业趋势
 
-软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
-- 😊 [【融合创新】腾讯云获评年度国产化优秀代表厂商，TBDS+WeData打造一体化Data+AI平台](https://cloud.tencent.com/developer/article/2619923) 🔥 热门
-  1月14日，腾讯云大数据凭借在国产化领域的持续技术投入、生态适配能力与行业规模化落地实践，入选由金猿组委会联合数据猿、上海大数据联盟共同推出的《2025大数据产业年度国产化优秀代表厂商》榜单。
-- 😊 [迁移上云腾讯云 COS 全指南：方案选择与实施策略](https://cloud.tencent.com/developer/article/2619925) 📊 普通
-  随着企业业务的多元化发展和成本优化需求的日益增强，不少的企业开始审视其云服务架构，并选择将数据迁移至腾讯云 COS（对象存储服务）。选择腾讯云 COS 的核心优势如下：
-- 😐 [windows下，如何对一个文件，使用命令行计算其crc32值（校验文件用）](https://cloud.tencent.com/developer/article/2620035) 📊 普通
-  windows平台，命令行计算md5、sha1、sha256很方便，但是crc32，windows原生是没有的，一般用第三方软件：
+- 😟 [胡泳：海外青少年社交媒体限制，背后的逻辑与趋势](https://cloud.tencent.com/developer/article/2621011) 📈 关注
+  这是因为，澳大利亚议会在2024年11月28日通过《2024网络安全修正案》，禁止16岁以下未成年人持有社交媒体账户，涵盖Facebook、Instagram、TikTok、Snapchat、Redd...
+- 😐 [期货行业走进腾讯，共同探讨 CTP 核心系统与 TDSQL 数据库落地实践](https://cloud.tencent.com/developer/article/2620572) 📊 普通
+  近期，上海期货信息技术有限公司（以下简称上期技术）和腾讯云联合举办的“CTP 专项培训-TDSQL 架构与实践深度解析”在腾讯开展现场研讨活动。上期技术的专家以及30多家期货公司的数据库和 CTP 系...
+- 😐 [finLLM-Eval大模型金融场景幻觉专业评测方案](https://cloud.tencent.com/developer/article/2620571) 📊 普通
+  通用大模型在文创、对话等场景中表现优异，但在专业金融场景下，其生成内容的数据、事实准确性和逻辑严谨性仍面临严峻挑战。金融行业对数据的精确性、逻辑的严密性以及合规性有极高要求，传统的通用评测方法难以满足...
 
 
 ### GitHub 趋势项目
 
-- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
-- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥 Make videos programmatically with React
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
-- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
+- [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient Multi-head Latent Attention Kernels
 
 
 
 
 ### AI 研究论文
 
-- [Iterative Refinement Improves Compositional Image Generation](https://arxiv.org/abs/2601.15286v1) - Shantanu Jaiswal, Mihir Prabhudesai, Nikash Bhardwaj, Zheyang Qin, Amir Zadeh, Chuan Li, Katerina Fragkiadaki, Deepak Pathak
-  Text-to-image (T2I) models have achieved remarkable progress, yet they continue to struggle with complex prompts that require simultaneously handling ...
+- [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition](https://arxiv.org/abs/2601.16211v1) - Geo Ahn, Inwoong Lee, Taeoh Kim, Minho Shim, Dongyoon Wee, Jinwoo Choi
+  We study Compositional Video Understanding (CVU), where models must recognize verbs and objects and compose them to generalize to unseen combinations....
 
-- [Rethinking Video Generation Model for the Embodied World](https://arxiv.org/abs/2601.15282v1) - Yufan Deng, Zilin Pan, Hongyu Zhang, Xiaojie Li, Ruoqing Hu, Yufei Ding, Yiming Zou, Yan Zeng, Daquan Zhou
-  Video generation models have significantly advanced embodied intelligence, unlocking new possibilities for generating diverse robot data that capture ...
+- [PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation](https://arxiv.org/abs/2601.16210v1) - Onkar Susladkar, Tushar Prakash, Adheesh Juvekar, Kiet A. Nguyen, Dong-Hwan Jang, Inderjit S Dhillon, Ismini Lourentzou
+  Discrete video VAEs underpin modern text-to-video generation and video understanding systems, yet existing tokenizers typically learn visual codebooks...
 
-- [MolecularIQ: Characterizing Chemical Reasoning Capabilities Through Symbolic Verification on Molecular Graphs](https://arxiv.org/abs/2601.15279v1) - Christoph Bartmann, Johannes Schimunek, Mykyta Ielanskyi, Philipp Seidl, Günter Klambauer, Sohvi Luukkonen
-  A molecule's properties are fundamentally determined by its composition and structure encoded in its molecular graph. Thus, reasoning about molecular ...
+- [LLM-in-Sandbox Elicits General Agentic Intelligence](https://arxiv.org/abs/2601.16206v1) - Daixuan Cheng, Shaohan Huang, Yuxian Gu, Huatong Song, Guoxin Chen, Li Dong, Wayne Xin Zhao, Ji-Rong Wen, Furu Wei
+  We introduce LLM-in-Sandbox, enabling LLMs to explore within a code sandbox (i.e., a virtual computer), to elicit general intelligence in non-code dom...
 
 
 
@@ -142,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $247.65 📈 +0.95 (+0.4%)
-- **GOOGL**: $328.38 📈 +6.38 (+2.0%)
-- **MSFT**: $444.11 📉 -10.41 (-2.3%)
+- **AAPL**: $248.35 📈 +0.70 (+0.3%)
+- **GOOGL**: $330.54 📈 +2.16 (+0.7%)
+- **MSFT**: $451.14 📈 +7.03 (+1.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**二叉树的最大深度** (难度: 简单)
+**两数之和** (难度: 简单)
 
-给定二叉树，找出其最大深度
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 树, 递归
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -171,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Kubernetes权威指南》** - 龚正等
 
-面向对象设计的经典模式 (分类: 软件设计)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,28 +188,28 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Brain.fm Focus** - Brain.fm
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -223,41 +223,40 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**使用版本控制**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🥷 代码忍者
+今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `8e0845` | 日期: 2026-01-22
+挑战ID: `408a5f` | 日期: 2026-01-23
 
 
 ### 📊 技术话题投票
@@ -275,11 +274,11 @@ function formatCurrency(amount) { ... }
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
@@ -300,7 +299,7 @@ function formatCurrency(amount) { ... }
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+如果调试是去除bug的过程，那么编程就是放入bug的过程。
 
 
 ### 🐙 GitHub 生态统计
@@ -314,7 +313,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-01-22 08:16:07
+- 📅 更新时间: 2026-01-23 08:15:42
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -325,14 +324,16 @@ function formatCurrency(amount) { ... }
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 14.0/100
+- 😊 积极新闻: 4 (50.0%)
+- 😟 消极新闻: 2 (25.0%)
+- 🔥 平均热度: 15.4/100
 
 🏷️ **热门关键词**:
-- AI (6次)
+- AI (5次)
 - 人工智能 (1次)
-- 大数据 (1次)
+- 边缘计算 (1次)
+- 神经网络 (1次)
+- 网络安全 (1次)
 
 
 ### 🤖 关于此项目
