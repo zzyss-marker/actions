@@ -55,63 +55,70 @@
 
 MIT
 
-## 今日更新 (2026-01-27)
+## 今日更新 (2026-01-28)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- 😊 [【IEEE出版】第二届人工智能、数字媒体技术与社会计算国际学术会议（ICAIDS 2026）](https://blog.csdn.net/Pocker_Spades_A/article/details/156994769) 🔥🔥 很热
-  第二届人工智能、数字媒体技术与社会计算国际学术会议（ICAIDS 2026）是汇聚全球顶尖学者、科研人员与行业专家的高端学术交流平台。随着人工智能技术的迅猛发展，其在数字媒体、社会计算等领域的交叉应用...
-- 😊 [Spring AI](https://blog.csdn.net/2301_76161469/article/details/154354762) 🔥 热门
-  文章介绍了人工智能（AI）的基本概念，并说明了AI相关术语，包括模型（Model）、大语言模型（LLM）、提示词（Prompt）和词元（Token）等核心概念。随后介绍了SpringAI框架，并提供了...
-- 😊 [metaRTC 8.0 重磅发布：专为新一代 AI 终端而生的实时通信引擎](https://blog.csdn.net/m0_56595685/article/details/156509802) 🔥 热门
-  作为metaRTC发展史上最重要的版本迭代，8.0实现了自项目启动以来最大规模的架构重构与性能优化，标志着 metaRTC 正式迈入 “AI 终端 + 实时通信” 的新纪元。
-- 😐 [基于飞算JavaAI的在线图书借阅平台设计与实现（深度实践版）](https://blog.csdn.net/2301_80863610/article/details/151295847) 📈 关注
-  经过本次从零到一的“在线图书借阅平台”开发实践，我对飞算JavaAI及同类AI辅助编程工具的价值有了更为深刻和全面的认识。实践成果总结：开发效率的飞跃：传统模式下，完成这样一个项目的后端框架搭建、数据...
-- 😐 [AI前端工程师：2026年必备技能](https://blog.csdn.net/m0_55049655/article/details/157141437) 📈 关注
-  《AI前端工程师能力指南：从入门到进阶》指出，随着AI原生开发范式的普及，AI前端工程师已成为兼具前端技术、AI能力和工程化思维的复合型人才。核心能力包括四大维度：基础前端技术（HTML/CSS/Re...
+- 😊 [人工智能从入门到精通：神经网络优化策略与工程实践](https://blog.csdn.net/xcLeigh/article/details/156895413) 🔥🔥 很热
+  本文介绍了神经网络优化策略与工程实践的关键内容。首先讲解了梯度下降法及其变体（批量、随机、小批量）的实现原理，以及学习率调度策略。然后详细阐述了正则化技术，包括L1/L2正则化、Dropout和Ear...
+- 😊 [【AI大模型开发】-创建RAG问答实战（LangChain+DeepSeek+Faiss）](https://blog.csdn.net/zxc18344522713/article/details/157258334) 📈 关注
+  摘要：ChatPDF-Faiss是一个基于FAISS向量数据库和阿里云DashScope API的PDF智能问答系统。该系统通过PyPDF2提取PDF文本内容，使用递归字符分割器将文本分块，并利用Da...
+- 😐 [零基础学AI大模型之LLM存储优化：大量QA与长对话问题实战](https://blog.csdn.net/chandfy/article/details/154706222) 📈 关注
+  本文是"零基础学AI大模型"系列文章的目录索引，涵盖了从AI大模型基础概念到实战应用的完整知识体系。主要内容包括：大模型API调用、SpringAI整合、LangChain核心模块解析、Prompt工...
+- 😐 [【脉脉】AI创作者AMA知无不言：人机共生时代的创作觉醒](https://blog.csdn.net/2401_89899187/article/details/156723555) 📈 关注
+  2025年12月25日，东京国际论坛中心的颁奖台上，银蓝色长发的全息身影星璃凭借专辑《数字心迹》斩获第45届“全球音乐荣耀奖”年度最佳专辑，成为该奖项史上首个AI获奖者。这场争议的核心，从来不是星璃该...
+- 😊 [耗时 8 天，我用 Claude Code 开发了 AI 漫剧 APP，并开源了。](https://blog.csdn.net/qq_43270074/article/details/156619808) 📈 关注
+  附开发过程及教程
 
 
 ### 网络安全资讯
 
-- [CVE-2026-23594：HPE Alletra和Nimble中存在高严重性漏洞可被利用获取管理员权限](https://www.anquanke.com/post/id/314515) - 安全公告，详情请点击链接查看完整内容
-- [SILENTDRIFT：利用动作分块实现对视觉-语言-动作模型的隐蔽后门攻击](https://paper.seebug.org/3456/) - 作者：Bingxin Xu, Yuzhang Shang, Binghui Wang, Emilio Ferrara
+- [反制黑客：研究人员对“哈萨克远控木马”间谍攻击活动实施黑洞诱捕](https://www.anquanke.com/post/id/314594) - 安全公告，详情请点击链接查看完整内容
+- [DCeption：针对 CCS 电动汽车充电系统的真实无线中间人攻击](https://paper.seebug.org/3457/) - 作者：Marcell Szakály, Martin Strohmeier, Ivan Martinovic, Sebastian Köhler
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/h...
-- [具身智能的三大安全挑战：认知、网络与伦理的治理思考](https://www.4hou.com/posts/pnxX) - 具身智能的崛起，正为人类生产力谱写新篇章，但随之而来的安全新挑战也前所未有。产业的繁荣，必须回答一个前置问题：智能体的安全底座应从何构建？人机共存的边界又应如何定义？梆梆安全「具身智能安全」系列专题，...
+原文链接：https...
+- [紧急预警！2025Q4钓鱼邮件破4.25亿+银狐黑产肆虐，3大邮件安全方案速收](https://www.4hou.com/posts/mkKn) - 4.25 亿封钓鱼邮件狂袭，环比暴涨 148.65%！域内钓鱼攻击增幅 145%，银狐诈骗邮件达 586.16 万封！2025年Q4企业邮箱安全形势骤然升级！Coremail CACTER邮件安全发布...
 
 
 ### 技术就业趋势
 
-云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
-- 😊 [AI健康助手，正风起云涌](https://cloud.tencent.com/developer/article/2622481) 🔥🔥🔥 超热
-  近日，OpenAI和 Anthropic 陆续发布了面向大众用户的健康功能和面向医疗行业的产品方案，全面进入医疗健康领域。OpenAI 还发表了《美国人如何利用 ChatGPT 来进行健康保健》的文章...
-- 😐 [安装程序无法验证产品密钥](https://cloud.tencent.com/developer/article/2622353) 📊 普通
-  背景：某Server2019环境中有多个安全软件，总是出现内存泄漏，卸载WinDefend就好了，可见安全软件跟WinDefend有兼容性问题（贵在精，不在多）
-- 😐 [EdgeOne DDoS 高防服务正式上线，企业级安全防护触手可及！](https://cloud.tencent.com/developer/article/2622400) 📊 普通
-  以往，DDoS 防护存在明显的分水岭：大型企业可以投入重金建设防护体系，而部分中小企业只能祈祷自己不会成为攻击目标。由于 DDoS 高防仅企业版可订阅，远超部分企业的安全预算，这些企业在面对 DDoS...
+- 😐 [Agent Skills 在 AI 数据分析中的应用](https://cloud.tencent.com/developer/article/2622982) 📈 关注
+  在 Agent 的演进历程中，Agent Skills 的出现标志着从“大而全的黑盒模型”向“精细化工业协作”的重大范式转移。在这一概念普及之前，AI 往往因为“能力孤岛”而导致诸多业务场景难以落地：...
+- 😊 [腾讯云ADP升级：做深平台、做厚内容、做强应用，构筑Agent产业合作新生态](https://cloud.tencent.com/developer/article/2622940) 📊 普通
+  1月22日，2026腾讯云合作伙伴大会在三亚召开，腾讯云智能体开发平台（ADP）宣布一系列升级，核心聚焦做深平台能力、做厚内容生态、做强上层应用等方向，构建繁荣智能体产业生态。
+- 😟 [让吐槽有回声，把热爱变成共创：腾讯云TDP这一年](https://cloud.tencent.com/developer/article/2622921) 📊 普通
+  发消息的人没有太多铺垫，语气里带着那种熬了几天之后的疲惫，像是把键盘当成救生圈：云函数部署一直失败，日志看不懂，回滚也不行，感觉自己被卡在一扇看不见的门外。
 
 
 ### GitHub 趋势项目
 
-- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
-- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥 Make videos programmatically with React
+- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+- [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
+- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 
 
 
 
 ### AI 研究论文
 
-- arXiv 论文数据暂时不可用，请稍后再查看
+- [M-SGWR: Multiscale Similarity and Geographically Weighted Regression](https://arxiv.org/abs/2601.19888v1) - M. Naser Lessani, Zhenlong Li, Manzhu Yu, Helen Greatrex, Chan Shen
+  The first law of geography is a cornerstone of spatial analysis, emphasizing that nearby and related locations tend to be more similar, however, defin...
+
+- [AI Cap-and-Trade: Efficiency Incentives for Accessibility and Sustainability](https://arxiv.org/abs/2601.19886v1) - Marco Bornstein, Amrit Singh Bedi
+  The race for artificial intelligence (AI) dominance often prioritizes scale over efficiency. Hyper-scaling is the common industry approach: larger mod...
+
+- [HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs](https://arxiv.org/abs/2601.19839v1) - Jeanne Malécot, Hamed Rahimi, Jeanne Cattoni, Marie Samson, Mouad Abrini, Mahdi Khoramshahi, Maribel Pino, Mohamed Chetouani
+  Existing human-robot interaction systems often lack mechanisms for sustained personalization and dynamic adaptation in multi-user environments, limiti...
 
 
 
@@ -135,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $255.41 📈 +7.37 (+3.0%)
-- **GOOGL**: $333.26 📈 +5.32 (+1.6%)
-- **MSFT**: $470.28 📈 +4.33 (+0.9%)
+- **AAPL**: $258.27 📈 +2.86 (+1.1%)
+- **GOOGL**: $334.55 📈 +1.29 (+0.4%)
+- **MSFT**: $480.58 📈 +10.30 (+2.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**二叉树的最大深度** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-给定二叉树，找出其最大深度
+判断字符串中的括号是否有效匹配
 
-标签: 树, 递归
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -164,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《Kubernetes权威指南》** - 龚正等
 
-深度学习领域的权威教材 (分类: 人工智能)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -187,7 +194,7 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
@@ -200,9 +207,9 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Brain.fm Focus** - Brain.fm
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -228,73 +235,72 @@ D. PATCH更快
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**遵循单一职责原则**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `406a9e` | 日期: 2026-01-27
+挑战ID: `cf2784` | 日期: 2026-01-28
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-现代Web应用框架
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+程序员的口头禅：在我的机器上运行得很好！
 
 
 ### 🐙 GitHub 生态统计
@@ -308,7 +314,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-01-27 08:17:01
+- 📅 更新时间: 2026-01-28 08:16:43
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -320,15 +326,14 @@ test('should calculate tax correctly', () => {
 
 - 📰 新闻总数: 8
 - 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 20.5/100
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 11.9/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- 人工智能 (2次)
-- ChatGPT (1次)
-- GPT (1次)
-- OpenAI (1次)
+- AI (5次)
+- 人工智能 (1次)
+- 神经网络 (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
