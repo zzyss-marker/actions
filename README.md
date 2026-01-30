@@ -55,70 +55,69 @@
 
 MIT
 
-## 今日更新 (2026-01-28)
+## 今日更新 (2026-01-30)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😊 [人工智能从入门到精通：神经网络优化策略与工程实践](https://blog.csdn.net/xcLeigh/article/details/156895413) 🔥🔥 很热
-  本文介绍了神经网络优化策略与工程实践的关键内容。首先讲解了梯度下降法及其变体（批量、随机、小批量）的实现原理，以及学习率调度策略。然后详细阐述了正则化技术，包括L1/L2正则化、Dropout和Ear...
-- 😊 [【AI大模型开发】-创建RAG问答实战（LangChain+DeepSeek+Faiss）](https://blog.csdn.net/zxc18344522713/article/details/157258334) 📈 关注
-  摘要：ChatPDF-Faiss是一个基于FAISS向量数据库和阿里云DashScope API的PDF智能问答系统。该系统通过PyPDF2提取PDF文本内容，使用递归字符分割器将文本分块，并利用Da...
-- 😐 [零基础学AI大模型之LLM存储优化：大量QA与长对话问题实战](https://blog.csdn.net/chandfy/article/details/154706222) 📈 关注
-  本文是"零基础学AI大模型"系列文章的目录索引，涵盖了从AI大模型基础概念到实战应用的完整知识体系。主要内容包括：大模型API调用、SpringAI整合、LangChain核心模块解析、Prompt工...
-- 😐 [【脉脉】AI创作者AMA知无不言：人机共生时代的创作觉醒](https://blog.csdn.net/2401_89899187/article/details/156723555) 📈 关注
-  2025年12月25日，东京国际论坛中心的颁奖台上，银蓝色长发的全息身影星璃凭借专辑《数字心迹》斩获第45届“全球音乐荣耀奖”年度最佳专辑，成为该奖项史上首个AI获奖者。这场争议的核心，从来不是星璃该...
-- 😊 [耗时 8 天，我用 Claude Code 开发了 AI 漫剧 APP，并开源了。](https://blog.csdn.net/qq_43270074/article/details/156619808) 📈 关注
-  附开发过程及教程
+- 😊 [多模态技术深度探索：融合视觉与语言的AI新范式](https://blog.csdn.net/2301_79139273/article/details/154370011) 🔥🔥 很热
+  摘要 本文由AI技术专家蒋星熠Jaxonic撰写，深入解析了多模态人工智能技术的最新发展与应用。文章首先介绍了多模态学习的基本概念及其与单模态AI的区别，通过对比表呈现关键差异；随后详细梳理了多模态技...
+- 😊 [DooTask：AI赋能的开源项目协作神器——从部署到精通的全链路指南](https://blog.csdn.net/weixin_43151418/article/details/156506039) 🔥 热门
+  DooTask 是一款基于 Laravel 框架 开发的 开源在线项目任务管理工具，专为中小团队和敏捷开发场景设计。它以“轻量化、高集成、易部署”为核心优势，整合任务管理、文档协作、即时通讯、日历视图...
+- 😊 [PyTorch生成式人工智能（10）——CyclelGAN详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/146259921) 📈 关注
+  本文详细介绍了CycleGAN的原理与实现，这是一种能够在无配对样本情况下学习不同图像域间转换的生成对抗网络。CycleGAN通过引入循环一致性损失，确保转换后的图像能够重建原始图像，从而保留关键特征...
+- 😊 [Openwork 入门指南：开源 AI 桌面助手快速上手](https://blog.csdn.net/dangzuo/article/details/157170790) 📈 关注
+  Openwork是一款开源的AI桌面代理工具，提供类似Claude Cowork的免费替代方案。它支持本地运行，确保隐私安全，并能高效处理文件整理、文档读写等任务。支持多种AI模型，通过MIT许可完全...
+- 😐 [『告别手工测试：AI 自动化测试覆盖 90% 场景的秘诀』](https://blog.csdn.net/qq_41187124/article/details/157062418) 📈 关注
+  本文探讨AI技术如何推动测试领域变革，从传统手工测试到AI驱动的自动化测试。传统手工测试面临效率低、成本高、易出错等问题，自动化测试虽提升效率但仍需大量维护。AI技术的引入（如NLP、图像识别、机器学...
 
 
 ### 网络安全资讯
 
-- [反制黑客：研究人员对“哈萨克远控木马”间谍攻击活动实施黑洞诱捕](https://www.anquanke.com/post/id/314594) - 安全公告，详情请点击链接查看完整内容
-- [DCeption：针对 CCS 电动汽车充电系统的真实无线中间人攻击](https://paper.seebug.org/3457/) - 作者：Marcell Szakály, Martin Strohmeier, Ivan Martinovic, Sebastian Köhler
-译者：知道创宇404实验室翻译组
-原文链接：https...
-- [紧急预警！2025Q4钓鱼邮件破4.25亿+银狐黑产肆虐，3大邮件安全方案速收](https://www.4hou.com/posts/mkKn) - 4.25 亿封钓鱼邮件狂袭，环比暴涨 148.65%！域内钓鱼攻击增幅 145%，银狐诈骗邮件达 586.16 万封！2025年Q4企业邮箱安全形势骤然升级！Coremail CACTER邮件安全发布...
+- [筑牢聊天安全防线：WhatsApp推出 “严格模式” 抵御飞马间谍软件](https://www.anquanke.com/post/id/314636) - 安全公告，详情请点击链接查看完整内容
+- [FOCA：基于双曲交叉注意力的多模态恶意软件分类](https://paper.seebug.org/3458/) - 作者：Nitin Choudhury, Bikrant Bikram Pratap Maurya, Orchid Chetia Phukan, Arun Balaji Buduru
+译者：知道创宇40...
+- [AI助手Clawdbot现象级爆火背后：全网8000+资产暴露](https://www.4hou.com/posts/rpPW) - 只需一句话，它就能帮你写代码、回邮件、整理文件——Clawdbot（现已更名为Moltbot）正以惊人的速度席卷全球。从硅谷极客热议到国内阿里云、京东云等大厂相继上线配套云服务，Moltbot已迅速从...
 
 
 ### 技术就业趋势
 
-具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
+远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
 
 ### 科技热点
 
-- 😐 [Agent Skills 在 AI 数据分析中的应用](https://cloud.tencent.com/developer/article/2622982) 📈 关注
-  在 Agent 的演进历程中，Agent Skills 的出现标志着从“大而全的黑盒模型”向“精细化工业协作”的重大范式转移。在这一概念普及之前，AI 往往因为“能力孤岛”而导致诸多业务场景难以落地：...
-- 😊 [腾讯云ADP升级：做深平台、做厚内容、做强应用，构筑Agent产业合作新生态](https://cloud.tencent.com/developer/article/2622940) 📊 普通
-  1月22日，2026腾讯云合作伙伴大会在三亚召开，腾讯云智能体开发平台（ADP）宣布一系列升级，核心聚焦做深平台能力、做厚内容生态、做强上层应用等方向，构建繁荣智能体产业生态。
-- 😟 [让吐槽有回声，把热爱变成共创：腾讯云TDP这一年](https://cloud.tencent.com/developer/article/2622921) 📊 普通
-  发消息的人没有太多铺垫，语气里带着那种熬了几天之后的疲惫，像是把键盘当成救生圈：云函数部署一直失败，日志看不懂，回滚也不行，感觉自己被卡在一扇看不见的门外。
+- 😐 [“痛点”到“通点”！一份让 AI 真正落地产生真金白银的实战指南](https://cloud.tencent.com/developer/article/2625285) 📈 关注
+  韩光祖，现任上海腾展长融董事 & CTO。美国南加州大学企管硕士，曾任富邦华一銀行总部渠道与数字银行部副总裁及总部信息科技部副总裁、纬创集团 WistronITS 全球总部首席信息官 、企业资安主委、...
+- 😐 [腾云出海，扬帆远航 | 2026腾讯云合作伙伴大会出海专场三亚启航，共探全球增长新范式](https://cloud.tencent.com/developer/article/2625283) 📈 关注
+  从扬帆探路到深水航行，中国企业的出海征程正全速推进，但出海之路亦非坦途。政策合规、数据安全、网络延迟、用户体验、生态链接等多重挑战，考验着每一家企业的全球化能力。
+- 😐 [Python学习方案](https://cloud.tencent.com/developer/article/2625297) 📊 普通
+  Python学习方案建议分为四个阶段，从基础到进阶再到实战，以下是系统化的学习路径：
 
 
 ### GitHub 趋势项目
 
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-- [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
-- [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
-- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+- [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
+- [modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
 
 
 
 
 ### AI 研究论文
 
-- [M-SGWR: Multiscale Similarity and Geographically Weighted Regression](https://arxiv.org/abs/2601.19888v1) - M. Naser Lessani, Zhenlong Li, Manzhu Yu, Helen Greatrex, Chan Shen
-  The first law of geography is a cornerstone of spatial analysis, emphasizing that nearby and related locations tend to be more similar, however, defin...
+- [RedSage: A Cybersecurity Generalist LLM](https://arxiv.org/abs/2601.22159v1) - Naufal Suryanto, Muzammal Naseer, Pengfei Li, Syed Talal Wasim, Jinhui Yi, Juergen Gall, Paolo Ceravolo, Ernesto Damiani
+  Cybersecurity operations demand assistant LLMs that support diverse workflows without exposing sensitive data. Existing solutions either rely on propr...
 
-- [AI Cap-and-Trade: Efficiency Incentives for Accessibility and Sustainability](https://arxiv.org/abs/2601.19886v1) - Marco Bornstein, Amrit Singh Bedi
-  The race for artificial intelligence (AI) dominance often prioritizes scale over efficiency. Hyper-scaling is the common industry approach: larger mod...
+- [Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts](https://arxiv.org/abs/2601.22156v1) - Yingfa Chen, Zhen Leng Thai, Zihan Zhou, Zhu Zhang, Xingyu Shen, Shuo Wang, Chaojun Xiao, Xu Han, Zhiyuan Liu
+  Hybrid Transformer architectures, which combine softmax attention blocks and recurrent neural networks (RNNs), have shown a desirable performance-thro...
 
-- [HARMONI: Multimodal Personalization of Multi-User Human-Robot Interactions with LLMs](https://arxiv.org/abs/2601.19839v1) - Jeanne Malécot, Hamed Rahimi, Jeanne Cattoni, Marie Samson, Mouad Abrini, Mahdi Khoramshahi, Maribel Pino, Mohamed Chetouani
-  Existing human-robot interaction systems often lack mechanisms for sustained personalization and dynamic adaptation in multi-user environments, limiti...
+- [Exploring Reasoning Reward Model for Agents](https://arxiv.org/abs/2601.22154v1) - Kaixuan Fan, Kaituo Feng, Manyuan Zhang, Tianshuo Peng, Zhixun Li, Yilei Jiang, Shuang Chen, Peng Pei, Xunliang Cai, Xiangyu Yue
+  Agentic Reinforcement Learning (Agentic RL) has achieved notable success in enabling agents to perform complex reasoning and tool use. However, most m...
 
 
 
@@ -142,25 +141,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $258.27 📈 +2.86 (+1.1%)
-- **GOOGL**: $334.55 📈 +1.29 (+0.4%)
-- **MSFT**: $480.58 📈 +10.30 (+2.2%)
+- **AAPL**: $258.28 📈 +1.84 (+0.7%)
+- **GOOGL**: $338.25 📈 +2.24 (+0.7%)
+- **MSFT**: $433.50 📉 -48.13 (-10.0%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-判断字符串中的括号是否有效匹配
+给定字符串，找出其中最长的回文子串
 
-标签: 栈, 字符串
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -171,7 +170,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
@@ -188,28 +187,28 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Ambient Coding** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -248,35 +247,35 @@ function formatCurrency(amount) { ... }
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**网络建设**: 参加技术会议和meetup，建立专业人脉网络
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 每月参加至少一次技术聚会或在线会议
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：💡 创新者
 
-挑战ID: `cf2784` | 日期: 2026-01-28
+挑战ID: `8a7279` | 日期: 2026-01-30
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **AI** 🔥 +15% - 人工智能持续火热
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
@@ -284,11 +283,11 @@ function formatCurrency(amount) { ... }
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Tauri** (Rust) - ⭐ 70k+
 
-现代JavaScript/TypeScript运行时
+使用Rust构建跨平台桌面应用
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
@@ -300,7 +299,7 @@ function formatCurrency(amount) { ... }
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -314,7 +313,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-01-28 08:16:43
+- 📅 更新时间: 2026-01-30 08:24:00
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -326,14 +325,14 @@ function formatCurrency(amount) { ... }
 
 - 📰 新闻总数: 8
 - 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 11.9/100
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 14.5/100
 
 🏷️ **热门关键词**:
 - AI (5次)
-- 人工智能 (1次)
-- 神经网络 (1次)
+- 人工智能 (2次)
 - AR (1次)
+- 数据安全 (1次)
 
 
 ### 🤖 关于此项目
