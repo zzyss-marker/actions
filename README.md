@@ -55,70 +55,70 @@
 
 MIT
 
-## 今日更新 (2026-02-05)
+## 今日更新 (2026-02-06)
 
 ### 今日名言
 
-> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
+> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
 
 ### AI 技术动态
 
-- 😊 [AI 当主程还能远程开发？TRAE SOLO 的实用体验与cpolar内网突破](https://blog.csdn.net/qyj19920704/article/details/156873050) 🔥 热门
-  摘要： TRAE SOLO是一款AI开发辅助工具，支持SOLO模式让AI主导开发流程，可自动拆解任务、调度工具，提升开发效率。但其局域网使用限制明显，远程协作困难。结合cpolar内网穿透工具后，能安...
-- 😊 [2026年1月18日-Obsidian + AI，笔记效率提升10倍！一键生成Canvas和小红书风格笔记](https://blog.csdn.net/wwwzhouhui/article/details/157100028) 🔥 热门
-  本文介绍了如何在Obsidian笔记软件中部署AI辅助笔记系统Obsidian Skills。该系统通过claudian插件实现侧边栏AI对话功能，结合obsidian-skills技能库可自动生成C...
-- 😊 [【AI 编程工具进阶用法】如何在Cursor、Trae等工具中使用Skills](https://blog.csdn.net/weixin_39393393/article/details/157397277) 📈 关注
-  OpenSkills是一个开源项目，用于在Cursor、Trae等AI编程工具中添加可复用、可组合的"能力模块"。安装流程包括：1)全局安装OpenSkills CLI工具；2)选择安装Anthrop...
-- 😐 [Trae AI 保姆级教程：从安装到调试全流程指南](https://blog.csdn.net/liyongxiang0912/article/details/151594620) 📈 关注
-  运行安装程序，按提示完成安装，过程中可能需要配置 Python 环境或依赖库。确保系统环境满足以下要求：Python 3.8或更高版本，pip包管理器已更新。注：具体参数可能因版本差异略有不同，建议查...
-- 😐 [2026年绿通腾讯朱雀英文AI检测安全降AI率方法](https://blog.csdn.net/wisdomb/article/details/155073945) 📈 关注
-  随着AI生成内容的普及，高校与企业广泛应用检测工具如腾讯朱雀来识别文本的AI痕迹。许多用户在提交英文论文、申请文书或商业报告时，因“AI率过高”而面临风险。本文将从技术原理与合规角度，深入解析如何有效...
+- 😊 [GitHub热榜----前端已死？AionUi 横空出世：首个开源“生成式UI”框架，让 AI 在运行时“手搓”界面](https://blog.csdn.net/weixin_73134956/article/details/157180764) 🔥 热门
+  摘要：AionUi 是一款颠覆性的动态UI渲染引擎，标志着前端开发进入"运行时生成"（RuntimeGenUI）时代。它通过AI实时解析用户意图，将LLM输出的JSON结构动态渲染为交互式界面，无需预...
+- 😊 [Qwen-Image-Edit-Rapid-AIO终极指南：4步极速AI图像编辑完整教程](https://blog.csdn.net/gitblog_01081/article/details/156296604) 📈 关注
+  Qwen-Image-Edit-Rapid-AIO是阿里巴巴通义千问团队推出的专业级AI图像编辑工具，通过融合优化模块、VAE和CLIP组件实现仅需4步推理即可完成高质量图像生成，将传统图像编辑效率提...
+- 😊 [10款免费好用的AI写小说软件（2025实测推荐！）](https://blog.csdn.net/EdwardAITooL/article/details/151761462) 📈 关注
+  【AI小说写作工具实测报告】笔者测评10款热门写作软件，发现笔灵AI最适合新手，其全链路优化功能可一键生成完整小说；DeepSeek强于逻辑推理，适合悬疑科幻题材；Kimi长文本处理优异，能分析爆款结...
+- 😊 [2025年免费数字人工具榜：五大AI平台深度测评，谁是真正的“零成本神器”？](https://blog.csdn.net/PEARL_WEN/article/details/154951772) 📈 关注
+  免费内容覆盖度高输出质量专业级上手简单，对新手极其友好👉。
+- 😐 [clawbot接入飞书阿里云，立即拥有24小时AI助理贾维斯](https://blog.csdn.net/seeyouintokyo/article/details/157510784) 📊 普通
+  clawbot接入飞书+阿里云
 
 
 ### 网络安全资讯
 
-- [科技云报到：AI撕掉数字时差：“极致全球化”已无退路](https://www.anquanke.com/post/id/314744) - 安全公告，详情请点击链接查看完整内容
-- [Okara：基于基础模型的 Android 应用 TLS 中间人攻击漏洞检测与溯源](https://paper.seebug.org/3460/) - 作者：Haoyun Yang, Ronghong Huang, Yong Fang等
+- [网络攻击者利用Click Fix脚本中的DNS TXT记录执行恶意Power Shell命令](https://www.anquanke.com/post/id/314749) - 安全公告，详情请点击链接查看完整内容
+- [LogicScan：一种基于大语言模型的智能合约业务逻辑漏洞检测框架](https://paper.seebug.org/3461/) - 作者：JIAQI GAO, ZIJIAN ZHANG, YUQIANG SUN, YE LIU等
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2601.22770v1...
-- [嘶吼快讯|网安厂商动态汇（第10期）](https://www.4hou.com/posts/KGPJ) - 聚焦网安厂商最新动作，整合新品发布、战略合作、技术升级等核心动态，省去碎片化信息筛选时间，1篇GET网安厂商近期关键动作！网安厂商最新动态网际思安上榜信通院第四期《数字安全护航技术能力全景图》多个领域...
+原文链接：https://arxiv.org/html/2602.0...
+- [警惕！25Q4邮箱风险全面升级，核心数据速览](https://www.4hou.com/posts/NGVN) - 近期，Coremail CACTER 正式发布《2025年第四季度企业邮箱安全性研究报告》，一文速览核心数据与风险趋势。安全预警！攻击规模全线暴涨1、垃圾邮件总量突破10亿，环比增涨25.8%2、钓鱼...
 
 
 ### 技术就业趋势
 
-量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
+云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
 
 ### 科技热点
 
-- 😊 [腾讯云程伟：拒绝AI焦虑，企业智能体如何从“工具”到“生产力”？](https://cloud.tencent.com/developer/article/2627191) 📈 关注
-  程伟，腾讯云副总裁、腾讯智慧零售技术架构与产研负责人，深耕互联网领域多年，拥有近 20 年技术背景。2008 年加入腾讯后，先后参与微信红包、微信支付的开发，以及历年春晚红包、腾讯理财、话费充值等公司...
 - 😐 [解构Clawdbot：本地架构、记忆管理、Agent 编排与上下文组装原理](https://cloud.tencent.com/developer/article/2627190) 📈 关注
   Clawdbot（现名 OpenClaw） 是一个 Local-First (本地优先) 的 AI Agent 运行时环境，旨在将大模型（LLM）的能力与用户的本地系统、工具链和通讯软件深度结合。
-- 😐 [【运维自动化-节点管理】节点管理跟配置平台的联动关系](https://cloud.tencent.com/developer/article/2627251) 📊 普通
-  b)节点管理安装注册，可以安装直连区域和非直连区域的机器，安装完agent之后，会自动把主机注册到配置平台所选业务的空闲机模块下。
+- 😐 [AI是人的延伸，人是AI的尺度](https://cloud.tencent.com/developer/article/2627372) 📈 关注
+  作者注：本文为“AI观”系列思考的第三篇文章。此前两篇为：《AI不是平庸的推手》、《人应成为AI发展的尺度》
+- 😐 [玩转OpenClaw(Moltbot) | 使用Docker部署OpenClaw并绑定域名HTTPS开启公网访问](https://cloud.tencent.com/developer/article/2626270) 📈 关注
+  当你想玩玩OpenClaw但受限于服务器有正在运行的服务没法直接使用OpenClaw镜像重装时, Docker会是个不错的选择.
 
 
 ### GitHub 趋势项目
 
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
-- [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 6 lines of code
 
 
 
 
 ### AI 研究论文
 
-- [Protein Autoregressive Modeling via Multiscale Structure Generation](https://arxiv.org/abs/2602.04883v1) - Yanru Qu, Cheng-Yen Hsieh, Zaixiang Zheng, Ge Liu, Quanquan Gu
-  We present protein autoregressive modeling (PAR), the first multi-scale autoregressive framework for protein backbone generation via coarse-to-fine ne...
+- [Shared LoRA Subspaces for almost Strict Continual Learning](https://arxiv.org/abs/2602.06043v1) - Prakhar Kaushik, Ankit Vaidya, Shravan Chaudhari, Rama Chellappa, Alan Yuille
+  Adapting large pretrained models to new tasks efficiently and continually is crucial for real-world deployment but remains challenging due to catastro...
 
-- [Contrastive Continual Learning for Model Adaptability in Internet of Things](https://arxiv.org/abs/2602.04881v1) - Ajesh Koyatan Chathoth
-  Internet of Things (IoT) deployments operate in nonstationary, dynamic environments where factors such as sensor drift, evolving user behavior, and he...
+- [DyTopo: Dynamic Topology Routing for Multi-Agent Reasoning via Semantic Matching](https://arxiv.org/abs/2602.06039v1) - Yuxing Lu, Yucheng Hu, Xukai Zhao, Jiuxin Cao
+  Multi-agent systems built from prompted large language models can improve multi-round reasoning, yet most existing pipelines rely on fixed, trajectory...
 
-- [Rethinking the Trust Region in LLM Reinforcement Learning](https://arxiv.org/abs/2602.04879v1) - Penghui Qi, Xiangxin Zhou, Zichen Liu, Tianyu Pang, Chao Du, Min Lin, Wee Sun Lee
-  Reinforcement learning (RL) has become a cornerstone for fine-tuning Large Language Models (LLMs), with Proximal Policy Optimization (PPO) serving as ...
+- [CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction](https://arxiv.org/abs/2602.06038v1) - Xiaopan Zhang, Zejin Wang, Zhixu Li, Jianpeng Yao, Jiachen Li
+  To complete assignments provided by humans in natural language, robots must interpret commands, generate and answer relevant questions for scene under...
 
 
 
@@ -142,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $276.49 📈 +7.01 (+2.6%)
-- **GOOGL**: $333.04 📉 -6.67 (-2.0%)
-- **MSFT**: $414.19 📈 +2.98 (+0.7%)
+- **AAPL**: $275.91 📉 -0.58 (-0.2%)
+- **GOOGL**: $331.25 📉 -1.79 (-0.5%)
+- **MSFT**: $393.67 📉 -20.52 (-5.0%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**两数之和** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 栈, 字符串
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -171,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《代码整洁之道》** - Robert C. Martin
 
-容器编排平台的完整指南 (分类: 云原生)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,13 +188,13 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
@@ -223,53 +223,51 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**使用版本控制**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🧠 算法大师
+今日挑战徽章：💡 创新者
 
-挑战ID: `3fe365` | 日期: 2026-02-05
+挑战ID: `4f4672` | 日期: 2026-02-06
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
@@ -278,8 +276,8 @@ const a = 25;
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
@@ -315,7 +313,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-02-05 08:29:00
+- 📅 更新时间: 2026-02-06 08:28:27
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -328,11 +326,11 @@ const a = 25;
 - 📰 新闻总数: 8
 - 😊 积极新闻: 4 (50.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 13.4/100
+- 🔥 平均热度: 9.9/100
 
 🏷️ **热门关键词**:
 - AI (7次)
-- AR (1次)
+- Docker (1次)
 
 
 ### 🤖 关于此项目
