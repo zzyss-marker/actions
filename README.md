@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-02-09)
+## 今日更新 (2026-02-10)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- 😐 [『告别手工测试：AI 自动化测试覆盖 90% 场景的秘诀』](https://blog.csdn.net/qq_41187124/article/details/157062418) 📈 关注
-  本文探讨AI技术如何推动测试领域变革，从传统手工测试到AI驱动的自动化测试。传统手工测试面临效率低、成本高、易出错等问题，自动化测试虽提升效率但仍需大量维护。AI技术的引入（如NLP、图像识别、机器学...
-- 😟 [Moltbot的出现，我们不由的得思考给AI的权限是否过大？](https://blog.csdn.net/lwcwam/article/details/157516178) 📈 关注
-  Moltbot作为新一代AI助手，因其能直接操作系统权限执行任务而爆火。本文探讨了其潜在风险，并提供了Windows系统下的详细部署教程，包括Node.js安装、Moltbot配置及飞书接入方法。通过...
-- 😐 [QtCreator接入外部AI大模型](https://blog.csdn.net/fjunchao/article/details/148143256) 📈 关注
-  本篇文章主要通过让QtCreator接入外部AI插件，实现在QtCretor里调用AI模型完成代码自动补全（Code Completion）和会话助手（Chat Assistant）的目的。下面是需要...
-- 😊 [学习小智 AI 生态](https://blog.csdn.net/maray/article/details/153385833) 📈 关注
-  小智AI是一款由硬件、开源固件和服务端组成的聊天玩具，其台湾腔陪聊功能广受欢迎。最初闭源的服务端被团队复刻并开源，用户无需订阅即可永久使用。该系统整合了国内多家云服务商的免费AI方案，包括智谱的LLM...
-- 😐 [零成本部署：国内畅玩n8n与私有AI模型的终极指南](https://blog.csdn.net/qq_16242613/article/details/154454634) 📈 关注
-  零成本部署：国内畅玩n8n与私有AI模型的终极指南
+- 😊 [AI 应用层革命（一）——软件的终结与智能体的崛起](https://blog.csdn.net/htw250056/article/details/153930124) 🔥🔥 很热
+  AI应用层革命正在颠覆传统软件范式。随着AI智能体（如ChatGPT、AutoGPT等）的崛起，人类交互方式从"命令"转向"意图"，智能体能够自主理解、分解任务并调用工具完成目标。这场革命将重构多个维...
+- 😊 [IntelliJ IDEA 接入 AI 编程助手（Copilot、DeepSeek、GPT-4o Mini）](https://blog.csdn.net/Brad_PiTt7/article/details/145643082) 🔥🔥 很热
+  本文介绍了IntelliJ IDEA 接入 AI 编程助手的多种方式，包括，以及本地 AI 部署方案。开发者可根据需求、安全性、网络环境选择合适的 AI 助手。如果你有更好的 AI 代码助手推荐，欢迎...
+- 😊 [破局AI入门壁垒！行空板K10 + Mind+ 从0到1的沉浸式科创奇幻之旅](https://blog.csdn.net/CC1991_/article/details/157648082) 🔥🔥 很热
+  当人工智能从实验室的“黑科技”走进日常，从复杂的算法公式变成可触摸、可操作的实践项目，越来越多的人渴望揭开它的神秘面纱，却常常被晦涩的编程代码、繁琐的硬件调试、高昂的入门成本挡在门外。
+- 😐 [【SpringAI】第五弹：基于 Spring AI ToolCallback Function 实现文件操作、联网搜索、网页抓取、终端操作、资源下载、PDF生成等工具的开发与调用、核心特性解析](https://blog.csdn.net/2402_84916296/article/details/152553966) 🔥 热门
+  基于 Spring AI ToolCallback Function 实现文件操作、联网搜索、网页抓取、终端操作、资源下载、PDF生成等工具的开发与调用、核心特性解析
+- 😊 [当 AI 嚼碎数据吐模块，人类开发者的创意还能留几行？—— 老码农的反编译式安心剂](https://blog.csdn.net/qq_33650655/article/details/150940447) 📈 关注
+  当AI生成代码模块时，人类开发者如何守护创意价值？ 近年来，AI能够分析用户数据直接生成功能模块代码，甚至自动设计数据库结构，这让不少开发者开始担忧自己的价值。然而，AI的本质是数据的统计、模仿与排列...
 
 
 ### 网络安全资讯
@@ -81,44 +81,37 @@ MIT
 - [LogicScan：一种基于大语言模型的智能合约业务逻辑漏洞检测框架](https://paper.seebug.org/3461/) - 作者：JIAQI GAO, ZIJIAN ZHANG, YUQIANG SUN, YE LIU等
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html/2602.0...
-- [八问+一图，读懂《汽车数据出境安全指引（2026版）》](https://www.4hou.com/posts/MXRR) - 近日，工业和信息化部、国家网信办、国家发展改革委、国家数据局、公安部、自然资源部、交通运输部、市场监管总局等八部门联合印发《汽车数据出境安全指引（2026版）》（以下简称《安全指引》）。工业和信息化部...
+- [嘶吼快讯|网安厂商动态汇（第11期）](https://www.4hou.com/posts/PG02) - 聚焦网安厂商最新动作，整合新品发布、战略合作、技术升级等核心动态，省去碎片化信息筛选时间，1篇GET网安厂商近期关键动作！网安厂商最新动态天融信发布《2025年网络空间安全漏洞态势分析研究报告》日前，...
 
 
 ### 技术就业趋势
 
-软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
+远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
 
 ### 科技热点
 
-- 😊 [张笑宇：我为什么成了坚定的AI“降临派”？](https://cloud.tencent.com/developer/article/2627751) 📈 关注
-  2026 年 1 月 27 日，腾讯研究院主办的腾讯科技向善创新节 2026 正式举办。亚洲图书奖得主、新锐科技史学者、《AI文明史•前史》作者张笑宇先生在现场进行了演讲。
-- 😐 [Spark SQL(七)：AQE自适应查询执行(下)](https://cloud.tencent.com/developer/article/2627701) 📈 关注
-  Spark Exchange算子有两类实现：ShuffleExchangeExec 大规模数据shuffle重分区分发，doExecute 生成ShuffledRowRDD；BroadcastExch...
-- 😊 [【教程】零成本白嫖 ClawdBot ：Gemini CLI + 本地中转方案](https://cloud.tencent.com/developer/article/2626949) 📊 普通
-  OpenClaw最近很火，但是却是一个十足的token吞金兽，如果你不想消耗昂贵的 token，只想部署玩玩，利用 Google 每天提供给开发者的免费请求额度，这篇教程就是为你准备的。
+- 😊 [2025腾讯云开发者社区年度报告暨表彰总结](https://cloud.tencent.com/developer/article/2628020) 📈 关注
+  这一年里，腾讯云开发者社区始终与大家并肩同行，一场场AI主题征文、一次次线下相聚，串联起无数技术人的热爱与坚守：从CodeBuddy AI代码助手的高效赋能，到混元大模型生文、生图、生3D的创意突破；...
+- 😐 [热点技术有奖征文 | 玩转 OpenClaw 云端创意实践赛🪐](https://cloud.tencent.com/developer/article/2627198) 📈 关注
+  OpenClaw 火爆全网！它不是第一个 AI Agent，但却是少数真正开始接管系统操作的那一类：读文件、跑命令、改代码，甚至拥有完整系统权限。
+- 😐 [2026前沿科技趋势：塑造自己的下一个版本](https://cloud.tencent.com/developer/article/2628450) 📊 普通
+  科技的进步，应以人为本。今年，我们以用户视角，眺望 2030 年的自己，寻找能够帮助我们塑造自己下一个版本所需的科技，并唤起更多人开始思考、着手行动。
 
 
 ### GitHub 趋势项目
 
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
-- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
-- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
-- [microsoft/litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
+- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
 
 
 
 
 ### AI 研究论文
 
-- [Learning a Generative Meta-Model of LLM Activations](https://arxiv.org/abs/2602.06964v1) - Grace Luo, Jiahai Feng, Trevor Darrell, Alec Radford, Jacob Steinhardt
-  Existing approaches for analyzing neural network activations, such as PCA and sparse autoencoders, rely on strong structural assumptions. Generative m...
-
-- [InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning](https://arxiv.org/abs/2602.06960v1) - Yuchen Yan, Liang Jiang, Jin Jiang, Shuaicheng Li, Zujie Wen, Zhiqiang Zhang, Jun Zhou, Jian Shao, Yueting Zhuang, Yongliang Shen
-  Large reasoning models achieve strong performance by scaling inference-time chain-of-thought, but this paradigm suffers from quadratic cost, context l...
-
-- [DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://arxiv.org/abs/2602.06949v1) - Shenyuan Gao, William Liang, Kaiyuan Zheng, Ayaan Malik, Seonghyeon Ye, Sihyun Yu, Wei-Cheng Tseng, Yuzhu Dong, Kaichun Mo, Chen-Hsuan Lin, Qianli Ma, Seungjun Nah, Loic Magne, Jiannan Xiang, Yuqi Xie, Ruijie Zheng, Dantong Niu, You Liang Tan, K. R. Zentner, George Kurian, Suneel Indupuru, Pooya Jannaty, Jinwei Gu, Jun Zhang, Jitendra Malik, Pieter Abbeel, Ming-Yu Liu, Yuke Zhu, Joel Jang, Linxi "Jim" Fan
-  Being able to simulate the outcomes of actions in varied environments will revolutionize the development of generalist agents at scale. However, model...
+- arXiv 论文数据暂时不可用，请稍后再查看
 
 
 
@@ -142,25 +135,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $278.12 📈 +2.21 (+0.8%)
-- **GOOGL**: $322.86 📉 -8.39 (-2.5%)
-- **MSFT**: $401.14 📈 +7.47 (+1.9%)
+- **AAPL**: $274.62 📉 -3.24 (-1.2%)
+- **GOOGL**: $324.32 📈 +1.46 (+0.5%)
+- **MSFT**: $413.60 📈 +12.46 (+3.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**二叉树的最大深度** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+给定二叉树，找出其最大深度
 
-标签: 字符串, 动态规划
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -171,7 +164,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
@@ -188,14 +181,14 @@ WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的�
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
@@ -223,27 +216,25 @@ WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的�
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用版本控制**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
@@ -256,20 +247,20 @@ test('should calculate tax correctly', () => {
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🥷 代码忍者
+今日挑战徽章：💡 创新者
 
-挑战ID: `e95f39` | 日期: 2026-02-09
+挑战ID: `e71323` | 日期: 2026-02-10
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
@@ -277,31 +268,31 @@ test('should calculate tax correctly', () => {
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-使用Rust构建跨平台桌面应用
+现代Web应用框架
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**全栈开发** (中级) 📊
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-为什么程序员喜欢黑暗？因为光会产生bug！
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -315,7 +306,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-02-09 08:36:20
+- 📅 更新时间: 2026-02-10 08:36:58
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -326,13 +317,15 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 8.9/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 20.5/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- AR (1次)
+- AI (7次)
+- GPT (2次)
+- ChatGPT (1次)
+- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
