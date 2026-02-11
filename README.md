@@ -55,38 +55,38 @@
 
 MIT
 
-## 今日更新 (2026-02-10)
+## 今日更新 (2026-02-11)
 
 ### 今日名言
 
-> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- 😊 [AI 应用层革命（一）——软件的终结与智能体的崛起](https://blog.csdn.net/htw250056/article/details/153930124) 🔥🔥 很热
-  AI应用层革命正在颠覆传统软件范式。随着AI智能体（如ChatGPT、AutoGPT等）的崛起，人类交互方式从"命令"转向"意图"，智能体能够自主理解、分解任务并调用工具完成目标。这场革命将重构多个维...
-- 😊 [IntelliJ IDEA 接入 AI 编程助手（Copilot、DeepSeek、GPT-4o Mini）](https://blog.csdn.net/Brad_PiTt7/article/details/145643082) 🔥🔥 很热
-  本文介绍了IntelliJ IDEA 接入 AI 编程助手的多种方式，包括，以及本地 AI 部署方案。开发者可根据需求、安全性、网络环境选择合适的 AI 助手。如果你有更好的 AI 代码助手推荐，欢迎...
-- 😊 [破局AI入门壁垒！行空板K10 + Mind+ 从0到1的沉浸式科创奇幻之旅](https://blog.csdn.net/CC1991_/article/details/157648082) 🔥🔥 很热
-  当人工智能从实验室的“黑科技”走进日常，从复杂的算法公式变成可触摸、可操作的实践项目，越来越多的人渴望揭开它的神秘面纱，却常常被晦涩的编程代码、繁琐的硬件调试、高昂的入门成本挡在门外。
-- 😐 [【SpringAI】第五弹：基于 Spring AI ToolCallback Function 实现文件操作、联网搜索、网页抓取、终端操作、资源下载、PDF生成等工具的开发与调用、核心特性解析](https://blog.csdn.net/2402_84916296/article/details/152553966) 🔥 热门
-  基于 Spring AI ToolCallback Function 实现文件操作、联网搜索、网页抓取、终端操作、资源下载、PDF生成等工具的开发与调用、核心特性解析
-- 😊 [当 AI 嚼碎数据吐模块，人类开发者的创意还能留几行？—— 老码农的反编译式安心剂](https://blog.csdn.net/qq_33650655/article/details/150940447) 📈 关注
-  当AI生成代码模块时，人类开发者如何守护创意价值？ 近年来，AI能够分析用户数据直接生成功能模块代码，甚至自动设计数据库结构，这让不少开发者开始担忧自己的价值。然而，AI的本质是数据的统计、模仿与排列...
+- 😐 [Spring AI实现一个项目使用多个相同OpenAI API协议(以ChatGPT和千问为例)](https://blog.csdn.net/werewolfwerewolf/article/details/156983453) 🔥🔥 很热
+  在做Spring AI项目的时候，如果想引入多个大模型，会发现：诶！好像不行！！
+- 😊 [2026 最新版 | 元气AI Bot 手机远程操作接入操作教程（附图文步骤与配置详解）](https://blog.csdn.net/2401_89926894/article/details/157771119) 📈 关注
+  摘要：元气AIBot填补了国内市场智能多端助手的空白，支持Windows平台与手机远程联动。本文详细介绍了通过飞书接入元气AIBot的完整教程，包括创建飞书应用、开通机器人权限、绑定配置和发布应用四个...
+- 😐 [飞算JavaAI炫技赛：一天完成学生成绩综合统计分析系统开发(含源码）](https://blog.csdn.net/2301_76341691/article/details/151155025) 📈 关注
+  摘要：本文介绍了一个基于Spring Boot的学生成绩管理系统开发过程。系统采用分层架构设计，包含用户管理、成绩录入、统计分析等核心功能模块。通过飞算JavaAI工具自动生成项目代码骨架，实现了数据...
+- 😊 [利用 IDA Pro MCP 打造AI驱动的逆向分析体验](https://blog.csdn.net/weixin_43114209/article/details/147085137) 📈 关注
+  在逆向工程和安全分析领域，IDA Pro 是一款广为人知的神器。随着 AI 技术的迅猛发展，越来越多的工程师希望能将大语言模型（LLM）引入到静态分析的工作流中。而由 mrexodia 开发的开源项目...
+- 😐 [国产桌面AI代理天花板！天工Skywork桌面版完整部署+实战指南（Windows原生+双模型+100+Skills）](https://blog.csdn.net/weixin_43107715/article/details/157728464) 📈 关注
+  国产桌面AI代理天花板！天工Skywork桌面版完整部署+实战指南（Windows原生+双模型+100+Skills）
 
 
 ### 网络安全资讯
 
 - [网络攻击者利用Click Fix脚本中的DNS TXT记录执行恶意Power Shell命令](https://www.anquanke.com/post/id/314749) - 安全公告，详情请点击链接查看完整内容
-- [LogicScan：一种基于大语言模型的智能合约业务逻辑漏洞检测框架](https://paper.seebug.org/3461/) - 作者：JIAQI GAO, ZIJIAN ZHANG, YUQIANG SUN, YE LIU等
+- [利用大语言模型智能体识别恶意软件二进制文件中的攻击者战术、技术与流程](https://paper.seebug.org/3462/) - 作者：ZHOU XUAN, XIANGZHE XU, MINGWEI ZHENG, LOUIS ZHENG-HUA TAN等
 译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2602.0...
-- [嘶吼快讯|网安厂商动态汇（第11期）](https://www.4hou.com/posts/PG02) - 聚焦网安厂商最新动作，整合新品发布、战略合作、技术升级等核心动态，省去碎片化信息筛选时间，1篇GET网安厂商近期关键动作！网安厂商最新动态天融信发布《2025年网络空间安全漏洞态势分析研究报告》日前，...
+原文链接：https://arxiv.o...
+- [双端应用加固+隐私合规检测：梆梆安全护航车企智能网联业务稳健运行](https://www.4hou.com/posts/Arv7) - 行业实践在汽车智能化与网联化快速发展的背景下，某国际知名汽车企业在中国市场的全资子公司正持续深化其在整车生产、销售及智能网联服务领域的布局。随着业务向数字化深度拓展，该车企客户面向消费者的移动应用与车...
 
 
 ### 技术就业趋势
 
-远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
+可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
 
 ### 科技热点
 
@@ -94,24 +94,31 @@ MIT
   这一年里，腾讯云开发者社区始终与大家并肩同行，一场场AI主题征文、一次次线下相聚，串联起无数技术人的热爱与坚守：从CodeBuddy AI代码助手的高效赋能，到混元大模型生文、生图、生3D的创意突破；...
 - 😐 [热点技术有奖征文 | 玩转 OpenClaw 云端创意实践赛🪐](https://cloud.tencent.com/developer/article/2627198) 📈 关注
   OpenClaw 火爆全网！它不是第一个 AI Agent，但却是少数真正开始接管系统操作的那一类：读文件、跑命令、改代码，甚至拥有完整系统权限。
-- 😐 [2026前沿科技趋势：塑造自己的下一个版本](https://cloud.tencent.com/developer/article/2628450) 📊 普通
-  科技的进步，应以人为本。今年，我们以用户视角，眺望 2030 年的自己，寻找能够帮助我们塑造自己下一个版本所需的科技，并唤起更多人开始思考、着手行动。
+- 😐 [混元研究博客上线姚顺雨团队最新成果：从 Context 探索语言模型的范式转变](https://cloud.tencent.com/developer/article/2628451) 📈 关注
+  2月3日，腾讯混元官网技术博客（Tencent HY Research）正式上线并发表了一篇名为《从 Context 学习，远比我们想象的要难》的文章，系统的介绍了腾讯混元团队联合复旦大学的一项新研究...
 
 
 ### GitHub 趋势项目
 
-- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
-- [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
-- [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
-- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 
 
 
 
 ### AI 研究论文
 
-- arXiv 论文数据暂时不可用，请稍后再查看
+- [Biases in the Blind Spot: Detecting What LLMs Fail to Mention](https://arxiv.org/abs/2602.10117v1) - Iván Arcuschin, David Chanin, Adrià Garriga-Alonso, Oana-Maria Camburu
+  Large Language Models (LLMs) often provide chain-of-thought (CoT) reasoning traces that appear plausible, but may hide internal biases. We call these ...
+
+- [Olaf-World: Orienting Latent Actions for Video World Modeling](https://arxiv.org/abs/2602.10104v1) - Yuxin Jiang, Yuchao Gu, Ivor W. Tsang, Mike Zheng Shou
+  Scaling action-controllable world models is limited by the scarcity of action labels. While latent action learning promises to extract control interfa...
+
+- [Step-resolved data attribution for looped transformers](https://arxiv.org/abs/2602.10097v1) - Georgios Kaissis, David Mildenberger, Juan Felipe Gomez, Martin J. Menten, Eleni Triantafillou
+  We study how individual training examples shape the internal computation of looped transformers, where a shared block is applied for $τ$ recurrent ite...
 
 
 
@@ -135,16 +142,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $274.62 📉 -3.24 (-1.2%)
-- **GOOGL**: $324.32 📈 +1.46 (+0.5%)
-- **MSFT**: $413.60 📈 +12.46 (+3.1%)
+- **AAPL**: $273.68 📉 -0.94 (-0.3%)
+- **GOOGL**: $318.58 📉 -5.74 (-1.8%)
+- **MSFT**: $413.27 📉 -0.44 (-0.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
@@ -164,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《设计模式》** - Gang of Four
 
-深度学习领域的权威教材 (分类: 人工智能)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,21 +195,21 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 ### 🎨 设计资源推荐
 
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -240,27 +247,27 @@ git commit -m "Add user authentication feature"
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `e71323` | 日期: 2026-02-10
+挑战ID: `31745b` | 日期: 2026-02-11
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
@@ -269,30 +276,30 @@ git commit -m "Add user authentication feature"
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代Web应用框架
+高性能代码编辑器
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**安全工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-程序员最讨厌的两件事：1. 写文档 2. 没有文档
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -306,7 +313,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-02-10 08:36:58
+- 📅 更新时间: 2026-02-11 08:34:13
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -317,15 +324,16 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
+- 😊 积极新闻: 3 (37.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 20.5/100
+- 🔥 平均热度: 15.0/100
 
 🏷️ **热门关键词**:
 - AI (7次)
-- GPT (2次)
 - ChatGPT (1次)
-- 人工智能 (1次)
+- GPT (1次)
+- OpenAI (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
