@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-02-14)
+## 今日更新 (2026-02-15)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- 😐 [spring ai alibab agent之ReactAgent深度解读](https://blog.csdn.net/zhonghua881016/article/details/153977362) 📈 关注
-  本文介绍了Agent模式及其核心组件，重点分析了ReAct框架的实现原理。在Spring AI Alibaba中，ReactAgent通过LlmNode和ToolNode两个关键节点构建循环执行机制，...
-- 😊 [开源免费 Replay8.1 AI翻唱一键歌曲分离 汉化版免费下载](https://blog.csdn.net/weixin_44430591/article/details/157094752) 📈 关注
-  Replay 是一款由 Weights 平台推出的次世代 AI 翻唱工具。它基于 RVC (Retrieval-based Voice Conversion) 技术进行了深度开发与优化。为什么选择 R...
-- 😐 [脉脉平台深度测评：AI创作者不可错过的xAMA活动](https://blog.csdn.net/yhrxh_ymq/article/details/156790490) 📈 关注
-  脉脉平台深度测评与创作者xAMA活动解析 核心价值：脉脉依托1.2亿职场用户，打造实名制社交生态，提供企业点评、行业圈子及精准人脉链接功能，其中AI领域日均新增500+专业讨论。 xAMA活动亮点： ...
-- 😊 [人工智能从入门到精通：自然语言处理技术与应用实践](https://blog.csdn.net/xcLeigh/article/details/156979541) 📈 关注
-  摘要 本章介绍了自然语言处理（NLP）的基础技术与应用实践，包括文本分类、情感分析和命名实体识别等核心任务。主要内容涵盖： NLP基础：文本表示方法（词袋模型、TF-IDF、词嵌入）及预处理技术 文本...
-- 😊 [人工智能：从理论到实践的全方位解析](https://blog.csdn.net/qq_16242613/article/details/146055685) 📊 普通
-  人工智能：从理论到实践的全方位解析
+- 😊 [一篇5000字教程教大家怎么在Pycharm中调用AI模型的API进行辅助编程（可以免费无限使用Gemini-2.5-Flash-lite，Claude4.5也能调用）](https://blog.csdn.net/nmdbbzcl/article/details/156592102) 🔥🔥 很热
+  为了让生成更稳定，你可以在 ProxyAI 的 System Prompt/Persona 之类位置（如果界面提供）写上更明确的风格约束，例如“输出必须包含可运行代码块”“不要省略 import”“优...
+- 😊 [AI Ping 上新限免：GLM-4.7 与 MiniMax-M2.1 实测对比](https://blog.csdn.net/2402_88700528/article/details/156238888) 📈 关注
+  AIPing平台推出两款国产大模型GLM-4.7和MiniMax-M2.1，提供免费调用服务。GLM-4.7擅长精准推理和多功能适配，支持8k上下文；MiniMax-M2.1专注极速响应和高并发，支持...
+- 😊 [飞算JavaAI全链路实战：智能构建高可用电商系统核心架构](https://blog.csdn.net/czx_163/article/details/151297761) 📈 关注
+  本文介绍了如何基于飞算JavaAI平台快速构建电商系统核心架构的实战经验。文章首先进行需求分析，规划了包含用户管理、商品系统、订单流程等核心模块的完整电商业务蓝图。随后展示了通过AI工具自动生成数据库...
+- 😟 [Moltbot的出现，我们不由的得思考给AI的权限是否过大？](https://blog.csdn.net/lwcwam/article/details/157516178) 📈 关注
+  Moltbot作为新一代AI助手，因其能直接操作系统权限执行任务而爆火。本文探讨了其潜在风险，并提供了Windows系统下的详细部署教程，包括Node.js安装、Moltbot配置及飞书接入方法。通过...
+- 😊 [医疗大模型LoRA微调实战：我用40行代码让AI学会看病](https://blog.csdn.net/sinat_41617212/article/details/156277117) 📈 关注
+  本文介绍了一种基于LoRA技术的医疗AI微调方案，可将通用大模型快速转化为专业医学助手。文章包含技术原理、实战代码和优化技巧三部分： 技术原理：LoRA通过低秩矩阵分解实现参数高效更新，相比全参数微调...
 
 
 ### 网络安全资讯
@@ -86,25 +86,25 @@ MIT
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
-- 😊 [150 万个智能体在人间为所欲为](https://cloud.tencent.com/developer/article/2628452) 📈 关注
-  本文为《智能体·新世界》系列第三期：AI社交网站Moltbook火了，但人类的万维网，可能不适合AI智能体。
+- 😐 [姚顺雨在腾讯的第一篇论文，吹响了冲进AI下半场的号角](https://cloud.tencent.com/developer/article/2628448) 🔥 热门
+  直到2025年12月，原OpenAI的研究员姚顺雨被官宣加入腾讯，27岁就成为首席 AI 科学家，不到一个月后，前Sea AI Lab高级研究科学家庞天宇也官宣加入腾讯，担任混元首席科学家。
 - 😐 [2026前沿科技趋势：塑造自己的下一个版本](https://cloud.tencent.com/developer/article/2628450) 📊 普通
   科技的进步，应以人为本。今年，我们以用户视角，眺望 2030 年的自己，寻找能够帮助我们塑造自己下一个版本所需的科技，并唤起更多人开始思考、着手行动。
-- 😊 [DeepSeek-OCR-2 开源 OCR 模型的技术](https://cloud.tencent.com/developer/article/2628496) 📊 普通
-  OCR应用的场景和类型很广，本次使用Qwen2的架构，解决看的全（扫码方式优化）、看的的准（内容识别、视觉标记、降低重复率），多裁剪策略提取核心信息。和其他OCR模型项目还是看自己的引用场景，通用场景...
+- 😊 [开发利器 openCode + Oh My OpenCode 四大核心智能体：Sisyphus、Prometheus、Atlas 与 Hephaestus](https://cloud.tencent.com/developer/article/2628498) 📊 普通
+  oh-my-opencode 是基于openCode 的的一个多智能体协作插件，现在已经更新到3.2.1了，本次大版本 3.2.0 新增了 Hephaestus（赫菲斯托斯） 智能体。
 
 
 ### GitHub 趋势项目
 
+- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
-- [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-- [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) - No description
 
 
 
@@ -149,18 +149,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+给定字符串，找出其中最长的回文子串
 
-标签: 数组, 哈希表
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -171,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-世界上第一个域名是symbolics.com，注册于1985年3月15日
+第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Kubernetes权威指南》** - 龚正等
 
-面向对象设计的经典模式 (分类: 软件设计)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -189,27 +189,27 @@ satellite communication systems has elevated the importance of secure vide...
 ### 🚀 创业公司动态
 
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Ambient Coding** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -223,12 +223,12 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
@@ -247,27 +247,27 @@ git commit -m "Add user authentication feature"
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：⚡ 性能优化师
 
-挑战ID: `bda698` | 日期: 2026-02-14
+挑战ID: `a89be0` | 日期: 2026-02-15
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
@@ -276,30 +276,30 @@ git commit -m "Add user authentication feature"
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Tauri** (Rust) - ⭐ 70k+
 
-高性能代码编辑器
+使用Rust构建跨平台桌面应用
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**云架构师** (高级) 🚀
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-世界上有10种人：懂二进制的和不懂二进制的。
+程序员的口头禅：在我的机器上运行得很好！
 
 
 ### 🐙 GitHub 生态统计
@@ -313,7 +313,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-02-14 08:17:27
+- 📅 更新时间: 2026-02-15 08:19:29
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -325,12 +325,13 @@ git commit -m "Add user authentication feature"
 
 - 📰 新闻总数: 8
 - 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 7.6/100
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 14.5/100
 
 🏷️ **热门关键词**:
-- AI (4次)
-- 人工智能 (2次)
+- AI (6次)
+- AR (1次)
+- OpenAI (1次)
 
 
 ### 🤖 关于此项目
