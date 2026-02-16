@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-02-15)
+## 今日更新 (2026-02-16)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- 😊 [一篇5000字教程教大家怎么在Pycharm中调用AI模型的API进行辅助编程（可以免费无限使用Gemini-2.5-Flash-lite，Claude4.5也能调用）](https://blog.csdn.net/nmdbbzcl/article/details/156592102) 🔥🔥 很热
-  为了让生成更稳定，你可以在 ProxyAI 的 System Prompt/Persona 之类位置（如果界面提供）写上更明确的风格约束，例如“输出必须包含可运行代码块”“不要省略 import”“优...
-- 😊 [AI Ping 上新限免：GLM-4.7 与 MiniMax-M2.1 实测对比](https://blog.csdn.net/2402_88700528/article/details/156238888) 📈 关注
-  AIPing平台推出两款国产大模型GLM-4.7和MiniMax-M2.1，提供免费调用服务。GLM-4.7擅长精准推理和多功能适配，支持8k上下文；MiniMax-M2.1专注极速响应和高并发，支持...
-- 😊 [飞算JavaAI全链路实战：智能构建高可用电商系统核心架构](https://blog.csdn.net/czx_163/article/details/151297761) 📈 关注
-  本文介绍了如何基于飞算JavaAI平台快速构建电商系统核心架构的实战经验。文章首先进行需求分析，规划了包含用户管理、商品系统、订单流程等核心模块的完整电商业务蓝图。随后展示了通过AI工具自动生成数据库...
-- 😟 [Moltbot的出现，我们不由的得思考给AI的权限是否过大？](https://blog.csdn.net/lwcwam/article/details/157516178) 📈 关注
-  Moltbot作为新一代AI助手，因其能直接操作系统权限执行任务而爆火。本文探讨了其潜在风险，并提供了Windows系统下的详细部署教程，包括Node.js安装、Moltbot配置及飞书接入方法。通过...
-- 😊 [医疗大模型LoRA微调实战：我用40行代码让AI学会看病](https://blog.csdn.net/sinat_41617212/article/details/156277117) 📈 关注
-  本文介绍了一种基于LoRA技术的医疗AI微调方案，可将通用大模型快速转化为专业医学助手。文章包含技术原理、实战代码和优化技巧三部分： 技术原理：LoRA通过低秩矩阵分解实现参数高效更新，相比全参数微调...
+- 😊 [打破AI调用壁垒：Antigravity Tools如何用Rust+Tauri重构你的AI工作流](https://blog.csdn.net/u012094427/article/details/156536490) 🔥🔥 很热
+  摘要：AntigravityTools是一个基于Rust和Tauri的开源AI调度系统，旨在解决多AI账号管理和协议转换难题。它支持OpenAI、Claude、Gemini等主流AI协议，通过本地化代...
+- 😊 [深度学习实战119-AI大模型+Agent重塑医疗行业：智能诊疗助手项目完整代码实战](https://blog.csdn.net/weixin_42878111/article/details/157692979) 🔥🔥 很热
+  本文介绍了一个智能诊疗助手项目的开发过程，旨在解决医疗领域信息不对称问题。项目采用模块化Agent架构，包含推理引擎、工具集成、安全护栏和记忆管理四大核心组件。文章详细阐述了环境搭建步骤、基础数据结构...
+- 😊 [OpenClaw + Antigravity 本地 AI 配置完整教程](https://blog.csdn.net/xianyu120/article/details/157766222) 🔥🔥 很热
+  Antigravity Manager 是一个强大的 AI API 代理工具，可以让你通过本地服务访问多个 AI 模型（Claude、Gemini、GPT 等），统一管理 API 密钥和请求。项目地址...
+- 😊 [快速搭建个人AI知识库教程（超详细+实战）从零入门到精通，一篇全掌握！](https://blog.csdn.net/2401_85373898/article/details/152038581) 🔥 热门
+  项目的 GitHub 地址是：https://github.com/chaitin/PandaWiki点个 Star 支持一下国产开源软件吧！
+- 😐 [Silly Tavern酒馆ai角色卡与世界书导入超详细教程！](https://blog.csdn.net/weixin_41961749/article/details/148652847) 📈 关注
+  前几天，我在设置 Silly Tavern 的时候，想导入一个喜欢的角色卡，结果发现不少朋友其实已经下载好了角色资源，但却不知道怎么正确导入使用。这篇文章就作为一份完整的新手向教程，一步步教你如何在 ...
 
 
 ### 网络安全资讯
@@ -86,12 +86,12 @@ MIT
 
 ### 技术就业趋势
 
-边缘计算和IoT专家在制造业和智能城市项目中需求增加。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
-- 😐 [姚顺雨在腾讯的第一篇论文，吹响了冲进AI下半场的号角](https://cloud.tencent.com/developer/article/2628448) 🔥 热门
-  直到2025年12月，原OpenAI的研究员姚顺雨被官宣加入腾讯，27岁就成为首席 AI 科学家，不到一个月后，前Sea AI Lab高级研究科学家庞天宇也官宣加入腾讯，担任混元首席科学家。
+- 😊 [EdgeOne Pages 全栈能力再升级，正式支持 TanStack Start 及 Vike 框架](https://cloud.tencent.com/developer/article/2628716) 📈 关注
+  EdgeOne Pages 现已正式支持 TanStack Start 与 Vike 框架的部署。
 - 😐 [2026前沿科技趋势：塑造自己的下一个版本](https://cloud.tencent.com/developer/article/2628450) 📊 普通
   科技的进步，应以人为本。今年，我们以用户视角，眺望 2030 年的自己，寻找能够帮助我们塑造自己下一个版本所需的科技，并唤起更多人开始思考、着手行动。
 - 😊 [开发利器 openCode + Oh My OpenCode 四大核心智能体：Sisyphus、Prometheus、Atlas 与 Hephaestus](https://cloud.tencent.com/developer/article/2628498) 📊 普通
@@ -100,10 +100,10 @@ MIT
 
 ### GitHub 趋势项目
 
-- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
-- [SynkraAI/aios-core](https://github.com/SynkraAI/aios-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
+- [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
-- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 
 
@@ -111,14 +111,14 @@ MIT
 
 ### AI 研究论文
 
-- [Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment](https://arxiv.org/abs/2602.12281v1) - Jacky Kwok, Xilun Zhang, Mengdi Xu, Yuejiang Liu, Azalia Mirhoseini, Chelsea Finn, Marco Pavone
-  The long-standing vision of general-purpose robots hinges on their ability to understand and act upon natural language instructions. Vision-Language-A...
+- [Semantic Chunking and the Entropy of Natural Language](https://arxiv.org/abs/2602.13194v1) - Weishun Zhong, Doron Sivan, Tankut Can, Mikhail Katkov, Misha Tsodyks
+  The entropy rate of printed English is famously estimated to be about one bit per character, a benchmark that modern large language models (LLMs) have...
 
-- [UniT: Unified Multimodal Chain-of-Thought Test-time Scaling](https://arxiv.org/abs/2602.12279v1) - Leon Liangyu Chen, Haoyu Ma, Zhipeng Fan, Ziqi Huang, Animesh Sinha, Xiaoliang Dai, Jialiang Wang, Zecheng He, Jianwei Yang, Chunyuan Li, Junzhe Sun, Chu Wang, Serena Yeung-Levy, Felix Juefei-Xu
-  Unified models can handle both multimodal understanding and generation within a single architecture, yet they typically operate in a single pass witho...
+- [CoPE-VideoLM: Codec Primitives For Efficient Video Language Models](https://arxiv.org/abs/2602.13191v1) - Sayan Deb Sarkar, Rémi Pautrat, Ondrej Miksik, Marc Pollefeys, Iro Armeni, Mahdi Rad, Mihai Dusmanu
+  Video Language Models (VideoLMs) empower AI systems to understand temporal dynamics in videos. To fit to the maximum context window constraint, curren...
 
-- [AttentionRetriever: Attention Layers are Secretly Long Document Retrievers](https://arxiv.org/abs/2602.12278v1) - David Jiahao Fu, Lam Thanh Do, Jiayu Li, Kevin Chen-Chuan Chang
-  Retrieval augmented generation (RAG) has been widely adopted to help Large Language Models (LLMs) to process tasks involving long documents. However, ...
+- [Optimal Take-off under Fuzzy Clearances](https://arxiv.org/abs/2602.13166v1) - Hugo Henry, Arthur Tsai, Kelly Cohen
+  This paper presents a hybrid obstacle avoidance architecture that integrates Optimal Control under clearance with a Fuzzy Rule Based System (FRBS) to ...
 
 
 
@@ -149,18 +149,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**二叉树的最大深度** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+给定二叉树，找出其最大深度
 
-标签: 字符串, 动态规划
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -171,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《深度学习》** - Ian Goodfellow
 
-容器编排平台的完整指南 (分类: 云原生)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -194,41 +194,41 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Brain.fm Focus** - Brain.fm
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
 
-**安全漏洞修复** (难度: 高级)
+**算法优化挑战** (难度: 中等)
 
-识别并修复一个Web应用中的安全漏洞
+优化一个排序算法，使其在大数据集上的性能提升50%
 
-🏷️ 标签: 安全, Web开发 | ⏱️ 预计时间: 2-5小时 | 🎯 奖励积分: 130
+🏷️ 标签: 算法, 性能优化 | ⏱️ 预计时间: 2-4小时 | 🎯 奖励积分: 100
 
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
@@ -254,52 +254,52 @@ git commit -m "Add user authentication feature"
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `a89be0` | 日期: 2026-02-15
+挑战ID: `48f766` | 日期: 2026-02-16
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Blockchain** 📉 -3% - 区块链热度回落
+- **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Zed** (Rust) - ⭐ 25k+
 
-使用Rust构建跨平台桌面应用
+高性能代码编辑器
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**全栈开发** (中级) 📊
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -313,7 +313,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-02-15 08:19:29
+- 📅 更新时间: 2026-02-16 08:32:55
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -324,14 +324,16 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 14.5/100
+- 😊 积极新闻: 6 (75.0%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 17.0/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- AR (1次)
+- AI (5次)
+- AR (2次)
 - OpenAI (1次)
+- 深度学习 (1次)
+- GPT (1次)
 
 
 ### 🤖 关于此项目
