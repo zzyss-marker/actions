@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-02-17)
+## 今日更新 (2026-02-18)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [人工智能 Gemini 2.5 Pro：深度解析技术突破与实战应用](https://blog.csdn.net/2401_89899187/article/details/157506770) 🔥🔥 很热
-  2025年3月，谷歌DeepMind发布了Gemini 2.5 Pro实验版，经过三个月的迭代优化，6月正式推出稳定版本，标志着AI技术进入新的里程碑。这款被称为"思考型AI"的旗舰模型，在LMAre...
-- 😊 [Claude登不上、没账号？国内免费替代方案！用claude-code-router秒解锁AI编码](https://blog.csdn.net/xiesibo2012/article/details/156128308) 🔥 热门
-  无需Claude账号、不用科学上网，通过就能在国内免费使用AI编码工具！配置简单，支持Kimi、通义千问等主流模型，完全替代Claude Code的核心功能。不管是日常编码、写测试用例，还是解决技术难...
-- 😊 [2026年1月18日-Obsidian + AI，笔记效率提升10倍！一键生成Canvas和小红书风格笔记](https://blog.csdn.net/wwwzhouhui/article/details/157100028) 🔥 热门
-  本文介绍了如何在Obsidian笔记软件中部署AI辅助笔记系统Obsidian Skills。该系统通过claudian插件实现侧边栏AI对话功能，结合obsidian-skills技能库可自动生成C...
-- 😊 [AI赋能原则9解读思考：高智能 AI 时代的人类生存与发展之道-协同进化](https://blog.csdn.net/xiaofeng10330111/article/details/155390688) 📈 关注
-  文章围绕霍夫曼《AI赋能》中“与高智能 AI 目标一致、协同进化”的原则，分析了 AI 对人类能力和角色的挑战，强调通过理解 AI、目标对齐与双向协作，实现能力放大与长期生存。文章提出能力重构与行动指...
-- 😊 [【2025年度总结】从代码萌新到万粉博主：AI赋能下的破局与生长](https://blog.csdn.net/2302_79376097/article/details/156460431) 📈 关注
-  2025年技术成长与AI融合之路：从Java图形化编程起步，完成C++理论学习并探索Linux终端；在AI智能体开发领域取得突破，参与开发比赛并运用AI辅助编程提升效率；CSDN粉丝突破万粉，实现技术...
+- 😊 [大模型之Spring AI实战系列（三十二）：Spring Boot + DeepSeek 实战指南：工具函数（Function Call）实战应用](https://blog.csdn.net/xiaobing259/article/details/148792694) 🔥🔥 很热
+  随着人工智能技术的飞速发展，大模型在各个领域的应用日益广泛，为开发者带来了前所未有的机遇和挑战。在众多的框架和平台中，Spring Boot以其简洁、高效的特点，成为了构建企业级应用的首选之一。而De...
+- 😊 [【从 0 到 1 吃透 AI Agent】：底层逻辑、工具链选型与代码实现](https://blog.csdn.net/user340/article/details/155828089) 🔥🔥 很热
+  在AI技术飞速发展的今天，大语言模型（LLM）的出现让人工智能的能力边界不断拓展，而**AI Agent（智能体）** 作为基于LLM的下一代智能交互形态，正逐渐成为行业关注的焦点。
+- 😊 [【AI 学习】深入解析卷积神经网络（CNN）：理论、实现与应用](https://blog.csdn.net/weixin_63944437/article/details/156256439) 🔥 热门
+  卷积神经网络（CNN）是计算机视觉领域的核心模型，能够自动提取图像特征并实现高效分类。本文系统介绍了CNN的发展背景、理论基础及实践应用，重点解析了局部感受野、参数共享和池化等核心设计理念，详细阐述了...
+- 😊 [旧电脑秒变 AI 员工：OpenClaw 本地部署教程（含环境配置 + 插件开发 + 常见坑）](https://blog.csdn.net/weixin_43107715/article/details/157763706) 🔥 热门
+  本文详细介绍了OpenClaw AI助手的低配置部署方案和插件开发指南。主要内容包括：1) 最低2vCPU+2GiB内存的硬件要求及系统优化；2) Windows/Ubuntu环境下的国内镜像源配置；...
+- 😊 [AI的提示词专栏：Prompt 与 Python Pandas 的结合使用指南](https://blog.csdn.net/weixin_43151418/article/details/154074278) 📈 关注
+  该指南聚焦 Prompt 与 Pandas 结合的实践应用，先阐述二者结合的价值 —— 降低 Pandas 学习门槛、提升数据处理效率，接着梳理代码生成、解释、优化等 6 大核心应用场景及对应 Pro...
 
 
 ### 网络安全资讯
@@ -86,25 +86,25 @@ MIT
 
 ### 技术就业趋势
 
-可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
-- 😐 [姚顺雨在腾讯的第一篇论文，吹响了冲进AI下半场的号角](https://cloud.tencent.com/developer/article/2628448) 🔥 热门
-  直到2025年12月，原OpenAI的研究员姚顺雨被官宣加入腾讯，27岁就成为首席 AI 科学家，不到一个月后，前Sea AI Lab高级研究科学家庞天宇也官宣加入腾讯，担任混元首席科学家。
 - 😊 [EdgeOne Pages 全栈能力再升级，正式支持 TanStack Start 及 Vike 框架](https://cloud.tencent.com/developer/article/2628716) 📈 关注
   EdgeOne Pages 现已正式支持 TanStack Start 与 Vike 框架的部署。
+- 😐 [2026前沿科技趋势：塑造自己的下一个版本](https://cloud.tencent.com/developer/article/2628450) 📊 普通
+  科技的进步，应以人为本。今年，我们以用户视角，眺望 2030 年的自己，寻找能够帮助我们塑造自己下一个版本所需的科技，并唤起更多人开始思考、着手行动。
 - 😊 [开发利器 openCode + Oh My OpenCode 四大核心智能体：Sisyphus、Prometheus、Atlas 与 Hephaestus](https://cloud.tencent.com/developer/article/2628498) 📊 普通
   oh-my-opencode 是基于openCode 的的一个多智能体协作插件，现在已经更新到3.2.1了，本次大版本 3.2.0 新增了 Hephaestus（赫菲斯托斯） 智能体。
 
 
 ### GitHub 趋势项目
 
-- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
-- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
-- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 
 
 
@@ -135,16 +135,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $255.78 📉 -5.95 (-2.3%)
-- **GOOGL**: $305.72 📉 -3.28 (-1.1%)
-- **MSFT**: $401.32 📉 -0.52 (-0.1%)
+- **AAPL**: $263.88 📈 +8.10 (+3.2%)
+- **GOOGL**: $302.02 📉 -3.70 (-1.2%)
+- **MSFT**: $396.86 📉 -4.46 (-1.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
@@ -164,14 +164,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
+第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《深度学习》** - Ian Goodfellow
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -181,28 +181,28 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Synthwave Mix** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -216,27 +216,26 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**遵循单一职责原则**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
@@ -249,52 +248,52 @@ const a = 25;
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `af0fb5` | 日期: 2026-02-17
+挑战ID: `ebac97` | 日期: 2026-02-18
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-现代JavaScript/TypeScript运行时
+现代Web应用框架
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**安全工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+程序员的三大美德：懒惰、急躁和傲慢。
 
 
 ### 🐙 GitHub 生态统计
@@ -308,7 +307,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-02-17 08:31:44
+- 📅 更新时间: 2026-02-18 08:31:44
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -321,13 +320,13 @@ const a = 25;
 - 📰 新闻总数: 8
 - 😊 积极新闻: 7 (87.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 16.5/100
+- 🔥 平均热度: 16.9/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- AR (2次)
-- 人工智能 (1次)
-- OpenAI (1次)
+- AI (5次)
+- 人工智能 (2次)
+- 神经网络 (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
