@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-02-18)
+## 今日更新 (2026-02-19)
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- 😊 [大模型之Spring AI实战系列（三十二）：Spring Boot + DeepSeek 实战指南：工具函数（Function Call）实战应用](https://blog.csdn.net/xiaobing259/article/details/148792694) 🔥🔥 很热
-  随着人工智能技术的飞速发展，大模型在各个领域的应用日益广泛，为开发者带来了前所未有的机遇和挑战。在众多的框架和平台中，Spring Boot以其简洁、高效的特点，成为了构建企业级应用的首选之一。而De...
-- 😊 [【从 0 到 1 吃透 AI Agent】：底层逻辑、工具链选型与代码实现](https://blog.csdn.net/user340/article/details/155828089) 🔥🔥 很热
-  在AI技术飞速发展的今天，大语言模型（LLM）的出现让人工智能的能力边界不断拓展，而**AI Agent（智能体）** 作为基于LLM的下一代智能交互形态，正逐渐成为行业关注的焦点。
-- 😊 [【AI 学习】深入解析卷积神经网络（CNN）：理论、实现与应用](https://blog.csdn.net/weixin_63944437/article/details/156256439) 🔥 热门
-  卷积神经网络（CNN）是计算机视觉领域的核心模型，能够自动提取图像特征并实现高效分类。本文系统介绍了CNN的发展背景、理论基础及实践应用，重点解析了局部感受野、参数共享和池化等核心设计理念，详细阐述了...
-- 😊 [旧电脑秒变 AI 员工：OpenClaw 本地部署教程（含环境配置 + 插件开发 + 常见坑）](https://blog.csdn.net/weixin_43107715/article/details/157763706) 🔥 热门
-  本文详细介绍了OpenClaw AI助手的低配置部署方案和插件开发指南。主要内容包括：1) 最低2vCPU+2GiB内存的硬件要求及系统优化；2) Windows/Ubuntu环境下的国内镜像源配置；...
-- 😊 [AI的提示词专栏：Prompt 与 Python Pandas 的结合使用指南](https://blog.csdn.net/weixin_43151418/article/details/154074278) 📈 关注
-  该指南聚焦 Prompt 与 Pandas 结合的实践应用，先阐述二者结合的价值 —— 降低 Pandas 学习门槛、提升数据处理效率，接着梳理代码生成、解释、优化等 6 大核心应用场景及对应 Pro...
+- 😊 [收藏！2025年大模型四大技术突破：多模态、MoE、强化学习与AI Agent协同演进，小白也能看懂](https://blog.csdn.net/Android_XG/article/details/156046426) 🔥 热门
+  2025年AI大模型技术迎来四大关键突破：多模态从"拼接"到"原生"成为标配；混合专家(MoE)架构普及解决规模与成本矛盾；强化学习增强推理能力使模型学会"思考"；AI Agent商业化爆发整合所有能...
+- 😊 [【保姆级教程】10分钟把手机变成AI Agent：自动刷课、回消息，学不会我“退网”！](https://blog.csdn.net/lwcwam/article/details/156805782) 📈 关注
+  本文详细介绍了如何快速部署AI手机助手，利用大模型(LLM)的视觉理解能力通过ADB接口控制手机操作。文章从环境配置开始，包括获取GLM API密钥、Python环境搭建、ADB工具安装到手机开发者模...
+- 😊 [AI赋能原则9解读思考：高智能 AI 时代的人类生存与发展之道-协同进化](https://blog.csdn.net/xiaofeng10330111/article/details/155390688) 📈 关注
+  文章围绕霍夫曼《AI赋能》中“与高智能 AI 目标一致、协同进化”的原则，分析了 AI 对人类能力和角色的挑战，强调通过理解 AI、目标对齐与双向协作，实现能力放大与长期生存。文章提出能力重构与行动指...
+- 😐 [AI赋能原则8解读思考：当 AI 能“完美决策”-为什么动态契约才是安全之钥](https://blog.csdn.net/xiaofeng10330111/article/details/155389840) 📈 关注
+  当 AI 拥有高度决策能力时，固定规则无法确保安全与有效。必须通过“动态契约”——持续调整、实时监督、责任共担——才能让 AI 在复杂环境中真正成为可靠的决策伙伴，而不是潜在的风险源。
+- 😊 [规范驱动开发（SDD）：用 AI 写生产级代码的完整指南](https://blog.csdn.net/j3T9Z7H/article/details/154711695) 📈 关注
+  两者关系：提示工程是规范驱动中的一种技巧，但规范驱动需要超越单一提示的全面规范。直面顾虑：工作安全（AI 是增能不是替代）、学习曲线（提供培训）、质量（有验证框架）。核心思想是：让“形式化、可执行的规...
 
 
 ### 网络安全资讯
@@ -86,32 +86,39 @@ MIT
 
 ### 技术就业趋势
 
-低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
+- 😊 [一键管控 AI 爬虫，腾讯 EdgeOne 基础 Bot 管理能力免费开放](https://cloud.tencent.com/developer/article/2628827) 📈 关注
+  生成式 AI 对数据与内容的需求迅猛增长，开发者该如何管控 AI 爬虫，保障自身利益不受侵害？
 - 😊 [EdgeOne Pages 全栈能力再升级，正式支持 TanStack Start 及 Vike 框架](https://cloud.tencent.com/developer/article/2628716) 📈 关注
   EdgeOne Pages 现已正式支持 TanStack Start 与 Vike 框架的部署。
-- 😐 [2026前沿科技趋势：塑造自己的下一个版本](https://cloud.tencent.com/developer/article/2628450) 📊 普通
-  科技的进步，应以人为本。今年，我们以用户视角，眺望 2030 年的自己，寻找能够帮助我们塑造自己下一个版本所需的科技，并唤起更多人开始思考、着手行动。
 - 😊 [开发利器 openCode + Oh My OpenCode 四大核心智能体：Sisyphus、Prometheus、Atlas 与 Hephaestus](https://cloud.tencent.com/developer/article/2628498) 📊 普通
   oh-my-opencode 是基于openCode 的的一个多智能体协作插件，现在已经更新到3.2.1了，本次大版本 3.2.0 新增了 Hephaestus（赫菲斯托斯） 智能体。
 
 
 ### GitHub 趋势项目
 
-- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
+- [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
 
 
 
 
 ### AI 研究论文
 
-- arXiv 论文数据暂时不可用，请稍后再查看
+- [Policy Compiler for Secure Agentic Systems](https://arxiv.org/abs/2602.16708v1) - Nils Palumbo, Sarthak Choudhary, Jihye Choi, Prasad Chalasani, Mihai Christodorescu, Somesh Jha
+  LLM-based agents are increasingly being deployed in contexts requiring complex authorization policies: customer service protocols, approval workflows,...
+
+- [Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology](https://arxiv.org/abs/2602.16703v1) - Shen Zhou Hong, Alex Kleinman, Alyssa Mathiowetz, Adam Howes, Julian Cohen, Suveer Ganta, Alex Letizia, Dora Liao, Deepika Pahari, Xavier Roberts-Gaal, Luca Righetti, Joe Torres
+  Large language models (LLMs) perform strongly on biological benchmarks, raising concerns that they may help novice actors acquire dual-use laboratory ...
+
+- [Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents](https://arxiv.org/abs/2602.16699v1) - Wenxuan Ding, Nicholas Tomlin, Greg Durrett
+  LLMs are increasingly being used for complex problems which are not necessarily resolved in a single response, but require interacting with an environ...
 
 
 
@@ -135,16 +142,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $263.88 📈 +8.10 (+3.2%)
-- **GOOGL**: $302.02 📉 -3.70 (-1.2%)
-- **MSFT**: $396.86 📉 -4.46 (-1.1%)
+- **AAPL**: $264.35 📈 +0.47 (+0.2%)
+- **GOOGL**: $303.33 📈 +1.31 (+0.4%)
+- **MSFT**: $399.60 📈 +2.74 (+0.7%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
@@ -164,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《设计模式》** - Gang of Four
 
-深度学习领域的权威教材 (分类: 人工智能)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -181,28 +188,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Brain.fm Focus** - Brain.fm
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -228,29 +235,28 @@ D. 面向对象
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**使用版本控制**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🥷 代码忍者
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `ebac97` | 日期: 2026-02-18
+挑战ID: `3bf6a6` | 日期: 2026-02-19
 
 
 ### 📊 技术话题投票
@@ -268,20 +274,20 @@ function formatCurrency(amount) { ... }
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-现代Web应用框架
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
@@ -293,7 +299,7 @@ function formatCurrency(amount) { ... }
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -307,7 +313,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-02-18 08:31:44
+- 📅 更新时间: 2026-02-19 08:30:02
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -320,12 +326,10 @@ function formatCurrency(amount) { ... }
 - 📰 新闻总数: 8
 - 😊 积极新闻: 7 (87.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 16.9/100
+- 🔥 平均热度: 10.4/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- 人工智能 (2次)
-- 神经网络 (1次)
+- AI (6次)
 - AR (1次)
 
 
