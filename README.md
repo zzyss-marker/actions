@@ -55,70 +55,66 @@
 
 MIT
 
-## 今日更新 (2026-02-19)
+## 今日更新 (2026-02-23)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- 😊 [收藏！2025年大模型四大技术突破：多模态、MoE、强化学习与AI Agent协同演进，小白也能看懂](https://blog.csdn.net/Android_XG/article/details/156046426) 🔥 热门
-  2025年AI大模型技术迎来四大关键突破：多模态从"拼接"到"原生"成为标配；混合专家(MoE)架构普及解决规模与成本矛盾；强化学习增强推理能力使模型学会"思考"；AI Agent商业化爆发整合所有能...
-- 😊 [【保姆级教程】10分钟把手机变成AI Agent：自动刷课、回消息，学不会我“退网”！](https://blog.csdn.net/lwcwam/article/details/156805782) 📈 关注
-  本文详细介绍了如何快速部署AI手机助手，利用大模型(LLM)的视觉理解能力通过ADB接口控制手机操作。文章从环境配置开始，包括获取GLM API密钥、Python环境搭建、ADB工具安装到手机开发者模...
-- 😊 [AI赋能原则9解读思考：高智能 AI 时代的人类生存与发展之道-协同进化](https://blog.csdn.net/xiaofeng10330111/article/details/155390688) 📈 关注
-  文章围绕霍夫曼《AI赋能》中“与高智能 AI 目标一致、协同进化”的原则，分析了 AI 对人类能力和角色的挑战，强调通过理解 AI、目标对齐与双向协作，实现能力放大与长期生存。文章提出能力重构与行动指...
-- 😐 [AI赋能原则8解读思考：当 AI 能“完美决策”-为什么动态契约才是安全之钥](https://blog.csdn.net/xiaofeng10330111/article/details/155389840) 📈 关注
-  当 AI 拥有高度决策能力时，固定规则无法确保安全与有效。必须通过“动态契约”——持续调整、实时监督、责任共担——才能让 AI 在复杂环境中真正成为可靠的决策伙伴，而不是潜在的风险源。
-- 😊 [规范驱动开发（SDD）：用 AI 写生产级代码的完整指南](https://blog.csdn.net/j3T9Z7H/article/details/154711695) 📈 关注
-  两者关系：提示工程是规范驱动中的一种技巧，但规范驱动需要超越单一提示的全面规范。直面顾虑：工作安全（AI 是增能不是替代）、学习曲线（提供培训）、质量（有验证框架）。核心思想是：让“形式化、可执行的规...
+- 😊 [人工智能常识分享100个AI基础知识：从零开始成为半个AI高手](https://blog.csdn.net/ailuloo/article/details/154354732) 🔥 热门
+  人工智能正在改变我们的世界，无论你是学生、职场人士还是创业者，了解AI基础知识都变得越来越重要。这篇博客将带你快速掌握100个AI核心概念，让你在短时间内成为半个AI高手。
+- 😊 [【IoTDB】从 TsFile 到 AI 原生：揭秘 Apache IoTDB 高性能存储引擎](https://blog.csdn.net/Morse_Chen/article/details/157262371) 🔥 热门
+  Apache IoTDB是清华主导的顶级时序数据库，专为工业物联网设计。创新树形模型映射物理层级，端边云协同架构大幅降本增效。相比InfluxDB，具备超高写入吞吐与压缩比，支持AI原生，是智能制造数...
+- 😊 [Antigravity：一个能完全替代 Cursor 的谷歌 AI 编程工具，目前还是免费阶段，不去试试吗](https://blog.csdn.net/2401_88055648/article/details/155112333) 🔥 热门
+  最近在折腾 AI 编程工具的时候，遇到一个新东西，叫。这个工具是谷歌出的，可以直接用上最新的 Gemini 3，也能连上 Claude 4.5，还不用付费。试用下来感觉挺实用的，所以整理一下给大家分享...
+- 😊 [OpenSpec 实战：用规范驱动开发破解 AI 编程协作难题](https://blog.csdn.net/u010398771/article/details/156017830) 📈 关注
+  OpenSpec是一个面向AI编程助手的规范驱动开发框架，通过"规范→执行→验证"的闭环流程提升开发效率。其核心是让AI先撰写结构化规范（包括功能描述、测试用例等），再基于规范生成代码并自动验证。该框...
+- 😊 [目前最火的 AI 助手 Clawdbot 又又又改名了 并且发布新版本](https://blog.csdn.net/qq_31470439/article/details/157546993) 📈 关注
+  两个月前还叫 Clawdbot，三天前改成 Moltbot，今天又宣布改名 OpenClaw。这只开源龙虾到底经历了什么？如果还不会安装没玩过的话，可以参考我得上一篇博客。
 
 
 ### 网络安全资讯
 
-- [网络攻击者利用Click Fix脚本中的DNS TXT记录执行恶意Power Shell命令](https://www.anquanke.com/post/id/314749) - 安全公告，详情请点击链接查看完整内容
-- [MUZZLE：针对间接提示注入攻击的网络智能体自适应智能红队测试](https://paper.seebug.org/3464/) - 作者：Georgios Syros, Evan Rose, Brian Grinstead
-译者：知道创宇404实验室翻译组
-原文链接：https://arxiv.org/html/2602.0922...
-- [Seedance2.0席卷全球，新一代内容安全如何应对？](https://www.4hou.com/posts/425k) - 当前，全球AIGC技术已从能不能生成全面迈入生成会不会失控的关键阶段。以Seedance 2.0、Nano Banana pro为代表的新一代AI生成工具，已实现图片、视频的超逼真合成，达到人眼无法区...
+- RSS 订阅源暂时不可用，请稍后再查看
 
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
 
 ### 科技热点
 
-- 😊 [一键管控 AI 爬虫，腾讯 EdgeOne 基础 Bot 管理能力免费开放](https://cloud.tencent.com/developer/article/2628827) 📈 关注
-  生成式 AI 对数据与内容的需求迅猛增长，开发者该如何管控 AI 爬虫，保障自身利益不受侵害？
-- 😊 [EdgeOne Pages 全栈能力再升级，正式支持 TanStack Start 及 Vike 框架](https://cloud.tencent.com/developer/article/2628716) 📈 关注
-  EdgeOne Pages 现已正式支持 TanStack Start 与 Vike 框架的部署。
-- 😊 [开发利器 openCode + Oh My OpenCode 四大核心智能体：Sisyphus、Prometheus、Atlas 与 Hephaestus](https://cloud.tencent.com/developer/article/2628498) 📊 普通
-  oh-my-opencode 是基于openCode 的的一个多智能体协作插件，现在已经更新到3.2.1了，本次大版本 3.2.0 新增了 Hephaestus（赫菲斯托斯） 智能体。
+- 😐 [推开AI的门](https://cloud.tencent.com/developer/article/2629003) 📈 关注
+  当第一次体验到大模型带给你的惊喜时，你有没有想过，它到底是怎么思考的？你或许忙碌、疲惫，连思考“它是怎么思考的”都来不及去思考。可是在过去的很长时间里，模型参数、token、向量化、蒸馏、温度系数等层...
+- 😟 [禁用Windows Management Instrumentation服务引起无法更新补丁等异常](https://cloud.tencent.com/developer/article/2628867) 📊 普通
+  问题：Windows更新报错，原因未知排查发现跟禁用Windows Management Instrumentation有关从这几张截图（服务器管理器、tasklist 和 wmic 报错）来看，问题...
+- 😐 [nirsoft.net访问不了的两种情况](https://cloud.tencent.com/developer/article/2629113) 📊 普通
+  nirsoft.net访问不了的两种情况一、国内没配梯子的情况下，即便配置了hosts能ping通，仍然访问不了
 
 
 ### GitHub 趋势项目
 
-- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
-- [p-e-w/heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
-- [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
-- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+- [huggingface/skills](https://github.com/huggingface/skills) - No description
+- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+- [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 
 
 
 
 ### AI 研究论文
 
-- [Policy Compiler for Secure Agentic Systems](https://arxiv.org/abs/2602.16708v1) - Nils Palumbo, Sarthak Choudhary, Jihye Choi, Prasad Chalasani, Mihai Christodorescu, Somesh Jha
-  LLM-based agents are increasingly being deployed in contexts requiring complex authorization policies: customer service protocols, approval workflows,...
+- [Unifying approach to uniform expressivity of graph neural networks](https://arxiv.org/abs/2602.18409v1) - Huan Luo, Jonni Virtema
+  The expressive power of Graph Neural Networks (GNNs) is often analysed via correspondence to the Weisfeiler-Leman (WL) algorithm and fragments of firs...
 
-- [Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology](https://arxiv.org/abs/2602.16703v1) - Shen Zhou Hong, Alex Kleinman, Alyssa Mathiowetz, Adam Howes, Julian Cohen, Suveer Ganta, Alex Letizia, Dora Liao, Deepika Pahari, Xavier Roberts-Gaal, Luca Righetti, Joe Torres
-  Large language models (LLMs) perform strongly on biological benchmarks, raising concerns that they may help novice actors acquire dual-use laboratory ...
+- [Leakage and Second-Order Dynamics Improve Hippocampal RNN Replay](https://arxiv.org/abs/2602.18401v1) - Josue Casco-Rodriguez, Nanda H. Krishna, Richard G. Baraniuk
+  Biological neural networks (like the hippocampus) can internally generate "replay" resembling stimulus-driven activity. Recent computational models of...
 
-- [Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents](https://arxiv.org/abs/2602.16699v1) - Wenxuan Ding, Nicholas Tomlin, Greg Durrett
-  LLMs are increasingly being used for complex problems which are not necessarily resolved in a single response, but require interacting with an environ...
+- [Learning to Tune Pure Pursuit in Autonomous Racing: Joint Lookahead and Steering-Gain Control with PPO](https://arxiv.org/abs/2602.18386v1) - Mohamed Elgouhary, Amr S. El-Wakeel
+  Pure Pursuit (PP) is widely used in autonomous racing for real-time path tracking due to its efficiency and geometric clarity, yet performance is high...
 
 
 
@@ -142,25 +138,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $264.35 📈 +0.47 (+0.2%)
-- **GOOGL**: $303.33 📈 +1.31 (+0.4%)
-- **MSFT**: $399.60 📈 +2.74 (+0.7%)
+- **AAPL**: $264.58 📈 +4.00 (+1.5%)
+- **GOOGL**: $314.98 📈 +12.13 (+4.0%)
+- **MSFT**: $397.23 📉 -1.23 (-0.3%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-将两个升序链表合并为一个新的升序链表
+给定字符串，找出其中最长的回文子串
 
-标签: 链表, 递归
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -171,14 +167,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《深度学习》** - Ian Goodfellow
 
-面向对象设计的经典模式 (分类: 软件设计)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,14 +184,14 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
@@ -207,67 +203,69 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Ambient Coding** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
 
-**算法优化挑战** (难度: 中等)
+**微服务架构设计** (难度: 高级)
 
-优化一个排序算法，使其在大数据集上的性能提升50%
+设计一个电商系统的微服务架构，包含用户、订单、支付等服务
 
-🏷️ 标签: 算法, 性能优化 | ⏱️ 预计时间: 2-4小时 | 🎯 奖励积分: 100
+🏷️ 标签: 架构设计, 微服务 | ⏱️ 预计时间: 4-8小时 | 🎯 奖励积分: 150
 
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**写测试用例**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🧠 算法大师
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `3bf6a6` | 日期: 2026-02-19
+挑战ID: `ff5656` | 日期: 2026-02-23
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
@@ -278,7 +276,7 @@ git commit -m "Add user authentication feature"
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Blockchain** 📉 -3% - 区块链热度回落
+- **Serverless** ☁️ +7% - 无服务器架构普及
 
 
 ### ⭐ 开源项目聚焦
@@ -292,14 +290,14 @@ git commit -m "Add user authentication feature"
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**全栈开发** (中级) 📊
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-真正的程序员不需要注释，代码就是最好的文档。
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -313,7 +311,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-02-19 08:30:02
+- 📅 更新时间: 2026-02-23 08:34:47
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -324,13 +322,14 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 7 (87.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 10.4/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 13.4/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- AR (1次)
+- 人工智能 (1次)
+- 物联网 (1次)
 
 
 ### 🤖 关于此项目
