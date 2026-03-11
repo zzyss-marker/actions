@@ -55,70 +55,71 @@
 
 MIT
 
-## 今日更新 (2026-03-10)
+## 今日更新 (2026-03-11)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- 😊 [2024：人工智能大模型的璀璨年代](https://blog.csdn.net/herosunly/article/details/145220916) 🔥🔥 很热
-  本文主要对2024年度人工智能大模型的创新和应用进行了总结，希望对学习大语言模型的同学们有所帮助。文章目录1. 前言2. 从OpenAI一方独霸到群雄逐鹿3. 大模型的重要应用方向：代码助手、智能客服...
-- 😊 [【TRAE】AI 编程：颠覆全栈开发，基于 TRAE AI 编程完成 Vue 3 + Node.js + MySQL 企业级项目实战，从环境搭建到部署上线](https://blog.csdn.net/qq_39720249/article/details/154664599) 🔥 热门
-  TRAE 三大智能体构成了一套完整的 AI 协作开发体系：@Chat 智能体作为代码级助手处理日常编码任务，@Builder 智能体作为项目级构建者快速搭建原型，@Builder with MCP 则...
-- 😐 [CodeBuddy AI IDE ：Skills 模式](https://blog.csdn.net/qq_32205577/article/details/154680543) 📈 关注
-  标准开发流程环境准备：安装Git、Node.js、CodeBuddy IDE或CLI工具结构创建：遵循标准文件夹结构，必须包含SKILL.md文件三层设计：按元数据层、核心指令层、资源层分层设计内容测...
-- 😊 [Spring AI 框架下接入 agent skill 手把手教程](https://blog.csdn.net/fouryears_23417/article/details/158045370) 📈 关注
-  本文介绍了如何在Spring AI中快速接入Agent Skills功能。首先说明了环境要求（Spring-AI 2.0.0-M2+），提供了Maven依赖配置和YML设置示例。然后通过创建SKILL...
-- 😊 [当 AI 走上春晚：一场“全民智能时代”背后的工程真相](https://blog.csdn.net/weixin_52908342/article/details/158071922) 📈 关注
-  当智能助手出现在春晚舞台，与观众实时互动、生成内容、调度算力、支撑超大并发时，这已不再是一场简单的技术展示，而是一场对 AI 工程体系稳定性与规模能力的极限验证。对大多数用户来说，看到的是热闹、有趣、...
+- 😊 [奇异值分解（SVD）：线性代数在AI大模型中的核心工具](https://blog.csdn.net/martian665/article/details/147767663) 🔥🔥 很热
+  摘要： 人工智能（AI）大模型的理论基础建立在线性代数、概率统计和微积分之上，其中线性代数为数据表示、模型计算和优化提供了核心工具。奇异值分解（Singular Value Decomposition...
+- 😟 [【2025保姆级教程】Qwen2.5-7B-Instruct本地部署全攻略：从0到1实现AI大模型私有化推理](https://blog.csdn.net/gitblog_02243/article/details/149874677) 🔥 热门
+  你是否还在为云端API调用成本高昂而烦恼？是否因数据隐私问题不敢使用公共大模型服务？本文将带你从零开始，在个人电脑上部署当前最热门的Qwen2.5-7B-Instruct大语言模型，仅需8GB显存即可...
+- 😊 [Spring AI：Java 生态的 AI 赋能革命，企业级智能应用新标杆](https://blog.csdn.net/2402_88700528/article/details/155036477) 📈 关注
+  摘要：SpringAI为Java生态带来企业级AI解决方案，通过统一API抽象、原生Spring集成和模块化设计，显著降低AI应用开发门槛。其核心组件ChatClient、EmbeddingClien...
+- 😐 [Google AI Studio 全指南：从入门到精通 Gemini 开发](https://blog.csdn.net/hnytgl/article/details/155037650) 📈 关注
+  在生成式 AI 的浪潮中，Google 凭借 Gemini 模型系列强势反击。而对于开发者来说，想要体验、调试并集成 Gemini 模型，最佳的入口并不是 Google Cloud Vertex AI...
+- 😊 [Bright Data MCP：突破AI数据获取限制的革命性工具](https://blog.csdn.net/2302_79177254/article/details/150706331) 📈 关注
+  MCP（模型上下文协议）是连接AI与外部世界的桥梁，它允许AI模型与各类工具、数据源建立安全的双向通信。作为中间层，MCP使AI应用能向外部资源请求信息并获取响应，突破了模型的知识局限，让AI能获取实...
 
 
 ### 网络安全资讯
 
-- [Windows 12的幻影 微软如何用AI重构取代全新系统发布](https://www.anquanke.com/post/id/315052) - 安全公告，详情请点击链接查看完整内容
-- [虚假 OpenClaw 安装程序如何传播 GhostSocks 恶意软件](https://paper.seebug.org/3470/) - 作者：Jai Minton, Ryan Dowd
-原文链接：https://www.huntress.com/blog/openclaw-github-ghostsocks-infostealer
-摘...
-- [AI算法在审判战争，而法律还在沉睡——老哈的故事](https://www.4hou.com/posts/42gJ) - 从2026年美伊“算法之夜”的空袭战场，我们看到的不仅是AI武器化的致命威胁，更暴露了数字时代网络安全的核心困局。当网络攻击与物理打击深度绑定，当AI成为网络情报战的核心引擎，现有网络安全体系、防护逻...
+- [侧边栏里的间谍假冒AI浏览器插件窃取90万用户数据](https://www.anquanke.com/post/id/315092) - 安全公告，详情请点击链接查看完整内容
+- [基于图像的提示注入：通过视觉嵌入的对抗性指令劫持多模态大语言模型](https://paper.seebug.org/3471/) - 作者：Neha Nagaraja, Lan Zhang, Zhilong Wang
+译者：知道创宇404实验室翻译组
+原文链接：https://arxiv.org/html/2603.03637v1
+...
+- [蠕虫式XMRig挖矿攻击借BYOVD漏洞规避检测](https://www.4hou.com/posts/kgyK) - 一场具备蠕虫传播能力的加密货币劫持攻击，正通过盗版软件进行传播，利用BYOVD漏洞部署定制版XMRig挖矿程序。研究人员发现，该攻击通过捆绑盗版软件传播，投放定制化XMRig挖矿木马。攻击借助BYOV...
 
 
 ### 技术就业趋势
 
-量子计算专家虽然是小众领域，但薪资水平和增长潜力显著。
+人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
 
 ### 科技热点
 
-- 😊 [腾讯云 MetaInsight：一键告别多模态 RAG 基建复杂流程](https://cloud.tencent.com/developer/article/2634970) 🔥 热门
-  只需一句“2025年公司内部新能源车电池技术突破的讨论纪要”，就能从堆积如山的公司文档、会议记录和研究报告中，瞬间定位到最相关的段落及其原始文件——这不再是科幻电影中的场景，而是今天每一家企业都应具备...
-- 😐 [同盟3月内容共创｜AI时代的架构师](https://cloud.tencent.com/developer/article/2634871) 🔥 热门
-  根据Gartner发布的2026年技能价值排序，系统架构设计高居榜首，其后依次是问题分析与建模、编程语言熟练度、算法与数据结构、跨领域知识、AI工具协作等。
-- 😊 [腾讯云对象存储入选 Forrester 全球报告](https://cloud.tencent.com/developer/article/2634979) 📊 普通
-  2026年2月14日，国际权威研究机构 Forrester 发布《2026年第一季度对象存储解决方案全景》报告（The Object Storage Solutions Landscape,Q1 20...
+- 😊 [腾讯云 Data Platform 构建 Agent Memory Lake：让智能体拥有无限记忆](https://cloud.tencent.com/developer/article/2634974) 🔥 热门
+  随着 AI Agent 技术的快速发展，其逐步从单一的模型训练与单次推理，转向持续运行、自主决策的业务闭环模式，这一转变推动了数据范式的根本性变革。与传统 AI 不同，AI Agent 运行过程中会持...
+- 😊 [数据为翼，云端赋能——腾讯云存储联合艾欧智能发布具身智能数据平台](https://cloud.tencent.com/developer/article/2634982) 📊 普通
+  2025 年以来，具身智能机器人行业迎来爆发，人形机器人加速走向量产落地。然而数据采集碎片化、PB 级数据难以高效管理、训练与推理链路割裂，成为制约产业提速的核心瓶颈。腾讯云对象存储（COS）与具身智...
+- 😐 [云上 OpenClaw（原 Clawdbot）数据持久存储指南](https://cloud.tencent.com/developer/article/2634967) 📊 普通
+  随着系统运行时间逐渐增加，这类数据规模会逐渐增长，此时使用轻量对象存储（Lighthouse 版）即可实现弹性、低成本地持久化存储数据的目的！
 
 
 ### GitHub 趋势项目
 
-- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
-- [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+- [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) - Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
 
 
 
 
 ### AI 研究论文
 
-- [Scale Space Diffusion](https://arxiv.org/abs/2603.08709v1) - Soumik Mukhopadhyay, Prateksha Udhayanan, Abhinav Shrivastava
-  Diffusion models degrade images through noise, and reversing this process reveals an information hierarchy across timesteps. Scale-space theory exhibi...
+- [From Data Statistics to Feature Geometry: How Correlations Shape Superposition](https://arxiv.org/abs/2603.09972v1) - Lucas Prieto, Edward Stevinson, Melih Barsbey, Tolga Birdal, Pedro A. M. Mediano
+  A central idea in mechanistic interpretability is that neural networks represent more features than they have dimensions, arranging them in superposit...
 
-- [Agentic Critical Training](https://arxiv.org/abs/2603.08706v1) - Weize Liu, Minghui Liu, Sy-Tuyen Ho, Souradip Chakraborty, Xiyao Wang, Furong Huang
-  Training large language models (LLMs) as autonomous agents often begins with imitation learning, but it only teaches agents what to do without underst...
+- [Understanding the Use of a Large Language Model-Powered Guide to Make Virtual Reality Accessible for Blind and Low Vision People](https://arxiv.org/abs/2603.09964v1) - Jazmin Collins, Sharon Y Lin, Tianqi Liu, Andrea Stevenson Won, Shiri Azenkot
+  As social virtual reality (VR) grows more popular, addressing accessibility for blind and low vision (BLV) users is increasingly critical. Researchers...
 
-- [Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines](https://arxiv.org/abs/2603.08704v1) - Akshay Gulati, Kanha Singhania, Tushar Banga, Parth Arora, Anshul Verma, Vaibhav Kumar Singh, Agyapal Digra, Jayant Singh Bisht, Danish Sharma, Varun Singla, Shubh Garg
-  Large language models are increasingly used for financial analysis and investment research, yet systematic evaluation of their financial reasoning cap...
+- [Emotional Modulation in Swarm Decision Dynamics](https://arxiv.org/abs/2603.09963v1) - David Freire-Obregón
+  Collective decision-making in biological and human groups often emerges from simple interaction rules that amplify minor differences into consensus. T...
 
 
 
@@ -142,25 +143,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $259.88 📈 +2.42 (+0.9%)
-- **GOOGL**: $306.36 📈 +8.09 (+2.7%)
-- **MSFT**: $409.41 📈 +0.45 (+0.1%)
+- **AAPL**: $260.83 📈 +0.95 (+0.4%)
+- **GOOGL**: $307.04 📈 +0.68 (+0.2%)
+- **MSFT**: $405.76 📉 -3.65 (-0.9%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-判断字符串中的括号是否有效匹配
+给定字符串，找出其中最长的回文子串
 
-标签: 栈, 字符串
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -171,14 +172,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-世界上第一个域名是symbolics.com，注册于1985年3月15日
+JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《代码整洁之道》** - Robert C. Martin
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,21 +189,21 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
@@ -223,27 +224,25 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用版本控制**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
@@ -256,30 +255,30 @@ test('should calculate tax correctly', () => {
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `3fa724` | 日期: 2026-03-10
+挑战ID: `b25478` | 日期: 2026-03-11
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
@@ -294,14 +293,14 @@ test('should calculate tax correctly', () => {
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**安全工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -315,7 +314,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-03-10 08:28:03
+- 📅 更新时间: 2026-03-11 08:26:55
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -326,15 +325,13 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 18.0/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 14.0/100
 
 🏷️ **热门关键词**:
-- AI (7次)
+- AI (6次)
 - 人工智能 (1次)
-- OpenAI (1次)
-- 新能源 (1次)
 - AR (1次)
 
 
