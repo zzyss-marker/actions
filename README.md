@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-03-21)
+## 今日更新 (2026-03-22)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [springAI-alibaba入门：国内友好的大模型对接框架，对标springAI](https://blog.csdn.net/A_art_xiang/article/details/158040848) 📈 关注
-  国内可以使用springAI-alibaba，文档默认支持阿里百炼大模型。MCP(Model Context Protocol,，模型上下文协议)是一种开放标准，目的是增强AI与外部系统的交互能力。M...
-- 😐 [AI员工——OpenCode、OpenClaw+Ollama的安装与配置](https://blog.csdn.net/xiaochenXIHUA/article/details/158777768) 📈 关注
-  本文主要是关于AI智能体【OpenCode】【OpenClaw】是什么？有啥用的介绍说明；最重要的是将这两个智能体的安装与简单使用给了保姆级的教程，两者搭配使用可以事半功倍，让你面对问题与环境再也不会...
-- 😊 [AI能赚钱？别被割韭菜了！深度拆解：为什么你学了100个AI工具却赚不到1分钱](https://blog.csdn.net/sinat_41617212/article/details/157844855) 📈 关注
-  别想"我要做AI设计工作室"，想：✅ "本周帮1家咖啡馆生成情人节海报，收费99元"✅ "为3个朋友生成简历优化建议，收1元体验费"AI浪潮奔涌，最大的陷阱从来不是"不会工具"，而是"用工具思维代替商...
-- 😐 [AI驱动UI自动化框架Midscene完全指南：安卓自动化从入门到实战](https://blog.csdn.net/qq_44674766/article/details/156763139) 📈 关注
-  Midscene是一款AI驱动的UI自动化框架，通过自然语言脚本大幅降低自动化门槛。它结合视觉识别与DOM分析精准定位元素，支持Web和安卓自动化，提供YAML/TS脚本编写方式。核心优势包括低门槛、...
-- 😐 [Clawdbot全面实测：如何用一台Mac mini搭建7×24小时“全职AI员工“，让你躺着也能出活](https://blog.csdn.net/a3363196/article/details/157465819) 📈 关注
-  Clawdbot全面实测：如何用一台Mac mini搭建7×24小时"全职AI员工"，让你躺着也能出活
+- 😊 [猫头虎AI分享10个全网超火的Skills开源仓库：Claude Skills开源库必装精选 & 安装配置实战指南](https://blog.csdn.net/qq_44866828/article/details/156400303) 🔥 热门
+  本文精选10个高星（500+）、高活跃的Claude Skills开源仓库，涵盖编码、科研、自动化等场景。核心推荐包括：obra/superpowers（5.7k星工程化技能库）、ComposioHQ...
+- 😊 [国产五大AI模型哪家强？DeepSeek、豆包、Kimi、智谱清言、通义千问深度解析！哪款大模型更适合你？](https://blog.csdn.net/python12222_/article/details/146421803) 🔥 热门
+  比如搞学术研究，我们问专业领域的复杂问题，它可以快速翻找资料，整理出关键信息，条理清晰地解答，帮我们省下不少时间。采用以KVCache为中心的创新架构，分离预填充与解码集群，充分利用GPU资源，推理吞...
+- 😊 [小白也能玩 OpenClaw？ToDesk AI桌面助手ToClaw 把门槛打到了零](https://blog.csdn.net/m0_61712829/article/details/159252301) 📈 关注
+  ToClaw作为ToDesk内置的云端AI助手，将OpenClaw的强大功能封装成零门槛工具，让普通用户无需技术配置即可体验AI自动化。用户只需下载最新版ToDesk，即可享受文件整理、定时任务、文档...
+- 😐 [揭秘AI大模型通信机制：深入理解流式传输与数据封装逻辑](https://blog.csdn.net/csdn_silent/article/details/158691488) 📈 关注
+  本文详细分析了AI聊天工具的数据传输机制，从JSON格式标准、流式交互流程到系统架构设计。核心内容包括：1）请求/响应格式规范，重点解析同步与非流式传输差异；2）基于SSE技术的流式传输实现原理；3）...
+- 😐 [【2026人人都是电影导演的时代来了】Seedance2.0 地表最强AI视频生成大模型](https://blog.csdn.net/windowsxp2018/article/details/158128828) 📈 关注
+  5秒特效从3000元跌到3元：字节跳动的新模型，让重资产设备变成了“白菜价”
 
 
 ### 网络安全资讯
@@ -88,25 +88,25 @@ GP...
 
 ### 技术就业趋势
 
-软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
+数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
 
 ### 科技热点
 
 - 😊 [实测鹅厂OpenClaw生态：从办公到研发，解锁AI智能体全场景效能](https://cloud.tencent.com/developer/article/2639667) 📈 关注
   2026年以来，OpenClaw（业内俗称“龙虾”）凭借本地部署、自主运行的核心优势，成为AI智能体领域的现象级开源项目，而鹅厂依托自身生态优势，将OpenClaw与腾讯云、企业微信、QQ等产品深度联...
-- 😊 [CodeBuddy 一周更新亮点｜WorkBuddy 支持企微长链接，IDE 新增 Agents 模式，CLI 强化远程协作能力](https://cloud.tencent.com/developer/article/2639204) 📊 普通
-  🌟WorkBuddy新增微信客服消息连接、企业微信长链接以及对话式技能安装和一键打开任务文件夹功能，大幅降低接入门槛，提升工作流运转效率 🌟IDE新增 Agents 模式，可自动规划执行并生成代码开发...
 - 😊 [一站式接入小红书：我用 Openclaw 跑通了从写稿到发布的全流程](https://cloud.tencent.com/developer/article/2639113) 📊 普通
   如果只是偶尔发一篇还好，但只要你想稳定更新，很快就会发现，真正消耗精力的并不是创作本身，而是这些重复、零散、机械的动作。
+- 😐 [别再手动录发票了！用腾讯龙虾Skills，让财务提前 2 小时下班](https://cloud.tencent.com/developer/article/2639669) 📊 普通
+  在这次大会上，我也分享了我如何用腾讯云 Lighthouse部署openclaw的。
 
 
 ### GitHub 趋势项目
 
-- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
-- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
+- [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
-- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft with a high level of detail.
 
 
 
@@ -151,18 +151,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**两数之和** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 栈, 字符串
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -173,14 +173,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《设计模式》** - Gang of Four
 
-深度学习领域的权威教材 (分类: 人工智能)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -190,21 +190,21 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
@@ -225,12 +225,12 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
@@ -260,18 +260,18 @@ test('should calculate tax correctly', () => {
 
 今日挑战徽章：🥷 代码忍者
 
-挑战ID: `62c7e9` | 日期: 2026-03-21
+挑战ID: `ebc422` | 日期: 2026-03-22
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
@@ -279,9 +279,9 @@ test('should calculate tax correctly', () => {
 ### 🔥 技术热词趋势
 
 - **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
@@ -296,14 +296,14 @@ test('should calculate tax correctly', () => {
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**安全工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -317,7 +317,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-03-21 08:18:33
+- 📅 更新时间: 2026-03-22 08:21:02
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -330,7 +330,7 @@ test('should calculate tax correctly', () => {
 - 📰 新闻总数: 8
 - 😊 积极新闻: 5 (62.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 9.8/100
+- 🔥 平均热度: 9.9/100
 
 🏷️ **热门关键词**:
 - AI (6次)
