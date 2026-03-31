@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-03-30)
+## 今日更新 (2026-03-31)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😐 [ChatGPT 4：解锁AI文案、绘画与视频创作新纪元](https://blog.csdn.net/qq_32682301/article/details/147024487) 🔥🔥 很热
-  12 大专题讲解 +31 个温馨提示＋ 70 多个效果文件 +208 页 PPT 教学课件＋ 210 多分钟教学视频＋280 多张精美插图，随书还提供了 200 多个提示词等资源，帮助读者从入门到精通...
-- 😊 [【AI】AI学习笔记：OpenAI Tools完全指南：从原理到实战入门](https://blog.csdn.net/hknaruto/article/details/156751157) 🔥🔥 很热
-  OpenAI的Tools参数是一个强大的桥梁，让大语言模型从“知识库”变成了“智能执行者”。定义清晰：好的工具描述是成功的一半流程完整：遵循“请求→调用→执行→回复”的完整循环格式严格：使用stric...
-- 😊 [封神！2026最火本地AI智能体OpenClaw保姆级教程｜新手10分钟部署（领一键部署文档）](https://blog.csdn.net/weixin_41194129/article/details/157642332) 🔥 热门
-  OpenClaw（原Clawdbot、Moltbot），2026年初正式更名升级，堪称“普通人的第一款本地AI智能体”，不用懂复杂代码，新手跟着走，10分钟就能部署成功，隐私可控还能自定义功能，办公、...
-- 😊 [【Coze-AI智能体平台】低门槛玩转Coze工作流！基础创建+五大核心节点+新闻扩展实战，新手直接抄作业](https://blog.csdn.net/2401_87342824/article/details/159318392) 🔥 热门
-  Coze智能体开发平台工作流开发指南 摘要：本文详细介绍了Coze平台工作流开发的核心流程，包括创建规范、节点配置与实战案例。工作流创建需遵循命名规则（字母开头，含数字/下划线）并明确功能描述。核心节...
-- 😐 [AI视频生成实战：用扣子SKILL一键制作产品宣传片（Seedance 2.0开年最强教程）](https://blog.csdn.net/qq_37027335/article/details/158004978) 📈 关注
-  AI视频时代
+- 😊 [AI的提示词专栏：开源模型（Mistral、Qwen）Prompt 实验报告](https://blog.csdn.net/weixin_43151418/article/details/153407610) 📈 关注
+  本文为明确开源模型 Prompt 适配特性，本实验以 Mistral（7B/13B）与 Qwen（7B/14B）为对象，在统一硬件软件环境与推理参数（Temperature 0.7、Top-P 0.9...
+- 😊 [当AI变成你的技术搭子：Claude Code Skills全攻略，小白也能秒变技能大师](https://blog.csdn.net/zhengiqa8/article/details/157689885) 📈 关注
+  《AI编程技能速成指南：Claude Code助小白变身技术达人》 本文介绍了AI编程工具Claude Code(CC)如何帮助非专业人士快速掌握实用技术技能。CC平台集成了1000+现成技能包，涵盖...
+- 😐 [figma + claude + weavy AI ：从会用到用好](https://blog.csdn.net/m0_57874805/article/details/158614066) 📈 关注
+  Google ai studio + figma + claude.ai + cosmos + Design with Weavy AI 这套头脑风暴工具看完后，你一定可从其中悟出独特、见解。
+- 😊 [UnityMCP+Claude+VSCode，构建最强AI游戏开发环境](https://blog.csdn.net/zhangay1998/article/details/159155494) 📈 关注
+  本篇文章来介绍使用 UnityMCP+Claude+VSCode，打造一个更智能、高效的游戏开发工作流。借助MCP工具，Claude可以直接与Unity编辑器进行双向指令交互，开发者则可以直接使用自然...
+- 😐 [人工智能：自然语言处理在金融领域的应用与实战](https://blog.csdn.net/COLLINSXU/article/details/157650508) 📈 关注
+  本文介绍了自然语言处理(NLP)在金融领域的三大核心应用场景：金融新闻分析、风险管理和欺诈检测。重点讲解了FinBERT等前沿模型在金融文本处理中的使用，包括情感分析、信用风险评估和欺诈检测的具体实现...
 
 
 ### 网络安全资讯
@@ -81,29 +81,29 @@ MIT
 - [静默颠覆：通过卫星系统供应链植入物实施的传感器欺骗攻击](https://paper.seebug.org/3475/) - 作者：Jack Vanlyssel, Gruia-Catalin Roman, Afsah Anwar
 译者：知道创宇404实验室翻译组
 原文链接：https://arxiv.org/html/260...
-- [攻击者滥用.arpa 特殊域名与IPv6反向DNS实施钓鱼攻击](https://www.4hou.com/posts/Zg5g) - 网络黑产团伙正在滥用专用顶级域名 .arpa 以及 IPv6 反向域名解析（DNS）开展钓鱼活动，此类攻击可更轻松地绕过域名信誉检测机制与邮件安全网关。.arpa 是为互联网基础设施预留的特殊顶级域名...
+- [VoidStealer恶意软件利用调试器漏洞窃取Chrome主密钥](https://www.4hou.com/posts/0MlN) - 一款名为VoidStealer的窃密恶意软件采用新型攻击手段，绕过谷歌浏览器（Chrome）的应用程序绑定加密（ABE）防护机制，非法提取用于解密浏览器本地敏感数据的主密钥。 这项全新破解技术隐蔽性极...
 
 
 ### 技术就业趋势
 
-远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
+DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
 
 ### 科技热点
 
-- 😐 [“小龙虾”不遗忘：COS Vectors + mem0 为 OpenClaw 构建持久化记忆层](https://cloud.tencent.com/developer/article/2646943) 🔥 热门
-  不是餐桌上那种麻辣小龙虾，而是 OpenClaw——一款爆火的 AI Agent 助手。大家都在朋友圈晒自己的"小龙虾"学会了什么新技能：写代码、查资料、分析数据，甚至还能帮你点外卖。一时间，"全民养...
-- 😊 [告别“黑箱”养虾！腾讯云可观测平台给您的 OpenClaw 装上“透视眼”](https://cloud.tencent.com/developer/article/2646928) 📈 关注
-  当下时代 AI Agent 框架百花齐放，OpenClaw 这只🦞凭借强大的能力成为企业数字化的香饽饽，但养虾容易管虾难，没有靠谱的可观测工具，你的 “数字龙虾养殖场” 只会变成黑箱泥潭。今天就用腾讯...
-- 😊 [微信 ClawBot 只能接入 Claw 应用？不，看明白协议，你可以随便玩坏它](https://cloud.tencent.com/developer/article/2646635) 📊 普通
-  微信官方终于推出了 ClawBot 用于接入 OpenClaw 了。但对于个人来说，依然必须要一个个人专属的 Claw 应用，不论是 在云端安装，还是说在自己手头的 电脑安装。
+- 😐 [Harness Engineering 来了，SDD 还有意义吗？](https://cloud.tencent.com/developer/article/2647987) 🔥🔥 很热
+  最近，「Harness Engineering」这个概念在 AI 工程圈里热了起来——Mitchell Hashimoto（HashiCorp 联合创始人、Terraform 缔造者）和 OpenAI...
+- 😊 [腾讯智慧零售日化行业数字化解决方案：全链路赋能生意增长与技术提效](https://cloud.tencent.com/developer/article/2648106) 📈 关注
+  腾讯智慧零售针对日化行业数字化经营痛点（如消费者运营粗放、渠道数字化滞后、内部效能瓶颈、大促与系统稳定性压力），推出全链路数字化解决方案。该方案涵盖消费者全生命周期管理（CDP、AI分析、智能营销）、...
+- 😊 [这份材料是腾讯智慧零售的完整解决方案手册，内容非常丰富，共99页，系统性地介绍了腾讯云在零售行业数字化转型中的技术能力与应用案例。以下是整体框架和核心内容提炼：](https://cloud.tencent.com/developer/article/2648112) 📈 关注
+  腾讯智慧零售解决方案通过整合全域数据（CDP平台）、强化精准营销能力（MA/RTA/SCRM）、部署高性能技术基建、实现门店智能化布局，并融合创新技术（混元大模型/NFT应用），为企业提供覆盖数据分析...
 
 
 ### GitHub 趋势项目
 
-- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 
 
@@ -111,7 +111,14 @@ MIT
 
 ### AI 研究论文
 
-- arXiv 论文数据暂时不可用，请稍后再查看
+- [Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds](https://arxiv.org/abs/2603.28764v1) - N Alex Cayco Gajic, Arthur Pellegrino
+  Similarity measures are widely used to interpret the representational geometries used by neural networks to solve tasks. Yet, because existing methods...
+
+- [On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers](https://arxiv.org/abs/2603.28762v1) - Omer Dahary, Benaya Koren, Daniel Garibi, Daniel Cohen-Or
+  Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, con...
+
+- [ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining](https://arxiv.org/abs/2603.28737v1) - Anuj Diwan, Eunsol Choi, David Harwath
+  We introduce ParaSpeechCLAP, a dual-encoder contrastive model that maps speech and text style captions into a common embedding space, supporting a wid...
 
 
 
@@ -135,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $248.80 📉 -4.09 (-1.6%)
-- **GOOGL**: $274.34 📉 -6.62 (-2.4%)
-- **MSFT**: $356.77 📉 -9.20 (-2.5%)
+- **AAPL**: $246.63 📉 -2.17 (-0.9%)
+- **GOOGL**: $273.50 📉 -0.84 (-0.3%)
+- **MSFT**: $358.96 📈 +2.19 (+0.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-将两个升序链表合并为一个新的升序链表
+给定字符串，找出其中最长的回文子串
 
-标签: 链表, 递归
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -164,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《Kubernetes权威指南》** - 龚正等
 
-深度学习领域的权威教材 (分类: 人工智能)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -181,28 +188,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -228,71 +235,73 @@ D. 面向对象
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**写测试用例**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🥷 代码忍者
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `d79144` | 日期: 2026-03-30
+挑战ID: `2cba1e` | 日期: 2026-03-31
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-使用Rust构建跨平台桌面应用
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**AI工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -306,7 +315,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-03-30 09:01:38
+- 📅 更新时间: 2026-03-31 08:44:15
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -319,13 +328,14 @@ git commit -m "Add user authentication feature"
 - 📰 新闻总数: 8
 - 😊 积极新闻: 5 (62.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 17.2/100
+- 🔥 平均热度: 15.9/100
 
 🏷️ **热门关键词**:
-- AI (7次)
-- ChatGPT (1次)
-- GPT (1次)
+- AI (6次)
 - OpenAI (1次)
+- AR (1次)
+- 人工智能 (1次)
+- NFT (1次)
 
 
 ### 🤖 关于此项目
