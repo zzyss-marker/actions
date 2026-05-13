@@ -55,7 +55,7 @@
 
 MIT
 
-## 今日更新 (2026-05-12)
+## 今日更新 (2026-05-13)
 
 ### 今日名言
 
@@ -63,16 +63,16 @@ MIT
 
 ### AI 技术动态
 
-- 😊 [【开源项目】AIRI 一个能陪你打游戏、交谈的开源 AI 伴侣（二次元老婆）](https://blog.csdn.net/qq_34598061/article/details/150562931) 🔥 热门
-  AIRI 支持搭建本地运行的AI虚拟伴侣，集成Live2D/VRM模型实现表情动画与实时语音交互；可联机玩《Minecraft》《Factorio》，通过自然语言指挥AI行动；基于Web技术栈（Web...
-- 😊 [2026年4月AI大事件 汇总](https://blog.csdn.net/qq_67069922/article/details/160656342) 🔥 热门
-  2026年4月AI领域迎来重大发展：OpenAI完成8520亿美元估值融资并收购媒体资产，微软推出自研AI模型，谷歌发布开源Gemma 4。各国加强AI监管，中国出台全球首个AI拟人化服务管理办法。技...
-- 😊 [AI安全：大模型“提示词注入攻击”（Prompt Injection）：分类、原理与技术解析](https://blog.csdn.net/weixin_47681965/article/details/158693914) 🔥 热门
-  提示词注入攻击正从简单的文字话术博弈向跨模态语义劫持、底层数学攻击（梯度优化）以及 AIGC 对抗篡改演进。在未来的安全攻防战中，传统的单一文本过滤将全面失效，现有公司正在积极构建包含多模态鲁棒对齐、...
-- 😊 [20块的玩客云跑AI语音，我自建TTS服务器，成本不到一杯咖啡钱](https://blog.csdn.net/qq_61024956/article/details/160102112) 📈 关注
-  EasyVoice是一个开源的文本、小说智能转语音解决方案，旨在帮助用户轻松将文本内容转换为高质量的语音输出,原项目由cosin2077开发。本文使用的是我基于原项目二次开发的分支版本。一键生成语音和...
-- 😊 [Open-Design开源AI设计平台](https://blog.csdn.net/Crown_22/article/details/160653630) 📈 关注
-  Open Design是一个开源、本地优先的AI设计系统平台，提供了19个设计技能和71个品牌级设计系统，支持HTML/PDF/PPTX多格式导出。与Claude Design相比，它具有完全开源、本...
+- 😐 [2026最强全能 AI Agent：Codex 零基础完整实战教程（基于 GPT-5.5 与 Image-2 模型）](https://blog.csdn.net/u012985172/article/details/160527649) 🔥🔥 很热
+  2026年最强全能 AI Agent 工具 Codex 零基础保姆级实战教程！本文深度拆解了 Codex 的安装配置与全局自定义规则，并通过“复杂知识架构图解生成”、“接管操作系统实现全自动环境配置”...
+- 😊 [openJiuwen集成蓝耘AI模型深度解析：从架构设计到企业级Agent实战部署](https://blog.csdn.net/ZWW_zhangww/article/details/158660999) 🔥🔥 很热
+  在人工智能技术从单纯的感知智能向认知智能演进的浪潮中，大语言模型（LLM）的成熟催生了AI Agent（人工智能体）这一全新的应用形态。AI Agent不再局限于传统的单指令执行，而是演进为具备自主感...
+- 😊 [基于Rokid AI Glasses的「社交眼」：面向社交障碍人群的实时情绪辅助智能体开发实践](https://blog.csdn.net/sinat_41617212/article/details/160376498) 🔥🔥 很热
+  《社交眼：为社恐人群设计的AR情绪辅助工具》摘要 这是一款基于Rokid AR眼镜开发的社交辅助工具，专为社交恐惧症人群设计。该工具通过眼镜端的智能拍照和微表情识别技术，在心理咨询和社交康复训练场景中...
+- 😊 [【AI 学习】AI提示词工程：从入门到实战的全栈指南](https://blog.csdn.net/weixin_63944437/article/details/156720023) 📈 关注
+  随着AI技术的普及，提示词（Prompt）已成为人机交互的核心媒介。本文探讨了提示词在AI应用中的关键作用，指出优化提示词可显著提升AI输出的准确率。文章分析了提示词的本质特征，对比其与传统编程的差异...
+- 😟 [Ollama本地电脑运行无限制AI模型超简单案例](https://blog.csdn.net/sinat_37255207/article/details/154874157) 📈 关注
+  想在本地用一款 “无拘无束” 的 AI 模型？Ollama 能帮你轻松实现，但先得说清楚：这类 “越狱模型” 虽自由，却可能藏着不少小麻烦。
 
 
 ### 网络安全资讯
@@ -84,40 +84,41 @@ MIT
 
 ### 技术就业趋势
 
-数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
+软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
 
 ### 科技热点
 
-- 😊 [AIGC时代的内容安全新范式：为什么每个平台都需要AI生成内容检测能力？](https://cloud.tencent.com/developer/article/2667681) 📈 关注
+- 😐 [从零设计生产级 Multi-Agent Harness：架构、评估、记忆、成本与 MCP 工具接入全拆解](https://cloud.tencent.com/developer/article/2668186) 📈 关注
+  一个输入框，一个大模型，几个工具，一段写得很漂亮的 System Prompt，再配上一个炫酷的前端，看起来就像一个能干活的“数字员工”。演示会上效果惊艳，老板拍板，业务兴奋，研发也觉得：这事，稳了。
+- 😐 [电商直播合规风控全攻略：如何在GMV增长与内容安全之间找到最优解？](https://cloud.tencent.com/developer/article/2668160) 📊 普通
   摘要：
-AIGC（AI Generated Content，AI生成内容）正在深刻重塑互联网的内容生态。AI写的文章、AI画的图、AI拍的视频——这些内容的数量正以指数级速度增长。当AI生成内容的占比
-- 😐 [拆完Hermes源码，我发现Agent的"自我进化"根本不需要训练模型](https://cloud.tencent.com/developer/article/2667698) 📈 关注
-  两个月 5.2 万 Star，Hermes Agent 用一个"LLM 审判官"机制实现了 Agent 的自我进化——不改模型权重，只改"怎么用模型"的策略。我逐行读完源码后发现：所谓的"自动学习"，...
-- 😊 [2021智慧零售私域增长指南](https://cloud.tencent.com/developer/article/2667589) 📊 普通
-  《2021智慧零售私域增长指南》由腾讯智慧零售于2021年发布，聚焦私域增长核心议题。报告指出2020年私域因小程序爆发成企业降本增效关键，但面临组织协同难、运营低效等痛点。报告以“四力增长模型”（组...
+电商直播已成为万亿级市场，但在追求GMV增长的同时，虚假宣传、违规促销、低俗引流等内容安全问题如影随形。平台若被处罚，不仅罚款巨额，更可能导致大量商家和消费者流失。本文从电商直播的典型违规场景
+- 😊 [点播视频审核套餐包选购攻略：30万分钟到3000万分钟，怎么买最划算？](https://cloud.tencent.com/developer/article/2668166) 📊 普通
+  摘要：
+腾讯云点播视频内容安全提供了从30万分钟到3000万分钟的5档预付费套餐包，单价从0.22元/分钟到0.07元/分钟不等，最高可省68%。但很多企业不知道如何选择最适合自己的档位，买小了怕超量
 
 
 ### GitHub 趋势项目
 
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-- [yikart/AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
-- [playcanvas/supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor
-- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
+- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 
 
 
 
 ### AI 研究论文
 
-- [ELF: Embedded Language Flows](https://arxiv.org/abs/2605.10938v1) - Keya Hu, Linlu Qiu, Yiyang Lu, Hanhong Zhao, Tianhong Li, Yoon Kim, Jacob Andreas, Kaiming He
-  Diffusion and flow-based models have become the de facto approaches for generating continuous data, e.g., in domains such as images and videos. Their ...
+- [AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward](https://arxiv.org/abs/2605.12495v1) - Runhui Huang, Jie Wu, Rui Yang, Zhe Liu, Hengshuang Zhao
+  In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Model...
 
-- [Variational Inference for Lévy Process-Driven SDEs via Neural Tilting](https://arxiv.org/abs/2605.10934v1) - Yaman Kindap, Manfred Opper, Benjamin Dupuis, Umut Simsekli, Tolga Birdal
-  Modelling extreme events and heavy-tailed phenomena is central to building reliable predictive systems in domains such as finance, climate science, an...
+- [Learning, Fast and Slow: Towards LLMs That Adapt Continually](https://arxiv.org/abs/2605.12484v1) - Rishabh Tiwari, Kusha Sareen, Lakshya A Agrawal, Joseph E. Gonzalez, Matei Zaharia, Kurt Keutzer, Inderjit S Dhillon, Rishabh Agarwal, Devvrit Khatri
+  Large language models (LLMs) are trained for downstream tasks by updating their parameters (e.g., via RL). However, updating parameters forces them to...
 
-- [Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character Recognition](https://arxiv.org/abs/2605.10916v1) - Md. Sultan Al Rayhan, Maheen Islam
-  Recognition of handwritten Bangla compound characters remains a challenging problem due to complex character structures, large intra-class variation, ...
+- [Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training](https://arxiv.org/abs/2605.12483v1) - Yuanda Xu, Hejian Sang, Zhengze Zhou, Ran He, Zhipeng Wang, Alborz Geramifard
+  In settings where labeled verifiable training data is the binding constraint, each checked example should be allocated carefully. The standard practic...
 
 
 
@@ -141,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $292.68 📉 -0.58 (-0.2%)
-- **GOOGL**: $388.64 📉 -12.07 (-3.0%)
-- **MSFT**: $412.66 📉 -2.40 (-0.6%)
+- **AAPL**: $294.80 📈 +2.12 (+0.7%)
+- **GOOGL**: $387.35 📉 -1.29 (-0.3%)
+- **MSFT**: $407.77 📉 -4.89 (-1.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+将两个升序链表合并为一个新的升序链表
 
-标签: 数组, 哈希表
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -170,7 +171,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-世界上第一个域名是symbolics.com，注册于1985年3月15日
+第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
 
 
 ### 📚 技术书籍推荐
@@ -199,9 +200,9 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
@@ -222,85 +223,85 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `71ad64` | 日期: 2026-05-12
+挑战ID: `f367c7` | 日期: 2026-05-13
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-高性能代码编辑器
+现代Web应用框架
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**云架构师** (高级) 🚀
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-世界上有10种人：懂二进制的和不懂二进制的。
+如果调试是去除bug的过程，那么编程就是放入bug的过程。
 
 
 ### 🐙 GitHub 生态统计
@@ -314,7 +315,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-05-12 10:21:01
+- 📅 更新时间: 2026-05-13 10:10:57
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -325,15 +326,15 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 7 (87.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 14.4/100
+- 😊 积极新闻: 4 (50.0%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 16.5/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- VR (1次)
-- OpenAI (1次)
-- AR (1次)
+- AI (5次)
+- AR (2次)
+- GPT (1次)
+- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
