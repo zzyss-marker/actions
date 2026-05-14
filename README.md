@@ -55,70 +55,71 @@
 
 MIT
 
-## 今日更新 (2026-05-13)
+## 今日更新 (2026-05-14)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 代码是写给人看的，只是顺便能在机器上运行。 —— Harold Abelson
 
 ### AI 技术动态
 
-- 😐 [2026最强全能 AI Agent：Codex 零基础完整实战教程（基于 GPT-5.5 与 Image-2 模型）](https://blog.csdn.net/u012985172/article/details/160527649) 🔥🔥 很热
-  2026年最强全能 AI Agent 工具 Codex 零基础保姆级实战教程！本文深度拆解了 Codex 的安装配置与全局自定义规则，并通过“复杂知识架构图解生成”、“接管操作系统实现全自动环境配置”...
-- 😊 [openJiuwen集成蓝耘AI模型深度解析：从架构设计到企业级Agent实战部署](https://blog.csdn.net/ZWW_zhangww/article/details/158660999) 🔥🔥 很热
-  在人工智能技术从单纯的感知智能向认知智能演进的浪潮中，大语言模型（LLM）的成熟催生了AI Agent（人工智能体）这一全新的应用形态。AI Agent不再局限于传统的单指令执行，而是演进为具备自主感...
-- 😊 [基于Rokid AI Glasses的「社交眼」：面向社交障碍人群的实时情绪辅助智能体开发实践](https://blog.csdn.net/sinat_41617212/article/details/160376498) 🔥🔥 很热
-  《社交眼：为社恐人群设计的AR情绪辅助工具》摘要 这是一款基于Rokid AR眼镜开发的社交辅助工具，专为社交恐惧症人群设计。该工具通过眼镜端的智能拍照和微表情识别技术，在心理咨询和社交康复训练场景中...
-- 😊 [【AI 学习】AI提示词工程：从入门到实战的全栈指南](https://blog.csdn.net/weixin_63944437/article/details/156720023) 📈 关注
-  随着AI技术的普及，提示词（Prompt）已成为人机交互的核心媒介。本文探讨了提示词在AI应用中的关键作用，指出优化提示词可显著提升AI输出的准确率。文章分析了提示词的本质特征，对比其与传统编程的差异...
-- 😟 [Ollama本地电脑运行无限制AI模型超简单案例](https://blog.csdn.net/sinat_37255207/article/details/154874157) 📈 关注
-  想在本地用一款 “无拘无束” 的 AI 模型？Ollama 能帮你轻松实现，但先得说清楚：这类 “越狱模型” 虽自由，却可能藏着不少小麻烦。
+- 😐 [这是AI生图？GPT-Image2杀疯了！【附白嫖攻略】](https://blog.csdn.net/weixin_66407777/article/details/160261581) 🔥🔥 很热
+  不少网友评价，这可能是 OpenAI 图像模型近年来最大的一次质变，尤其在中文场景和文字表现上，进步非常夸张。这是个模型竞技场，不同模型会匿名出图，再由用户盲选哪个更好，最后得出更客观的对比排名。基本...
+- 😊 [2026年正在重塑技术格局的四大国际热点：LLM推理、RISC-V、AI Agent安全、量子退火](https://blog.csdn.net/chen_si_shang_/article/details/160603104) 🔥🔥 很热
+  技术领域2026年关键趋势分析：1.大模型推理成本大幅下降，70B参数模型已可在单张显卡运行，边缘计算和API价格战兴起；2.RISC-V架构突破性进展，64核服务器CPU性能接近ARM，软件生态快速...
+- 😊 [把视频内容变成手绘漫画笔记？ClipSketch AI 让小红书创作省事不少](https://blog.csdn.net/2301_81152266/article/details/160210983) 📈 关注
+  ClipSketch AI是一款高效视频转图文工具，可自动将视频内容转换为手绘漫画风格图文笔记。用户只需粘贴视频链接，标记关键帧，AI即可分析内容并生成漫画图片及配套文案，大幅简化了传统截图拼图流程。...
+- 😊 [48个AI智能体搭建完整游戏开发工作室：Claude Code Game Studios](https://blog.csdn.net/zhangay1998/article/details/160187933) 📈 关注
+  在AI能力指数级跃升的今天，我们不再满足于让大模型充当单一的对话助手。于是诞生了很多提效的实用工具，比如本文的主角： Claude Code Game Studios，一个完全由Claude模型驱动的...
+- 😐 [AI可解释性：注意力可视化](https://blog.csdn.net/COLLINSXU/article/details/160099010) 📈 关注
+  本文探讨了AI可解释性中的注意力可视化技术。文章首先强调了该主题在AI领域的重要性，指出Python因其丰富的生态系统成为实现AI可解释性的首选语言。核心内容包括基本概念解析、关键技术原理和实现方法，...
 
 
 ### 网络安全资讯
 
 - [科技云报到：智算千亿赛道向何方？一文读懂信通院《2026智能算力服务研究报告》](https://www.anquanke.com/post/id/315489) - 安全公告，详情请点击链接查看完整内容
 - [GLiGuard：面向大语言模型安全防护的模式条件分类方法](https://paper.seebug.org/3485) - 作者：Urchade Zaratiana, Mary Newhauser, George Hurn-Maloney, Ash Lewis 译者：知道创宇404实验室翻译组 原文链接：https://a...
-- [纵横网络靶场社区正式发布 以虚实融合技术构建工业信息安全实战生态](https://www.4hou.com/posts/nXQ5) - 当前，工业互联网深度融合发展，关键信息基础设施安全防护需求持续攀升，实战型工业信息安全人才短缺、训练场景稀缺、理论与实践脱节等制约行业发展的核心痛点日益凸显。在此背景下，烽台科技打造的聚焦工业信息安全...
+- [「以图鉴势」嘶吼2026网络安全产业图谱重磅发布](https://www.4hou.com/posts/BpoQ) - 2026年3月，嘶吼安全产业研究院正式启动“2026网络安全产业图谱”调研工作，旨在全景呈现中国网络安全产业的发展格局，为政企客户的采购决策提供选品指南，为安全厂商的市场拓展提供方向参考。历时数月，调...
 
 
 ### 技术就业趋势
 
-软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- 😐 [从零设计生产级 Multi-Agent Harness：架构、评估、记忆、成本与 MCP 工具接入全拆解](https://cloud.tencent.com/developer/article/2668186) 📈 关注
-  一个输入框，一个大模型，几个工具，一段写得很漂亮的 System Prompt，再配上一个炫酷的前端，看起来就像一个能干活的“数字员工”。演示会上效果惊艳，老板拍板，业务兴奋，研发也觉得：这事，稳了。
-- 😐 [电商直播合规风控全攻略：如何在GMV增长与内容安全之间找到最优解？](https://cloud.tencent.com/developer/article/2668160) 📊 普通
+- 😊 [金融App安全合规指南：渗透测试如何满足监管审查要求？](https://cloud.tencent.com/developer/article/2668734) 📈 关注
   摘要：
-电商直播已成为万亿级市场，但在追求GMV增长的同时，虚假宣传、违规促销、低俗引流等内容安全问题如影随形。平台若被处罚，不仅罚款巨额，更可能导致大量商家和消费者流失。本文从电商直播的典型违规场景
-- 😊 [点播视频审核套餐包选购攻略：30万分钟到3000万分钟，怎么买最划算？](https://cloud.tencent.com/developer/article/2668166) 📊 普通
+金融行业对App安全有着最为严格的监管要求。从《网络安全法》到等保2.0，从银保监会的金融科技监管到PCI-DSS支付卡安全标准，每一项法规都对应用安全提出了明确要求，而渗透测试正是满足这些合
+- 😟 [小程序频繁被投诉数据泄露？这份渗透测试方案帮你排查隐患](https://cloud.tencent.com/developer/article/2668716) 📊 普通
   摘要：
-腾讯云点播视频内容安全提供了从30万分钟到3000万分钟的5档预付费套餐包，单价从0.22元/分钟到0.07元/分钟不等，最高可省68%。但很多企业不知道如何选择最适合自己的档位，买小了怕超量
+用户投诉收到垃圾短信、个人信息被盗用、账户异常登录……当这些投诉频繁出现时，你的小程序很可能已经发生了数据泄露。本文从小程序数据泄露的真实场景出发，分析最常见的泄露原因和泄露途径，并提供一套完
+- 😊 [微信小程序上线前必须做渗透测试吗？不做可能面临这些风险](https://cloud.tencent.com/developer/article/2668730) 📊 普通
+  摘要：
+微信小程序凭借"即用即走"的便捷体验已成为企业连接用户的重要渠道。然而，小程序独特的混合架构在带来开发便利的同时，也隐藏着大量安全风险。很多企业认为"小程序运行在微信生态内，安全性由微信保障"
 
 
 ### GitHub 趋势项目
 
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
-- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
-- [apernet/hysteria](https://github.com/apernet/hysteria) - Hysteria is a powerful, lightning fast and censorship resistant proxy.
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [yikart/AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
 
 
 
 
 ### AI 研究论文
 
-- [AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward](https://arxiv.org/abs/2605.12495v1) - Runhui Huang, Jie Wu, Rui Yang, Zhe Liu, Hengshuang Zhao
-  In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Model...
+- [WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data](https://arxiv.org/abs/2605.13846v1) - Ziheng Zhang, Yunzhong Hou, Naijing Liu, Liang Zheng
+  This paper introduces WARDEN, an early language model system capable of transcribing and translating Wardaman, an endangered Australian indigenous lan...
 
-- [Learning, Fast and Slow: Towards LLMs That Adapt Continually](https://arxiv.org/abs/2605.12484v1) - Rishabh Tiwari, Kusha Sareen, Lakshya A Agrawal, Joseph E. Gonzalez, Matei Zaharia, Kurt Keutzer, Inderjit S Dhillon, Rishabh Agarwal, Devvrit Khatri
-  Large language models (LLMs) are trained for downstream tasks by updating their parameters (e.g., via RL). However, updating parameters forces them to...
+- [EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents](https://arxiv.org/abs/2605.13841v1) - Tara Bogavelli, Gabrielle Gauthier Melançon, Katrina Stankiewicz, Oluwanifemi Bamgbose, Fanny Riols, Hoang H. Nguyen, Raghav Mehndiratta, Lindsay Devon Brin, Joseph Marinier, Hari Subramani, Anil Madamala, Sridhar Krishna Nemala, Srinivas Sunkara
+  Voice agents, artificial intelligence systems that conduct spoken conversations to complete tasks, are increasingly deployed across enterprise applica...
 
-- [Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training](https://arxiv.org/abs/2605.12483v1) - Yuanda Xu, Hejian Sang, Zhengze Zhou, Ran He, Zhipeng Wang, Alborz Geramifard
-  In settings where labeled verifiable training data is the binding constraint, each checked example should be allocated carefully. The standard practic...
+- [Topology-Preserving Neural Operator Learning via Hodge Decomposition](https://arxiv.org/abs/2605.13834v1) - Dongzhe Zheng, Tao Zhong, Christine Allen-Blanchette
+  In this paper, we study solution operators of physical field equations on geometric meshes from a function-space perspective. We reveal that Hodge ort...
 
 
 
@@ -142,25 +143,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $294.80 📈 +2.12 (+0.7%)
-- **GOOGL**: $387.35 📉 -1.29 (-0.3%)
-- **MSFT**: $407.77 📉 -4.89 (-1.2%)
+- **AAPL**: $298.87 📈 +4.07 (+1.4%)
+- **GOOGL**: $402.62 📈 +15.27 (+3.9%)
+- **MSFT**: $405.21 📉 -2.56 (-0.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+判断字符串中的括号是否有效匹配
 
-标签: 链表, 递归
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -171,14 +172,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《代码整洁之道》** - Robert C. Martin
 
-容器编排平台的完整指南 (分类: 云原生)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,21 +189,21 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
@@ -223,42 +224,42 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🛡️ 安全卫士
+今日挑战徽章：⚡ 性能优化师
 
-挑战ID: `f367c7` | 日期: 2026-05-13
+挑战ID: `33136a` | 日期: 2026-05-14
 
 
 ### 📊 技术话题投票
@@ -276,20 +277,20 @@ const a = 25;
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
-- **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Tauri** (Rust) - ⭐ 70k+
 
-现代Web应用框架
+使用Rust构建跨平台桌面应用
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
@@ -301,7 +302,7 @@ const a = 25;
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -315,7 +316,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-05-13 10:10:57
+- 📅 更新时间: 2026-05-14 10:03:57
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -326,15 +327,16 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
+- 😊 积极新闻: 5 (62.5%)
 - 😟 消极新闻: 1 (12.5%)
 - 🔥 平均热度: 16.5/100
 
 🏷️ **热门关键词**:
 - AI (5次)
-- AR (2次)
 - GPT (1次)
-- 人工智能 (1次)
+- OpenAI (1次)
+- 边缘计算 (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
