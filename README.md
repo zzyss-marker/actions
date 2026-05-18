@@ -55,7 +55,7 @@
 
 MIT
 
-## 今日更新 (2026-05-17)
+## 今日更新 (2026-05-18)
 
 ### 今日名言
 
@@ -63,47 +63,46 @@ MIT
 
 ### AI 技术动态
 
-- 😐 [2026国产AI Agent工具全景盘点：腾讯WorkBuddy、字节Coze、阿里QwenPaw、百度红手指Operator等40款龙虾工具横向对比评测](https://blog.csdn.net/qq_44866828/article/details/160622087) 🔥🔥🔥 超热
-  AI Agent、大模型、LLM、RAG、MCP、LangChain、AutoGPT、MetaGPT、Computer Use、多模态、端侧AI、低代码、RPA、DevOps、云原生、Kubernet...
-- 😊 [【开发工具】Visual Studio 2022开发工具能够集成灵码这些AI插件吗？](https://blog.csdn.net/lmy_520/article/details/159892284) 📈 关注
-  《通义灵码：VS2022智能开发插件安装与使用指南》 本文介绍了阿里云推出的AI编程助手"通义灵码"在Visual Studio 2022中的安装与核心功能。安装需VS2022 17.3.0+和Win...
-- 😐 [AI的提示词专栏：使用系统指令（System Prompt）实现全局约束](https://blog.csdn.net/weixin_43151418/article/details/153250300) 📈 关注
-  本文围绕系统指令（System Prompt）展开全面解析，先明确其作为大语言模型交互中优先级高、影响范围广的 “底层规则手册” 的核心概念，对比其与用户输入的差异。接着阐述其在保证输出格式与风格统一...
-- 😊 [QuantDinger 全网最全保姆级教程：5分钟搭建AI量化系统](https://blog.csdn.net/geinvse_seg/article/details/160503221) 📈 关注
-  QuantDinger 这样的开源项目的出现，就像是给普通投资者发了一把赛博朋克时代的武器。它把复杂的金融工程、枯燥的代码编写、昂贵的大模型算力，全部封装成了一个个可视化的按钮。不需要你懂底层逻辑，不...
-- 😊 [人工智能体共情能力模块设计与实践（下）](https://blog.csdn.net/kkiron/article/details/161022598) 📊 普通
-  人工智能体共情能力模块设计与实践
+- 😟 [AI入门基础补全：我踩过4位数的坑才懂，数据集、标注与处理到底该怎么做](https://blog.csdn.net/Dreamy_zsy/article/details/160309052) 🔥🔥 很热
+  就算把GPT-3的模型拿过来，喂一堆错误百出的脏数据，也训不出能用的东西。可不知道从什么时候开始，圈内都在卷大模型、卷参数量、卷SOTA精度，没人愿意讲最基础的数据工作——怎么找数据集？怎么标注才不出...
+- 😊 [“10周的工作量，AI只用4天！”Anthropic发布会全程实录：你引以为傲的复杂工程，在模型眼里只是个玩具](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/161027655) 🔥 热门
+  出品丨AI 科技大本营（ID：rgznai100）如果你错过了几天前 Anthropic 最新举办的 “Code w/ Claude” 开发者大会，那你可能正在错过软件工程史上最大的一次范式转移。整场...
+- 😐 [我用 Claude Code + 魔珐星云 SDK，10 分钟做了一个会追问的 AI 家电导购](https://blog.csdn.net/2302_79751907/article/details/161087545) 🔥 热门
+  我第一次意识到 AI 数字人有点不一样，是它接话的那一瞬间。端到端响应约 500ms。我刚说完“想买一台 4000 元左右的冰箱”，屏幕里的数字人导购几乎立刻抬起头，点了点头，然后开始追问：你家是几口...
+- 😐 [LLM - 10分钟安装 OpenClaw：把 AI 管家跑在你自己的电脑上](https://blog.csdn.net/yangshangwei/article/details/158181031) 📈 关注
+  OpenClaw 是一个"自托管"的 AI 管家系统：本地/服务器起一个 Gateway，接入飞书/Telegram 等聊天渠道，支持插件、工具调用、定时任务和仪表盘。适合把 AI 变成"能干活"的助...
+- 😐 [IDEA集成AI辅助工具推荐（好用不卡顿）](https://blog.csdn.net/kangshihang1998/article/details/159279201) 📈 关注
+  IDEA集成AI工具选型指南 本文介绍了五类适用于IDEA的AI编程助手，覆盖不同开发需求： JetBrains AI Assistant：官方原生插件，深度适配IDEA，支持全流程开发，隐私友好； ...
 
 
 ### 网络安全资讯
 
-- [科技云报到：智算千亿赛道向何方？一文读懂信通院《2026智能算力服务研究报告》](https://www.anquanke.com/post/id/315489) - 安全公告，详情请点击链接查看完整内容
+- [当攻击开始“自主决策”，安全体系如何应战？](https://www.anquanke.com/post/id/315518) - 安全公告，详情请点击链接查看完整内容
 - [GLiGuard：面向大语言模型安全防护的模式条件分类方法](https://paper.seebug.org/3485) - 作者：Urchade Zaratiana, Mary Newhauser, George Hurn-Maloney, Ash Lewis 译者：知道创宇404实验室翻译组 原文链接：https://a...
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
 
 
 ### 技术就业趋势
 
-敏捷和Scrum认证在项目管理角色中价值提升。
+可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
 
 ### 科技热点
 
-- 😟 [应急响应服务值不值得买？腾讯云CIRS客户真实ROI测算](https://cloud.tencent.com/developer/article/2669388) 📊 普通
+- 😟 [企业级AI Agent（OpenClaw）高危漏洞剖析与全链路零信任防御架构](https://cloud.tencent.com/developer/article/2670077) 🔥 热门
+  本文深度剖析了以OpenClaw为代表的企业级AI Agent所面临的权限越界、提示词注入及供应链渗透等高危安全风险。针对这些挑战，腾讯云构建了云管端一体化的全链路零信任防御架构。该架构通过云端原生隔...
+- 😟 [企业AI Agent安全治理实践：腾讯OpenClaw防护体系与量化成效](https://cloud.tencent.com/developer/article/2670094) 📈 关注
+  本文聚焦企业AI Agent（OpenClaw）安全治理，先识别其面临提示词安全、权限配置缺陷、审计追踪缺失、Skill供应链风险及敏感数据泄露、成本失控等结构性风险，辅以误删邮件等实证案例；进而介绍...
+- 😊 [国内 MSS 服务横向测评：为什么越来越多互联网企业选择腾讯云安全托管？](https://cloud.tencent.com/developer/article/2670112) 📊 普通
   摘要
-很多企业在考虑购买应急响应服务时，都会问一个问题："这钱花得值不值？"本文将从投资回报率（ROI）的角度，对腾讯云CIRS服务进行全面测算。通过对比"购买CIRS"和"不购买CIRS"两种情况下
-- 😊 [中小企业应急响应服务选型指南：腾讯云CIRS为什么是性价比首选？](https://cloud.tencent.com/developer/article/2669408) 📊 普通
-  摘要：
-中小企业普遍没有专职安全团队，发生安全事件时往往措手不及，损失惨重。本文从中小企业的真实痛点出发，系统分析为什么腾讯云CIRS是中小企业应急响应服务的性价比首选，帮助企业在有限预算下，构建可靠
-- 😊 [前端开发者快速掌握 C++：那些你必须理解的核心概念](https://cloud.tencent.com/developer/article/2669443) 📊 普通
-  这是前端开发者学 C++ 最容易栽跟头的地方，因为 JS/Kotlin 的默认行为和 C++ 完全相反。
+当阿里云、腾讯云、华为云、奇安信、安恒信息、深信服等厂商都推出各自的 MSS / MDR 托管安全服务时，为什么互联网企业最终大多倒向腾讯云 MSS？本文从产品定位、技术底座、生态兼容、SLA、
 
 
 ### GitHub 趋势项目
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 
 
@@ -111,14 +110,7 @@ MIT
 
 ### AI 研究论文
 
-- [EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation](https://arxiv.org/abs/2605.15199v1) - Ruozhen He, Meng Wei, Ziyan Yang, Vicente Ordonez
-  Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and location...
-
-- [ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both](https://arxiv.org/abs/2605.15198v1) - Ziyu Guo, Rain Liu, Xinyan Chen, Pheng-Ann Heng
-  Visual reasoning, often interleaved with intermediate visual states, has emerged as a promising direction in the field. A straightforward approach is ...
-
-- [FutureSim: Replaying World Events to Evaluate Adaptive Agents](https://arxiv.org/abs/2605.15188v1) - Shashwat Goel, Nikhil Chandak, Arvindh Arun, Ameya Prabhu, Steffen Staab, Moritz Hardt, Maksym Andriushchenko, Jonas Geiping
-  AI agents are being increasingly deployed in dynamic, open-ended environments that require adapting to new information as it arrives. To efficiently m...
+- arXiv 论文数据暂时不可用，请稍后再查看
 
 
 
@@ -149,18 +141,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+给定二叉树，找出其最大深度
 
-标签: 链表, 递归
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -171,14 +163,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《深度学习》** - Ian Goodfellow
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -189,76 +181,75 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 ### 🚀 创业公司动态
 
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
 
-**算法优化挑战** (难度: 中等)
+**微服务架构设计** (难度: 高级)
 
-优化一个排序算法，使其在大数据集上的性能提升50%
+设计一个电商系统的微服务架构，包含用户、订单、支付等服务
 
-🏷️ 标签: 算法, 性能优化 | ⏱️ 预计时间: 2-4小时 | 🎯 奖励积分: 100
+🏷️ 标签: 架构设计, 微服务 | ⏱️ 预计时间: 4-8小时 | 🎯 奖励积分: 150
 
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**遵循单一职责原则**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：💡 创新者
 
-挑战ID: `7ca35a` | 日期: 2026-05-17
+挑战ID: `5ec717` | 日期: 2026-05-18
 
 
 ### 📊 技术话题投票
@@ -276,9 +267,9 @@ test('should calculate tax correctly', () => {
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
@@ -294,14 +285,14 @@ test('should calculate tax correctly', () => {
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**安全工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-为什么程序员喜欢黑暗？因为光会产生bug！
+如果调试是去除bug的过程，那么编程就是放入bug的过程。
 
 
 ### 🐙 GitHub 生态统计
@@ -315,7 +306,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-05-17 09:25:59
+- 📅 更新时间: 2026-05-18 11:34:58
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -326,15 +317,14 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 12.2/100
+- 😊 积极新闻: 2 (25.0%)
+- 😟 消极新闻: 3 (37.5%)
+- 🔥 平均热度: 16.2/100
 
 🏷️ **热门关键词**:
-- AI (4次)
+- AI (7次)
 - GPT (1次)
-- DevOps (1次)
-- 人工智能 (1次)
+- 零信任 (1次)
 
 
 ### 🤖 关于此项目
