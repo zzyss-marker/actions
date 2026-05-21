@@ -55,70 +55,69 @@
 
 MIT
 
-## 今日更新 (2026-05-20)
+## 今日更新 (2026-05-21)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- 😐 [2026国产AI Agent工具全景盘点：腾讯WorkBuddy、字节Coze、阿里QwenPaw、百度红手指Operator等40款龙虾工具横向对比评测](https://blog.csdn.net/qq_44866828/article/details/160622087) 🔥🔥🔥 超热
-  AI Agent、大模型、LLM、RAG、MCP、LangChain、AutoGPT、MetaGPT、Computer Use、多模态、端侧AI、低代码、RPA、DevOps、云原生、Kubernet...
-- 😊 [2026最新！低延迟高吞吐带你OpenClaw接入QQ飞书全攻略：10分钟打造你的私人AI智能体](https://blog.csdn.net/2401_86326742/article/details/160580177) 🔥🔥 很热
-  2026年，AI Agent赛道迎来爆发——OpenClaw（GitHub 30万+Star）已成为最火的开源智能体框架之一，而蓝耘元生代MaaS平台凭借DeepSeek-V3.2、GLM-5.1等热...
-- 😐 [别再被海量信息淹没了！手把手教你搭建专属AI情报雷达，全网热点自动推送到手](https://blog.csdn.net/geinvse_seg/article/details/160588037) 🔥 热门
-  “TrendRadar 负责全网扫街，蓝耘大模型负责深度思考。”两者结合，打破了信息获取与AI使用的壁垒，不仅实现了自动抓取，更完成了从碎片新闻到深度逻辑提炼的跨越。在信息过载的时代，这是普通人构建认...
-- 😟 [ComfyUI 整合包 V8 中文版｜2026 最新版开箱即用｜零门槛 AI 绘画 / AI 视频｜新手到进阶都能用｜附整合包下载](https://blog.csdn.net/yoin520/article/details/160968263) 🔥 热门
-  ComfyUI整合包V8中文版是一款基于Stable Diffusion的AI绘画工具，通过节点式工作流实现可视化操作。该整合包解决了原版安装复杂的问题，提供开箱即用的中文环境，包含完整汉化界面、预装...
-- 😊 [AI毕业论文写作指令全攻略：50条高效生成指令助你零基础完成高质原创论文](https://blog.csdn.net/2501_93361204/article/details/154567565) 📈 关注
-  AI助力毕业论文写作：50条高效指令全攻略 本文提供了利用AI工具完成毕业论文的系统方法，涵盖论文写作全流程的50条实用指令。从前期准备的选题确定、文献收集和大纲生成，到主体内容的摘要撰写、研究现状分...
+- 😟 [告别无效编程！十倍速开发：AI时代的Cursor编程手记，解锁AI开发效率密码](https://blog.csdn.net/weixin_43151418/article/details/161145576) 📈 关注
+  《十倍速开发：AI时代的Cursor编程手记》是一本针对开发者使用AI编程工具Cursor的实战指南。作者王尧以20多年开发经验为基础，通过完整博客项目案例，真实记录AI编程中的常见问题与解决方案。书...
+- 😊 [AI 写小说哪个最好？真实对比评测炼字工坊、豆包、千问、文心等神器](https://blog.csdn.net/qq_18733629/article/details/158316618) 📈 关注
+  2026年AI写作平台测评显示，炼字工坊凭借专业创作能力脱颖而出。测评从7个维度对比6大平台，炼字工坊在长篇稳定性（支持10万+字创作）、剧情推进规划、AI消痕能力（投稿通过率提升）等方面表现突出。其...
+- 😊 [医疗AI中的马尔科夫链深度应用与Python实现(2025年版)](https://blog.csdn.net/kkiron/article/details/149861299) 📈 关注
+  马尔可夫模型在医疗领域有广泛应用，包括疾病进展预测、治疗决策优化、生存分析和资源调度。本文通过糖尿病分期案例展示了Python实现方法，包括转移矩阵计算、病程模拟和状态预测。进阶部分引入隐马尔可夫模型...
+- 😟 [测试人必备的4个AI Skills（附下载地址和详细用法）](https://blog.csdn.net/sdoa0806/article/details/159731787) 📈 关注
+  作为测试工程师，日常工作中难免会遇到这些痛点：Web应用测试要手动写脚本、调试Bug凭直觉瞎试、测试失败后逐个排查耗时费力、TDD流程难以坚持……其实，用好AI相关的测试Skill，就能轻松解决这些难...
+- 😊 [AI Agent 场景下，万级 JSON 字段的性能挑战与优化实践](https://blog.csdn.net/SelectDB_Fly/article/details/160885018) 📈 关注
+  随着数据不断演进，尤其在 AI Agent、LLMOps 与可观测性系统快速发展的背景下，宽 JSON 的字段膨胀带来巨大的性能挑战。Apache Doris 4.1 通过 Doc Mode 与 Se...
 
 
 ### 网络安全资讯
 
-- [从开源投毒到AI生成代码：供应链安全为何成为企业安全的主战场？](https://www.anquanke.com/post/id/315334) - 安全公告，详情请点击链接查看完整内容
+- [瑞数信息入选IDC《中国智能体威胁检测技术评估，2026》](https://www.anquanke.com/post/id/315562) - 安全公告，详情请点击链接查看完整内容
 - [GLiGuard：面向大语言模型安全防护的模式条件分类方法](https://paper.seebug.org/3485) - 作者：Urchade Zaratiana, Mary Newhauser, George Hurn-Maloney, Ash Lewis 译者：知道创宇404实验室翻译组 原文链接：https://a...
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
 
 
 ### 技术就业趋势
 
-软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
+DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
 
 ### 科技热点
 
-- 😐 [从 0 到 1 用 tRPC-Go 写一个图书管理服务：一份可跑、可读、可拓展的实战笔记](https://cloud.tencent.com/developer/article/2671249) 📈 关注
-  本文配套源码已经在我的本地工程 trpc/library 跑通：一条 go run . 启动 tRPC 服务 + HTTP 网关，浏览器访问 http://127.0.0.1:8080 就能看到一个可...
-- 😊 [「Go 语言实战」从零手写一个分层架构的图书管理系统（HTTP + DDD 思想 · 含完整源码）](https://cloud.tencent.com/developer/article/2671247) 📈 关注
-  本文配套源码已开源在本地工程 library/ 目录，全文所有代码片段都与仓库一一对应、可直接 go run 运行。
-- 😟 [BAS 入侵与攻击模拟：如何在生产环境中"无害"演练？](https://cloud.tencent.com/developer/article/2671215) 📊 普通
-  摘要：
-本文把BAS的核心原理讲透，给出'无害化'设计的底层逻辑、剧本体系、场景覆盖，以及一份从启动到复盘的完整BAS演练SOP，并告诉你腾讯云RAS如何把BAS做成可在生产环境合规实施的服务。
-一、
+- 😊 [大型集团/央企攻防演练实战剧本：5 人 14 天怎么打？](https://cloud.tencent.com/developer/article/2671870) 📊 普通
+  摘要
+集团 / 央企级攻防演练规模大、合规严、跨业务线协同复杂。本文以 CADC 行业 / 集团级 5 人 × 14 天方案为蓝本，给出从立项、方案沟通到攻防执行、对抗总结的完整剧本，帮助集团安全负责
+- 😟 [Gemini 3.5 Flash 泄露：每秒 1141 token，Google 这次想打穿“速度”？](https://cloud.tencent.com/developer/article/2671881) 📊 普通
+  有网友一直在测试Gemini 3.5 Flash 的速度。这一个新的Gemini并没有说能力很逆天，而是它的输出速度直接冲到了一个非常离谱的区间：有网友测到 900 tokens/s 左右，写代码场景...
+- 😐 [IDL 与 Protobuf 详解](https://cloud.tencent.com/developer/article/2671916) 📊 普通
+  RPC 的精髓之一就是接口先行——双方先约定好接口长什么样，再各自实现。这份"约定"的载体就是 IDL（Interface Definition Language，接口定义语言）。
 
 
 ### GitHub 趋势项目
 
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
-- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
+- [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
 
 
 
 ### AI 研究论文
 
-- [Atoms of Thought: Universal EEG Representation Learning with Microstates](https://arxiv.org/abs/2605.20182v1) - Xinyang Tian, Ruitao Liu, Ziyi Ye, Siyang Xue, Xin Wang, Xuesong Chen
-  Learning universal representations from electroencephalogram (EEG) signals is a cutting-edge approach in the field of neuroinformatics and brain-compu...
+- [Variance Reduction for Expectations with Diffusion Teachers](https://arxiv.org/abs/2605.21489v1) - Jesse Bettencourt, Xindi Wu, Matan Atzmon, James Lucas, Jonathan Lorraine
+  Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. ...
 
-- [A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1) - Vasundra Srinivasan
-  Production LLM agents combine stochastic model outputs with deterministic software systems, yet the boundary between the two is rarely treated as a fi...
+- [Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate](https://arxiv.org/abs/2605.21486v1) - Dayal Singh Kalra, Maissam Barkeshli
+  Hyperparameter transfer allows extrapolating optimal optimization hyperparameters from small to large scales, making it critical for training large la...
 
-- [Long-term Power Grid Planning via Answer Set Programming](https://arxiv.org/abs/2605.20172v1) - Antonio Ielo, Francesco Doria, Sandra Castellanos-Paez, Marco Maratea, Francesco Percassi, Mauro Vallati
-  The Power grid is a critical infrastructure underpinning all aspects of modern society and its services. Maintaining its effectiveness requires contin...
+- [DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation](https://arxiv.org/abs/2605.21482v1) - Sixiong Xie, Zhuofan Shi, Haiyang Shen, Jiuzheng Wang, Siqi Zhong, Mugeng Liu, Chongyang Pan, Peilun Jia, Baoqing Sun, Xiang Jing, Yun Ma
+  Deep research, in which an agent searches the open web, collects evidence, and derives an answer through extended reasoning, is a prominent use case f...
 
 
 
@@ -142,25 +141,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $298.97 📈 +1.13 (+0.4%)
-- **GOOGL**: $387.66 📉 -9.28 (-2.3%)
-- **MSFT**: $417.42 📉 -6.12 (-1.4%)
+- **AAPL**: $302.25 📈 +3.28 (+1.1%)
+- **GOOGL**: $388.91 📈 +1.25 (+0.3%)
+- **MSFT**: $421.06 📈 +3.64 (+0.9%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**有效的括号** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+判断字符串中的括号是否有效匹配
 
-标签: 字符串, 动态规划
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -171,14 +170,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《代码整洁之道》** - Robert C. Martin
 
-深度学习领域的权威教材 (分类: 人工智能)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,13 +187,13 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
@@ -207,9 +206,9 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Ambient Coding** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -223,83 +222,85 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**写测试用例**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：⚡ 性能优化师
 
-挑战ID: `4501b6` | 日期: 2026-05-20
+挑战ID: `ac64f7` | 日期: 2026-05-21
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Zed** (Rust) - ⭐ 25k+
 
-使用Rust构建跨平台桌面应用
+高性能代码编辑器
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**全栈开发** (中级) 📊
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+程序员的三大美德：懒惰、急躁和傲慢。
 
 
 ### 🐙 GitHub 生态统计
@@ -313,7 +314,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-05-20 10:39:39
+- 📅 更新时间: 2026-05-21 10:56:12
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -324,15 +325,12 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
-- 😟 消极新闻: 2 (25.0%)
-- 🔥 平均热度: 19.5/100
+- 😊 积极新闻: 4 (50.0%)
+- 😟 消极新闻: 3 (37.5%)
+- 🔥 平均热度: 8.2/100
 
 🏷️ **热门关键词**:
 - AI (5次)
-- AR (4次)
-- GPT (1次)
-- DevOps (1次)
 
 
 ### 🤖 关于此项目
