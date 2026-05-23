@@ -55,24 +55,16 @@
 
 MIT
 
-## 今日更新 (2026-05-22)
+## 今日更新 (2026-05-23)
 
 ### 今日名言
 
-> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [AI Agent 觉醒时刻：从单点工具到多Agent协作系统的范式革命](https://blog.csdn.net/IRpickstars/article/details/160577316) 🔥 热门
-  AI Agent正在经历从"工具"到"助手"再到"同事"的定位升级。技术架构上，规划引擎、工具系统、记忆系统、多Agent协作框架构成了完整的能力矩阵。应用场景上，Research Agent、Cod...
-- 😊 [VS Code 效率神器：Claude Code YOLO 插件全攻略，AI 编码无需确认直接冲！](https://blog.csdn.net/qq_44862208/article/details/158570020) 🔥 热门
-  Claude Code YOLO是一款专为程序员设计的VS Code插件，通过全自动YOLO模式、国产模型兼容和批量操作功能，大幅提升编码效率。安装仅需3分钟，支持智谱GLM等国内大模型，配置简单。核...
-- 😊 [对比QClaw和其他Claw，ToDesk AI凭什么更省额度、回答更详细？亲身体验告诉你](https://blog.csdn.net/hanwangyyds/article/details/160549642) 📈 关注
-  这段时间我连续体验了几款带有 “Claw” 能力定位的桌面智能助理，原本只是想看看它们到底是不是“换了个壳的聊天工具”，结果真正上手一轮之后，我的感受挺明确：ToDesk AI（ToClaw）更像一个...
-- 😊 [实测OIIOII AI动画平台：零门槛做动画，附10枚专属邀请码](https://blog.csdn.net/qq_27362017/article/details/158612030) 📈 关注
-  OIIOII是一款AI动画创作平台，通过多智能体协作系统简化专业动画制作流程，让单人即可完成团队级创作。平台提供五大创作模式，支持从短剪辑到长剧情的全场景需求，并采用全局资产记忆库和结构化通信机制解决...
-- 😊 [分享|2025年人工智能训练师报考全解析：条件、流程、补贴政策一览](https://blog.csdn.net/tipdm0301/article/details/150269714) 📈 关注
-  人工智能训练师分为五个等级，从初级高级，可以根据个人经验选择报考。评上初级证书，证明申报者能力可胜任数据采集员、数据标注员等初级工作。而评上最高级认定，则证明申报者具备从事人工智能高级产品经理、人工智...
+- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
+  新模型在推理能力和上下文窗口方面有显著改进
 
 
 ### 网络安全资讯
@@ -84,35 +76,44 @@ MIT
 
 ### 技术就业趋势
 
-可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
+网络安全人才缺口扩大，零信任安全模型专家需求激增。
 
 ### 科技热点
 
-- 😐 [蓝队的"暗夜时刻"：攻防演练中应急响应 4 小时 SOP](https://cloud.tencent.com/developer/article/2672313) 📊 普通
+- 😟 [攻防对抗授权函怎么写？一份可直接套用的模板 + 法律合规要点](https://cloud.tencent.com/developer/article/2672458) 📊 普通
   摘要
-攻防演练里被打穿不可怕，可怕的是 4 小时内蓝队拿不出任何处置动作。本文给出一份可直接执行的应急响应 4 小时 SOP，覆盖检测、研判、处置、溯源、复盘 5 个动作，并讲清为何"实战压测"比"剧
-- 😟 [制造业数字化转型的攻防大考：工厂、办公网、供应链一起被打怎么办？](https://cloud.tencent.com/developer/article/2672340) 📊 普通
+授权函是攻防对抗服务最容易被忽略却最关键的合规文件。本文给出一份可直接套用的授权函结构、必备条款清单与法律合规要点，帮你把演练前的合规风险锁死。
+一、授权函为什么这么重要
+授权函不是"走流程的纸
+- 😊 [同样是"以攻促防"，云厂商的攻防对抗服务和安全公司有何不同？腾讯云 CADC 差异化解读](https://cloud.tencent.com/developer/article/2672468) 📊 普通
   摘要
-制造业数字化转型让工厂、办公网与供应链同时进入攻击者视野，三战场协同对抗成为新常态。本文给出制造业实战攻防演练的范围设计、红线管理与组合方案建议，帮助制造企业在保障生产连续性的前提下完成实战化检
-- 😐 [攻防演练前 30 天最焦虑的 10 件事，腾讯云 CADC 项目经理一次性回答](https://cloud.tencent.com/developer/article/2672324) 📊 普通
+云厂商和传统安全公司都在做攻防对抗服务，差异究竟在哪？本文从云上视角、资产可视性、协同响应、计费透明度、合规边界 5 个维度对比两种路线，并解释腾讯云 CADC 在云原生时代的差异化定位，帮助企
+- 😊 [一份可直接落地的甲方钓鱼演练方案：从场景设计到效果评估](https://cloud.tencent.com/developer/article/2672452) 📊 普通
   摘要
-攻防演练前 30 天，企业安全负责人最常焦虑的不是"会不会被打穿"，而是"流程有没有问题"。本文罗列 10 个高频焦虑点，逐一给出 CADC 官方文档中的标准答复，帮你把演练前的不确定性降到最低
+钓鱼依然是 APT 攻击最有效的入口。本文给出一份甲方可以直接落地的钓鱼演练 6 步法，从目标设定、场景设计、技术准备、执行投递、数据分析到改进迭代，并附上效果评估指标，帮你把"安全意识培训"从
 
 
 ### GitHub 趋势项目
 
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-- [dotnet/skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 
 
 
 
 ### AI 研究论文
 
-- arXiv 论文数据暂时不可用，请稍后再查看
+- [Vector Policy Optimization: Training for Diversity Improves Test-Time Search](https://arxiv.org/abs/2605.22817v1) - Ryan Bahlous-Boldi, Isha Puri, Idan Shenfeld, Akarsh Kumar, Mehul Damani, Sebastian Risi, Omar Khattab, Zhang-Wei Hong, Pulkit Agrawal
+  Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, tha...
+
+- [The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning](https://arxiv.org/abs/2605.22800v1) - Vishal Rajput
+  Robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classica...
+
+- [Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models](https://arxiv.org/abs/2605.22795v1) - Krishnakumar Balasubramanian
+  We propose and analyze a conservative drifting method for one-step generative modeling. The method replaces the original displacement-based drifting v...
 
 
 
@@ -136,25 +137,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $304.99 📈 +2.74 (+0.9%)
-- **GOOGL**: $387.66 📉 -1.25 (-0.3%)
-- **MSFT**: $419.09 📉 -1.97 (-0.5%)
+- **AAPL**: $308.82 📈 +3.83 (+1.3%)
+- **GOOGL**: $382.97 📉 -4.69 (-1.2%)
+- **MSFT**: $418.57 📉 -0.52 (-0.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**合并两个有序链表** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+将两个升序链表合并为一个新的升序链表
 
-标签: 字符串, 动态规划
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -165,7 +166,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
@@ -182,21 +183,21 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
@@ -217,52 +218,53 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**写测试用例**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：💡 创新者
 
-挑战ID: `0a2529` | 日期: 2026-05-22
+挑战ID: `355f9d` | 日期: 2026-05-23
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
@@ -273,28 +275,28 @@ function formatCurrency(amount) { ... }
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-高性能代码编辑器
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**全栈开发** (中级) 📊
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+程序员的口头禅：在我的机器上运行得很好！
 
 
 ### 🐙 GitHub 生态统计
@@ -308,7 +310,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-05-22 10:40:42
+- 📅 更新时间: 2026-05-23 09:30:21
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -318,15 +320,15 @@ function formatCurrency(amount) { ... }
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 10.2/100
+- 📰 新闻总数: 4
+- 😊 积极新闻: 3 (75.0%)
+- 😟 消极新闻: 1 (25.0%)
+- 🔥 平均热度: 3.8/100
 
 🏷️ **热门关键词**:
-- AI (4次)
-- AR (1次)
-- 人工智能 (1次)
+- AI (1次)
+- GPT (1次)
+- OpenAI (1次)
 
 
 ### 🤖 关于此项目
