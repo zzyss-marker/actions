@@ -55,72 +55,68 @@
 
 MIT
 
-## 今日更新 (2026-05-24)
+## 今日更新 (2026-05-27)
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
 
 ### AI 技术动态
 
-- 😊 [AI Agent 面试八股文100问：大模型智能体高频考点全解析（附分类指南和简历模板）](https://blog.csdn.net/2402_84764726/article/details/158314824) 🔥🔥 很热
-  AI Agent（人工智能智能体）是一个能够感知环境、自主决策并执行动作以达成特定目标的系统。感知（Perception）、推理（Reasoning）、行动（Action）和反馈（Feedback）。...
-- 😊 [【腾讯位置服务开发者征文大赛】地图不再“冷静”：当腾讯位置服务遇上 AI，我打造了一个 AI 智能出行“全能大脑”](https://blog.csdn.net/K48932/article/details/160502297) 🔥 热门
-  最近做项目的时候，发现单纯的地图坐标展示已经不能直接满足复杂的业务需求了。我们需要一个更实用的系统，不仅能查地图，还能做语义分析，直接搞定出差、旅游的行程规划。这次开发，我把腾讯位置服务和AI大模型结...
-- 😐 [我用 Claude Code + 魔珐星云 SDK，10 分钟做了一个会追问的 AI 家电导购](https://blog.csdn.net/2302_79751907/article/details/161087545) 🔥 热门
-  我第一次意识到 AI 数字人有点不一样，是它接话的那一瞬间。端到端响应约 500ms。我刚说完“想买一台 4000 元左右的冰箱”，屏幕里的数字人导购几乎立刻抬起头，点了点头，然后开始追问：你家是几口...
-- 😊 [AI基础设施革命：云原生+云边端+算力的协同价值](https://blog.csdn.net/aiclaws/article/details/161099320) 📈 关注
-  本文探讨了云原生、云边端与算力协同的核心价值，重点介绍了其技术架构和实践方法。文章首先定义了云原生+云边端+算力的协同概念，强调其在提升架构效率、降低运维成本方面的重要性。随后详细解析了技术原理，包括...
-- 😐 [Python在AI虚拟教学视频开发中的核心技术与前景展望](https://blog.csdn.net/deepever/article/details/147517651) 📈 关注
-  Python在AI虚拟教学视频开发中的核心技术与前景展望
+- 😊 [GPT-4.1 API 抢先开放！Cursor 已支持调用，开发者速来体验！](https://blog.csdn.net/Z_oioihoii/article/details/147244300) 🔥🔥 很热
+  如果你是开发者，现在就能通过 API 调用 GPT-4.1，体验更强大的 AI 能力！知名开发者工具已第一时间集成 GPT-4.1，让编程、调试、文档生成更高效。但 GPT-4.1 API 到底有哪些...
+- 😐 [实测！朱自清散文AI率超60%？2026年AIGC检测技术局限与降痕方案全解析](https://blog.csdn.net/Domineeringking/article/details/161321604) 📈 关注
+  2026年一则消息引爆学术圈——朱自清《荷塘月色》被AI检测系统判定为AIGC疑似度62.88%引发热议。我们实测5款AIGC检测工具和6款降痕产品发现：检测器假阳性率最高达68.6%，但专业降痕10...
+- 😊 [去AI味提示词大全：25个实用Prompt帮你降低AI率](https://blog.csdn.net/aigccleaner/article/details/158099796) 📈 关注
+  整理了25个经过实测有效的去AI味提示词，涵盖写作风格调整、逻辑结构优化、语言润色等多个维度。结合去AIGC和率零等专业降AI工具使用，帮你把AI生成内容的检测率从90%以上降到15%以下，适用于Ch...
+- 😐 [在家也能做 AI 导演！本地部署 Wan2.1 视频生成模型全攻略](https://blog.csdn.net/2302_78391795/article/details/155849201) 📈 关注
+  本文介绍了如何利用Wan2.1模型和ComfyUI框架搭建本地AI视频生成系统。主要内容包括：软件准备（ComfyUI、文本编码器、VAE和视频生成模型下载）、整合配置步骤（将各组件放入指定目录）、本...
+- 😐 [多平台 AI 聊天客户端 Kelivo 的下载与使用教程](https://blog.csdn.net/weixin_41961749/article/details/160349036) 📈 关注
+  最近在折腾本地与多模型 AI 工具时，发现一个体验非常不错的LLM 客户端——Kelivo。它最大的特点不是“又一个聊天工具”，而是把多平台 + 多模型 + 多供应商 + 多模态全部整合到一个客户端里...
 
 
 ### 网络安全资讯
 
 - [瑞数信息入选IDC《中国智能体威胁检测技术评估，2026》](https://www.anquanke.com/post/id/315562) - 安全公告，详情请点击链接查看完整内容
-- [GLiGuard：面向大语言模型安全防护的模式条件分类方法](https://paper.seebug.org/3485) - 作者：Urchade Zaratiana, Mary Newhauser, George Hurn-Maloney, Ash Lewis 译者：知道创宇404实验室翻译组 原文链接：https://a...
+- [潜在对抗检测：基于大模型激活自适应探测的多轮攻击检测](https://paper.seebug.org/3486) - 作者：Prashant Kulkarni 译者：知道创宇404实验室翻译组 原文链接：https://arxiv.org/html/2604.28129v1 摘要 多轮提示注入遵循建立信任—话题转向—...
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
 
 
 ### 技术就业趋势
 
-低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- 😊 [虚拟美术画室：高清直播+AI明暗矫正如何改变在线美术教学](https://cloud.tencent.com/developer/article/2672491) 📈 关注
-  摘要
-美术教学曾被视为"最不适合线上"的学科，光线色温与笔触还原是核心痛点。本文拆解高清直播、AI明暗矫正、互动白板三大突破如何重塑虚拟画室，并结合腾讯云实时互动-教育版给出一周可落地的搭建方案。
-一
-- 😊 [一份可直接落地的甲方钓鱼演练方案：从场景设计到效果评估](https://cloud.tencent.com/developer/article/2672452) 📊 普通
-  摘要
-钓鱼依然是 APT 攻击最有效的入口。本文给出一份甲方可以直接落地的钓鱼演练 6 步法，从目标设定、场景设计、技术准备、执行投递、数据分析到改进迭代，并附上效果评估指标，帮你把"安全意识培训"从
-- 😐 [15分钟搭建10万人直播课堂：低代码aPaaS的技术力量](https://cloud.tencent.com/developer/article/2672504) 📊 普通
-  摘要
-传统方式搭建10万人直播课堂需数十人团队耗时半年，而腾讯云实时互动-教育版通过aPaaS低代码架构将其缩短到15分钟。本文解析其技术架构——如何把音视频、白板、IM、录制封装成开箱即用SDK，并
+- 😐 [零代码复刻 OpenAI DeepResearch：我用 Dify × EdgeOne 打造全球科技热点深度起底神器](https://cloud.tencent.com/developer/article/2673043) 🔥🔥 很热
+  在信息爆炸的 2026 年，作为一名科技爱好者，我每天都要面对海量的 AI 和互联网科技动态。刷推特、翻新闻、看行业分析，每天至少要消耗 2 个小时以上。传统的 AI 聊天机器人虽然能联网，但通常只能...
+- 😟 [大模型应用：负权图最短路径算法：Bellman-Ford与Floyd-Warshall结合大模型应用.115](https://cloud.tencent.com/developer/article/2672754) 📈 关注
+  在图论算法体系中，最短路径问题是最基础也最核心的研究方向之一。前一期我们讨论过的Dijkstra 算法作为经典的最短路径求解方法，在正权图场景下表现优异，但面对包含负权重边的图结构时便会失效。透过核心...
+- 😊 [Linux 使用 LVM 物理卷无损合并双磁盘完整指南](https://cloud.tencent.com/developer/article/2672068) 📊 普通
+  本文系统介绍了使用 LVM 物理卷无损合并双磁盘的完整方案，包括5 个关键操作注意事项、完整的数据验证流程和企业级性能优化技巧。关键收获:
 
 
 ### GitHub 趋势项目
 
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
-- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
-- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 
 
 
 
 ### AI 研究论文
 
-- [Vector Policy Optimization: Training for Diversity Improves Test-Time Search](https://arxiv.org/abs/2605.22817v1) - Ryan Bahlous-Boldi, Isha Puri, Idan Shenfeld, Akarsh Kumar, Mehul Damani, Sebastian Risi, Omar Khattab, Zhang-Wei Hong, Pulkit Agrawal
-  Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, tha...
+- [Algorithmic Monocultures in Hiring](https://arxiv.org/abs/2605.27371v1) - Rishi Bommasani, Sarah H. Bana, Kathleen A. Creel, Dan Jurafsky, Percy Liang
+  Many employers screen job applicants with algorithms built by the same few algorithm vendors. We hypothesize that algorithmic monoculture leads to the...
 
-- [The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning](https://arxiv.org/abs/2605.22800v1) - Vishal Rajput
-  Robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classica...
+- [MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation](https://arxiv.org/abs/2605.27366v1) - Huawei Lin, Peng Li, Jie Song, Fuxin Jiang, Tieying Zhang
+  Large language model (LLM) agents rely on reusable skills to solve complex tasks. However, existing skill creation approaches treat skills as isolated...
 
-- [Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models](https://arxiv.org/abs/2605.22795v1) - Krishnakumar Balasubramanian
-  We propose and analyze a conservative drifting method for one-step generative modeling. The method replaces the original displacement-based drifting v...
+- [LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding](https://arxiv.org/abs/2605.27365v1) - Shihao Wang, Shilong Liu, Yuanguo Kuang, Xinyu Wei, Yangzhou Liu, Zhiqi Li, Yunze Man, Guo Chen, Andrew Tao, Guilin Liu, Jan Kautz, Lei Zhang, Zhiding Yu
+  Vision-language models (VLMs) commonly formulate visual grounding and detection as a coordinate-token generation problem, serializing each 2D box into...
 
 
 
@@ -144,25 +140,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $308.82 📈 +3.83 (+1.3%)
-- **GOOGL**: $382.97 📉 -4.69 (-1.2%)
-- **MSFT**: $418.57 📉 -0.52 (-0.1%)
+- **AAPL**: $308.33 📉 -0.49 (-0.2%)
+- **GOOGL**: $388.88 📈 +5.91 (+1.5%)
+- **MSFT**: $416.03 📉 -2.54 (-0.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**合并两个有序链表** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+将两个升序链表合并为一个新的升序链表
 
-标签: 字符串, 动态规划
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -173,14 +169,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《Python编程：从入门到实践》** - Eric Matthes
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -190,14 +186,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
@@ -216,11 +212,11 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🏆 本周技术挑战
 
-**微服务架构设计** (难度: 高级)
+**AI模型部署** (难度: 中等)
 
-设计一个电商系统的微服务架构，包含用户、订单、支付等服务
+将一个机器学习模型部署到云端，实现API调用
 
-🏷️ 标签: 架构设计, 微服务 | ⏱️ 预计时间: 4-8小时 | 🎯 奖励积分: 150
+🏷️ 标签: AI, 部署, 云计算 | ⏱️ 预计时间: 3-6小时 | 🎯 奖励积分: 120
 
 
 ### 🧠 技术小测验
@@ -249,59 +245,59 @@ git commit -m "Add user authentication feature"
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `e56209` | 日期: 2026-05-24
+挑战ID: `30fa32` | 日期: 2026-05-27
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Tauri** (Rust) - ⭐ 70k+
 
-现代JavaScript/TypeScript运行时
+使用Rust构建跨平台桌面应用
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**安全工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-真正的程序员不需要注释，代码就是最好的文档。
+程序员的三大美德：懒惰、急躁和傲慢。
 
 
 ### 🐙 GitHub 生态统计
@@ -315,7 +311,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-05-24 09:46:03
+- 📅 更新时间: 2026-05-27 11:25:58
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -326,13 +322,15 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 11.9/100
+- 😊 积极新闻: 3 (37.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 17.8/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- 人工智能 (1次)
+- AR (2次)
+- OpenAI (1次)
+- GPT (1次)
 
 
 ### 🤖 关于此项目
