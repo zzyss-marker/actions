@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-05-29)
+## 今日更新 (2026-05-30)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😐 [2026年AI工具评测：ChatGPT vs Claude vs Gemini vs DeepSeek 深度对比](https://blog.csdn.net/2611_95276172/article/details/160505332) 🔥🔥🔥 超热
-  维度ChatGPTClaudeGeminiDeepSeek响应速度⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐创意写作⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐代码能力⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐多模态⭐⭐⭐⭐...
-- 😊 [Trae Solo+豆包Version1.6+Seedream4.0打造“AI识菜通“](https://blog.csdn.net/IRpickstars/article/details/152893509) 🔥🔥 很热
-  在人工智能技术迅猛发展的今天，大模型正以前所未有的深度与广度渗透进日常生活的各个场景。从智能客服到内容创作，从代码生成到图像理解，AI 正在重塑人与信息、人与服务之间的交互方式。而在餐饮这一高频、高感...
-- 😐 [AI 中转站（Sub2API）搭建](https://blog.csdn.net/weimeilayer/article/details/160891633) 🔥 热门
-  建议优先尝试 Docker 方式，开箱即用。如果有任何具体步骤卡住，可以告诉我你选择的部署方式和遇到的现象，我可以进一步协助排查。根据你的技术偏好，可以选择。（更贴近系统底层）或。
-- 😊 [好莱坞全网找的中国创作者，他的 AI 短片提示词全开源了+直播讲解整理](https://blog.csdn.net/taoanbang/article/details/161205548) 📈 关注
-  摘要： 云南中专生Mx-Shell仅用4个月从AI新手成长为被好莱坞导演公开赞赏的创作者，其短片《丧尸清道夫》凭借独特的原子朋克美学和电影级质感引发关注。他公开的创作方法论核心在于将AI视为专业摄影团...
-- 😐 [Wan-AI/Wan2.2-Animate-14B](https://blog.csdn.net/u010953692/article/details/154242747) 📈 关注
-  本文介绍了Wan2.2-Animate-14B模型的下载安装及工作流配置过程。主要内容包括：通过ModelScope下载Wan2.2-Animate-14B主模型及相关组件（包括扩散模型、LoRA、文...
+- 😐 [在trae、qoder、Claude Code、Cursor等AI IDE中使用ui-ux-pro-max-skill](https://blog.csdn.net/m0_62681080/article/details/156854933) 🔥 热门
+  本文介绍了UI/UX Pro Max工具链的安装与使用指南。通过npm全局安装uipro-cli后，开发者可以在项目中初始化并绑定不同的AI助手（Claude、Cursor、Qoder或全部）。特别展...
+- 😊 [Claude Code + GLM-5.1 全能保姆级攻略：零门槛打造你的私人终端 AI 程序员](https://blog.csdn.net/2302_78391795/article/details/160539979) 🔥 热门
+  Anthropic 官方推出的命令行工具 Claude Code 凭借其“终端原生”的特性，依然是目前独一档的“AI 程序员”。它可以直接读取你的本地代码库、自动执行终端命令、自主完成代码修改和运行测...
+- 😐 [保姆级实操｜从0到1部署Hermes+OpenClaw双AI Agent组合，小白也能一键跑通！](https://blog.csdn.net/xigea2014/article/details/160440193) 🔥 热门
+  这篇文章介绍了OpenClaw和Hermes双AI代理系统的部署与联动使用方法。主要内容包括：1）环境准备与系统要求；2）OpenClaw核心底座的安装配置；3）Hermes记忆进化代理的部署；4）双...
+- 😐 [免费使用 Cursor AI 的4种方法—无需付费（2026 最新指南附带图文）](https://blog.csdn.net/lxttzlove/article/details/160480004) 📈 关注
+  本文介绍了四种免费使用CursorAI高级功能的方法：1.基础免费版适合初学者，提供代码补全和错误检测等基础功能；2.通过试用版重置工具周期性延长14天Pro体验；3.使用CursorFreeVIP工...
+- 😐 [硬件开发用AI](https://blog.csdn.net/ZhuBin365/article/details/158576987) 📈 关注
+  Quilter是面向专业硬件开发团队的AI PCB布局工具，专注于解决PCB设计中的布局瓶颈问题；而Schematik则更适合快速将创意转化为创客级原型。两者分别服务于硬件开发的不同阶段和用户群体，共...
 
 
 ### 网络安全资讯
@@ -109,7 +109,14 @@ MIT
 
 ### AI 研究论文
 
-- arXiv 论文数据暂时不可用，请稍后再查看
+- [Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software](https://arxiv.org/abs/2605.30353v1) - Nhat-Minh Nguyen
+  Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, ...
+
+- [VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](https://arxiv.org/abs/2605.30351v1) - Hidir Yesiltepe, Jiazhen Hu, Tuna Han Salih Meral, Adil Kaan Akan, Kaan Oktay, Hoda Eldardiry, Pinar Yanardag
+  Long-rollout causal video diffusion has converged on a fixed-size sliding-window KV cache, with recent progress innovating within this layout by chang...
+
+- [LLMSurgeon: Diagnosing Data Mixture of Large Language Models](https://arxiv.org/abs/2605.30348v1) - Yaxin Luo, Jiacheng Cui, Xiaohan Zhao, Xinyi Shang, Jiacheng Liu, Xinyue Bi, Zhaoyi Li, Zhiqiang Shen
+  The pretraining data mixture of Large Language Models (LLMs) constitutes their "digital DNA", shaping model behaviors, capabilities, and failure modes...
 
 
 
@@ -133,25 +140,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $312.51 📈 +1.66 (+0.5%)
-- **GOOGL**: $390.13 📈 +1.30 (+0.3%)
-- **MSFT**: $426.99 📈 +14.32 (+3.5%)
+- **AAPL**: $312.06 📉 -0.45 (-0.1%)
+- **GOOGL**: $380.34 📉 -9.79 (-2.5%)
+- **MSFT**: $450.24 📈 +23.25 (+5.4%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+将两个升序链表合并为一个新的升序链表
 
-标签: 栈, 字符串
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -162,14 +169,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《深度学习》** - Ian Goodfellow
 
-容器编排平台的完整指南 (分类: 云原生)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -180,27 +187,27 @@ satellite communication systems has elevated the importance of secure vide...
 ### 🚀 创业公司动态
 
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -214,72 +221,73 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**写测试用例**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🛡️ 安全卫士
+今日挑战徽章：💡 创新者
 
-挑战ID: `fc6e68` | 日期: 2026-05-29
+挑战ID: `7f8168` | 日期: 2026-05-30
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Tauri** (Rust) - ⭐ 70k+
 
-高性能代码编辑器
+使用Rust构建跨平台桌面应用
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
@@ -291,7 +299,7 @@ function formatCurrency(amount) { ... }
 
 ### 😄 程序员笑话
 
-程序员最讨厌的两件事：1. 写文档 2. 没有文档
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -305,7 +313,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-05-29 11:16:53
+- 📅 更新时间: 2026-05-30 09:48:04
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -316,16 +324,12 @@ function formatCurrency(amount) { ... }
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
+- 😊 积极新闻: 2 (25.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 18.1/100
+- 🔥 平均热度: 10.2/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- ChatGPT (1次)
-- GPT (1次)
-- 人工智能 (1次)
-- Docker (1次)
 
 
 ### 🤖 关于此项目
