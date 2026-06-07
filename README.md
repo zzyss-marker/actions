@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-06-06)
+## 今日更新 (2026-06-07)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- 😊 [GitHub 热榜看不完？用 Dify + EdgeOne 做一个 AI 开源项目分析助手](https://blog.csdn.net/Mrxiao_bo/article/details/161540273) 🔥 热门
-  这次做 OpenRadar，我最大的感受是：AI 应用要想像产品，就不能只停留在“大模型回答”这一层。真正需要设计的是数据从哪里来、如何清洗、如何进入模型上下文、如何流式展示、如何在平台限制下稳定运行...
-- 😊 [Reasonix：DeepSeek 专属终端 AI 编程助手，安装、使用、性价比一文讲透](https://blog.csdn.net/qq_26086231/article/details/161143038) 📈 关注
-  Reasonix 适合谁？觉得 Claude Code / Cursor 太贵，想找免费平替的开发者喜欢终端操作，不想装臃肿 IDE 插件的效率控已经买了 DeepSeek API，想让它真正帮你写代...
-- 😊 [【AI Token中转】2026年AI Token代理站搭建实战：技术架构与运营策略](https://blog.csdn.net/a7491772/article/details/160061824) 📈 关注
-  搭建中转站技术上不难。开源方案成熟，一天就能跑起来。难的是运营。稳定性、客服、获客、成本控制，每个都要花时间。初期用开源自建，学习成本低用户超过100个，考虑付费方案省时间多渠道备份，别单点故障做好监...
-- 😊 [agency-agents部署教程：构建AI团队系统](https://blog.csdn.net/tedcloud123/article/details/160373308) 📈 关注
-  是一个开源的多智能体（Multi-Agent）框架，用于构建多个 AI Agent 协同工作的系统。它的核心理念是：👉让多个AI像一个团队一样分工协作完成任务不同 Agent 可以承担不同职责，从而提...
-- 😐 [鸿蒙 PC：从“用户点击”到“AI 调度”](https://blog.csdn.net/qq_36863796/article/details/161316605) 📈 关注
-  摘要 鸿蒙PC引入AI后，软件交互范式正发生本质变革：从"用户点击驱动"转向"AI Runtime调度"。传统软件基于事件响应模型（按钮/页面/输入框），用户作为主动控制者；而AI时代，系统开始持续观...
+- 😊 [Codex 完整指南（一）：快速入门｜工程级 AI 编程代理](https://blog.csdn.net/qq_20042935/article/details/157129234) 🔥 热门
+  本文用实战视角全面拆解了 OpenAI Codex：它不是“写代码的 AI”，而是能读懂整个代码仓库、改代码、跑测试、修 Bug、提 PR 的工程级开发代理。从账号注册、价格方案，到 IDE / CL...
+- 😐 [探索GpuGeek：AI开发者与中小企业的算力宝藏平台](https://blog.csdn.net/beautifulmemory/article/details/147960205) 🔥 热门
+  摘要：GpuGeek 作为面向 AI 开发者和中小企业的 AI 赋能平台，在 AI 时代具有重要意义。它提供丰富算力资源、多元框架工具等，涵盖深度学习项目、大模型研究等多方面，助力用户应对算力挑战，推...
+- 😊 [【GitHub项目推荐--Webnovel Writer：基于Claude Code的长篇网文AI创作系统】⭐](https://blog.csdn.net/j8267643/article/details/159247786) 🔥 热门
+  ​ 是由开发者lingfengQAQ创建并维护的开源项目，其核心使命是为网文作者提供一个基于Claude Code的智能创作系统，专门解决AI写作中的“遗忘”和“幻觉”问题，支持长周期、多章节的连载创...
+- 😊 [KouriChat + DeepSeek + 微信接入：本地 AI 角色聊天机器人搭建实录](https://blog.csdn.net/user340/article/details/160993324) 📈 关注
+  摘要 本文介绍如何利用开源框架KouriChat将DeepSeek V3模型接入微信，实现角色AI的24小时自动聊天功能。教程包含环境准备（Windows 10+Python 3.11）、项目部署、D...
+- 😊 [医疗思维图与数智云融合：从私有云到思维图的AI架构迭代（代码版）](https://blog.csdn.net/kkiron/article/details/147009057) 📈 关注
+  智慧云图的架构迭代本质上是“从资源聚合到智能涌现”的过程，其核心在于通过时空智能、大模型与开放生态的融合，构建可感知、可推理、可决策的“思维图”系统。未来，随着AI与实体经济的深度绑定，智慧云图将不仅...
 
 
 ### 网络安全资讯
@@ -84,7 +84,7 @@ MIT
 
 ### 技术就业趋势
 
-全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
+DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
 
 ### 科技热点
 
@@ -98,18 +98,25 @@ MIT
 
 ### GitHub 趋势项目
 
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol
-- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
+- [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+- [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins
 
 
 
 
 ### AI 研究论文
 
-- arXiv 论文数据暂时不可用，请稍后再查看
+- [HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers](https://arxiv.org/abs/2606.06493v1) - Lizhi Yang, Junheng Li, Nehar Poddar, Yiling Hou, Gio Huh, Robert Griffin, Georgia Gkioxari, Aaron Ames
+  For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) ...
+
+- [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](https://arxiv.org/abs/2606.06492v1) - Liliana Hotsko, Yinxi Li, Yuntian Deng, Pengyu Nie
+  Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long i...
+
+- [TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies](https://arxiv.org/abs/2606.06491v1) - Dong Jing, Jingchen Nie, Tianqi Zhang, Jiaqi Liu, Huaxiu Yao, Zhiwu Lu, Mingyu Ding
+  Robot manipulation alternates between low-risk transit phases that call for fast execution and high-risk contact stages that demand slow, precise moti...
 
 
 
@@ -140,18 +147,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+给定二叉树，找出其最大深度
 
-标签: 栈, 字符串
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -162,14 +169,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Python编程：从入门到实践》** - Eric Matthes
 
-面向对象设计的经典模式 (分类: 软件设计)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -179,21 +186,21 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
@@ -214,27 +221,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用版本控制**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
@@ -247,9 +252,9 @@ test('should calculate tax correctly', () => {
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `b03bed` | 日期: 2026-06-06
+挑战ID: `4f4431` | 日期: 2026-06-07
 
 
 ### 📊 技术话题投票
@@ -267,11 +272,11 @@ test('should calculate tax correctly', () => {
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
@@ -285,14 +290,14 @@ test('should calculate tax correctly', () => {
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**安全工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-世界上有10种人：懂二进制的和不懂二进制的。
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -306,7 +311,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-06-06 09:52:05
+- 📅 更新时间: 2026-06-07 10:19:26
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -319,11 +324,12 @@ test('should calculate tax correctly', () => {
 - 📰 新闻总数: 8
 - 😊 积极新闻: 6 (75.0%)
 - 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 11.2/100
+- 🔥 平均热度: 13.4/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- AR (1次)
+- OpenAI (1次)
+- 深度学习 (1次)
 
 
 ### 🤖 关于此项目
