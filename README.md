@@ -55,45 +55,45 @@
 
 MIT
 
-## 今日更新 (2026-06-08)
+## 今日更新 (2026-06-09)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- 😊 [【Unity-AI开发篇】| Unity-MCP最新指南：让AI接管游戏开发](https://blog.csdn.net/zhangay1998/article/details/158918650) 🔥🔥 很热
-  在人工智能飞速发展的今天，大语言模型早已不仅限于聊天和文本生成。它们开始能够使用工具，与环境进行交互，从而执行复杂任务。对于广大游戏开发者而言，这意味着一个全新的范式正在到来：用自然语言驱动Unity...
-- 😊 [一天做出：鸿蒙 + AI 游戏 Demo](https://blog.csdn.net/qq_36863796/article/details/160054741) 🔥 热门
-  本文介绍如何在1天内快速开发一个基于HarmonyOS的AI对话游戏Demo。文章详细拆解了开发流程和代码实现，包含数据模型、状态管理、AI服务、NPC代理、游戏逻辑和UI组件等核心模块。通过分层架构...
-- 😊 [最强AI生成电路图工具盘点：从自然语言描述到完整PCB，几分钟搞定硬件设计！**](https://blog.csdn.net/yunshangmachang/article/details/159652089) 📈 关注
-  2026年AI电路设计工具盘点：自然语言生成PCB的革命性突破 摘要：2026年，AI技术正在彻底改变电子设计流程。最新AI工具已实现通过自然语言描述（如"设计带ESP32的WiFi传感器模块"）自动...
-- 😊 [【GitHub项目推荐--Shannon：AI驱动的自动化渗透测试平台】⭐⭐](https://blog.csdn.net/j8267643/article/details/158777959) 📈 关注
-  Shannon​ 是由Keygraph开发的一款革命性的AI渗透测试工具，它通过结合白盒源代码分析和动态漏洞利用，为Web应用程序和API提供完全自动化的安全测试。在当今快速迭代的开发环境中，传统的一...
-- 😊 [AI提示词极限赛：突破边界的艺术](https://blog.csdn.net/liudanzhengxi/article/details/161130956) 📈 关注
-  摘要： AI提示词极限赛通过竞赛形式探索提示词工程的技术边界，旨在激发大语言模型的最大潜能。文章从赛制设计、评价体系切入，解析高阶策略如分步思考链、动态调整和对抗性测试，并探讨如何突破模型保守性、处理...
+- 😊 [Windows 系统中 Cursor AI 编辑器安装与使用完整教程](https://blog.csdn.net/yht874690625/article/details/159957372) 🔥🔥 很热
+  《Cursor AI编辑器Windows安装与使用指南》摘要 Cursor是一款基于VSCode的AI代码编辑器，深度集成Claude/GPT等大模型，支持智能代码补全、自然语言编程等功能。本文详细介...
+- 😐 [oh-my-pi：终端原生AI编码代理的架构解析与实战指南](https://blog.csdn.net/weixin_33608403/article/details/160486319) 📈 关注
+  在软件开发领域，AI辅助编程正从云端应用向本地开发环境深度集成演进。其核心原理在于将大型语言模型的自然语言理解能力与开发者的具体工作流相结合，通过工具调用框架实现自动化任务执行。这一技术的核心价值在于...
+- 😐 [【AI】Ollama本地部署Gemma4:e4b实战指南](https://blog.csdn.net/kinghzking/article/details/159976537) 📈 关注
+  本文详细介绍了在Windows系统上使用Ollama部署Gemma4:e4b模型的方法。首先下载安装Ollama Windows版，然后通过命令行或窗口方式下载Gemma4:e4b模型。文章提供了模型...
+- 😐 [[AI] 从零到一：理解并上线你的第一个Skill](https://blog.csdn.net/weixin_45565886/article/details/160155054) 📈 关注
+  [AI] 从零到一：理解并上线你的第一个Skill
+- 😊 [【AI智能体】QClaw 整合Skills 高效协同实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/160991304) 📈 关注
+  QClaw 整合Skills 高效协同实战操作详解
 
 
 ### 网络安全资讯
 
 - [不写代码，照样赢！全国首届文科生AI黑客松圆满落幕](https://www.anquanke.com/post/id/315595) - 安全公告，详情请点击链接查看完整内容
-- [大语言模型后训练中的顺序数据投毒](https://paper.seebug.org/3488) - 作者：Jack Sanderson, Yihan Wang等 译者：知道创宇404实验室翻译组 原文链接：https://arxiv.org/html/2606.04929v1 摘要 大语言模型后训练...
+- [软件工程的终结：AI智能体如何从根本上重构软件范式](https://paper.seebug.org/3489) - 作者：Zhenfeng Cao 原文链接：https://arxiv.org/pdf/2606.05608 摘要 半个多世纪以来，软件工程一直建立在一个基本前提之上：人类工程师负责拆解问题，将决策逻辑...
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
 
 
 ### 技术就业趋势
 
-可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- 😊 [.NET 8 Web开发入门（七）：安全门禁——JWT 身份验证与授权实战](https://cloud.tencent.com/developer/article/2682120) 📊 普通
-  在前面的文章里，我们的 Todo API 就像一栋没有大门的房子，任何人都可以随意进出（调用接口）。这在企业级应用中是绝对不允许的。我们需要一套机制：
-- 😐 [MySQL2PG 如何使用CI流水线确保MySQL到PG的平滑迁移](https://cloud.tencent.com/developer/article/2682027) 📊 普通
-  每一个测试用例背后，都是一次真实迁移场景的缩影 MySQL 要迁到 PostgreSQL，表面上只是换个数据库，实际上：
-- 😐 [【保姆级】实现APP分享至微信，看完就能落地](https://cloud.tencent.com/developer/article/2682128) 📊 普通
-  移动应用分享至微信是常见的社交分享功能，主要实现将APP内的文本、图片、网页链接等内容分享到微信好友或朋友圈。核心需求包括：
+- 😟 [大模型应用：医疗AI智能体的容错设计：化解医疗场景模糊、错误的不确定性.126](https://cloud.tencent.com/developer/article/2681442) 📈 关注
+  医疗AI智能体的容错设计，是指针对医疗场景中用户输入的模糊性、错误性、极端性等不确定性问题，通过技术手段让AI系统具备“包容错误、引导正确、应对极端”的能力，既避免系统崩溃或生硬报错，又能保障医疗咨询...
+- 😐 [供应链控制塔 | 部署与监控，Docker + K8s 实现供应链控制塔高可用](https://cloud.tencent.com/developer/article/2682646) 📊 普通
+  这本文将围绕 从 0 到 1 构建高可用供应链控制塔部署与监控体系，系统讲解可落地的工程方案。
+- 😐 [为什么你的自动化测试一直没有价值？](https://cloud.tencent.com/developer/article/2683059) 📊 普通
+  某团队花了半年时间搭自动化测试框架，写了将近两千条用例。每次上线前 CI 跑一遍，绿了才敢发版。
 
 
 ### GitHub 趋势项目
@@ -109,14 +109,16 @@ MIT
 
 ### AI 研究论文
 
-- [How reliable are LLMs when it comes to playing dice?](https://arxiv.org/abs/2606.07515v1) - Luca Avena, Gianmarco Bet, Bernardo Busoni
-  We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability probl...
+- [OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/abs/2606.09826v1) - Mingxian Lin, Shengju Qian, Yuqi Liu, Yi-Hua Huang, Yiyu Wang, Wei Huang, Yitang Li, Fan Zhang, Zeyu Hu, Lingting Zhu, Xin Wang, Xiaojuan Qi
+  Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a s...
 
-- [MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism](https://arxiv.org/abs/2606.07512v1) - Cong Chen, Guo Gan, Kaixiang Ji, ChaoYang Zhang, Zhen Yang, Guangming Yao, Hao Chen, Jingdong Chen, Yi Yuan, Chunhua Shen
-  Current Vision-Language Models struggle with hours-long videos because processing full-length visual sequences induces prohibitive token explosion and...
+- [An Agency-Transferring Model-Free Policy Enhancement Technique](https://arxiv.org/abs/2606.09825v1) - Anton Bolychev, Georgiy Malaniya, Sinan Ibrahim, Pavel Osinenko
+  Training reinforcement learning (RL) policies from scratch is
+  costly: it requires careful reward and environment design,
+  extensive tuning, and sub...
 
-- [Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning](https://arxiv.org/abs/2606.07500v1) - Fatema Siddika, Md Anwar Hossen, Tanwi Mallick, Ali Jannesari
-  Continual learning in Large Language Models (LLMs) is hindered by the plasticity-stability dilemma, where acquiring new capabilities often leads to ca...
+- [PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws](https://arxiv.org/abs/2606.09816v1) - Danqi Zhuang, Jisui Huang, Xiaoyue Xi, Andrew Kiggins, Xiaojie Wang, Ke Chen, Yue Wu
+  Standard diffusion models typically use a single time-homogeneous Gaussian terminal distribution as the reference law for generation. While this choic...
 
 
 
@@ -140,25 +142,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $307.34 📉 -3.89 (-1.2%)
-- **GOOGL**: $368.53 📉 -3.66 (-1.0%)
-- **MSFT**: $416.67 📉 -11.38 (-2.7%)
+- **AAPL**: $301.54 📉 -5.80 (-1.9%)
+- **GOOGL**: $363.31 📉 -5.22 (-1.4%)
+- **MSFT**: $411.74 📉 -4.93 (-1.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+将两个升序链表合并为一个新的升序链表
 
-标签: 栈, 字符串
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -169,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《设计模式》** - Gang of Four
 
-深度学习领域的权威教材 (分类: 人工智能)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -186,28 +188,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Synthwave Mix** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -221,27 +223,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用版本控制**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
@@ -254,52 +254,52 @@ test('should calculate tax correctly', () => {
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `adcc35` | 日期: 2026-06-08
+挑战ID: `d3658c` | 日期: 2026-06-09
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-现代Web应用框架
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -313,7 +313,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-06-08 12:18:38
+- 📅 更新时间: 2026-06-09 10:49:36
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -323,16 +323,15 @@ test('should calculate tax correctly', () => {
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 2
-- 😊 积极新闻: 2 (100.0%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 8.5/100
+- 📰 新闻总数: 8
+- 😊 积极新闻: 2 (25.0%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 10.6/100
 
 🏷️ **热门关键词**:
-- AI (1次)
+- AI (6次)
 - GPT (1次)
-- OpenAI (1次)
-- 芯片 (1次)
+- Docker (1次)
 
 
 ### 🤖 关于此项目
