@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-06-09)
+## 今日更新 (2026-06-10)
 
 ### 今日名言
 
-> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😊 [Windows 系统中 Cursor AI 编辑器安装与使用完整教程](https://blog.csdn.net/yht874690625/article/details/159957372) 🔥🔥 很热
-  《Cursor AI编辑器Windows安装与使用指南》摘要 Cursor是一款基于VSCode的AI代码编辑器，深度集成Claude/GPT等大模型，支持智能代码补全、自然语言编程等功能。本文详细介...
-- 😐 [oh-my-pi：终端原生AI编码代理的架构解析与实战指南](https://blog.csdn.net/weixin_33608403/article/details/160486319) 📈 关注
-  在软件开发领域，AI辅助编程正从云端应用向本地开发环境深度集成演进。其核心原理在于将大型语言模型的自然语言理解能力与开发者的具体工作流相结合，通过工具调用框架实现自动化任务执行。这一技术的核心价值在于...
-- 😐 [【AI】Ollama本地部署Gemma4:e4b实战指南](https://blog.csdn.net/kinghzking/article/details/159976537) 📈 关注
-  本文详细介绍了在Windows系统上使用Ollama部署Gemma4:e4b模型的方法。首先下载安装Ollama Windows版，然后通过命令行或窗口方式下载Gemma4:e4b模型。文章提供了模型...
-- 😐 [[AI] 从零到一：理解并上线你的第一个Skill](https://blog.csdn.net/weixin_45565886/article/details/160155054) 📈 关注
-  [AI] 从零到一：理解并上线你的第一个Skill
-- 😊 [【AI智能体】QClaw 整合Skills 高效协同实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/160991304) 📈 关注
-  QClaw 整合Skills 高效协同实战操作详解
+- 😐 [从企业数据库工具选型看 DBLens：统一、多库、可审计与 AI 演进能力成为关键优势](https://blog.csdn.net/weixin_43151418/article/details/161393577) 🔥 热门
+  企业数据库工具选型正从基础功能转向综合能力评估。DBLens展现出三大核心优势：统一架构支持MySQL、PostgreSQL等五大数据库产品线，实现多库统一管理；完整的企业级功能包括SSO登录、操作审...
+- 😊 [一站式开源AI平台Cherry Studio本地部署与远程调用本地大模型](https://blog.csdn.net/qyj19920704/article/details/146481508) 🔥 热门
+  本文主要介绍如何在 Windows 系统电脑本地安装开源 AI 客户端 Cherry Studio，并结合 cpolar 内网穿透工具轻松实现随时随地远程调用本地部署的各种 AI 大语言模型，无需公网...
+- 😊 [【OpenClaw】 源码剖析（五）：Memory 与安全——AI 的记忆机制与防线](https://blog.csdn.net/qq_73472828/article/details/160875037) 📈 关注
+  这是 OpenClaw 源码剖析系列的最终篇。前四篇我们拆完了架构全景、Gateway 调度器、Agent Loop 引擎和 Channel/Skills 适配层。今天，我们进入两个最"深沉"的子系统...
+- 😐 [【AI玩游戏】一、搭建Claude+vscode环境，看看ok-nte项目](https://blog.csdn.net/drico1986/article/details/161169332) 📈 关注
+  相信steam里买了游戏，还同时在四个二游充了月卡的朋友都会有一个疑问，我都买了游戏，我还要亲自玩吗？我能不能有一个AI帮我玩游戏里我不喜欢的那一部分，而我只要爽完喜欢的那部分就可以了？怀抱着这个美好...
+- 😐 [2026年AI炒股软件App排名：实测5款，第一名出乎意料](https://blog.csdn.net/2401_89926894/article/details/160410640) 📈 关注
+  **完全零基础，第一次用AI炒股工具** → 首选 [EasyClaw](https://easyclaw.cn/?| **EasyClaw** | ⭐⭐⭐⭐⭐ | **极低** | ⭐⭐⭐⭐ | ⭐...
 
 
 ### 网络安全资讯
@@ -84,41 +84,39 @@ MIT
 
 ### 技术就业趋势
 
-敏捷和Scrum认证在项目管理角色中价值提升。
+具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
 
 ### 科技热点
 
-- 😟 [大模型应用：医疗AI智能体的容错设计：化解医疗场景模糊、错误的不确定性.126](https://cloud.tencent.com/developer/article/2681442) 📈 关注
-  医疗AI智能体的容错设计，是指针对医疗场景中用户输入的模糊性、错误性、极端性等不确定性问题，通过技术手段让AI系统具备“包容错误、引导正确、应对极端”的能力，既避免系统崩溃或生硬报错，又能保障医疗咨询...
-- 😐 [供应链控制塔 | 部署与监控，Docker + K8s 实现供应链控制塔高可用](https://cloud.tencent.com/developer/article/2682646) 📊 普通
-  这本文将围绕 从 0 到 1 构建高可用供应链控制塔部署与监控体系，系统讲解可落地的工程方案。
-- 😐 [为什么你的自动化测试一直没有价值？](https://cloud.tencent.com/developer/article/2683059) 📊 普通
-  某团队花了半年时间搭自动化测试框架，写了将近两千条用例。每次上线前 CI 跑一遍，绿了才敢发版。
+- 😊 [OpenCV 5正式发布：DNN引擎重写、原生支持大模型，YOLOv8推理速度比PyTorch快2.3倍，边缘部署飞跃！](https://cloud.tencent.com/developer/article/2683714) 🔥 热门
+  二十多年来，OpenCV始终是计算机视觉研究、机器人技术、工业检测、AI应用以及无数生产系统的基石。如今，这个库在GitHub上拥有超过86,000颗星，每天的安装量超过一百万次。
+- 😊 [供应商关系管理系统 | SRM系统架构设计，供应商准入‑考核‑淘汰闭环](https://cloud.tencent.com/developer/article/2683364) 📊 普通
+  在现代供应链体系中，供应商质量直接决定交付稳定性与成本结构。传统 SRM（Supplier Relationship Management，供应商关系管理）往往停留在“静态档案管理”，缺乏准入标准、动...
+- 😟 [Linux Kernel netfilter 严重漏洞修复：CVE-2026-46244 分析及应急指南](https://cloud.tencent.com/developer/article/2683291) 📊 普通
+  2026 年 6 月 3 日，Linux 内核团队披露了 netfilter 框架中的一个严重漏洞 CVE-2026-46244（CVSS 9.1）。该漏洞允许远程攻击者在无需认证的情况下构造特制 I...
 
 
 ### GitHub 趋势项目
 
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
-- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
+- [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 
 
 
 
 ### AI 研究论文
 
-- [OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics](https://arxiv.org/abs/2606.09826v1) - Mingxian Lin, Shengju Qian, Yuqi Liu, Yi-Hua Huang, Yiyu Wang, Wei Huang, Yitang Li, Fan Zhang, Zeyu Hu, Lingting Zhu, Xin Wang, Xiaojuan Qi
-  Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a s...
+- [A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design](https://arxiv.org/abs/2606.11189v1) - Tong Xie, Yuanhao Ban, Yunqi Hong, Sohyun An, Yihang Chen, Cho-Jui Hsieh
+  Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-uni...
 
-- [An Agency-Transferring Model-Free Policy Enhancement Technique](https://arxiv.org/abs/2606.09825v1) - Anton Bolychev, Georgiy Malaniya, Sinan Ibrahim, Pavel Osinenko
-  Training reinforcement learning (RL) policies from scratch is
-  costly: it requires careful reward and environment design,
-  extensive tuning, and sub...
+- [EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents](https://arxiv.org/abs/2606.11182v1) - Weixian Xu, Shilong Liu, Mengdi Wang
+  In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under ...
 
-- [PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws](https://arxiv.org/abs/2606.09816v1) - Danqi Zhuang, Jisui Huang, Xiaoyue Xi, Andrew Kiggins, Xiaojie Wang, Ke Chen, Yue Wu
-  Standard diffusion models typically use a single time-homogeneous Gaussian terminal distribution as the reference law for generation. While this choic...
+- [The Role of Feedback Alignment in Self-Distillation](https://arxiv.org/abs/2606.11173v1) - Semih Kara, Oğuzhan Ersoy
+  Conditioning a language model on additional context, such as feedback on a previous attempt, typically improves its response. Self-distillation trains...
 
 
 
@@ -142,25 +140,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $301.54 📉 -5.80 (-1.9%)
-- **GOOGL**: $363.31 📉 -5.22 (-1.4%)
-- **MSFT**: $411.74 📉 -4.93 (-1.2%)
+- **AAPL**: $290.55 📉 -10.99 (-3.6%)
+- **GOOGL**: $364.26 📈 +0.95 (+0.3%)
+- **MSFT**: $403.41 📉 -8.33 (-2.0%)
 
 
 ### 🛠️ 开发者工具推荐
 
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+给定二叉树，找出其最大深度
 
-标签: 链表, 递归
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -171,14 +169,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Python编程：从入门到实践》** - Eric Matthes
 
-面向对象设计的经典模式 (分类: 软件设计)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -188,28 +186,28 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Brain.fm Focus** - Brain.fm
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -223,62 +221,63 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**遵循单一职责原则**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🥷 代码忍者
+今日挑战徽章：⚡ 性能优化师
 
-挑战ID: `d3658c` | 日期: 2026-06-09
+挑战ID: `28473c` | 日期: 2026-06-10
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
-- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
@@ -292,14 +291,14 @@ git commit -m "Add user authentication feature"
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**AI工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+程序员的三大美德：懒惰、急躁和傲慢。
 
 
 ### 🐙 GitHub 生态统计
@@ -313,7 +312,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-06-09 10:49:36
+- 📅 更新时间: 2026-06-10 11:28:34
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -324,14 +323,14 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 2 (25.0%)
+- 😊 积极新闻: 4 (50.0%)
 - 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 10.6/100
+- 🔥 平均热度: 14.1/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- GPT (1次)
-- Docker (1次)
+- 大数据 (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
