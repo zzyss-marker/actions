@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-06-10)
+## 今日更新 (2026-06-11)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- 😐 [从企业数据库工具选型看 DBLens：统一、多库、可审计与 AI 演进能力成为关键优势](https://blog.csdn.net/weixin_43151418/article/details/161393577) 🔥 热门
-  企业数据库工具选型正从基础功能转向综合能力评估。DBLens展现出三大核心优势：统一架构支持MySQL、PostgreSQL等五大数据库产品线，实现多库统一管理；完整的企业级功能包括SSO登录、操作审...
-- 😊 [一站式开源AI平台Cherry Studio本地部署与远程调用本地大模型](https://blog.csdn.net/qyj19920704/article/details/146481508) 🔥 热门
-  本文主要介绍如何在 Windows 系统电脑本地安装开源 AI 客户端 Cherry Studio，并结合 cpolar 内网穿透工具轻松实现随时随地远程调用本地部署的各种 AI 大语言模型，无需公网...
-- 😊 [【OpenClaw】 源码剖析（五）：Memory 与安全——AI 的记忆机制与防线](https://blog.csdn.net/qq_73472828/article/details/160875037) 📈 关注
-  这是 OpenClaw 源码剖析系列的最终篇。前四篇我们拆完了架构全景、Gateway 调度器、Agent Loop 引擎和 Channel/Skills 适配层。今天，我们进入两个最"深沉"的子系统...
-- 😐 [【AI玩游戏】一、搭建Claude+vscode环境，看看ok-nte项目](https://blog.csdn.net/drico1986/article/details/161169332) 📈 关注
-  相信steam里买了游戏，还同时在四个二游充了月卡的朋友都会有一个疑问，我都买了游戏，我还要亲自玩吗？我能不能有一个AI帮我玩游戏里我不喜欢的那一部分，而我只要爽完喜欢的那部分就可以了？怀抱着这个美好...
-- 😐 [2026年AI炒股软件App排名：实测5款，第一名出乎意料](https://blog.csdn.net/2401_89926894/article/details/160410640) 📈 关注
-  **完全零基础，第一次用AI炒股工具** → 首选 [EasyClaw](https://easyclaw.cn/?| **EasyClaw** | ⭐⭐⭐⭐⭐ | **极低** | ⭐⭐⭐⭐ | ⭐...
+- 😊 [开源AI大模型统一网关CrossLink部署实战：LiteLLM轻量化替代方案](https://blog.csdn.net/Geek_King/article/details/161399643) 🔥🔥 很热
+  在AI应用开发过程中，对接多家大模型厂商是常态，OpenAI、Anthropic、DeepSeek、通义千问、本地Ollama等模型接口格式、调用规则、密钥体系各不相同。多模型并行使用时，极易出现密钥...
+- 😊 [时序数据库遇上大模型是啥体验？工业时序AI赋能实操](https://blog.csdn.net/Dreamy_zsy/article/details/161631248) 🔥 热门
+  文章摘要 本文介绍了时序数据库TimechoAI的核心优势与API Key配置方法。针对工业物联网场景中的海量时序数据（如设备传感器数据），TimechoAI通过原生适配IoTDB数据结构，提供高效的...
+- 😊 [用 Go 构建高性能 AI 推理网关：并发处理与请求熔断](https://blog.csdn.net/m0_50889382/article/details/161569209) 📈 关注
+  用 Go 构建 AI 推理网关，就像是为你的模型服务穿上了一层坚固的铠甲。它守护着系统的稳定性，让你的 AI 服务能够从容面对各种流量挑战。希望今天的分享能帮助你构建更可靠的 AI 基础设施。如果你有...
+- 😊 [Claude Code 跳过确认完全指南：让 AI 自己完成开发任务](https://blog.csdn.net/m0_37988015/article/details/160594081) 📈 关注
+  方案文件编辑Shell 命令安全程度适用场景自动 ✓需确认 ⚠️⭐⭐⭐⭐日常开发allow/deny 规则按配置按配置⭐⭐⭐⭐⭐精细控制Auto Mode自动（经过审查）✓自动（经过审查）✓⭐⭐⭐⭐长...
+- 😊 [2026年AI Agent技术最新进展：从工具调用到自主决策的范式跃迁](https://blog.csdn.net/qq_39914918/article/details/160878221) 📈 关注
+  2026年，AI Agent（智能体）技术正经历从"被动响应"到"主动决策"的范式跃迁。本文梳理了当前AI Agent领域的最新技术进展，涵盖多模态感知、工具调用标准化、长期记忆机制、多Agent协作...
 
 
 ### 网络安全资讯
@@ -84,39 +84,39 @@ MIT
 
 ### 技术就业趋势
 
-具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
+区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
 
 ### 科技热点
 
-- 😊 [OpenCV 5正式发布：DNN引擎重写、原生支持大模型，YOLOv8推理速度比PyTorch快2.3倍，边缘部署飞跃！](https://cloud.tencent.com/developer/article/2683714) 🔥 热门
-  二十多年来，OpenCV始终是计算机视觉研究、机器人技术、工业检测、AI应用以及无数生产系统的基石。如今，这个库在GitHub上拥有超过86,000颗星，每天的安装量超过一百万次。
-- 😊 [供应商关系管理系统 | SRM系统架构设计，供应商准入‑考核‑淘汰闭环](https://cloud.tencent.com/developer/article/2683364) 📊 普通
-  在现代供应链体系中，供应商质量直接决定交付稳定性与成本结构。传统 SRM（Supplier Relationship Management，供应商关系管理）往往停留在“静态档案管理”，缺乏准入标准、动...
-- 😟 [Linux Kernel netfilter 严重漏洞修复：CVE-2026-46244 分析及应急指南](https://cloud.tencent.com/developer/article/2683291) 📊 普通
-  2026 年 6 月 3 日，Linux 内核团队披露了 netfilter 框架中的一个严重漏洞 CVE-2026-46244（CVSS 9.1）。该漏洞允许远程攻击者在无需认证的情况下构造特制 I...
+- 😐 [供应商关系管理系统 | 动态表单引擎，Formily实现供应商信息自定义配置](https://cloud.tencent.com/developer/article/2683767) 📊 普通
+  在企业供应商管理（SRM）系统中，一个长期存在的痛点就是：不同品类、不同地区、不同合作模式的供应商，其准入所需填报的信息千差万别。如果每次新增一类供应商都硬编码一套表单页面，不仅开发成本高，而且维护成...
+- 😐 [IM分布式架构系列(10) 心跳能发现死连接 | 但几个场景除外](https://cloud.tencent.com/developer/article/2682625) 📊 普通
+  很多人对心跳的第一印象是：客户端每隔一段时间发个小包，服务端定时检查，谁不发就踢掉——死连接不就被发现了吗？但真在生产环境跑过一阵接入层就会发现：有心跳机制的系统里照样躺着一堆"显示在线、其实推不动消...
+- 😐 [让生产级 Agent 实现自进化：MOSS 的源码级实验](https://cloud.tencent.com/developer/article/2681020) 📊 普通
+  最近关于 Agent 自进化的讨论越来越多。今天我们来看论文《MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Age...
 
 
 ### GitHub 趋势项目
 
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
+- [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed) - open-source healthcare ai
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
-- [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
 
 
 
 
 ### AI 研究论文
 
-- [A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design](https://arxiv.org/abs/2606.11189v1) - Tong Xie, Yuanhao Ban, Yunqi Hong, Sohyun An, Yihang Chen, Cho-Jui Hsieh
-  Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-uni...
+- [Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models](https://arxiv.org/abs/2606.12412v1) - Cheng-Yu Yang, Shao-Yuan Lo, Yu-Lun Liu
+  Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computa...
 
-- [EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents](https://arxiv.org/abs/2606.11182v1) - Weixian Xu, Shilong Liu, Mengdi Wang
-  In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under ...
+- [FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning](https://arxiv.org/abs/2606.12406v1) - Steven Oh, Jason Jingzhou Liu, Tony Tao, Philip Han, Kenneth Shaw, Satoshi Funabashi, Ruslan Salakhutdinov, Deepak Pathak
+  Contact-rich manipulation requires force sensitivity, but many robot arms lack dedicated force sensors due to their high cost. We present Neural Exter...
 
-- [The Role of Feedback Alignment in Self-Distillation](https://arxiv.org/abs/2606.11173v1) - Semih Kara, Oğuzhan Ersoy
-  Conditioning a language model on additional context, such as feedback on a previous attempt, typically improves its response. Self-distillation trains...
+- [DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?](https://arxiv.org/abs/2606.12402v1) - Jadelynn Dao, Milan Ganai, Yasmina Abukhadra, Ajay Sridhar, Mozhgan Nasr Azadani, Katie Luo, Clark Barrett, Jiajun Wu, Chelsea Finn, Marco Pavone
+  Vision-Language Models (VLMs) are increasingly deployed as high-level planners for embodied agents, with an emerging strategy of scaling test-time com...
 
 
 
@@ -140,25 +140,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $290.55 📉 -10.99 (-3.6%)
-- **GOOGL**: $364.26 📈 +0.95 (+0.3%)
-- **MSFT**: $403.41 📉 -8.33 (-2.0%)
+- **AAPL**: $291.58 📈 +1.03 (+0.4%)
+- **GOOGL**: $356.38 📉 -7.88 (-2.2%)
+- **MSFT**: $397.36 📉 -6.05 (-1.5%)
 
 
 ### 🛠️ 开发者工具推荐
 
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**二叉树的最大深度** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-给定二叉树，找出其最大深度
+判断字符串中的括号是否有效匹配
 
-标签: 树, 递归
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -169,14 +169,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《代码整洁之道》** - Robert C. Martin
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -186,14 +186,14 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
@@ -205,9 +205,9 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Synthwave Mix** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -221,72 +221,73 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**使用有意义的变量名**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `28473c` | 日期: 2026-06-10
+挑战ID: `afe9f0` | 日期: 2026-06-11
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代JavaScript/TypeScript运行时
+高性能代码编辑器
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
@@ -298,7 +299,7 @@ function formatCurrency(amount) { ... }
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -312,7 +313,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-06-10 11:28:34
+- 📅 更新时间: 2026-06-11 12:00:58
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -322,15 +323,15 @@ function formatCurrency(amount) { ... }
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 14.1/100
+- 📰 新闻总数: 4
+- 😊 积极新闻: 1 (25.0%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 3.8/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- 大数据 (1次)
-- AR (1次)
+- AI (1次)
+- GPT (1次)
+- OpenAI (1次)
 
 
 ### 🤖 关于此项目
