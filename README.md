@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-06-13)
+## 今日更新 (2026-06-14)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😐 [AI：OpenAI Codex 安装使用全流程详解：桌面APP、CLI、注册问题与解决方案](https://blog.csdn.net/qq_44776454/article/details/161291456) 🔥🔥 很热
-  OpenAI Codex 是 2025 年 OpenAI 重新启用的品牌，定位是AI 编程智能体平台，对标 Cursor、Claude Code。Codex 只能装桌面 APP 吗？有没有 CLI 版...
-- 😊 [GitHub 一周热点 ：桌面 AI 助理、编程 Agent 知识图谱、隐身 Chromium、软件 CLI 化、实时 3D 重建](https://blog.csdn.net/HXH_1014/article/details/161432273) 🔥 热门
-  GitHub 上 AI 工具链正在快速成熟。本周出现了几个值得深入关注的项目：能主动了解你的桌面 AI 助理、让编程 Agent 更省 Token 的知识图谱、从源码层面隐身的 Chromium、把任...
-- 😐 [我用 Claude Code + 魔珐星云 SDK，10 分钟做了一个会追问的 AI 家电导购](https://blog.csdn.net/2302_79751907/article/details/161087545) 🔥 热门
-  我第一次意识到 AI 数字人有点不一样，是它接话的那一瞬间。端到端响应约 500ms。我刚说完“想买一台 4000 元左右的冰箱”，屏幕里的数字人导购几乎立刻抬起头，点了点头，然后开始追问：你家是几口...
-- 😊 [CV、MV、AIV、VSV、TVA五大视觉技术的联系与区别](https://blog.csdn.net/2501_94287723/article/details/159380865) 📈 关注
-  本文系统解析了计算机视觉(CV)、机器视觉(MV)、常规AI视觉(AIV)、视频流视觉(VSV)和智能体视觉(TVA)五大技术体系的内在逻辑与差异。CV是基础学科，AIV是核心算法；MV侧重工业精度，...
-- 😊 [《QClaw：一款功能强大的本地化 AI 个人助手平台，完全指南》](https://blog.csdn.net/zheng_ruiguo/article/details/159379356) 📈 关注
-  本文将从产品理念、核心架构、功能特性、安装配置、日常使用场景以及进阶玩法等多个维度，对 QClaw 进行全面深入的解读，帮助读者快速了解并上手这款工具。
+- 😊 [人工智能日报 每日AI新闻（2026年6月8日）：OpenAI安全加码、苹果AI升级前夜与国产AI应用落地](https://blog.csdn.net/qq_37699336/article/details/161787379) 🔥🔥🔥 超热
+  # 人工智能日报 每日AI新闻（2026年6月8日）：OpenAI安全加码、苹果AI升级前夜与国产AI应用落地过去几天，AI 行业的关键词集中在三个方向：模型能力继续向“更会记、更会协作”演进，企业与...
+- 😐 [AI 辅助编程与 AI Specs 实战：2026 年最新最全进展详解](https://blog.csdn.net/yangzhihua/article/details/160260562) 📈 关注
+  本文全面、深入地剖析了截至 2026 年，AI 辅助编程领域从“氛围编程”（Vibe Coding）向“规范驱动开发”（Specification-Driven Development, SDD）的范...
+- 😊 [Spring AI Alibaba 详细使用教程](https://blog.csdn.net/xiaoxualg/article/details/156064116) 📈 关注
+  《Spring AI Alibaba 核心功能与实战指南》是一份全面的开发教程，主要包含以下内容： 快速入门：从环境准备到创建第一个智能体，提供完整代码示例 核心概念：详细解析三大核心模块（Graph...
+- 😐 [下一代 AI 终端 Warp：10 分钟上手（图文版）](https://blog.csdn.net/qq_60735796/article/details/156112526) 📈 关注
+  下一代 AI 终端 Warp：10 分钟上手（图文版）
+- 😊 [VS Code 中可免费使用的 AI 编程插件](https://blog.csdn.net/qq_43592064/article/details/156048839) 📊 普通
+  VS Code 中可免费使用的 AI 编程插件
 
 
 ### 网络安全资讯
@@ -84,7 +84,7 @@ MIT
 
 ### 技术就业趋势
 
-远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
+DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
 
 ### 科技热点
 
@@ -98,11 +98,11 @@ MIT
 
 ### GitHub 趋势项目
 
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [music-assistant/server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
-- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
+- [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 
 
 
@@ -148,8 +148,8 @@ satellite communication systems has elevated the importance of secure vide...
 ### 🛠️ 开发者工具推荐
 
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
@@ -169,14 +169,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《代码整洁之道》** - Robert C. Martin
 
-容器编排平台的完整指南 (分类: 云原生)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -192,8 +192,8 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎨 设计资源推荐
 
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
@@ -205,9 +205,9 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Synthwave Mix** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -221,52 +221,51 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**使用版本控制**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**网络建设**: 参加技术会议和meetup，建立专业人脉网络
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 每月参加至少一次技术聚会或在线会议
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `2f6ff3` | 日期: 2026-06-13
+挑战ID: `f5da30` | 日期: 2026-06-14
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
@@ -274,10 +273,10 @@ function formatCurrency(amount) { ... }
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
-- **Serverless** ☁️ +7% - 无服务器架构普及
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Blockchain** 📉 -3% - 区块链热度回落
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
@@ -298,7 +297,7 @@ function formatCurrency(amount) { ... }
 
 ### 😄 程序员笑话
 
-为什么程序员喜欢黑暗？因为光会产生bug！
+程序员的三大美德：懒惰、急躁和傲慢。
 
 
 ### 🐙 GitHub 生态统计
@@ -312,7 +311,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-06-13 10:19:22
+- 📅 更新时间: 2026-06-14 10:41:54
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -325,11 +324,13 @@ function formatCurrency(amount) { ... }
 - 📰 新闻总数: 8
 - 😊 积极新闻: 5 (62.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 15.2/100
+- 🔥 平均热度: 16.0/100
 
 🏷️ **热门关键词**:
 - AI (8次)
+- 人工智能 (1次)
 - OpenAI (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
