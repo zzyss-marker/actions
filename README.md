@@ -55,60 +55,68 @@
 
 MIT
 
-## 今日更新 (2026-06-16)
+## 今日更新 (2026-06-17)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
-  新模型在推理能力和上下文窗口方面有显著改进
+- 😊 [Windows纯本地部署OpenClaude：从零搭建你的7×24小时AI助理，打通微信/飞书](https://blog.csdn.net/weixin_40040017/article/details/158568867) 🔥 热门
+  本文详细介绍了如何在Windows电脑上纯本地部署OpenClaude开源AI助手，并打通飞书和企业微信，实现通过手机远程指挥AI操作电脑。核心方案：无需云服务器，所有服务运行在本地Windows电脑...
+- 😊 [36氪独家：字节跳动2026年AI四条主线——从通用竞赛到业务渗透的关键转折](https://blog.csdn.net/msbcsdn/article/details/161717789) 📈 关注
+  2026年6月5日，36氪独家披露了字节跳动2026年AI业务的四条主线规划。这一重磅消息在科技圈引发广泛关注，标志着这家全球领先的内容平台公司正在将其AI战略从"通用能力竞赛"推向"实际业务渗透"的...
+- 😊 [无监督学习在医疗AI领域的前沿：多模态整合、疾病亚型发现与异常检测](https://blog.csdn.net/kkiron/article/details/148032558) 📈 关注
+  无监督学习技术在医疗AI领域的应用在2025年取得了显著进展，主要体现在多模态整合、疾病亚型发现、异常检测等方面。哈佛大学开发的TANGLE框架通过基因表达与病理切片的跨模态对比学习，提升了计算病理学...
+- 😟 [如何使用AI一周从零实现功能完备的Java Web框架](https://blog.csdn.net/qq_41652036/article/details/161399010) 📈 关注
+  为了回答这个问题，我们花了一周时间，完全从零实现了一个功能完备的Java Web框架，并在此基础上构建了一整套开发工具集——CodeStats。CodeStats 是一个完全自研的全栈Java项目，不...
+- 😐 [零基础学AI大模型之LangChain链](https://blog.csdn.net/chandfy/article/details/152322136) 📈 关注
+  本文介绍了LangChain中Chain(链)的核心概念，重点讲解LLMChain基础链的实现方式。Chain类似Java中的责任链模式，可将多个处理单元有序组合，实现端到端的AI任务流程。
 
 
 ### 网络安全资讯
 
 - [不写代码，照样赢！全国首届文科生AI黑客松圆满落幕](https://www.anquanke.com/post/id/315595) - 安全公告，详情请点击链接查看完整内容
-- [ZERO-APT：面向智能防御下 LLM 驱动自动化渗透测试的闭环对抗框架](https://paper.seebug.org/3490) - 作者：Anlan Zheng, Tiantian Zhu 原文链接：https://arxiv.org/html/2606.05567v1 摘要 LLM驱动的自动化渗透测试智能体通常是在既不会检测也不...
+- [面向多种防御策略的自动化越狱攻击](https://paper.seebug.org/3491) - 作者：Qi Wang, Chengcheng Wan等 原文链接：https://arxiv.org/pdf/2606.16751 摘要 大型语言模型（LLM）在广泛的任务中展现出了卓越的能力。然而，...
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
 
 
 ### 技术就业趋势
 
-可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
+网络安全人才缺口扩大，零信任安全模型专家需求激增。
 
 ### 科技热点
 
-- 😊 [大模型应用：AI智能体高并发实战：Redis缓存+负载均衡协同解决推理超时难题.133](https://cloud.tencent.com/developer/article/2685611) 📈 关注
-  在 AI 智能体落地生产的过程中，多轮对话交互、高频用户咨询、批量业务请求并发涌入已是常态。原生大模型智能体依赖LLM实时完成语义理解、意图识别、上下文推理生成回复，单实例推理速度慢、算力消耗高、队列...
-- 😊 [WorkBuddy 实操教程｜手把手把水力开源库 Baseform-Epanet-Java-Library 从 Ant 改成 Maven](https://cloud.tencent.com/developer/article/2686194) 📈 关注
-  做智慧水务、管网仿真开发的朋友应该都接触过 EPANET 水力仿真引擎，而 Baseform-Epanet-Java-Library 是一套成熟的 Java 封装开源库，打通了 Java 应用与原生 ...
-- 😟 [飞书/企微机器人+OpenClaw：让Agent成为你的24小时运维助手（故障响应时间缩短80%）](https://cloud.tencent.com/developer/article/2686162) 📊 普通
-  创建 ~/.openclaw/skills/ops-assistant/SKILL.md：
+- 😐 [从 Prompt 到 Loop：企业 Agent 落地的四层工程进化论](https://cloud.tencent.com/developer/article/2688156) 📊 普通
+  团队花了三周搭了一个 Agent 原型，接入了内部知识库，CEO 看了 Demo 点头说"不错"——然后呢？上线两周后，Agent 把客户的订单信息张冠李戴，把合同条款搞混，在凌晨三点自动发了一封莫名...
+- 😐 [供应商关系管理系统 | SRM移动端适配，React Native开发供应商现场验厂App](https://cloud.tencent.com/developer/article/2686151) 📊 普通
+  在企业推进供应商全生命周期管理的过程中，现场验厂是判断供应商真实产能、质量体系与合规能力的关键环节。传统验厂依赖纸质记录、相机拍照再人工整理归档，存在数据滞后、照片易丢失、评分主观性强、无法实时同步等...
+- 😐 [一个 KuiklyUI 页面是怎么创建出来的](https://cloud.tencent.com/developer/article/2688047) 📊 普通
+  先说一个会在后面反复出现的判断：KuiklyUI 的页面创建不是一次性渲染，而是分成了两个阶段。先在 Kotlin 侧构建一棵完整的内存 view 树，再在 createBody() 阶段把这棵树逐节...
 
 
 ### GitHub 趋势项目
 
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
 
 
 
 ### AI 研究论文
 
-- [The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers](https://arxiv.org/abs/2606.17037v1) - Alper Yıldırım
-  Oppenheim and Lim (1981) showed that natural images stay recognizable when reconstructed from their Fourier phase alone, while the magnitude carries l...
+- [Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](https://arxiv.org/abs/2606.18247v1) - Mingtong Zhang, Dhruv Shah
+  Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from ...
 
-- [HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting](https://arxiv.org/abs/2606.17028v1) - Alper Yıldırım
-  Simple linear and frequency-domain models remain surprisingly competitive in long-horizon time-series forecasting, and recent mechanistic evidence sug...
+- [ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](https://arxiv.org/abs/2606.18237v1) - Shanda Li, Qiuhong Anna Wei, Jingwu Tang, Valerie Chen, Nihar B Shah, Tim Dettmers, Yiming Yang, Ameet Talwalkar
+  Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate wh...
 
-- [FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models](https://arxiv.org/abs/2606.17020v1) - Jiaju Han, Ben Zhang, Xuemeng Sun, Qike Zhang, Yuxian Dong, Chengyin Hu, Fengyu Zhang, Yiwei Wei, Jiujiang Guo
-  Remote sensing vision-language models have advanced Earth observation understanding, but most existing work remains centered on RGB imagery, leaving t...
+- [EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation](https://arxiv.org/abs/2606.18235v1) - Qi Chai, Wenhao Shen, Nanjie Yao, Yue Xia, Kaiyong Zhao, Jie Ma, Guosheng Lin, Hao Wang
+  Zero-Shot Object-Goal Navigation (ZS-OGN) requires embodied agents to explore and locate target objects without any prior training. To this end, recen...
 
 
 
@@ -132,16 +140,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $296.42 📈 +5.29 (+1.8%)
-- **GOOGL**: $369.35 📈 +9.67 (+2.7%)
-- **MSFT**: $399.76 📈 +9.02 (+2.3%)
+- **AAPL**: $299.24 📈 +2.82 (+1.0%)
+- **GOOGL**: $373.25 📈 +3.90 (+1.1%)
+- **MSFT**: $393.83 📉 -5.93 (-1.5%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
@@ -161,14 +169,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《Kubernetes权威指南》** - 龚正等
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -178,28 +186,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Ambient Coding** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -213,71 +221,73 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**写测试用例**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：🥷 代码忍者
 
-挑战ID: `6ab675` | 日期: 2026-06-16
+挑战ID: `081934` | 日期: 2026-06-17
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-高性能代码编辑器
+现代Web应用框架
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
@@ -289,7 +299,7 @@ git commit -m "Add user authentication feature"
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+程序员的三大美德：懒惰、急躁和傲慢。
 
 
 ### 🐙 GitHub 生态统计
@@ -303,7 +313,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-06-16 12:43:38
+- 📅 更新时间: 2026-06-17 12:08:05
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -314,15 +324,12 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
+- 😊 积极新闻: 3 (37.5%)
 - 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 15.1/100
+- 🔥 平均热度: 8.2/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- 机器学习 (1次)
-- 物联网 (1次)
-- AR (1次)
+- AI (5次)
 
 
 ### 🤖 关于此项目
