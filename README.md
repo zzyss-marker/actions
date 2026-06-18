@@ -55,24 +55,16 @@
 
 MIT
 
-## 今日更新 (2026-06-17)
+## 今日更新 (2026-06-18)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- 😊 [Windows纯本地部署OpenClaude：从零搭建你的7×24小时AI助理，打通微信/飞书](https://blog.csdn.net/weixin_40040017/article/details/158568867) 🔥 热门
-  本文详细介绍了如何在Windows电脑上纯本地部署OpenClaude开源AI助手，并打通飞书和企业微信，实现通过手机远程指挥AI操作电脑。核心方案：无需云服务器，所有服务运行在本地Windows电脑...
-- 😊 [36氪独家：字节跳动2026年AI四条主线——从通用竞赛到业务渗透的关键转折](https://blog.csdn.net/msbcsdn/article/details/161717789) 📈 关注
-  2026年6月5日，36氪独家披露了字节跳动2026年AI业务的四条主线规划。这一重磅消息在科技圈引发广泛关注，标志着这家全球领先的内容平台公司正在将其AI战略从"通用能力竞赛"推向"实际业务渗透"的...
-- 😊 [无监督学习在医疗AI领域的前沿：多模态整合、疾病亚型发现与异常检测](https://blog.csdn.net/kkiron/article/details/148032558) 📈 关注
-  无监督学习技术在医疗AI领域的应用在2025年取得了显著进展，主要体现在多模态整合、疾病亚型发现、异常检测等方面。哈佛大学开发的TANGLE框架通过基因表达与病理切片的跨模态对比学习，提升了计算病理学...
-- 😟 [如何使用AI一周从零实现功能完备的Java Web框架](https://blog.csdn.net/qq_41652036/article/details/161399010) 📈 关注
-  为了回答这个问题，我们花了一周时间，完全从零实现了一个功能完备的Java Web框架，并在此基础上构建了一整套开发工具集——CodeStats。CodeStats 是一个完全自研的全栈Java项目，不...
-- 😐 [零基础学AI大模型之LangChain链](https://blog.csdn.net/chandfy/article/details/152322136) 📈 关注
-  本文介绍了LangChain中Chain(链)的核心概念，重点讲解LLMChain基础链的实现方式。Chain类似Java中的责任链模式，可将多个处理单元有序组合，实现端到端的AI任务流程。
+- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
+  新模型在推理能力和上下文窗口方面有显著改进
 
 
 ### 网络安全资讯
@@ -84,16 +76,16 @@ MIT
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
-- 😐 [从 Prompt 到 Loop：企业 Agent 落地的四层工程进化论](https://cloud.tencent.com/developer/article/2688156) 📊 普通
-  团队花了三周搭了一个 Agent 原型，接入了内部知识库，CEO 看了 Demo 点头说"不错"——然后呢？上线两周后，Agent 把客户的订单信息张冠李戴，把合同条款搞混，在凌晨三点自动发了一封莫名...
-- 😐 [供应商关系管理系统 | SRM移动端适配，React Native开发供应商现场验厂App](https://cloud.tencent.com/developer/article/2686151) 📊 普通
-  在企业推进供应商全生命周期管理的过程中，现场验厂是判断供应商真实产能、质量体系与合规能力的关键环节。传统验厂依赖纸质记录、相机拍照再人工整理归档，存在数据滞后、照片易丢失、评分主观性强、无法实时同步等...
-- 😐 [一个 KuiklyUI 页面是怎么创建出来的](https://cloud.tencent.com/developer/article/2688047) 📊 普通
-  先说一个会在后面反复出现的判断：KuiklyUI 的页面创建不是一次性渲染，而是分成了两个阶段。先在 Kotlin 侧构建一棵完整的内存 view 树，再在 createBody() 阶段把这棵树逐节...
+- 😊 [Anthropic 发布 Claude Fable 5 与 Mythos 5：最强通用模型登场](https://cloud.tencent.com/developer/article/2689545) 🔥 热门
+  6 月 9 日，Anthropic 正式发布 Claude Fable 5 和 Claude Mythos 5。Fable 5 是首个面向公众开放的 Mythos 级模型，在几乎所有 AI 能力基准测...
+- 😐 [智能体构建：基于SKILL的AI智能体构建：模块化能力编排+实时交互系统全实现.136](https://cloud.tencent.com/developer/article/2687904) 📈 关注
+  现在不管是做企业应用、内部效率工具还是对外AI产品，大家都越来越清楚一件事：单纯靠大模型聊天，根本解决不了真实业务问题。用户要的不是说得好听，而是能真正把事办成，比如自动查数据、生成报表、处理工单、对...
+- 😐 [从 Agent Harness 到 Scenario Loop](https://cloud.tencent.com/developer/article/2689806) 📈 关注
+  主流 Agent 框架在这三个维度上常见的做法是：把 Loop 写成固定的 ReAct 模板，把 Harness 做成 CLI 或 Server 包装，把 Hook 做成 LangGraph Edge...
 
 
 ### GitHub 趋势项目
@@ -109,14 +101,14 @@ MIT
 
 ### AI 研究论文
 
-- [Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](https://arxiv.org/abs/2606.18247v1) - Mingtong Zhang, Dhruv Shah
-  Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from ...
+- [UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning](https://arxiv.org/abs/2606.19328v1) - Mohamed Nabail, Leo Cheng, Jingmin Wang, Nicholas Rhinehart
+  Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward desi...
 
-- [ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](https://arxiv.org/abs/2606.18237v1) - Shanda Li, Qiuhong Anna Wei, Jingwu Tang, Valerie Chen, Nihar B Shah, Tim Dettmers, Yiming Yang, Ameet Talwalkar
-  Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate wh...
+- [Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation](https://arxiv.org/abs/2606.19327v1) - Siyi Gu, Jialin Chen, Sophia Zhou, Arman Cohan, Rex Ying
+  Post-training of reasoning language models is commonly driven by supervised distillation and reinforcement learning with verifiable rewards. Distillat...
 
-- [EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation](https://arxiv.org/abs/2606.18235v1) - Qi Chai, Wenhao Shen, Nanjie Yao, Yue Xia, Kaiyong Zhao, Jie Ma, Guosheng Lin, Hao Wang
-  Zero-Shot Object-Goal Navigation (ZS-OGN) requires embodied agents to explore and locate target objects without any prior training. To this end, recen...
+- [Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors](https://arxiv.org/abs/2606.19325v1) - Michael Finkelson, Daniel Segal, Eitan Richardson, Shahar Armon, Nani Goldring, Poriya Panet, Nir Zabari, Benjamin Brazowski, Or Patashnik, Yoav HaCohen
+  Existing multi-speaker dialogue systems bind speakers to utterances through structured supervision: per-turn tags, multi-stream transcriptions, or lea...
 
 
 
@@ -140,25 +132,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $299.24 📈 +2.82 (+1.0%)
-- **GOOGL**: $373.25 📈 +3.90 (+1.1%)
-- **MSFT**: $393.83 📉 -5.93 (-1.5%)
+- **AAPL**: $295.95 📉 -3.29 (-1.1%)
+- **GOOGL**: $363.79 📉 -9.46 (-2.5%)
+- **MSFT**: $378.91 📉 -14.92 (-3.8%)
 
 
 ### 🛠️ 开发者工具推荐
 
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**有效的括号** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+判断字符串中的括号是否有效匹配
 
-标签: 字符串, 动态规划
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -169,14 +161,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
+第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《代码整洁之道》** - Robert C. Martin
 
-容器编排平台的完整指南 (分类: 云原生)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -186,28 +178,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -221,85 +213,85 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🥷 代码忍者
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `081934` | 日期: 2026-06-17
+挑战ID: `0788ba` | 日期: 2026-06-18
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-现代Web应用框架
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**AI工程师** (中级) 📈
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -313,7 +305,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-06-17 12:08:05
+- 📅 更新时间: 2026-06-18 11:41:58
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -323,13 +315,16 @@ test('should calculate tax correctly', () => {
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 8.2/100
+- 📰 新闻总数: 4
+- 😊 积极新闻: 2 (50.0%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 13.0/100
 
 🏷️ **热门关键词**:
-- AI (5次)
+- AI (3次)
+- GPT (1次)
+- OpenAI (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
