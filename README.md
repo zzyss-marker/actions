@@ -55,28 +55,37 @@
 
 MIT
 
-## 今日更新 (2026-06-18)
+## 今日更新 (2026-06-19)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
-  新模型在推理能力和上下文窗口方面有显著改进
+- 😊 [OpenWebUI + Ollama + DeepSeek R1：本地 AI 界面部署与远程访问指南](https://blog.csdn.net/weixin_74888502/article/details/160968449) 🔥🔥🔥 超热
+  OpenWebUI是一个开源项目，为Ollama提供类似ChatGPT的交互界面，支持Markdown渲染、代码高亮、对话历史管理等功能。它支持多模型接入，包括本地Ollama模型和阿里云DeepSe...
+- 😐 [鸿蒙开发-想用AI把低清画面变高清？GLES神经网络超分](https://blog.csdn.net/weixin_42299977/article/details/161563699) 🔥 热门
+  想象一下这个场景：你做了一个画面很精美的 3D 游戏，但手机性能有限，跑不了原生高分辨率。你有两个选择：一是降低分辨率让游戏流畅运行，但画面会模糊；二是硬扛高分辨率，但帧率惨不忍睹。有没有第三种选择？...
+- 😊 [Claude Opus 4.8 深夜来袭！AI 终于学会说“我不确定”，这意味着什么](https://blog.csdn.net/chen_si_shang_/article/details/161563459) 📈 关注
+  Anthropic低调发布Claude Opus 4.8，其核心突破在于模型首次具备主动表达不确定性的能力。该版本通过引入元认知评估模块，在Transformer层之上实现多路径推理采样和一致性评估，...
+- 😊 [飞算JavaAI：Java开发者的智能革命，从代码生成到架构重塑](https://blog.csdn.net/hanwangyyds/article/details/149302050) 📈 关注
+  飞算JavaAI不仅是一个开发工具，更是Java开发模式的一次革命。用自然语言描述需求，AI自动完成编码一键生成符合企业级标准的完整工程专注创新而非重复劳动实现团队编码规范的高度统一对于Java开发者...
+- 😊 [零基础学AI大模型之Milvus向量数据库全解析](https://blog.csdn.net/chandfy/article/details/153885114) 📈 关注
+  摘要 本文介绍了Milvus向量数据库的核心概念和应用场景。Milvus是一款高性能、可扩展的开源向量数据库，专门用于存储和检索高维向量数据，支持从单机到分布式系统的全场景部署。文章从三个方面展开：首...
 
 
 ### 网络安全资讯
 
-- [不写代码，照样赢！全国首届文科生AI黑客松圆满落幕](https://www.anquanke.com/post/id/315595) - 安全公告，详情请点击链接查看完整内容
+- [Splunk AI Toolkit曝高危漏洞：CVSS 9.1，可远程执行任意系统命令](https://www.anquanke.com/post/id/315618) - 安全公告，详情请点击链接查看完整内容
 - [面向多种防御策略的自动化越狱攻击](https://paper.seebug.org/3491) - 作者：Qi Wang, Chengcheng Wan等 原文链接：https://arxiv.org/pdf/2606.16751 摘要 大型语言模型（LLM）在广泛的任务中展现出了卓越的能力。然而，...
-- [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
+- [幽灵依赖：Agentic Coding 范式下的新型供应链安全威胁](https://xlab.tencent.com/cn/2026/02/28/ghost-dependency-agentic-coding-supply-chain-threat/) - Author: Tianchu Chen of Tencent Xuanwu Lab
+0x00 简介随着 LLM（大语言模型）能力的跃升，AI 软件开发模式正从“人写代码，AI 补全”的 Copilo...
 
 
 ### 技术就业趋势
 
-边缘计算和IoT专家在制造业和智能城市项目中需求增加。
+云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
 
 ### 科技热点
 
@@ -91,24 +100,24 @@ MIT
 ### GitHub 趋势项目
 
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - IP addresses break, dial keys instead. Modular networking stack in Rust.
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 
 
 
 
 ### AI 研究论文
 
-- [UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning](https://arxiv.org/abs/2606.19328v1) - Mohamed Nabail, Leo Cheng, Jingmin Wang, Nicholas Rhinehart
-  Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward desi...
+- [How Transparent is DiffusionGemma?](https://arxiv.org/abs/2606.20560v1) - Joshua Engels, Callum McDougall, Bilal Chughtai, Janos Kramar, Senthoran Rajamanoharan, Cindy Wu, Arthur Conmy, Asic Q Chen, Jean Tarbouriech, Min Ma, Brendan O'Donoghue, João Gabriel Lopes de Oliveira, Rohin Shah, Neel Nanda
+  LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising mo...
 
-- [Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation](https://arxiv.org/abs/2606.19327v1) - Siyi Gu, Jialin Chen, Sophia Zhou, Arman Cohan, Rex Ying
-  Post-training of reasoning language models is commonly driven by supervised distillation and reinforcement learning with verifiable rewards. Distillat...
+- [Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation](https://arxiv.org/abs/2606.20554v1) - Ruizhong Qiu, Yinglong Xia, Dongqi Fu, Hanqing Zeng, Ren Chen, Xiangjun Fan, Hong Li, Hong Yan, Hanghang Tong
+  Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interacti...
 
-- [Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors](https://arxiv.org/abs/2606.19325v1) - Michael Finkelson, Daniel Segal, Eitan Richardson, Shahar Armon, Nani Goldring, Poriya Panet, Nir Zabari, Benjamin Brazowski, Or Patashnik, Yoav HaCohen
-  Existing multi-speaker dialogue systems bind speakers to utterances through structured supervision: per-turn tags, multi-stream transcriptions, or lea...
+- [Toward Calibrated Mixture-of-Experts Under Distribution Shift](https://arxiv.org/abs/2606.20544v1) - Gina Wong, Drew Prinster, Suchi Saria, Rama Chellappa, Anqi Liu
+  Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting rep...
 
 
 
@@ -132,25 +141,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $295.95 📉 -3.29 (-1.1%)
-- **GOOGL**: $363.79 📉 -9.46 (-2.5%)
-- **MSFT**: $378.91 📉 -14.92 (-3.8%)
+- **AAPL**: $298.01 📈 +2.06 (+0.7%)
+- **GOOGL**: $368.03 📈 +4.24 (+1.2%)
+- **MSFT**: $379.40 📈 +0.49 (+0.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+给定二叉树，找出其最大深度
 
-标签: 栈, 字符串
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -161,7 +170,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
 
 
 ### 📚 技术书籍推荐
@@ -178,14 +187,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
@@ -197,9 +206,9 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Brain.fm Focus** - Brain.fm
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -239,27 +248,27 @@ const a = 25;
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：🏗️ 架构师
 
-挑战ID: `0788ba` | 日期: 2026-06-18
+挑战ID: `f6a93b` | 日期: 2026-06-19
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
@@ -267,26 +276,26 @@ const a = 25;
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
+- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代JavaScript/TypeScript运行时
+高性能代码编辑器
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
@@ -305,7 +314,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-06-18 11:41:58
+- 📅 更新时间: 2026-06-19 11:56:50
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -315,16 +324,17 @@ const a = 25;
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 4
-- 😊 积极新闻: 2 (50.0%)
+- 📰 新闻总数: 8
+- 😊 积极新闻: 5 (62.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 13.0/100
+- 🔥 平均热度: 20.9/100
 
 🏷️ **热门关键词**:
-- AI (3次)
+- AI (7次)
+- AR (2次)
+- ChatGPT (1次)
 - GPT (1次)
-- OpenAI (1次)
-- AR (1次)
+- 神经网络 (1次)
 
 
 ### 🤖 关于此项目
