@@ -55,29 +55,21 @@
 
 MIT
 
-## 今日更新 (2026-06-22)
+## 今日更新 (2026-06-23)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [腾讯 Marvis（马维斯）深度实测：日送 1000 万 Token，真正的系统级 AI 助手](https://blog.csdn.net/weixin_74369505/article/details/161397653) 🔥🔥 很热
-  2026 年 5 月 20 日，腾讯应用宝团队正式发布Marvis（马维斯）—— 这款致敬钢铁侠 Jarvis 的系统级 AI 助手，一经上线便引爆全网。每天免费赠送 1000 万 Token、操作系...
-- 😊 [【Agent智能体3 | 智能体AI的优势】](https://blog.csdn.net/DdigitalNomad/article/details/161370289) 🔥 热门
-  Parallelization for speed（提高速度的并行化处理）展示了在构建 AI 智能体（Agent）工作流时，如何通过并行化（Parallelization）策略来大幅提升任务处理的速度...
-- 😊 [基础案例：用HTML5+AI快速实现智能文本识别展示页面](https://blog.csdn.net/aiclaws/article/details/161581755) 📈 关注
-  这篇文章介绍了如何结合HTML5与AI技术快速构建智能文本识别页面。主要内容包括： 技术背景与意义： HTML5与AI结合推动前端开发从静态展示转向智能交互 超过70%的前端项目已开始集成AI能力 核...
-- 😐 [从零到一 2小时用 AI 写一个微信小程序](https://blog.csdn.net/Allen2536/article/details/158500977) 📈 关注
-  回顾这次纯 AI 的开发之旅，最直观的感受就是震撼。在传统开发模式下，这样一个从需求梳理、UI 还原、逻辑编写到测试修改的小程序，起码需要 2 个礼拜的工作量；而现在，仅仅花了我 2 个小时。效率的提...
-- 😊 [2026 年 5月 3日 AI 行业大事件：巨头战略合作、模型发布与产品更新、国际重磅](https://blog.csdn.net/2401_84289488/article/details/160737064) 📈 关注
-  AI技术动态，详情请点击链接查看完整内容
+- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
+  新模型在推理能力和上下文窗口方面有显著改进
 
 
 ### 网络安全资讯
 
-- [Weaxor勒索软件又添Linux平台变种](https://www.anquanke.com/post/id/315628) - 安全公告，详情请点击链接查看完整内容
+- [新开源网络安全平台CyberSentinel AI v3.0 正式亮相](https://www.anquanke.com/post/id/315663) - 安全公告，详情请点击链接查看完整内容
 - [面向多种防御策略的自动化越狱攻击](https://paper.seebug.org/3491) - 作者：Qi Wang, Chengcheng Wan等 原文链接：https://arxiv.org/pdf/2606.16751 摘要 大型语言模型（LLM）在广泛的任务中展现出了卓越的能力。然而，...
 - [幽灵依赖：Agentic Coding 范式下的新型供应链安全威胁](https://xlab.tencent.com/cn/2026/02/28/ghost-dependency-agentic-coding-supply-chain-threat/) - Author: Tianchu Chen of Tencent Xuanwu Lab
 0x00 简介随着 LLM（大语言模型）能力的跃升，AI 软件开发模式正从“人写代码，AI 补全”的 Copilo...
@@ -85,16 +77,16 @@ MIT
 
 ### 技术就业趋势
 
-区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
+可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
 
 ### 科技热点
 
-- 😊 [小红书运营终于有AI搭子了，用完可能真回不去了](https://cloud.tencent.com/developer/article/2692001) 📈 关注
-  在当前社交媒体运营环境中，小红书作为重要的内容营销平台，自媒体博主日常面临着内容创作效率低下、用户增加难、数据分析维度单一等核心挑战。随着AI智能体的快速发展，目前可以辅助博主来做好个人账号的运营工作...
-- 😟 [CloudQ 更新｜APM 慢接口诊断 × TCUM 产品 SLO，一句话看清应用与云产品健康度](https://cloud.tencent.com/developer/article/2688479) 📊 普通
-  老问题：客服群里一条"系统好卡"，开发要先登 APM 控制台 → 选业务系统 → 找时间范围 → 翻 Trace → 拉慢接口排行，一套下来 5~10 分钟起步；非研发同学（运维、SRE on-cal...
-- 😟 [CVE-2026-42779:Apache MINA反序列化RCE漏洞深度剖析与紧急修复指南](https://cloud.tencent.com/developer/article/2691140) 📊 普通
-  摘要: 2026年5月,Apache MINA 2.1.x/2.2.x被曝出CVSS 9.8的Java反序列化远程代码执行漏洞(CVE-2026-42779)。该漏洞是CVE-2026-41635补丁...
+- 😊 [现在CC Switch一开，Claude Code随便玩](https://cloud.tencent.com/developer/article/2693677) 📈 关注
+  Claude Code 是 Anthropic 官方推出的 AI 命令行编程助手，可以直接在终端中与 Claude 大模型对话，帮你写代码、改 Bug、分析项目、执行文件操作等。
+- 😊 [智能体构建：智能体落地80/20法则：20%模型调用，80%系统工程与策略博弈.139](https://cloud.tencent.com/developer/article/2689809) 📊 普通
+  在智能体技术爆发的初期，绝大多数研发团队都陷入了一个共性误区：将大模型的参数规模、推理能力视为智能体落地的核心指标。团队投入大量资源进行模型微调、提示词迭代、多模型对比测试，在实验室环境中能实现流畅对...
+- 😐 [IM分布式架构系列(15)切换设备后消息怎么补 | 多端同步机制](https://cloud.tencent.com/developer/article/2688548) 📊 普通
+  在IM实践过程中，消息的多端同步是非常实用的功能。To C/B 业务基本都是标配功能。但是当测试给你反馈：手机上聊得好好的群,切到电脑端打开,最后五条没了；过一会儿手机又把这五条标成未读——明明手机已...
 
 
 ### GitHub 趋势项目
@@ -102,7 +94,7 @@ MIT
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 
@@ -110,14 +102,14 @@ MIT
 
 ### AI 研究论文
 
-- [How Transparent is DiffusionGemma?](https://arxiv.org/abs/2606.20560v1) - Joshua Engels, Callum McDougall, Bilal Chughtai, Janos Kramar, Senthoran Rajamanoharan, Cindy Wu, Arthur Conmy, Asic Q Chen, Jean Tarbouriech, Min Ma, Brendan O'Donoghue, João Gabriel Lopes de Oliveira, Rohin Shah, Neel Nanda
-  LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising mo...
+- [CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.23680v1) - Sikai Li, Shuning Li, Zhenyu Wei, Yunchao Yao, Chenran Li, Mingyu Ding
+  Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomoti...
 
-- [Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation](https://arxiv.org/abs/2606.20554v1) - Ruizhong Qiu, Yinglong Xia, Dongqi Fu, Hanqing Zeng, Ren Chen, Xiangjun Fan, Hong Li, Hong Yan, Hanghang Tong
-  Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interacti...
+- [Semantic Browsing: Controllable Diversity for Image Generation](https://arxiv.org/abs/2606.23679v1) - Sara Dorfman, Maya Vishnevsky, Omer Dahary, Or Patashnik, Daniel Cohen-Or
+  Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated sa...
 
-- [Toward Calibrated Mixture-of-Experts Under Distribution Shift](https://arxiv.org/abs/2606.20544v1) - Gina Wong, Drew Prinster, Suchi Saria, Rama Chellappa, Anqi Liu
-  Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting rep...
+- [AIR: Adaptive Interleaved Reasoning with Code in MLLMs](https://arxiv.org/abs/2606.23678v1) - Cong Han, Xiaohan Lan, Haibo Qiu, Yujie Zhong
+  Following the paradigm shift initiated by OpenAI o3, interleaved reasoning with code to enhance multimodal large language models (MLLMs) has become a ...
 
 
 
@@ -141,25 +133,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $298.01 📈 +2.06 (+0.7%)
-- **GOOGL**: $368.03 📈 +4.24 (+1.2%)
-- **MSFT**: $379.40 📈 +0.49 (+0.1%)
+- **AAPL**: $297.01 📉 -1.00 (-0.3%)
+- **GOOGL**: $349.68 📉 -18.35 (-5.0%)
+- **MSFT**: $367.34 📉 -12.06 (-3.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-判断字符串中的括号是否有效匹配
+给定字符串，找出其中最长的回文子串
 
-标签: 栈, 字符串
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -187,28 +179,28 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🚀 创业公司动态
 
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Ambient Coding** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -222,26 +214,27 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**写测试用例**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
@@ -254,20 +247,20 @@ function formatCurrency(amount) { ... }
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `9c396a` | 日期: 2026-06-22
+挑战ID: `7da694` | 日期: 2026-06-23
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
@@ -277,17 +270,17 @@ function formatCurrency(amount) { ... }
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Tauri** (Rust) - ⭐ 70k+
 
-现代JavaScript/TypeScript运行时
+使用Rust构建跨平台桌面应用
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
@@ -299,7 +292,7 @@ function formatCurrency(amount) { ... }
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+程序员的三大美德：懒惰、急躁和傲慢。
 
 
 ### 🐙 GitHub 生态统计
@@ -313,7 +306,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-06-22 13:23:52
+- 📅 更新时间: 2026-06-23 10:51:41
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -323,14 +316,15 @@ function formatCurrency(amount) { ... }
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 2 (25.0%)
-- 🔥 平均热度: 12.2/100
+- 📰 新闻总数: 4
+- 😊 积极新闻: 3 (75.0%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 6.5/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- AR (2次)
+- AI (2次)
+- GPT (1次)
+- OpenAI (1次)
 
 
 ### 🤖 关于此项目
