@@ -55,29 +55,37 @@
 
 MIT
 
-## 今日更新 (2026-06-23)
+## 今日更新 (2026-06-24)
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
-  新模型在推理能力和上下文窗口方面有显著改进
+- 😊 [【HarmonyOS 6.0】Graphics Accelerate Kit：AI超帧能力技术解析与实践](https://blog.csdn.net/weixin_74809706/article/details/161198989) 🔥🔥 很热
+  鸿蒙6.0引入AI超帧技术，通过NPU智能预测帧提升游戏帧率，同时降低GPU负载。该技术仅需前后帧颜色图即可生成预测帧，相比传统GPU超帧方案大幅简化集成复杂度。鸿蒙提供内插/外插两种算法模式，以及基...
+- 😊 [RTX4090：AI与深度学习应用实践的革命性推动者](https://blog.csdn.net/m0_74385041/article/details/151932492) 🔥 热门
+  RTX4090：AI与深度学习应用实践的革命性推动者 RTX4090显卡凭借24GB GDDR6X显存和16384个CUDA核心，为AI计算带来革命性突破。其第四代Tensor核心和96MB L2缓存...
+- 😊 [OpenClaw Nodes 设备管理深度解析：AI Agent的跨设备协作能力](https://blog.csdn.net/sinat_41617212/article/details/161729293) 📈 关注
+  文章摘要：OpenClaw Nodes 实现 AI Agent 跨设备协作，通过轻量级客户端将云端能力扩展至手机、平板、电脑等本地设备。核心机制包括节点配对（QR码/设置码）、双向认证通信模型和设备管...
+- 😐 [『告别手工测试：AI 自动化测试覆盖 90% 场景的秘诀』](https://blog.csdn.net/qq_41187124/article/details/157062418) 📈 关注
+  本文探讨AI技术如何推动测试领域变革，从传统手工测试到AI驱动的自动化测试。传统手工测试面临效率低、成本高、易出错等问题，自动化测试虽提升效率但仍需大量维护。AI技术的引入（如NLP、图像识别、机器学...
+- 😊 [库的应用：Paddle.js+HTML5前端AI能力集成](https://blog.csdn.net/aiclaws/article/details/162025070) 📈 关注
+  本文探讨了Paddle.js与HTML5前端AI能力集成的关键技术。随着AI技术发展，70%的前端项目已开始集成AI能力，推动了前端开发从静态展示向智能交互的变革。文章从概念解析、技术架构到实现方法，...
 
 
 ### 网络安全资讯
 
 - [新开源网络安全平台CyberSentinel AI v3.0 正式亮相](https://www.anquanke.com/post/id/315663) - 安全公告，详情请点击链接查看完整内容
-- [面向多种防御策略的自动化越狱攻击](https://paper.seebug.org/3491) - 作者：Qi Wang, Chengcheng Wan等 原文链接：https://arxiv.org/pdf/2606.16751 摘要 大型语言模型（LLM）在广泛的任务中展现出了卓越的能力。然而，...
+- [NRT-Bench：面向安全关键控制室中 LLM 智能体的多轮红队测试基准](https://paper.seebug.org/3492) - 作者：Hanwool Lee, Dasol Choi, Bokyeong Kim等 原文链接：https://arxiv.org/pdf/2606.20408 摘要 大型语言模型（LLM）智能体越来越...
 - [幽灵依赖：Agentic Coding 范式下的新型供应链安全威胁](https://xlab.tencent.com/cn/2026/02/28/ghost-dependency-agentic-coding-supply-chain-threat/) - Author: Tianchu Chen of Tencent Xuanwu Lab
 0x00 简介随着 LLM（大语言模型）能力的跃升，AI 软件开发模式正从“人写代码，AI 补全”的 Copilo...
 
 
 ### 技术就业趋势
 
-可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
+边缘计算和IoT专家在制造业和智能城市项目中需求增加。
 
 ### 科技热点
 
@@ -92,24 +100,24 @@ MIT
 ### GitHub 趋势项目
 
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
+- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
 
 
 
 
 ### AI 研究论文
 
-- [CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation](https://arxiv.org/abs/2606.23680v1) - Sikai Li, Shuning Li, Zhenyu Wei, Yunchao Yao, Chenran Li, Mingyu Ding
-  Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomoti...
+- [InSight: Self-Guided Skill Acquisition via Steerable VLAs](https://arxiv.org/abs/2606.24884v1) - Maggie Wang, Lars Osterberg, Stephen Tian, Ola Shorinwa, Jiajun Wu, Mac Schwager
+  Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the trainin...
 
-- [Semantic Browsing: Controllable Diversity for Image Generation](https://arxiv.org/abs/2606.23679v1) - Sara Dorfman, Maya Vishnevsky, Omer Dahary, Or Patashnik, Daniel Cohen-Or
-  Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated sa...
+- [FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation](https://arxiv.org/abs/2606.24874v1) - Haorui Ji, Weizhe Liu, Hongdong Li, Hengkai Guo
+  Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to...
 
-- [AIR: Adaptive Interleaved Reasoning with Code in MLLMs](https://arxiv.org/abs/2606.23678v1) - Cong Han, Xiaohan Lan, Haibo Qiu, Yujie Zhong
-  Following the paradigm shift initiated by OpenAI o3, interleaved reasoning with code to enhance multimodal large language models (MLLMs) has become a ...
+- [OpenThoughts-Agent: Data Recipes for Agentic Models](https://arxiv.org/abs/2606.24855v1) - Negin Raoof, Richard Zhuang, Marianna Nezhurina, Etash Guha, Atula Tejaswi, Ryan Marten, Charlie F. Ruan, Tyler Griggs, Alexander Glenn Shaw, Hritik Bansal, E. Kelly Buchanan, Artem Gazizov, Reinhard Heckel, Chinmay Hegde, Sankalp Jajee, Daanish Khazi, Emmanouil Koukoumidis, Xiangyi Li, Hange Liu, Shlok Natarajan, Harsh Raj, Nicholas Roberts, Ethan Shen, Nishad Singhi, Michael Siu, Ashima Suvarna, Hanwen Xing, Patrick Yubeaton, Robert Zhang, Leon Liangyu Chen, Xiaokun Chen, Steven Dillmann, Saadia Gabriel, Xunyi Jiang, Anurag Kashyap, Boxuan Li, Yein Park, Minh Pham, Sujay Sanghavi, Lin Shi, Ke Sun, Yixin Wang, Zhiwei Xu, Erica Zhang, Siyan Zhao, Wanjia Zhao, Jenia Jitsev, Alex Dimakis, Benjamin Feuer, Ludwig Schmidt
+  Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable ...
 
 
 
@@ -133,25 +141,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $297.01 📉 -1.00 (-0.3%)
-- **GOOGL**: $349.68 📉 -18.35 (-5.0%)
-- **MSFT**: $367.34 📉 -12.06 (-3.2%)
+- **AAPL**: $294.30 📉 -2.71 (-0.9%)
+- **GOOGL**: $346.13 📉 -3.43 (-1.0%)
+- **MSFT**: $373.94 📈 +6.60 (+1.8%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**有效的括号** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+判断字符串中的括号是否有效匹配
 
-标签: 字符串, 动态规划
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -162,14 +170,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《Python编程：从入门到实践》** - Eric Matthes
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+Python学习的最佳入门书籍 (分类: 编程语言)
 
 
 ### 🌍 即将举行的技术会议
@@ -179,14 +187,14 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
@@ -226,73 +234,73 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**网络建设**: 参加技术会议和meetup，建立专业人脉网络
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 每月参加至少一次技术聚会或在线会议
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🛡️ 安全卫士
+今日挑战徽章：⚡ 性能优化师
 
-挑战ID: `7da694` | 日期: 2026-06-23
+挑战ID: `97c32a` | 日期: 2026-06-24
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-使用Rust构建跨平台桌面应用
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**云架构师** (高级) 🚀
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -306,7 +314,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-06-23 10:51:41
+- 📅 更新时间: 2026-06-24 10:38:15
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -316,15 +324,15 @@ test('should calculate tax correctly', () => {
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 4
-- 😊 积极新闻: 3 (75.0%)
+- 📰 新闻总数: 8
+- 😊 积极新闻: 6 (75.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 6.5/100
+- 🔥 平均热度: 13.8/100
 
 🏷️ **热门关键词**:
-- AI (2次)
-- GPT (1次)
-- OpenAI (1次)
+- AI (6次)
+- AR (1次)
+- 深度学习 (1次)
 
 
 ### 🤖 关于此项目
