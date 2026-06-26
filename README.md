@@ -55,69 +55,69 @@
 
 MIT
 
-## 今日更新 (2026-06-25)
+## 今日更新 (2026-06-26)
 
 ### 今日名言
 
-> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- 😐 [【2026最新】Codex 配置第三方 API 教程：AI 编程工具 Codex 实战](https://blog.csdn.net/AI147AI/article/details/161455955) 🔥🔥 很热
-  本文介绍了如何配置和使用Codex CLI工具，使其能够直接操作项目代码。主要内容包括：1) 确认API接口兼容性，确保支持OpenAI Responses API；2) 安装准备，需Node.js环...
-- 😊 [DeepSeek V4-Pro永久降价与Composer 2.5发布：2026年5月编程AI工具格局重塑](https://blog.csdn.net/xyghehehehe/article/details/161359977) 🔥 热门
-  **2026年5月22日，AI编程工具市场迎来重大变革：DeepSeek宣布V4-Pro API价格永久下调至$0.435/1M tokens（仅为Claude Opus 4.7的1/8），同时Cur...
-- 😟 [光通信彻底火了：AI算力背后的“隐形冠军”，还能火多久？](https://blog.csdn.net/u014344410/article/details/161244601) 📈 关注
-  AI算力革命的隐形支柱 2026年光通信产业迎来爆发式增长，光模块概念股普遍涨幅超10倍，揭示AI算力基础设施扩张的核心逻辑。光通信解决了电互联三大瓶颈：距离限制、功耗爆炸和带宽受限，成为AI集群规模...
-- 😊 [招聘可以AI面试，那么我制作了一个AI面试教练不过分吧](https://blog.csdn.net/lwcwam/article/details/153743973) 📈 关注
-  随着AI的发展，面试出现了AI面试，毕设出现了AI查重率，我觉得AI发展的都没那么超级智能化，但是这种东西倒是先出现了，查重率是对比知网得出的结果，我认事实依据，AI查重率都不知道是依据什么，总之降A...
-- 😟 [【AI】RAG 数据分块（Chunk）策略与实践](https://blog.csdn.net/weixin_62043600/article/details/161563668) 📈 关注
-  文章摘要（148字） 本文针对在线教育平台构建RAG知识库问答系统，分析分块策略的核心作用。直接输入整份文档会面临模型上下文窗口限制和检索噪声问题。分块通过设置chunk_size（200-1000字...
+- 😊 [2026 API中转站避坑干货：如何选便宜、稳定的AI接口渠道](https://blog.csdn.net/qq_39430677/article/details/161489879) 🔥🔥 很热
+  在日常开发中，很多开发者会遇到渠道选择难题：市面上API中转站数量繁多，覆盖GPT、Claude、Gemini、开源大模型、AI绘图、代码生成等各类接口，但渠道质量、定价、稳定性参差不齐。而多渠道测评...
+- 😐 [【GitHub】CodeGraph 深度解析：为 AI 编程代理构建预索引代码知识图谱](https://blog.csdn.net/yanceyxin/article/details/161753198) 📈 关注
+  从"让 AI 去探索代码"转变为"提前为 AI 准备好代码地图"。这种思路的优势非常明显——成本效益：平均 16% 更便宜、47% 更少 Token 消耗、58% 更少工具调用准确性：基于 AST 的...
+- 😊 [【Coze-AI智能体平台】低代码省时高效：Coze 应用开发全流程指南](https://blog.csdn.net/2401_87342824/article/details/159691925) 📈 关注
+  摘要 本文介绍了如何利用扣子（Coze）平台快速开发AI应用，涵盖应用创建、业务逻辑开发及用户界面搭建。应用本质是为智能体添加前端界面，通过工作流或对话流处理复杂业务逻辑。开发流程包括： 创建应用：在...
+- 😐 [医疗AI时代的生物医学Go编程：高性能计算与精准医疗的案例分析(八)](https://blog.csdn.net/kkiron/article/details/151009975) 📈 关注
+  本文对GoEHRStream医疗数据流处理系统进行了性能测试与分析。实验在模拟医院真实数据流场景下，对比了Go实现与Python基准方案的性能表现。测试结果显示，GoEHRStream在1k和5k事件...
+- 😐 [Python AI基础：NumPy数组操作入门](https://blog.csdn.net/COLLINSXU/article/details/161557282) 📈 关注
+  本文系统介绍了Python在AI领域的核心应用，重点讲解了NumPy数组操作的基础知识。内容包括： 重要性：Python凭借简洁语法和丰富生态成为AI开发首选，掌握NumPy数组操作是AI从业者必备技...
 
 
 ### 网络安全资讯
 
-- [360纳米Work Box全国渠道伙伴招募正式启动](https://www.anquanke.com/post/id/315669) - 安全公告，详情请点击链接查看完整内容
-- [NRT-Bench：面向安全关键控制室中 LLM 智能体的多轮红队测试基准](https://paper.seebug.org/3492) - 作者：Hanwool Lee, Dasol Choi, Bokyeong Kim等 原文链接：https://arxiv.org/pdf/2606.20408 摘要 大型语言模型（LLM）智能体越来越...
+- [一款完全离线的自主渗透测试智能体AIRecon](https://www.anquanke.com/post/id/315678) - 安全公告，详情请点击链接查看完整内容
+- [从效率到泄露——联邦语言模型微调中的隐私后门](https://paper.seebug.org/3493) - 作者：Shanghao Shi, Chaoyu Zhang, Heng Jin, Yang Xiao, Yevgeniy Vorobeychik, William Yeoh, Ning Zhang, ...
 - [幽灵依赖：Agentic Coding 范式下的新型供应链安全威胁](https://xlab.tencent.com/cn/2026/02/28/ghost-dependency-agentic-coding-supply-chain-threat/) - Author: Tianchu Chen of Tencent Xuanwu Lab
 0x00 简介随着 LLM（大语言模型）能力的跃升，AI 软件开发模式正从“人写代码，AI 补全”的 Copilo...
 
 
 ### 技术就业趋势
 
-云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
+区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
 
 ### 科技热点
 
-- 😐 [Bun 用 Workflow 从 Zig 迁到 Rust：11 天百万行实录](https://cloud.tencent.com/developer/article/2694614) 📊 普通
-  副标题： Anthropic 官方案例拆解——扇出并行、对抗 Review、worktree 隔离，以及「人类几乎不敲代码」的团队怎么 merge
-- 😊 [从埋点需求到规则资产：Hermes Agent 重构得物数仓工作流](https://cloud.tencent.com/developer/article/2692884) 📊 普通
-  在埋点和指标需求里，最消耗数据承接方的往往是把分散的信息重新拼起来：需求文档里的动作到底要不要采集，历史上有没有类似点位，指标口径有没有被下游使用，新增字段要改哪几层表，发布前又该由谁确认。我们选择H...
-- 😐 [vibe 了这个古代官员仕途流场和家族背景可视化系统，想请你来翻翻状元们的"履历表"。](https://cloud.tencent.com/developer/article/2694632) 📊 普通
-  你有没有好奇过，明朝那些官员，往上数三代，也就是祖辈父辈，都是是干什么的？是世代簪缨的官宦人家，还是寒门里第一个走进官场的人？
+- 😐 [《别谈恋爱脑了，用QClaw鉴定渣男渣女》](https://cloud.tencent.com/developer/article/2696770) 📈 关注
+  本项目旨在把腾讯 QClaw 从一个高冷的本地 AI 框架，调教成一只24 小时待命、嘴毒心软的“鉴渣哈士奇”。
+- 😐 [WorkBuddy三种运行模式深度拆解：Craft、Plan、Ask分别该用哪个？](https://cloud.tencent.com/developer/article/2696703) 📊 普通
+  用过WorkBuddy的人都知道，新建任务时对话框里有个下拉菜单，三个选项：Craft、Plan、Ask。但很多人其实不太清楚该选哪个，或者干脆一直用默认的Craft。
+- 😐 [WorkBuddy团队作战！掌握多Agent，一个人就是一支团队](https://cloud.tencent.com/developer/article/2696739) 📊 普通
+  导读：很多人用 WorkBuddy，还停留在“一问一答”的单兵作战阶段。今天星哥就来扒一扒它最被低估的神级能力——多 Agent 模式。看完这篇，让你一个人活成一支团队。
 
 
 ### GitHub 趋势项目
 
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
+- [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.
+- [mauriceboe/TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-- [interviewstreet/hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes.
-- [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 
 
 
 
 ### AI 研究论文
 
-- [Learning Action Priors for Cross-embodiment Robot Manipulation](https://arxiv.org/abs/2606.26095v1) - Dong Jing, Tianqi Zhang, Jiaqi Liu, Jinman Zhao, Zelong Sun, Li Erran Li, Zhiwu Lu, Mingyu Ding
-  Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy ...
+- [Autoregressive Boltzmann Generators](https://arxiv.org/abs/2606.27361v1) - Danyal Rehman, Charlie B. Tan, Yoshua Bengio, Avishek Joey Bose, Alexander Tong
+  Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the dev...
 
-- [On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity](https://arxiv.org/abs/2606.26091v1) - Andrei Liviu Nicolicioiu, Mohammad Pezeshki, Aaron Courville
-  On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a cor...
+- [Error-Conditioned Neural Solvers](https://arxiv.org/abs/2606.27354v1) - Haina Jiang, Liam Wang, Peng-Chen Chen, Min Seop Kwak, Seungryong Kim, Brian Bell, Jeong Joon Park
+  Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical tas...
 
-- [Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents](https://arxiv.org/abs/2606.26080v1) - Changdae Oh, Wendi Li, Seongheon Park, Samuel Yeh, Tanwi Mallick, Sharon Li
-  Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long...
+- [Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching](https://arxiv.org/abs/2606.27342v1) - Nicholas Pulsone, Gregory Goren, Roee Shraga
+  Entity Matching (EM) is a core operation in the data integration pipeline, where records from different sources are compared to determine whether they...
 
 
 
@@ -141,25 +141,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $293.08 📉 -1.22 (-0.4%)
-- **GOOGL**: $345.29 📉 -0.80 (-0.2%)
-- **MSFT**: $365.46 📉 -8.48 (-2.3%)
+- **AAPL**: $275.15 📉 -18.02 (-6.1%)
+- **GOOGL**: $343.71 📉 -1.57 (-0.5%)
+- **MSFT**: $352.83 📉 -12.62 (-3.5%)
 
 
 ### 🛠️ 开发者工具推荐
 
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**有效的括号** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+判断字符串中的括号是否有效匹配
 
-标签: 字符串, 动态规划
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -175,9 +175,9 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《设计模式》** - Gang of Four
 
-容器编排平台的完整指南 (分类: 云原生)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -187,28 +187,28 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🚀 创业公司动态
 
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Brain.fm Focus** - Brain.fm
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -222,27 +222,25 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**使用版本控制**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
@@ -255,29 +253,29 @@ const a = 25;
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `975be3` | 日期: 2026-06-25
+挑战ID: `674dd6` | 日期: 2026-06-26
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
@@ -293,14 +291,14 @@ const a = 25;
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**安全工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -314,7 +312,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-06-25 10:31:33
+- 📅 更新时间: 2026-06-26 10:41:24
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -325,13 +323,13 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
-- 😟 消极新闻: 2 (25.0%)
-- 🔥 平均热度: 10.6/100
+- 😊 积极新闻: 2 (25.0%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 11.4/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- OpenAI (1次)
+- AI (6次)
+- GPT (1次)
 
 
 ### 🤖 关于此项目
