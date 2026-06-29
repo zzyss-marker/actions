@@ -55,11 +55,11 @@
 
 MIT
 
-## 今日更新 (2026-06-28)
+## 今日更新 (2026-06-29)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
 
 ### AI 技术动态
 
@@ -77,35 +77,39 @@ MIT
 
 ### 技术就业趋势
 
-人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
+远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
 
 ### 科技热点
 
-- 😊 [苹果发布新一代M3芯片，性能大幅提升](https://www.apple.com/newsroom/) 📊 普通
-  新芯片采用先进工艺，能效比创历史新高
+- 😊 [EdgeOne Makers × MCP 实战：极速上线你的 AI Agent 完整指南](https://cloud.tencent.com/developer/article/2696503) 📈 关注
+  💡 使用感受：作为一个经常需要快速验证 AI Agent 想法的开发者，我一直被"基础设施搭建"这件事困扰——要配置服务器、搭建运行时环境、整合模型 API、处理会话存储、部署上线……一个 Agent...
+- 😐 [照着流程图做 Agent，是第一个死因](https://cloud.tencent.com/developer/article/2698492) 📈 关注
+  企业 AI 化的四层工程体系 · 第 ③ 篇 从业务流程到 Agent 设计：三步拆解法
+- 😐 [基于现有业务，在腾讯云 EdgeOne Makers 上部署一个「电商客服智能体」](https://cloud.tencent.com/developer/article/2690257) 📊 普通
+  假设你已经有一个正在运行的电商网站。用户可以浏览商品、加入购物车、登录账号、查看订单，并完成下单。随着业务逐渐完善，用户会开始提出大量重复但又很重要的问题：
 
 
 ### GitHub 趋势项目
 
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-- [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 
 
 
 
 ### AI 研究论文
 
-- [Autoregressive Boltzmann Generators](https://arxiv.org/abs/2606.27361v1) - Danyal Rehman, Charlie B. Tan, Yoshua Bengio, Avishek Joey Bose, Alexander Tong
-  Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the dev...
+- [DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand](https://arxiv.org/abs/2606.28323v1) - Dihong Huang, Zhenyu Wei, Zhuxiu Xu, Yunchao Yao, Sikai Li, Mingyu Ding
+  Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Addi...
 
-- [Error-Conditioned Neural Solvers](https://arxiv.org/abs/2606.27354v1) - Haina Jiang, Liam Wang, Peng-Chen Chen, Min Seop Kwak, Seungryong Kim, Brian Bell, Jeong Joon Park
-  Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical tas...
+- [Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes](https://arxiv.org/abs/2606.28308v1) - Luis Leal
+  Many two-player zero-sum games admit not a unique Nash equilibrium but a convex set of them: a polytope of profiles that all share the minimax value V...
 
-- [Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching](https://arxiv.org/abs/2606.27342v1) - Nicholas Pulsone, Gregory Goren, Roee Shraga
-  Entity Matching (EM) is a core operation in the data integration pipeline, where records from different sources are compared to determine whether they...
+- [Agentic Hardware Design as Repository-Level Code Evolution](https://arxiv.org/abs/2606.28279v1) - Cunxi Yu, Chenhui Deng, Nathaniel Pinckney, Brucek Khailany
+  We present HORIZON, a self-evolving agent framework that treats hardware design as repository-level code evolution. A Markdown harness is compiled int...
 
 
 
@@ -136,9 +140,9 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
@@ -163,9 +167,9 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Kubernetes权威指南》** - 龚正等
 
-面向对象设计的经典模式 (分类: 软件设计)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -176,20 +180,20 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 ### 🚀 创业公司动态
 
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
@@ -201,21 +205,21 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🏆 本周技术挑战
 
-**AI模型部署** (难度: 中等)
+**安全漏洞修复** (难度: 高级)
 
-将一个机器学习模型部署到云端，实现API调用
+识别并修复一个Web应用中的安全漏洞
 
-🏷️ 标签: AI, 部署, 云计算 | ⏱️ 预计时间: 3-6小时 | 🎯 奖励积分: 120
+🏷️ 标签: 安全, Web开发 | ⏱️ 预计时间: 2-5小时 | 🎯 奖励积分: 130
 
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
@@ -235,27 +239,27 @@ function formatCurrency(amount) { ... }
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**网络建设**: 参加技术会议和meetup，建立专业人脉网络
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 每月参加至少一次技术聚会或在线会议
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：🏗️ 架构师
 
-挑战ID: `35b20a` | 日期: 2026-06-28
+挑战ID: `ab92cb` | 日期: 2026-06-29
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
@@ -264,7 +268,7 @@ function formatCurrency(amount) { ... }
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Serverless** ☁️ +7% - 无服务器架构普及
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
@@ -280,14 +284,14 @@ function formatCurrency(amount) { ... }
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**AI工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
 
-为什么程序员喜欢黑暗？因为光会产生bug！
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -301,7 +305,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-06-28 10:18:25
+- 📅 更新时间: 2026-06-29 12:20:40
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -311,16 +315,15 @@ function formatCurrency(amount) { ... }
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 2
-- 😊 积极新闻: 2 (100.0%)
+- 📰 新闻总数: 4
+- 😊 积极新闻: 2 (50.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 8.5/100
+- 🔥 平均热度: 8.8/100
 
 🏷️ **热门关键词**:
-- AI (1次)
+- AI (3次)
 - GPT (1次)
 - OpenAI (1次)
-- 芯片 (1次)
 
 
 ### 🤖 关于此项目
