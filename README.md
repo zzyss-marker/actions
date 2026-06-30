@@ -55,16 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-06-29)
+## 今日更新 (2026-06-30)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
-  新模型在推理能力和上下文窗口方面有显著改进
+- 😊 [NVIDIA RTX Spark深度测评：个人AI智能体时代真的来了？](https://blog.csdn.net/yp0to1/article/details/161596734) 🔥 热门
+  ✅ 真实突破128GB统一内存→ 确实能本地运行120B 参数大模型（这是真实的，不是营销话术）NVLink-C2C互联→ CPU-GPU通信延迟确实降低 96.7%（实测验证）Arm架构→ 功耗确实...
+- 😐 [继 React、Vue 之后，Three.js 也有 Skills 了！AI 写 3D 终于不“晕”了](https://blog.csdn.net/weixin_44829437/article/details/157498495) 🔥 热门
+  Three.js 的 API 变动那么快，AI 写出来的代码经常跑不起来，要是能有 Three.js 的 Skill 就好了。**着色器 (Shaders)**：这是最硬核的部分，提供了 Shader...
+- 😊 [脉向AI｜当豆包手机遭遇“全网封杀“：GUI Agent是通向AGI的必经之路吗？](https://blog.csdn.net/sinat_41617212/article/details/156066692) 📈 关注
+  《国产手机厂商集体屏蔽豆包AI背后的入口争夺战》摘要：手机操作系统专家张和揭示，华为小米等厂商封杀字节跳动豆包AI功能，本质是争夺AI时代用户入口控制权。这一现象反映GUIAgent（图形界面智能体）...
+- 😊 [GLM-5.1 上线 AI Ping：分享裂变狂薅算力金，全场通用！](https://blog.csdn.net/user340/article/details/161902967) 📈 关注
+  国产开源大模型GLM-5.1在AI Ping平台上线，采用7440亿参数MoE架构，编程能力提升30%并支持8小时长程任务。AI Ping聚合30+服务商600+模型，提供统一API调用和实时性能监测...
+- 😊 [AI 赋能软件开发：从工具到思维的全面升级](https://blog.csdn.net/qq_34419312/article/details/146158856) 📈 关注
+  AI 正在深刻改变软件开发的方式，通过 AI 工具和平台，开发者可以大幅提升工作效率和质量。本文从 AI 如何改变软件开发、核心应用、工具推荐、最佳实践、挑战与解决方案、未来展望等多个方面全面解析了 ...
 
 
 ### 网络安全资讯
@@ -91,25 +99,25 @@ MIT
 
 ### GitHub 趋势项目
 
-- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
+- [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 
 
 
 
 ### AI 研究论文
 
-- [DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand](https://arxiv.org/abs/2606.28323v1) - Dihong Huang, Zhenyu Wei, Zhuxiu Xu, Yunchao Yao, Sikai Li, Mingyu Ding
-  Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Addi...
+- [VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes](https://arxiv.org/abs/2606.30645v1) - Yen-Jen Wang, Jiaman Li, Sirui Chen, Takara E. Truong, Pei Xu, Pieter Abbeel, Rocky Duan, Koushil Sreenath, Angjoo Kanazawa, Carmelo Sferrazza, Guanya Shi, Karen Liu
+  Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapp...
 
-- [Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes](https://arxiv.org/abs/2606.28308v1) - Luis Leal
-  Many two-player zero-sum games admit not a unique Nash equilibrium but a convex set of them: a polytope of profiles that all share the minimax value V...
+- [LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training](https://arxiv.org/abs/2606.30642v1) - Shun Lei, Huaicheng Zhang, Dapeng Wu, Yaoxun Xu, Lishi Zuo, Wei Tan, Hangting Chen, Guangzheng Li, Jianwei Yu, Zhiyong Wu, Dong Yu
+  Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. ...
 
-- [Agentic Hardware Design as Repository-Level Code Evolution](https://arxiv.org/abs/2606.28279v1) - Cunxi Yu, Chenhui Deng, Nathaniel Pinckney, Brucek Khailany
-  We present HORIZON, a self-evolving agent framework that treats hardware design as repository-level code evolution. A Markdown harness is compiled int...
+- [Self-Evolving World Models for LLM Agent Planning](https://arxiv.org/abs/2606.30639v1) - Xuan Zhang, Wenxuan Zhang, See-Kiong Ng, Yang Deng
+  World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unr...
 
 
 
@@ -133,25 +141,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $283.78 📈 +8.63 (+3.1%)
-- **GOOGL**: $337.39 📉 -6.32 (-1.8%)
-- **MSFT**: $372.97 📈 +20.14 (+5.7%)
+- **AAPL**: $281.74 📉 -2.04 (-0.7%)
+- **GOOGL**: $353.65 📈 +16.26 (+4.8%)
+- **MSFT**: $368.57 📉 -4.40 (-1.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**最长回文子串** (难度: 中等)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+给定字符串，找出其中最长的回文子串
 
-标签: 数组, 哈希表
+标签: 字符串, 动态规划
 
 
 ### 📱 移动开发动态
@@ -162,14 +170,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《代码整洁之道》** - Robert C. Martin
 
-容器编排平台的完整指南 (分类: 云原生)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -179,28 +187,28 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Ambient Coding** - Various Artists
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -226,40 +234,41 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**使用有意义的变量名**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `ab92cb` | 日期: 2026-06-29
+挑战ID: `f91980` | 日期: 2026-06-30
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
@@ -268,30 +277,30 @@ function formatCurrency(amount) { ... }
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Blockchain** 📉 -3% - 区块链热度回落
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-使用Rust构建跨平台桌面应用
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**全栈开发** (中级) 📊
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-真正的程序员不需要注释，代码就是最好的文档。
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -305,7 +314,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-06-29 12:20:40
+- 📅 更新时间: 2026-06-30 10:46:17
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -315,15 +324,14 @@ function formatCurrency(amount) { ... }
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 4
-- 😊 积极新闻: 2 (50.0%)
+- 📰 新闻总数: 8
+- 😊 积极新闻: 5 (62.5%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 8.8/100
+- 🔥 平均热度: 12.6/100
 
 🏷️ **热门关键词**:
-- AI (3次)
-- GPT (1次)
-- OpenAI (1次)
+- AI (7次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
