@@ -55,69 +55,69 @@
 
 MIT
 
-## 今日更新 (2026-06-30)
+## 今日更新 (2026-07-01)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
 
 ### AI 技术动态
 
-- 😊 [NVIDIA RTX Spark深度测评：个人AI智能体时代真的来了？](https://blog.csdn.net/yp0to1/article/details/161596734) 🔥 热门
-  ✅ 真实突破128GB统一内存→ 确实能本地运行120B 参数大模型（这是真实的，不是营销话术）NVLink-C2C互联→ CPU-GPU通信延迟确实降低 96.7%（实测验证）Arm架构→ 功耗确实...
-- 😐 [继 React、Vue 之后，Three.js 也有 Skills 了！AI 写 3D 终于不“晕”了](https://blog.csdn.net/weixin_44829437/article/details/157498495) 🔥 热门
-  Three.js 的 API 变动那么快，AI 写出来的代码经常跑不起来，要是能有 Three.js 的 Skill 就好了。**着色器 (Shaders)**：这是最硬核的部分，提供了 Shader...
-- 😊 [脉向AI｜当豆包手机遭遇“全网封杀“：GUI Agent是通向AGI的必经之路吗？](https://blog.csdn.net/sinat_41617212/article/details/156066692) 📈 关注
-  《国产手机厂商集体屏蔽豆包AI背后的入口争夺战》摘要：手机操作系统专家张和揭示，华为小米等厂商封杀字节跳动豆包AI功能，本质是争夺AI时代用户入口控制权。这一现象反映GUIAgent（图形界面智能体）...
-- 😊 [GLM-5.1 上线 AI Ping：分享裂变狂薅算力金，全场通用！](https://blog.csdn.net/user340/article/details/161902967) 📈 关注
-  国产开源大模型GLM-5.1在AI Ping平台上线，采用7440亿参数MoE架构，编程能力提升30%并支持8小时长程任务。AI Ping聚合30+服务商600+模型，提供统一API调用和实时性能监测...
-- 😊 [AI 赋能软件开发：从工具到思维的全面升级](https://blog.csdn.net/qq_34419312/article/details/146158856) 📈 关注
-  AI 正在深刻改变软件开发的方式，通过 AI 工具和平台，开发者可以大幅提升工作效率和质量。本文从 AI 如何改变软件开发、核心应用、工具推荐、最佳实践、挑战与解决方案、未来展望等多个方面全面解析了 ...
+- 😊 [Flutter 三方库 langchain_google 的鸿蒙化适配指南 - 链接 Gemini 智慧中枢、LangChain AI 实战、鸿蒙级智能应用专家](https://blog.csdn.net/guoyizhongxing/article/details/158703430) 🔥🔥 很热
+  是 LangChain.dart 生态中的重要一环。它将 Google 的生成式 AI 模型（如 Gemini Pro/Vision）抽象为统一的ChatModel或Embeddings接口。在鸿蒙端...
+- 😐 [AI的提示词专栏：API 文档 Prompt，从接口描述生成 Swagger](https://blog.csdn.net/weixin_43151418/article/details/154078714) 📈 关注
+  本文围绕从接口描述生成 Swagger 文档的 Prompt 设计展开，先解析 OpenAPI 3.0 规范下 Swagger 文档的八大核心构成，再阐述 Prompt 设计需包含的明确目标、提供上下...
+- 😊 [2026年5月GitHub最火的5个AI开源项目——个个都是20万星级别](https://blog.csdn.net/Aliaoo/article/details/161287758) 📈 关注
+  5月的GitHub Trending被AI项目包场了。说实话，我已经很久没见过这种盛况——同一个分类下同时有5个项目日涨星过千。这篇文章带你看一遍，省得你一个个翻了。
+- 😊 [强大的AI网站推荐（第四集）—— Gamma](https://blog.csdn.net/lwcwam/article/details/146542497) 📈 关注
+  Gamma 是一款由 AI 驱动的内容创作工具，旨在帮助用户快速生成演示文稿、文档和网站。它通过强大的 AI 技术，能够在短时间内生成高质量的内容，极大地提升了内容创作的效率。Gamma 的核心功能包...
+- 😐 [2026年AI时代远控硬核比拼：谁才是国民级远程协作首选](https://blog.csdn.net/weixin_51484460/article/details/162077006) 📈 关注
+  2026年AI时代远控硬核比拼：谁才是国民级远程协作首选
 
 
 ### 网络安全资讯
 
 - [一款完全离线的自主渗透测试智能体AIRecon](https://www.anquanke.com/post/id/315678) - 安全公告，详情请点击链接查看完整内容
-- [从效率到泄露——联邦语言模型微调中的隐私后门](https://paper.seebug.org/3493) - 作者：Shanghao Shi, Chaoyu Zhang, Heng Jin, Yang Xiao, Yevgeniy Vorobeychik, William Yeoh, Ning Zhang, ...
+- [Hephaestus：迈向网络安全AI科学家](https://paper.seebug.org/3494) - 作者：Jiaqi Li, Yang Zhao, Wen Lu, Lvyang Zhang, and Lidong Zhai 原文链接：https://arxiv.org/pdf/2606.29981v...
 - [幽灵依赖：Agentic Coding 范式下的新型供应链安全威胁](https://xlab.tencent.com/cn/2026/02/28/ghost-dependency-agentic-coding-supply-chain-threat/) - Author: Tianchu Chen of Tencent Xuanwu Lab
 0x00 简介随着 LLM（大语言模型）能力的跃升，AI 软件开发模式正从“人写代码，AI 补全”的 Copilo...
 
 
 ### 技术就业趋势
 
-远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
-- 😊 [EdgeOne Makers × MCP 实战：极速上线你的 AI Agent 完整指南](https://cloud.tencent.com/developer/article/2696503) 📈 关注
-  💡 使用感受：作为一个经常需要快速验证 AI Agent 想法的开发者，我一直被"基础设施搭建"这件事困扰——要配置服务器、搭建运行时环境、整合模型 API、处理会话存储、部署上线……一个 Agent...
-- 😐 [照着流程图做 Agent，是第一个死因](https://cloud.tencent.com/developer/article/2698492) 📈 关注
-  企业 AI 化的四层工程体系 · 第 ③ 篇 从业务流程到 Agent 设计：三步拆解法
-- 😐 [基于现有业务，在腾讯云 EdgeOne Makers 上部署一个「电商客服智能体」](https://cloud.tencent.com/developer/article/2690257) 📊 普通
-  假设你已经有一个正在运行的电商网站。用户可以浏览商品、加入购物车、登录账号、查看订单，并完成下单。随着业务逐渐完善，用户会开始提出大量重复但又很重要的问题：
+- 😐 ["一人公司"与"无人测试"：2026年测试行业的冰与火之歌](https://cloud.tencent.com/developer/article/2698230) 📈 关注
+  深圳一间合租办公室里，一个人对着电脑，左边窗口是写需求的AI Agent，右边窗口是写代码的AI Agent，再切一个窗口让AI跑测试、出报告——三个月，产品从零做到上线，全程没有出现过"测试工程师"...
+- 😟 [Claude Code 代码审查实战：一次对话审出 26 个 Bug](https://cloud.tencent.com/developer/article/2699628) 📊 普通
+  案例 1：一次对话，审出一个 Python 安全工具的 7 个代码问题——运算符优先级 bug、CLI 绕过核心审计类、空壳功能、爬虫无线程限制、正则在 minified JS 上高误报……当场修了 ...
+- 😐 [把李杜苏辛、斯克仁勋，都塞进了个人微信，24 小时陪你即刻开聊。](https://cloud.tencent.com/developer/article/2699605) 📊 普通
+  你可能处在自己的奥德赛时期，需要马斯克激情创业的感染，需要苏东坡禅意通达的开导，需要王阳明知行合一的使悟。
 
 
 ### GitHub 趋势项目
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
-- [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
+- [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
+- [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
 
 
 
 
 ### AI 研究论文
 
-- [VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes](https://arxiv.org/abs/2606.30645v1) - Yen-Jen Wang, Jiaman Li, Sirui Chen, Takara E. Truong, Pei Xu, Pieter Abbeel, Rocky Duan, Koushil Sreenath, Angjoo Kanazawa, Carmelo Sferrazza, Guanya Shi, Karen Liu
-  Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapp...
+- [Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision](https://arxiv.org/abs/2606.32038v1) - Zifan Carl Guo, Laura Ruis, Jacob Andreas, Belinda Z. Li
+  When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation...
 
-- [LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training](https://arxiv.org/abs/2606.30642v1) - Shun Lei, Huaicheng Zhang, Dapeng Wu, Yaoxun Xu, Lishi Zuo, Wei Tan, Hangting Chen, Guangzheng Li, Jianwei Yu, Zhiyong Wu, Dong Yu
-  Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. ...
+- [QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents](https://arxiv.org/abs/2606.32034v1) - Sergio Hernández-Gutiérrez, Matteo Merler, Ilze Amanda Auzina, Joschka Strüber, Ameya Prabhu, Matthias Bethge
+  LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-onl...
 
-- [Self-Evolving World Models for LLM Agent Planning](https://arxiv.org/abs/2606.30639v1) - Xuan Zhang, Wenxuan Zhang, See-Kiong Ng, Yang Deng
-  World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unr...
+- [Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs](https://arxiv.org/abs/2606.32032v1) - Gabrielle Kaili-May Liu, Avi Caciularu, Gal Yona, Idan Szpektor, Arman Cohan
+  Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhib...
 
 
 
@@ -141,25 +141,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $281.74 📉 -2.04 (-0.7%)
-- **GOOGL**: $353.65 📈 +16.26 (+4.8%)
-- **MSFT**: $368.57 📉 -4.40 (-1.2%)
+- **AAPL**: $289.36 📈 +7.62 (+2.7%)
+- **GOOGL**: $357.37 📈 +3.72 (+1.1%)
+- **MSFT**: $373.02 📈 +4.45 (+1.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**两数之和** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
 
-标签: 字符串, 动态规划
+标签: 数组, 哈希表
 
 
 ### 📱 移动开发动态
@@ -170,14 +170,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《深度学习》** - Ian Goodfellow
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -187,28 +187,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Synthwave Mix** - Various Artists
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -248,27 +248,27 @@ const a = 25;
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🛡️ 安全卫士
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `f91980` | 日期: 2026-06-30
+挑战ID: `21d59b` | 日期: 2026-07-01
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
@@ -277,30 +277,30 @@ const a = 25;
 
 - **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Tauri** (Rust) - ⭐ 70k+
 
-现代JavaScript/TypeScript运行时
+使用Rust构建跨平台桌面应用
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**安全工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
+如果调试是去除bug的过程，那么编程就是放入bug的过程。
 
 
 ### 🐙 GitHub 生态统计
@@ -314,7 +314,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-06-30 10:46:17
+- 📅 更新时间: 2026-07-01 10:59:39
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -325,12 +325,12 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 5 (62.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 12.6/100
+- 😊 积极新闻: 3 (37.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 11.5/100
 
 🏷️ **热门关键词**:
-- AI (7次)
+- AI (6次)
 - AR (1次)
 
 
