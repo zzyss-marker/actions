@@ -55,7 +55,7 @@
 
 MIT
 
-## 今日更新 (2026-07-01)
+## 今日更新 (2026-07-02)
 
 ### 今日名言
 
@@ -63,16 +63,16 @@ MIT
 
 ### AI 技术动态
 
-- 😊 [Flutter 三方库 langchain_google 的鸿蒙化适配指南 - 链接 Gemini 智慧中枢、LangChain AI 实战、鸿蒙级智能应用专家](https://blog.csdn.net/guoyizhongxing/article/details/158703430) 🔥🔥 很热
-  是 LangChain.dart 生态中的重要一环。它将 Google 的生成式 AI 模型（如 Gemini Pro/Vision）抽象为统一的ChatModel或Embeddings接口。在鸿蒙端...
-- 😐 [AI的提示词专栏：API 文档 Prompt，从接口描述生成 Swagger](https://blog.csdn.net/weixin_43151418/article/details/154078714) 📈 关注
-  本文围绕从接口描述生成 Swagger 文档的 Prompt 设计展开，先解析 OpenAPI 3.0 规范下 Swagger 文档的八大核心构成，再阐述 Prompt 设计需包含的明确目标、提供上下...
-- 😊 [2026年5月GitHub最火的5个AI开源项目——个个都是20万星级别](https://blog.csdn.net/Aliaoo/article/details/161287758) 📈 关注
-  5月的GitHub Trending被AI项目包场了。说实话，我已经很久没见过这种盛况——同一个分类下同时有5个项目日涨星过千。这篇文章带你看一遍，省得你一个个翻了。
-- 😊 [强大的AI网站推荐（第四集）—— Gamma](https://blog.csdn.net/lwcwam/article/details/146542497) 📈 关注
-  Gamma 是一款由 AI 驱动的内容创作工具，旨在帮助用户快速生成演示文稿、文档和网站。它通过强大的 AI 技术，能够在短时间内生成高质量的内容，极大地提升了内容创作的效率。Gamma 的核心功能包...
-- 😐 [2026年AI时代远控硬核比拼：谁才是国民级远程协作首选](https://blog.csdn.net/weixin_51484460/article/details/162077006) 📈 关注
-  2026年AI时代远控硬核比拼：谁才是国民级远程协作首选
+- 😐 [【实战指南】AI漫剧制作完全攻略：10+工具深度评测、Dify+ComfyUI全自动工作流、4大变现路径全解析](https://blog.csdn.net/u014354882/article/details/159802747) 🔥 热门
+  AI漫剧制作全流程指南（2026版） 本文系统介绍AI漫剧从制作到变现的完整技术方案。内容涵盖： 技术栈解析：详细拆解剧本生成（豆包/Kimi）、图片生成（即梦AI/ComfyUI）、图生视频（可灵A...
+- 😊 [好用的AI 工具推荐：ToDesk AI，分身“工作管家”，处理复杂工作事项](https://blog.csdn.net/2401_84813926/article/details/161849906) 📈 关注
+  ToDesk AI职场实战测评：远程办公与AI助手的完美结合 ToDesk AI作为融合AI与远程控制的智能助手，在办公场景中展现出高效整合能力。测试显示：1）任务管理能自动将琐事按优先级生成带备注的...
+- 😊 [拆解标量子查询性能杀手！从等价性判定到智能消除，解锁优化器AI级决策能力](https://blog.csdn.net/Dreamy_zsy/article/details/161478750) 📈 关注
+  在正式展开技术讲解之前，我先用最直白的话给新手同学解释下什么是标量子查询，避开晦涩的官方术语。标量子查询，顾名思义就是能够返回单行单列单个数值的子查询，它可以直接嵌入SELECT字段列表、WHERE过...
+- 😊 [2026最新实测！8款VSCode免费AI插件，零成本让开发效率翻倍](https://blog.csdn.net/qq_52327553/article/details/160337523) 📈 关注
+  2026年实测推荐8款免费VSCode AI插件，帮助开发者零成本提升效率。包括大厂出品的Amazon CodeWhisperer和CodeGeeX，学生专属的GitHub Copilot，隐私友好的...
+- 😊 [人工智能知识点复习汇总](https://blog.csdn.net/2401_83600008/article/details/161973064) 📊 普通
+  人工智能概率知识点汇总复习
 
 
 ### 网络安全资讯
@@ -85,7 +85,7 @@ MIT
 
 ### 技术就业趋势
 
-低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
+网络安全人才缺口扩大，零信任安全模型专家需求激增。
 
 ### 科技热点
 
@@ -110,14 +110,14 @@ MIT
 
 ### AI 研究论文
 
-- [Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision](https://arxiv.org/abs/2606.32038v1) - Zifan Carl Guo, Laura Ruis, Jacob Andreas, Belinda Z. Li
-  When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation...
+- [Measuring the Gap Between Human and LLM Research Ideas](https://arxiv.org/abs/2607.01233v1) - Ziyu Chen, Yilun Zhao, Arman Cohan
+  LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert pre...
 
-- [QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents](https://arxiv.org/abs/2606.32034v1) - Sergio Hernández-Gutiérrez, Matteo Merler, Ilze Amanda Auzina, Joschka Strüber, Ameya Prabhu, Matthias Bethge
-  LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-onl...
+- [Language-Critique Imitation Learning from Suboptimal Demonstrations](https://arxiv.org/abs/2607.01225v1) - Chih-Han Yang, Dai-Jie Wu, Yun-Ping Huang, Ping-Chun Hsieh, Kenneth Marino, Shao-Hua Sun
+  Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discr...
 
-- [Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs](https://arxiv.org/abs/2606.32032v1) - Gabrielle Kaili-May Liu, Avi Caciularu, Gal Yona, Idan Szpektor, Arman Cohan
-  Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhib...
+- [AutoMem: Automated Learning of Memory as a Cognitive Skill](https://arxiv.org/abs/2607.01224v1) - Shengguang Wu, Hao Zhu, Yuhui Zhang, Xiaohan Wang, Serena Yeung-Levy
+  Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as...
 
 
 
@@ -141,16 +141,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $289.36 📈 +7.62 (+2.7%)
-- **GOOGL**: $357.37 📈 +3.72 (+1.1%)
-- **MSFT**: $373.02 📈 +4.45 (+1.2%)
+- **AAPL**: $294.38 📈 +5.02 (+1.7%)
+- **GOOGL**: $361.21 📈 +3.84 (+1.1%)
+- **MSFT**: $384.28 📈 +11.26 (+3.0%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
@@ -170,14 +170,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《设计模式》** - Gang of Four
 
-深度学习领域的权威教材 (分类: 人工智能)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -187,21 +187,21 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
@@ -222,27 +222,26 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**遵循单一职责原则**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
@@ -255,9 +254,9 @@ const a = 25;
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：🥷 代码忍者
 
-挑战ID: `21d59b` | 日期: 2026-07-01
+挑战ID: `105728` | 日期: 2026-07-02
 
 
 ### 📊 技术话题投票
@@ -276,31 +275,31 @@ const a = 25;
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Zed** (Rust) - ⭐ 25k+
 
-使用Rust构建跨平台桌面应用
+高性能代码编辑器
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**AI工程师** (中级) 📈
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
 
-如果调试是去除bug的过程，那么编程就是放入bug的过程。
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -314,7 +313,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-07-01 10:59:39
+- 📅 更新时间: 2026-07-02 10:25:39
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -325,13 +324,13 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 3 (37.5%)
+- 😊 积极新闻: 4 (50.0%)
 - 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 11.5/100
+- 🔥 平均热度: 8.9/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- AR (1次)
+- AI (5次)
+- 人工智能 (1次)
 
 
 ### 🤖 关于此项目
