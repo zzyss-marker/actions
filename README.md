@@ -55,69 +55,68 @@
 
 MIT
 
-## 今日更新 (2026-07-02)
+## 今日更新 (2026-07-03)
 
 ### 今日名言
 
-> 软件设计的目标是控制复杂性，而不是增加复杂性。 —— Pamela Zave
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- 😐 [【实战指南】AI漫剧制作完全攻略：10+工具深度评测、Dify+ComfyUI全自动工作流、4大变现路径全解析](https://blog.csdn.net/u014354882/article/details/159802747) 🔥 热门
-  AI漫剧制作全流程指南（2026版） 本文系统介绍AI漫剧从制作到变现的完整技术方案。内容涵盖： 技术栈解析：详细拆解剧本生成（豆包/Kimi）、图片生成（即梦AI/ComfyUI）、图生视频（可灵A...
-- 😊 [好用的AI 工具推荐：ToDesk AI，分身“工作管家”，处理复杂工作事项](https://blog.csdn.net/2401_84813926/article/details/161849906) 📈 关注
-  ToDesk AI职场实战测评：远程办公与AI助手的完美结合 ToDesk AI作为融合AI与远程控制的智能助手，在办公场景中展现出高效整合能力。测试显示：1）任务管理能自动将琐事按优先级生成带备注的...
-- 😊 [拆解标量子查询性能杀手！从等价性判定到智能消除，解锁优化器AI级决策能力](https://blog.csdn.net/Dreamy_zsy/article/details/161478750) 📈 关注
-  在正式展开技术讲解之前，我先用最直白的话给新手同学解释下什么是标量子查询，避开晦涩的官方术语。标量子查询，顾名思义就是能够返回单行单列单个数值的子查询，它可以直接嵌入SELECT字段列表、WHERE过...
-- 😊 [2026最新实测！8款VSCode免费AI插件，零成本让开发效率翻倍](https://blog.csdn.net/qq_52327553/article/details/160337523) 📈 关注
-  2026年实测推荐8款免费VSCode AI插件，帮助开发者零成本提升效率。包括大厂出品的Amazon CodeWhisperer和CodeGeeX，学生专属的GitHub Copilot，隐私友好的...
-- 😊 [人工智能知识点复习汇总](https://blog.csdn.net/2401_83600008/article/details/161973064) 📊 普通
-  人工智能概率知识点汇总复习
+- 😐 [2026 最新：Trae / Cursor 一键接入 taste-skill 完整教程（让 AI 前端告别“AI 味”）](https://blog.csdn.net/violeteverdack/article/details/161053279) 🔥🔥 很热
+  摘要：GitHub热门项目taste-skill通过系统级Prompt+规则文档+工作流，让AI生成的前端代码更具高级产品风格（如Apple/Linear风格），而非廉价AI味设计。该项目包含多个Sk...
+- 😊 [玩转谷歌开源 AI 终极端：在 Antigravity CLI (`agy`) 中无缝白嫖/调用 Claude](https://blog.csdn.net/greenspan/article/details/161360714) 🔥 热门
+  本文介绍了如何在谷歌开源的AI终端工具Antigravity CLI（agy）中无缝调用Claude模型。关键点包括：1）无需额外注册Anthropic账号，所有费用通过Google AI订阅计划结算...
+- 😐 [AI入门踩坑实录：我换了3种语言才敢说，Python真的是入门唯一选择吗？](https://blog.csdn.net/Dreamy_zsy/article/details/160308823) 📈 关注
+  入门阶段，能让你最快跑通第一个项目、最快搞懂原理的语言，就是最好的语言。那些让你上来就学C++的，要么是自己已经会原理了站着说话不腰疼，要么就是坏，想把你劝退。”后来我花一个月学了Python基础，一...
+- 😐 [与AI沟通的正确方式——AI提示词：原理、策略与精通之道](https://blog.csdn.net/sixpp/article/details/155907542) 📈 关注
+  摘要 《提示词革命——AI时代的新语言》探讨了人机交互从命令行到自然语言的范式转变。提示词作为人类思维的结构化投射，通过概念到任务、语境到约束、需求到评估的三重转换，成为连接意图与执行的桥梁。文章分析...
+- 😐 [AI时代，Java工程师的“薪”级分化：关于效率与转型的一些思考](https://blog.csdn.net/Z1571009269/article/details/162058834) 📈 关注
+  “金三银四”刚过，2026年Q2的招聘季透露出一个值得关注的现象：Java工程师市场正在经历一种“结构性分化”。如果你是有5年以上经验的Java工程师，可能已经察觉到——招聘要求变了，面试考察的侧重点...
 
 
 ### 网络安全资讯
 
 - [一款完全离线的自主渗透测试智能体AIRecon](https://www.anquanke.com/post/id/315678) - 安全公告，详情请点击链接查看完整内容
 - [Hephaestus：迈向网络安全AI科学家](https://paper.seebug.org/3494) - 作者：Jiaqi Li, Yang Zhao, Wen Lu, Lvyang Zhang, and Lidong Zhai 原文链接：https://arxiv.org/pdf/2606.29981v...
-- [幽灵依赖：Agentic Coding 范式下的新型供应链安全威胁](https://xlab.tencent.com/cn/2026/02/28/ghost-dependency-agentic-coding-supply-chain-threat/) - Author: Tianchu Chen of Tencent Xuanwu Lab
-0x00 简介随着 LLM（大语言模型）能力的跃升，AI 软件开发模式正从“人写代码，AI 补全”的 Copilo...
+- [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
 
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
 
 ### 科技热点
 
-- 😐 ["一人公司"与"无人测试"：2026年测试行业的冰与火之歌](https://cloud.tencent.com/developer/article/2698230) 📈 关注
-  深圳一间合租办公室里，一个人对着电脑，左边窗口是写需求的AI Agent，右边窗口是写代码的AI Agent，再切一个窗口让AI跑测试、出报告——三个月，产品从零做到上线，全程没有出现过"测试工程师"...
-- 😟 [Claude Code 代码审查实战：一次对话审出 26 个 Bug](https://cloud.tencent.com/developer/article/2699628) 📊 普通
-  案例 1：一次对话，审出一个 Python 安全工具的 7 个代码问题——运算符优先级 bug、CLI 绕过核心审计类、空壳功能、爬虫无线程限制、正则在 minified JS 上高误报……当场修了 ...
-- 😐 [把李杜苏辛、斯克仁勋，都塞进了个人微信，24 小时陪你即刻开聊。](https://cloud.tencent.com/developer/article/2699605) 📊 普通
-  你可能处在自己的奥德赛时期，需要马斯克激情创业的感染，需要苏东坡禅意通达的开导，需要王阳明知行合一的使悟。
+- 😐 [后端学agent harness系列（二）：当Agent一天生成300个PR时，工程师的价值在哪里？](https://cloud.tencent.com/developer/article/2699582) 🔥 热门
+  ——从OpenAI Symphony实验看Harness Engineering的范式革命
+- 😐 [Vibe Coding 之后，UI 测试如何跟上开发速度？](https://cloud.tencent.com/developer/article/2701064) 📈 关注
+  Vibe Coding 改变了很多团队的开发节奏。把需求拆解之后交给 AI，几分钟出一个可以跑通的版本，再迭代几轮就能上线。
+- 😟 [仓储管理系统（WMS）| 库存盘点功能，React+Zustand实现离线盘点App](https://cloud.tencent.com/developer/article/2699353) 📊 普通
+  在任何智能仓库系统中，库存准确性都是衡量WMS是否可靠的核心指标。即便有完善的入库、出库、效期管理，如果实际库存与系统数据长期不一致，就会导致拣货失败、超卖、客户投诉等一系列连锁问题。
 
 
 ### GitHub 趋势项目
 
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 - [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
-- [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
 
 
 
 ### AI 研究论文
 
-- [Measuring the Gap Between Human and LLM Research Ideas](https://arxiv.org/abs/2607.01233v1) - Ziyu Chen, Yilun Zhao, Arman Cohan
-  LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert pre...
+- [Distributed Attacks in Persistent-State AI Control](https://arxiv.org/abs/2607.02514v1) - Josh Hills, Ida Caspary, Asa Cooper Stickland
+  As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence cr...
 
-- [Language-Critique Imitation Learning from Suboptimal Demonstrations](https://arxiv.org/abs/2607.01225v1) - Chih-Han Yang, Dai-Jie Wu, Yun-Ping Huang, Ping-Chun Hsieh, Kenneth Marino, Shao-Hua Sun
-  Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discr...
+- [LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](https://arxiv.org/abs/2607.02513v1) - Matteo Boglioni, Thibault Rousset, Siva Reddy, Marius Mosbach, Verna Dankers
+  LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal met...
 
-- [AutoMem: Automated Learning of Memory as a Cognitive Skill](https://arxiv.org/abs/2607.01224v1) - Shengguang Wu, Hao Zhu, Yuhui Zhang, Xiaohan Wang, Serena Yeung-Levy
-  Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as...
+- [Program-as-Weights: A Programming Paradigm for Fuzzy Functions](https://arxiv.org/abs/2607.02512v1) - Wentao Zhang, Liliana Hotsko, Woojeong Kim, Pengyu Nie, Stuart Shieber, Yuntian Deng
+  Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking ...
 
 
 
@@ -141,25 +140,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $294.38 📈 +5.02 (+1.7%)
-- **GOOGL**: $361.21 📈 +3.84 (+1.1%)
-- **MSFT**: $384.28 📈 +11.26 (+3.0%)
+- **AAPL**: $308.63 📈 +14.25 (+4.8%)
+- **GOOGL**: $359.91 📉 -1.30 (-0.4%)
+- **MSFT**: $390.49 📈 +6.21 (+1.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+判断字符串中的括号是否有效匹配
 
-标签: 数组, 哈希表
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -170,14 +169,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《代码整洁之道》** - Robert C. Martin
 
-面向对象设计的经典模式 (分类: 软件设计)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -187,14 +186,14 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
@@ -206,9 +205,9 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Brain.fm Focus** - Brain.fm
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -234,40 +233,41 @@ D. 面向对象
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**使用有意义的变量名**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
 今日挑战徽章：🥷 代码忍者
 
-挑战ID: `105728` | 日期: 2026-07-02
+挑战ID: `ec2493` | 日期: 2026-07-03
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
@@ -275,9 +275,9 @@ function formatCurrency(amount) { ... }
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
@@ -292,9 +292,9 @@ function formatCurrency(amount) { ... }
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**安全工程师** (中级) 📈
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
@@ -313,7 +313,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-07-02 10:25:39
+- 📅 更新时间: 2026-07-03 10:23:42
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -324,13 +324,14 @@ function formatCurrency(amount) { ... }
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
+- 😊 积极新闻: 1 (12.5%)
 - 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 8.9/100
+- 🔥 平均热度: 15.5/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- 人工智能 (1次)
+- AI (7次)
+- AR (2次)
+- OpenAI (1次)
 
 
 ### 🤖 关于此项目
