@@ -55,16 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-07-11)
+## 今日更新 (2026-07-12)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
-  新模型在推理能力和上下文窗口方面有显著改进
+- 😟 [Kubernetes CNI 选型：AI 集群网络不要照搬 Web 服务方案](https://blog.csdn.net/m0_50889382/article/details/162694330) 🔥 热门
+  AI 集群的 CNI 选型不能照搬 Web 服务的经验，核心原因是流量模式、延迟敏感度和通信规模的差异。先确定数据面需求：是否需要 RDMA？是否需要网络策略？Service 数量是否超过 iptab...
+- 😐 [如何去除豆包生图上的水印？2026年AI图片去水印全攻略（含官方技巧+API接入方案）](https://blog.csdn.net/qq_38355200/article/details/161738594) 📈 关注
+  本文系统梳理了2026年豆包AI生图水印的多种去除方法。文章从水印位置识别入手，介绍了从源头保存无水印原图的三大技巧（手机APP「保存原图」、电脑网页拖拽保存、浏览器插件），以及豆包内置“变清晰”功能...
+- 😊 [只花了几分钟，用AI开发了一个微信小程序！(附教程)](https://blog.csdn.net/li0531/article/details/159247779) 📈 关注
+  摘要：本文介绍了如何利用AI工具快速开发微信小程序。作者以"轻标记"加水印小程序为例，演示了从构思到落地的全过程：1）使用Codex等AI工具生成小程序框架；2）通过自然语言交互优化UI设计；3）完成...
+- 😐 [AI 创业的单位经济学：从推理成本到客户终身价值的精算逻辑](https://blog.csdn.net/jiang_style/article/details/162382178) 📈 关注
+  AI 创业的单位经济学与传统 SaaS 存在结构性差异：边际成本不为零，重度用户与轻度用户的成本差异可达 10 倍，统一订阅制下重度用户可能成为利润黑洞。定价模式的选择直接决定了单位经济学是否成立。核...
+- 😊 [从0到1：AI Coding新手入门全攻略](https://blog.csdn.net/xiaoyingxixi1989/article/details/149174285) 📈 关注
+  在这次 AI Coding 的学习旅程中，我们从基础语法学习起步，借助 AI 工具快速理解和掌握编程基础概念；通过项目实践，将 AI Coding 应用到实际开发中，从简单网页制作到小型动态应用开发，...
 
 
 ### 网络安全资讯
@@ -76,21 +84,25 @@ MIT
 
 ### 技术就业趋势
 
-敏捷和Scrum认证在项目管理角色中价值提升。
+人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
 
 ### 科技热点
 
-- 😊 [苹果发布新一代M3芯片，性能大幅提升](https://www.apple.com/newsroom/) 📊 普通
-  新芯片采用先进工艺，能效比创历史新高
+- 😊 [从零到 16 容器全绿：在腾讯云 OpenCloudOS 9 上部署 OCManager 的完整踩坑实录](https://cloud.tencent.com/developer/article/2705072) 📊 普通
+  OpenCloudOS 前段时间正式开源了智能运维平台 OCManager——号称跑过百万级服务器、日处理 700 万条告警。看到官方的「开源共建活动」我起了个念头：能不能把它在自己的机器上从零部署一...
+- 😐 [每天1个skill系列9: spec-kit取长补短openspec+superpower挣脱返工折磨](https://cloud.tencent.com/developer/article/2705226) 📊 普通
+  老李是一家中台团队的架构师，最近接了个不起眼的活儿：给内部系统补一套登录、注册、个人中心。三个页面，听起来是个「一天能搞定」的小需求，老李也是这么跟产品经理拍胸脯的。
+- 😟 [基于YOLO26的晶圆缺陷检测系统（Python源码+数据集+Pyside6界面）](https://cloud.tencent.com/developer/article/2705101) 📊 普通
+  💡💡💡本文摘要：基于YOLO26的晶圆缺陷检测系统，阐述了整个数据制作和训练可视化过程
 
 
 ### GitHub 趋势项目
 
-- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 
 
@@ -136,8 +148,8 @@ satellite communication systems has elevated the importance of secure vide...
 ### 🛠️ 开发者工具推荐
 
 - **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
@@ -157,14 +169,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《代码整洁之道》** - Robert C. Martin
 
-面向对象设计的经典模式 (分类: 软件设计)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -175,27 +187,27 @@ satellite communication systems has elevated the importance of secure vide...
 ### 🚀 创业公司动态
 
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -221,51 +233,49 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**使用版本控制**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `2a3391` | 日期: 2026-07-11
+挑战ID: `937e79` | 日期: 2026-07-12
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
@@ -280,14 +290,14 @@ const a = 25;
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**全栈开发** (中级) 📊
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-世界上有10种人：懂二进制的和不懂二进制的。
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -301,7 +311,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-07-11 09:13:51
+- 📅 更新时间: 2026-07-12 09:40:19
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -311,16 +321,14 @@ const a = 25;
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 2
-- 😊 积极新闻: 2 (100.0%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 8.5/100
+- 📰 新闻总数: 8
+- 😊 积极新闻: 3 (37.5%)
+- 😟 消极新闻: 2 (25.0%)
+- 🔥 平均热度: 10.0/100
 
 🏷️ **热门关键词**:
-- AI (1次)
-- GPT (1次)
-- OpenAI (1次)
-- 芯片 (1次)
+- AI (5次)
+- Kubernetes (1次)
 
 
 ### 🤖 关于此项目
