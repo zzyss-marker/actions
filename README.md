@@ -55,68 +55,70 @@
 
 MIT
 
-## 今日更新 (2026-07-12)
+## 今日更新 (2026-07-13)
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- 😟 [Kubernetes CNI 选型：AI 集群网络不要照搬 Web 服务方案](https://blog.csdn.net/m0_50889382/article/details/162694330) 🔥 热门
-  AI 集群的 CNI 选型不能照搬 Web 服务的经验，核心原因是流量模式、延迟敏感度和通信规模的差异。先确定数据面需求：是否需要 RDMA？是否需要网络策略？Service 数量是否超过 iptab...
-- 😐 [如何去除豆包生图上的水印？2026年AI图片去水印全攻略（含官方技巧+API接入方案）](https://blog.csdn.net/qq_38355200/article/details/161738594) 📈 关注
-  本文系统梳理了2026年豆包AI生图水印的多种去除方法。文章从水印位置识别入手，介绍了从源头保存无水印原图的三大技巧（手机APP「保存原图」、电脑网页拖拽保存、浏览器插件），以及豆包内置“变清晰”功能...
-- 😊 [只花了几分钟，用AI开发了一个微信小程序！(附教程)](https://blog.csdn.net/li0531/article/details/159247779) 📈 关注
-  摘要：本文介绍了如何利用AI工具快速开发微信小程序。作者以"轻标记"加水印小程序为例，演示了从构思到落地的全过程：1）使用Codex等AI工具生成小程序框架；2）通过自然语言交互优化UI设计；3）完成...
-- 😐 [AI 创业的单位经济学：从推理成本到客户终身价值的精算逻辑](https://blog.csdn.net/jiang_style/article/details/162382178) 📈 关注
-  AI 创业的单位经济学与传统 SaaS 存在结构性差异：边际成本不为零，重度用户与轻度用户的成本差异可达 10 倍，统一订阅制下重度用户可能成为利润黑洞。定价模式的选择直接决定了单位经济学是否成立。核...
-- 😊 [从0到1：AI Coding新手入门全攻略](https://blog.csdn.net/xiaoyingxixi1989/article/details/149174285) 📈 关注
-  在这次 AI Coding 的学习旅程中，我们从基础语法学习起步，借助 AI 工具快速理解和掌握编程基础概念；通过项目实践，将 AI Coding 应用到实际开发中，从简单网页制作到小型动态应用开发，...
+- 😐 [扔掉枯燥的录播课！手把手教你用OpenMAIC搭一个“AI全天候陪读班”](https://blog.csdn.net/2301_76341691/article/details/159835039) 📈 关注
+  清华大学开源项目OpenMAIC打造沉浸式AI课堂体验 摘要：清华大学开源的OpenMAIC项目通过AI技术解决了传统在线教育参与感低的问题。该系统能将普通文档转化为虚拟教室，配备AI教师、助教和同学...
+- 😊 [Trae深度体验：字节跳动的AI生产力双引擎](https://blog.csdn.net/c_zyer/article/details/162040954) 📈 关注
+  2025年，字节跳动发布了一款名为 Trae（读作 /treɪ/）的AI原生集成开发环境，这也是中国首个AI IDE产品。一年后，Trae 已经从单一的编程工具，演化为包含 Trae IDE 和 Tr...
+- 😊 [端侧 AI 推理部署：性能、隐私与功耗之间的工程取舍](https://blog.csdn.net/jiang_style/article/details/162496548) 📈 关注
+  端侧 AI 推理部署需要在性能、隐私、准确率、功耗和工程复杂度之间取舍。合理的方案应从场景约束出发，结合模型优化、端云协同、资源保护和真实设备评测，避免简单照搬云端推理模式。
+- 😐 [基于魔珐星云具身 AI 架构实战：Qoder 从零搭建云叙・企业专属数字讲解员](https://blog.csdn.net/weixin_62765017/article/details/162442993) 📈 关注
+  基于魔珐星云具身 AI 架构实战：Qoder 从零搭建云叙・企业专属数字讲解员
+- 😊 [【AI智能体】Hermes Agent 从部署到项目实战操作详解](https://blog.csdn.net/zhangcongyi420/article/details/162558602) 📈 关注
+  Hermes Agent 桌面版从安装到实战操作详解
 
 
 ### 网络安全资讯
 
-- [智能体面临的十大安全风险问题](https://www.anquanke.com/post/id/315781) - 安全公告，详情请点击链接查看完整内容
-- [认知防火墙：一种面向LLM安全的主动式、零信任、多门控框架](https://paper.seebug.org/3499) - 作者： Michele Guida, Ruslan Shikhhamzayev, Sindhuja Penchala, Stefano Iannucci, Jiacheng Li, Shahram R...
+- [Ghostcommit 攻击：恶意提示藏入图片，劫持Agent实施窃取](https://www.anquanke.com/post/id/315788) - 安全公告，详情请点击链接查看完整内容
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
+- [幽灵依赖：Agentic Coding 范式下的新型供应链安全威胁](https://xlab.tencent.com/cn/2026/02/28/ghost-dependency-agentic-coding-supply-chain-threat/) - Author: Tianchu Chen of Tencent Xuanwu Lab
+0x00 简介随着 LLM（大语言模型）能力的跃升，AI 软件开发模式正从“人写代码，AI 补全”的 Copilo...
 
 
 ### 技术就业趋势
 
-人工智能和机器学习工程师需求持续增长，尤其是具有大型语言模型经验的专业人才。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- 😊 [从零到 16 容器全绿：在腾讯云 OpenCloudOS 9 上部署 OCManager 的完整踩坑实录](https://cloud.tencent.com/developer/article/2705072) 📊 普通
-  OpenCloudOS 前段时间正式开源了智能运维平台 OCManager——号称跑过百万级服务器、日处理 700 万条告警。看到官方的「开源共建活动」我起了个念头：能不能把它在自己的机器上从零部署一...
-- 😐 [每天1个skill系列9: spec-kit取长补短openspec+superpower挣脱返工折磨](https://cloud.tencent.com/developer/article/2705226) 📊 普通
-  老李是一家中台团队的架构师，最近接了个不起眼的活儿：给内部系统补一套登录、注册、个人中心。三个页面，听起来是个「一天能搞定」的小需求，老李也是这么跟产品经理拍胸脯的。
-- 😟 [基于YOLO26的晶圆缺陷检测系统（Python源码+数据集+Pyside6界面）](https://cloud.tencent.com/developer/article/2705101) 📊 普通
-  💡💡💡本文摘要：基于YOLO26的晶圆缺陷检测系统，阐述了整个数据制作和训练可视化过程
+- 😐 [大模型应用：避免大模型服务雪崩：深入解析AI场景下熔断机制设计与应用实践.160](https://cloud.tencent.com/developer/article/2705795) 📈 关注
+  随着各种大模型AI服务深度接入业务系统，AI调用已成为各类应用的核心链路，相较于传统后端接口、数据库、缓存等基础服务，大模型推理服务具备独有且不可忽视的运行特性：单次文本生成推理链路更长、上下文加载与...
+- 😟 [因为这个配置，我差点搞垮了生产环境——5GB 日志 3 分钟定位根因](https://cloud.tencent.com/developer/article/2704046) 📈 关注
+  登录跳板机，面对 5GB 的三层日志（Nginx + App + MySQL），我心里一沉：今晚又要熬到凌晨了。
+01 那天的故障复盘
+- 😐 [第 8 篇：单 Agent vs 多 Agent —— 何时拆分，如何编排](https://cloud.tencent.com/developer/article/2706297) 📊 普通
+  什么时候一个 Agent 就够了，什么时候必须拆分？拆分后如何编排？Token 经济学如何决定你的架构选择？这篇用数据和案例来回答。
 
 
 ### GitHub 趋势项目
 
-- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-- [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) - Abseil Common Libraries (C++)
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
-- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 
 
 
 
 ### AI 研究论文
 
-- [OpenCoF: Learning to Reason Through Video Generation](https://arxiv.org/abs/2607.08763v1) - Xinyan Chen, Ziyu Guo, Renrui Zhang, Dongzhi Jiang, Hongsheng Li
-  Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video g...
+- [PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis](https://arxiv.org/abs/2607.09662v1) - Ren Takahashi, Emre Yusuf, Jayabrata Bhaduri
+  Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-o...
 
-- [Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation](https://arxiv.org/abs/2607.08758v1) - Yifan Zhou, Qihao Yang, Yan Li, Donggang Li, Xiru Hu, Hokin Deng, Ziyang Gong, Xuanyi Zhou, Huacan Wang, Xiangchao Yan, Wanghan Xu, Wenlong Zhang, Shaofeng Zhang, Yue Zhou, Yifan Yang, Zhihang Zhong, Xue Yang
-  Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like bi...
+- [Scalable Visual Pretraining for Language Intelligence](https://arxiv.org/abs/2607.09657v1) - Yiming Zhang, Zhonghan Zhao, Wenwei Zhang, Haiteng Zhao, Tianyang Lin, Yunhua Zhou, Demin Song, Kuikun Liu, Haochen Ye, Haian Huang, Yuzhe Gu, Haijun Lv, Qipeng Guo, Bin Liu, Gaoang Wang, Kai Chen
+  The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowled...
 
-- [SLORR: Simple and Efficient In-Training Low-Rank Regularization](https://arxiv.org/abs/2607.08754v1) - David González-Martínez, Shiwei Liu
-  Low-rank factorization is widely used to compress neural networks, but modern models are often not naturally amenable to aggressive factorization with...
+- [Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models](https://arxiv.org/abs/2607.09654v1) - Shravan Murlidaran, Miguel P. Eckstein
+  Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-C...
 
 
 
@@ -147,18 +149,18 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🛠️ 开发者工具推荐
 
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+给定二叉树，找出其最大深度
 
-标签: 链表, 递归
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -169,14 +171,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
 
-**《代码整洁之道》** - Robert C. Martin
+**《设计模式》** - Gang of Four
 
-编写可读、可维护代码的实践指南 (分类: 软件工程)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -186,21 +188,21 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
@@ -212,11 +214,11 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🏆 本周技术挑战
 
-**算法优化挑战** (难度: 中等)
+**微服务架构设计** (难度: 高级)
 
-优化一个排序算法，使其在大数据集上的性能提升50%
+设计一个电商系统的微服务架构，包含用户、订单、支付等服务
 
-🏷️ 标签: 算法, 性能优化 | ⏱️ 预计时间: 2-4小时 | 🎯 奖励积分: 100
+🏷️ 标签: 架构设计, 微服务 | ⏱️ 预计时间: 4-8小时 | 🎯 奖励积分: 150
 
 
 ### 🧠 技术小测验
@@ -233,13 +235,15 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**写测试用例**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
@@ -254,18 +258,18 @@ git commit -m "Add user authentication feature"
 
 今日挑战徽章：🏗️ 架构师
 
-挑战ID: `937e79` | 日期: 2026-07-12
+挑战ID: `9818a9` | 日期: 2026-07-13
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
@@ -275,24 +279,24 @@ git commit -m "Add user authentication feature"
 - **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
-- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-使用Rust构建跨平台桌面应用
+现代Web应用框架
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**AI工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
@@ -311,7 +315,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-07-12 09:40:19
+- 📅 更新时间: 2026-07-13 10:46:54
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -323,12 +327,12 @@ git commit -m "Add user authentication feature"
 
 - 📰 新闻总数: 8
 - 😊 积极新闻: 3 (37.5%)
-- 😟 消极新闻: 2 (25.0%)
-- 🔥 平均热度: 10.0/100
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 8.8/100
 
 🏷️ **热门关键词**:
-- AI (5次)
-- Kubernetes (1次)
+- AI (6次)
+- 5G (1次)
 
 
 ### 🤖 关于此项目
