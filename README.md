@@ -55,29 +55,29 @@
 
 MIT
 
-## 今日更新 (2026-07-14)
+## 今日更新 (2026-07-15)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😊 [PyCharm必装AI编码工具大盘点](https://blog.csdn.net/beihai_kun/article/details/162046239) 🔥 热门
-  PyCharm高效AI编码工具指南：官方与第三方插件全解析。JetBrains官方AI Assistant深度集成，支持智能补全、AI聊天与本地模型；主流第三方工具包括GitHub Copilot（最...
-- 😐 [当 AI 接管 Workspace：鸿蒙 PC Agent 架构设计实践](https://blog.csdn.net/qq_36863796/article/details/161959472) 📈 关注
-  摘要：随着大模型与Agent技术的发展，软件交互模式正从应用驱动转向Agent驱动。鸿蒙PC的Workspace架构为这一变革提供了天然基础，它使AI能感知工作区状态、理解任务上下文，而不只是依赖聊天...
-- 😐 [代码膨胀的隐形代价：AI 辅助代码复杂度分析的工程实践](https://blog.csdn.net/cannonmonster01/article/details/162446065) 📈 关注
-  AI 辅助代码复杂度分析的核心价值在于：将传统静态分析"只能发现问题"的能力，升级为"理解问题并给出方案"的能力。通过语义校准，团队可以更精准地识别真正需要重构的高复杂度代码，而非被防御性校验的噪声干...
-- 😊 [框架结合：Vue+HTML5+AI实现智能前端应用开发](https://blog.csdn.net/aiclaws/article/details/162292952) 📈 关注
-  本文探讨了Vue+HTML5+AI实现智能前端应用开发的核心技术与实践。首先分析了HTML5与AI结合带来的前端开发范式变革，包括语义化标签、Canvas绘图、本地存储等特性与AI技术的深度融合。其次...
-- 😐 [AI 驱动日志分析：从海量日志到异常模式自动提取](https://blog.csdn.net/qwe0iop0/article/details/162349073) 📈 关注
-  AI 驱动的日志分析通过 Drain 算法自动提取日志模板，基于频率统计检测异常模式，将运维人员从"关键字搜索"升级为"模式异常排序"。模板提取解决了非结构化日志的结构化问题，频率异常检测捕获了关键字...
+- 😐 [2026 AI创作电脑配置终极指南：7B到70B大模型，6大场景全覆盖](https://blog.csdn.net/jidianai/article/details/161699355) 📈 关注
+  AIGC时代，本地部署AI模型已成为创作者和研究者的刚需。但面对繁杂的硬件参数，如何用合理的预算配置一台“AI算力工作站”？四套高性价比装机方案，满足6大AI场景核心硬件需求。本文基于2026年6月最...
+- 😊 [大模型服务集成：从裸调 API 到企业级 AI 后端架构的演进之路](https://blog.csdn.net/alex_goden/article/details/162357848) 📈 关注
+  企业级 AI 后端架构的核心价值，在于将大模型从"可用的 API"升级为"可控的基础设施"。语义缓存通过向量检索实现意图级别的请求去重，是 Token 成本控制的关键手段；多模型网关通过权重路由和熔断...
+- 😐 [AI 慢查询归因：把慢 SQL 分类，比直接给建议更重要](https://blog.csdn.net/guoyizhongxing/article/details/162549501) 📈 关注
+  AI 慢查询归因应先做分类，再给建议。输入要包含慢日志、执行计划、运行指标和锁等待信息，输出要有原因、证据、置信度和验证方式。慢 SQL 不是作文题。建议再像样，也要被执行计划和运行数据验证。分类清楚...
+- 😊 [智能动效设计：当 AI 学会理解贝塞尔曲线，动画参数的自动化推理](https://blog.csdn.net/leopold_man/article/details/162382608) 📈 关注
+  智能动效设计将设计师的模糊意图转化为可计算的数学特征，通过意图-特征映射和约束优化，自动推理出贝塞尔曲线参数和动画时长。速度峰值、加速度变化率、过冲量和稳态时间四个特征维度，覆盖了动效"感觉"的主要感...
+- 😟 [【AI】从文本到向量：理解Embedding的作用](https://blog.csdn.net/weixin_62043600/article/details/161981425) 📈 关注
+  文章摘要 本文探讨了如何通过文本向量化（Embedding）解决传统关键词检索的局限性，实现在线教育知识库的语义检索。传统关键词匹配存在同义表达、一词多义和上下文理解问题，无法准确关联语义相近但表述不...
 
 
 ### 网络安全资讯
 
-- [Ghostcommit 攻击：恶意提示藏入图片，劫持Agent实施窃取](https://www.anquanke.com/post/id/315788) - 安全公告，详情请点击链接查看完整内容
+- [停产六周即破产：德国37年纺织老厂之死，揭示网络攻击最残酷的真相](https://www.anquanke.com/post/id/315803) - 安全公告，详情请点击链接查看完整内容
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
 - [幽灵依赖：Agentic Coding 范式下的新型供应链安全威胁](https://xlab.tencent.com/cn/2026/02/28/ghost-dependency-agentic-coding-supply-chain-threat/) - Author: Tianchu Chen of Tencent Xuanwu Lab
 0x00 简介随着 LLM（大语言模型）能力的跃升，AI 软件开发模式正从“人写代码，AI 补全”的 Copilo...
@@ -85,39 +85,39 @@ MIT
 
 ### 技术就业趋势
 
-网络安全人才缺口扩大，零信任安全模型专家需求激增。
+云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
 
 ### 科技热点
 
-- 😐 [企业 AI 的护城河，不在模型，在这张你没画过的架构图里](https://cloud.tencent.com/developer/article/2707625) 📈 关注
-  我们先讲清了"为什么必须做 Agent 化"，再用一张矩阵判断"哪些场景值得做"，接着用三步拆解教你把业务"翻译"成设计图；然后从内到外，一层层拆解了四层 runtime——Prompt、Contex...
-- 😐 [《邮件钓鱼攻防工程》Part 3：内容对抗——贝叶斯和NLP](https://cloud.tencent.com/developer/article/2707665) 📈 关注
-  本文是「邮件钓鱼攻防工程」系列的第三篇。前两篇解决了发信通道和反沙箱。但发信只是一部分，正文被网关过滤，前面的工作全白做。
-- 😊 [SSE流式传输稳定性进阶：心跳保活、断连重连、分片处理与双端容错实战.162](https://cloud.tencent.com/developer/article/2707323) 📊 普通
-  SSE，全称Server-Sent Events，即服务器推送事件，是基于HTTP长连接的单向流式传输协议，核心能力是服务器持续向客户端推送数据，无需客户端反复发起请求，天然适配大模型逐字流式输出场景...
+- 😐 [Hermes Agent 保姆级安装教程：从 0 到 1 搭建自己的 AI 微信机器人](https://cloud.tencent.com/developer/article/2706322) 📈 关注
+  最近折腾了一下 Hermes Agent，整体感觉是：它不只是一个终端聊天工具，更像一个可以接模型、接工具、接微信的 Agent 框架。
+- 😊 [10 分钟搭建运维自动化任务？我用这个开源 Agent 彻底告别 Crontab](https://cloud.tencent.com/developer/article/2704045) 📊 普通
+  其实"排查"只用了 10 分钟，剩下的 30 分钟全花在切换到不同机器、执行不同的脚本、对比输出结果。
+- 😐 [从一张小票到一款鸿蒙应用：CodeBuddy 陪我 4 小时做完鸿蒙应用"智慧收据管家"的完整实录](https://cloud.tencent.com/developer/article/2707865) 📊 普通
+  一切的起点，是上周三晚上我在整理抽屉时翻出的那张"乐购生活超市"购物小票。日期 2024-05-25，金额 166.77 元，商品总数 12 项。它已经褪色发黄，边角有点卷，但我清楚地记得那天——周五...
 
 
 ### GitHub 趋势项目
 
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
-- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 
 
 
 ### AI 研究论文
 
-- [Metacognition in LLMs: Foundations, Progress, and Opportunities](https://arxiv.org/abs/2607.11881v1) - Gabrielle Kaili-May Liu, Areeb Gani, Jacqueline Lu, Jordan Thomas, Mark Steyvers, Arman Cohan
-  Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. I...
+- [Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution](https://arxiv.org/abs/2607.13034v1) - Junjie Yin, Xinyu Feng
+  Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task a...
 
-- [Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks](https://arxiv.org/abs/2607.11875v1) - Tiberiu Musat, Tiago Pimentel, Nicholas Zucchet, Thomas Hofmann
-  We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on T...
+- [TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale](https://arxiv.org/abs/2607.13028v1) - Zhouchonghao Wu, Akshay Rangesh, Weixin Li, Wei-Jer Chang, Zachary Lee, Tim Wang, Wei Zhan
+  Training robust autonomous driving agents requires a simulator that is fast enough for reinforcement learning at scale, realistic enough to ground beh...
 
-- [A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation](https://arxiv.org/abs/2607.11874v1) - Yunhai Feng, Natalie Leung, Jiaxuan Wang, Lujie Yang, Haozhi Qi, Preston Culbertson
-  Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train pol...
+- [PalmClaw: A Native On-Device Agent Framework for Mobile Phones](https://arxiv.org/abs/2607.13027v1) - Hongru Cai, Yongqi Li, Ran Wei, Wenjie Li
+  Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and it...
 
 
 
@@ -141,25 +141,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $317.31 📈 +1.99 (+0.6%)
-- **GOOGL**: $352.51 📉 -4.67 (-1.3%)
-- **MSFT**: $390.99 📈 +5.89 (+1.5%)
+- **AAPL**: $314.86 📉 -2.45 (-0.8%)
+- **GOOGL**: $359.51 📈 +7.00 (+2.0%)
+- **MSFT**: $384.93 📉 -6.06 (-1.5%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+给定二叉树，找出其最大深度
 
-标签: 栈, 字符串
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -170,14 +170,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《深度学习》** - Ian Goodfellow
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -187,21 +187,21 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
@@ -234,39 +234,41 @@ D. 面向对象
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**写测试用例**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🥷 代码忍者
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `8b180b` | 日期: 2026-07-14
+挑战ID: `323b1f` | 日期: 2026-07-15
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
@@ -274,19 +276,19 @@ git commit -m "Add user authentication feature"
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
-- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-现代JavaScript/TypeScript运行时
+现代Web应用框架
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
@@ -298,7 +300,7 @@ git commit -m "Add user authentication feature"
 
 ### 😄 程序员笑话
 
-程序员最讨厌的两件事：1. 写文档 2. 没有文档
+世界上有10种人：懂二进制的和不懂二进制的。
 
 
 ### 🐙 GitHub 生态统计
@@ -312,7 +314,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-07-14 09:43:10
+- 📅 更新时间: 2026-07-15 09:46:30
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -324,12 +326,11 @@ git commit -m "Add user authentication feature"
 
 - 📰 新闻总数: 8
 - 😊 积极新闻: 3 (37.5%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 11.8/100
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 9.4/100
 
 🏷️ **热门关键词**:
 - AI (6次)
-- AR (2次)
 
 
 ### 🤖 关于此项目
