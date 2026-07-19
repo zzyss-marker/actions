@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-07-18)
+## 今日更新 (2026-07-19)
 
 ### 今日名言
 
-> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
+> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
-- 😟 [【2026 年我 AI 编程最常用的 18 个提示词｜从 Vibe Coding 到 Agentic Engineering 全覆盖】](https://blog.csdn.net/qq_73472828/article/details/160699196) 🔥🔥 很热
-  你是自主编程 Agent，遵守以下规则执行任务：总目标：[完成什么]可用工具：read_file/write_file/run_tests/search_code约束：1. 不删除文件、不执行危险命令...
-- 😊 [手把手教你开发“AI数据分析师”：利用IPIDEA + 智能体实现全网数据洞察](https://blog.csdn.net/2302_79177254/article/details/157250237) 🔥🔥 很热
-  在当前人工智能的浪潮中，大语言模型（LLM）驱动的智能体（Agent）展现了巨大的潜力。理论上，它们可以自动化执行任务、分析数据，成为我们的得力助手。但在实际开发和使用中，我们常常会遇到一个瓶颈：智能...
-- 😊 [pentest-ai-agents——28 个 AI 特工帮你打渗透测试，这工具要抢安全人的饭碗？手把手教你配置](https://blog.csdn.net/2402_89151142/article/details/161016721) 🔥 热门
-  在网络安全领域，AI 不再是只能聊天的“花瓶”。最近 GitHub 上爆火的开源项目。
-- 😐 [金仓数据库 V9 体验测评：AI 时代国产数据库 “融合” 架构的真实观察](https://blog.csdn.net/2302_78391795/article/details/150784188) 📈 关注
-  2025 年8月，KingbaseES V9（下称“V9”）登场。一个关键词：融合。它既能替代多类国外数据库，又能覆盖事务处理、分析、AI 等多维场景，像一把工具齐全、开合自如的“瑞士军刀”。为什么它...
-- 😐 [环境搭建：前端开发中接入AI能力的基础环境配置](https://blog.csdn.net/COLLINSXU/article/details/161339412) 📈 关注
-  本文系统介绍了前端开发与AI技术融合的基础环境配置方法。首先阐述了HTML5与AI结合的重要性，指出这种融合正在重塑前端开发范式。文章详细解析了核心概念，包括HTML5特性（Canvas、本地存储等）...
+- 😊 [GLM-5.2赋能Python代码调试：PyCharm+ProxyAI自定义模型接入AIGC Bar API全流程实战指南](https://blog.csdn.net/nmdbbzcl/article/details/162272222) 🔥🔥🔥 超热
+  ProxyAI（前身为CodeGPT）是JetBrains IDE生态中最流行的开源AI编程助手插件之一。根据其GitHub仓库和JetBrains插件市场信息，ProxyAI支持连接任何模型在任何环...
+- 😐 [收藏必看】三大AI知识库工具深度解析：Ima、Notion与Obsidian如何选择？](https://blog.csdn.net/2401_84494441/article/details/156270270) 📈 关注
+  文章对比分析了三款主流AI知识库工具：Ima（自动化整理工具，适合快节奏、资料量大的人群）、Notion（全能型工具，适合团队协作和系统化管理知识的人群）和Obsidian（本地化自由构建工具，适合知...
+- 😐 [AI 工作流引擎设计：从编排到执行的可复用流水线实践](https://blog.csdn.net/weixin_49475940/article/details/162444767) 📈 关注
+  / 工作流定义的类型系统：声明式描述工作流结构// 引擎根据定义自动调度执行，开发者无需关心执行顺序id: string;// 节点列表：每个节点声明自己的输入来源// 全局配置：超时、重试策略、模型...
+- 😐 [AI 后端队列背压：请求堆住时，系统要会说不](https://blog.csdn.net/m0_50889382/article/details/162529055) 📈 关注
+  AI 后端队列背压的目标，是让系统在压力下保持秩序。按成本估算队列压力，入队前做预算判断，提前设计降级，重试使用退避。基础设施不是永远接住所有请求，而是在该说不的时候说得清楚、说得及时。
+- 😊 [AI性能优化：数据预处理加速](https://blog.csdn.net/COLLINSXU/article/details/161160533) 📈 关注
+  AI性能优化中的数据预处理加速是提升模型效率的关键环节。文章系统介绍了Python在AI开发中的核心地位，详细解析了数据预处理的定义、技术内涵和关键术语。通过基础代码实现展示了AI模型训练流程，包括参...
 
 
 ### 网络安全资讯
@@ -85,7 +85,7 @@ MIT
 
 ### 技术就业趋势
 
-数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
+DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
 
 ### 科技热点
 
@@ -99,11 +99,11 @@ MIT
 
 ### GitHub 趋势项目
 
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
+- [apache/ossie](https://github.com/apache/ossie) - Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
-- [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML Research Engineer
-- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+- [ibelick/ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
+- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 
 
 
@@ -150,16 +150,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**两数之和** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-给定一个整数数组和目标值，找出数组中和为目标值的两个数的索引
+判断字符串中的括号是否有效匹配
 
-标签: 数组, 哈希表
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -170,14 +170,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+第一个计算机病毒叫做Creeper，创建于1971年，它会显示'I'm the creeper, catch me if you can!'
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《代码整洁之道》** - Robert C. Martin
 
-面向对象设计的经典模式 (分类: 软件设计)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -187,7 +187,7 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
@@ -199,16 +199,16 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Brain.fm Focus** - Brain.fm
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: 专注音乐 | 科学设计的专注力提升音乐
 
 
 ### 🏆 本周技术挑战
@@ -234,52 +234,50 @@ D. 面向对象
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用版本控制**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `415fb3` | 日期: 2026-07-18
+挑战ID: `0f5fda` | 日期: 2026-07-19
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**云服务提供商首选？** (分类: 云计算)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] AWS
+- [ ] Azure
+- [ ] Google Cloud
+- [ ] 阿里云
+- [ ] 腾讯云
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
+- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Blockchain** 📉 -3% - 区块链热度回落
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
@@ -293,14 +291,14 @@ test('should calculate tax correctly', () => {
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**AI工程师** (中级) 📈
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
 
-真正的程序员不需要注释，代码就是最好的文档。
+世界上有10种人：懂二进制的和不懂二进制的。
 
 
 ### 🐙 GitHub 生态统计
@@ -314,7 +312,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-07-18 09:13:22
+- 📅 更新时间: 2026-07-19 09:41:36
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -326,15 +324,13 @@ test('should calculate tax correctly', () => {
 
 - 📰 新闻总数: 8
 - 😊 积极新闻: 2 (25.0%)
-- 😟 消极新闻: 3 (37.5%)
-- 🔥 平均热度: 15.1/100
+- 😟 消极新闻: 2 (25.0%)
+- 🔥 平均热度: 13.2/100
 
 🏷️ **热门关键词**:
 - AI (5次)
+- GPT (2次)
 - AR (1次)
-- 人工智能 (1次)
-- 网络安全 (1次)
-- GPT (1次)
 
 
 ### 🤖 关于此项目
