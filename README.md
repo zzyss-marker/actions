@@ -55,29 +55,29 @@
 
 MIT
 
-## 今日更新 (2026-07-20)
+## 今日更新 (2026-07-21)
 
 ### 今日名言
 
-> 简单是可靠的先决条件。 —— Edsger W. Dijkstra
+> 调试代码比写代码难两倍。因此，如果你写代码时尽可能聪明，那么你在调试时会显得不够聪明。 —— Brian W. Kernighan
 
 ### AI 技术动态
 
-- 😊 [HarmonyOS 6（API 23）实战：基于悬浮导航、沉浸光感与HMAF的“光域智脑“——PC端AI智能体沉浸式网络安全态势感知与威胁响应指挥中心](https://blog.csdn.net/u014727709/article/details/162362981) 🔥🔥🔥 超热
-  2026年，全球网络安全形势愈发严峻。中国网络安全市场规模已突破2000亿元，企业安全团队年均处理安全告警超过500万条，但传统SOC平台面临三大核心痛点：告警疲劳严重：日均数万条告警中，真实威胁占比...
-- 😊 [HarmonyOS 6（API 23）实战：HMAF的“绿盾卫士“——PC端AI智能体智慧环保监测管理平台](https://blog.csdn.net/u014727709/article/details/162394664) 🔥🔥 很热
-  2026年，中国生态环境监测网络覆盖全国，空气质量监测站点超过5000个，水质监测断面超过1万个，噪声监测点位超过10万个。然而，环保监测管理面临三大核心痛点：HarmonyOS 6（API 23）的...
-- 😊 [权利要求书不会写怎么办？AI 算法类发明专利权利要求撰写入门指南（结合 2026 年新审查口径）](https://blog.csdn.net/qq_32892383/article/details/161633677) 🔥 热门
-  本文面向 AI 算法类发明专利权利要求入门，结合 2024-2026 年国家知识产权局审查口径，拆解技术问题、技术手段、技术效果、创造性贡献和合规要点，提供目标检测、RAG、智能优化示例、检查清单和模...
-- 😊 [AI 开源工具链选型：实验追踪、超参搜索与模型注册的工程化对比](https://blog.csdn.net/lady_mumu/article/details/162381356) 📈 关注
-  ML 工具链选型的核心原则是"集成成本最低、数据链路最短"，避免工具碎片化导致的上下文切换成本。落地路线如下：第一步，选择中心节点：以 MLflow 作为实验追踪和模型注册的中心节点，所有元数据统一存...
-- 😊 [AI 云原生后端架构：服务网格治理与智能流量调度的工程实践](https://blog.csdn.net/dicky_zhang3/article/details/162444729) 📈 关注
-  AI 云原生服务网格治理的核心是将模型感知和资源感知注入流量调度决策。传统服务网格的健康检查和权重路由无法应对 AI 推理服务的异构负载特征，必须引入 GPU 资源感知调度和流式响应优化。落地路线建议...
+- 😊 [给你的 AI Agent 开一个专属邮箱——Agently Mail 接入实战](https://blog.csdn.net/2301_80117363/article/details/162237132) 📈 关注
+  这篇文章介绍了QQ邮箱推出的AI专属邮箱服务Agently Mail，主要特点和优势如下： 专为AI Agent设计，与个人邮箱完全隔离，确保隐私安全 提供独立身份，支持AI自主注册第三方平台、收发邮...
+- 😐 [AI代码生成工具链：Copilot到自建模型的Java后端实践对比](https://blog.csdn.net/dicky_zhang3/article/details/162695129) 📈 关注
+  生成速度快不等于开发效率高。一个500ms生成的代码补全，如果需要3分钟修改才能通过评审，其净收益可能为负。量化对比的结果指明了方向：自建微调模型的核心价值不在于"语法正确率"（Copilot已经做得...
+- 😟 [AI 创业的市场定位：从技术能力到商业价值的精准映射](https://blog.csdn.net/qq_35160742/article/details/162445522) 📈 关注
+  AI 创业的市场定位，不是一道选择题，而是一道验证题。核心步骤如下：第一，用需求维度验证痛点真实性——客户是否已经在为该问题付费，是判断真伪需求最可靠的信号。第二，用能力维度评估交付可行性——从 De...
+- 😊 [AI 辅助创作：从提示词工程到结构化思维链](https://blog.csdn.net/weixin_63764436/article/details/162315001) 📈 关注
+  AI 辅助创作的进阶，核心在于从"提示词技巧"走向"思维链编排"。将一次大生成拆解为多次小生成，每步输出经过质量门控校验后才进入后续上下文，这种结构化流程显著提升了输出的可靠性和一致性。本文实现的编排...
+- 😊 [AI 性能压测分析：让模型读报告，不要让它替你下结论](https://blog.csdn.net/dicky_zhang3/article/details/162528970) 📈 关注
+  AI 可以帮助阅读性能压测报告，整理瓶颈候选和验证清单，但不能替代证据链。压测配置、指标时间线、资源利用率和日志火焰图要结构化输入。结论必须可验证，优化必须复测。
 
 
 ### 网络安全资讯
 
-- [GPT-RED + AgentCyberRange：AI网络安全进入「自我博弈」时代](https://www.anquanke.com/post/id/315811) - 安全公告，详情请点击链接查看完整内容
+- [科技云报到：当基础设施遇上工业 AI，一场绿色效率革命轰然开启](https://www.anquanke.com/post/id/315828) - 安全公告，详情请点击链接查看完整内容
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
 - [Xuanwu Atuin AI 在 CyberGym 上的表现：GLM-5.2 更新结果](https://xlab.tencent.com/cn/2026/07/17/xuanwu-atuin-cybergym-glm52/) - 我们此前报道过，由 GLM-5.1 驱动的腾讯玄武 Atuin AI 在 CyberGym 上取得了 84.0% 的 pass@1，见文章链接。
 现在我们使用 GLM‑5.2 重新评估了 Atuin ...
@@ -85,39 +85,39 @@ MIT
 
 ### 技术就业趋势
 
-边缘计算和IoT专家在制造业和智能城市项目中需求增加。
+可持续技术和绿色IT专家在环保意识增强的企业中机会增多。
 
 ### 科技热点
 
-- 😐 [AI 圈又在造新词：所谓 Loop Engineering，不过是自动化换了个包装](https://cloud.tencent.com/developer/article/2709808) 🔥 热门
-  前脚还在讨论 Prompt Engineering，后脚有了 Context Engineering、Harness Engineering，现在又冒出来一个 Loop Engineering。
-- 😊 [智能、意识与道德性：人工智能的三向度定位探索](https://cloud.tencent.com/developer/article/2710154) 📈 关注
-  作者：大泽 撰写日期：2026年7月15日 协作工具：智谱GLM-5.2（workbuddy工作台） 关键词：人工智能意识、对齐伪装、人格向量、模型福利、整合信息理论、道德主体性
-- 😟 [我受够了 Coding Agent 的“假聪明，真串行”，于是做了 Meta-Orchestrator！](https://cloud.tencent.com/developer/article/2709751) 📊 普通
-  恰恰相反，现在的 Coding Agent 已经很能打了。读代码、改功能、补测试、查 Bug，这些都不是大问题。
+- 😐 [AI 编程规则文件越来越乱：AGENTS.md、CLAUDE.md、GEMINI.md 到底留哪个？](https://cloud.tencent.com/developer/article/2711071) 🔥 热门
+  用 Codex 时写了 AGENTS.md，换到 Claude Code 又要准备 CLAUDE.md；Cursor 有自己的 Rules，Gemini CLI 还认 GEMINI.md。工具用得越多...
+- 😊 [阿里云刚发的 AgentTeams，给所有自研 Agent 平台发了一张"体检表"](https://cloud.tencent.com/developer/article/2711049) 📈 关注
+  几乎所有做 AI 的团队都踩过同一个坑。周五下班前，你用某个 Agent 框架搭出一个能调工具、写代码、查数据库的智能体，本地演示顺得不行。等到周一推上生产，三天后安全同事就找来了："这 Agent ...
+- 😟 [供应链需求预测系统 | 需求预测系统架构：数据管道+模型服务+前端展示](https://cloud.tencent.com/developer/article/2709363) 📊 普通
+  在快消行业的数字化转型中，“卖多少”与“备多少”始终是困扰企业的两大难题。传统依赖Excel人工汇总、经验判断的预测方式，往往面临数据滞后、口径不一、响应迟缓等问题，导致畅销品断货、滞销品积压的双重损...
 
 
 ### GitHub 趋势项目
 
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.
-- [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most intelligent agent harness for code
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
-- [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) - The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
 
 
 
 
 ### AI 研究论文
 
-- [Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities](https://arxiv.org/abs/2607.16175v1) - Md Erfan, Ahmed Ryan, Md Kamal Hossain Chowdhury, Md Rayhanur Rahman
-  Connected and Autonomous Vehicles (CAVs) rely on interconnected software and hardware components, including sensors, Electronic Control Units, in-vehi...
+- [Automated Discovery Has No Universally Superior Harness](https://arxiv.org/abs/2607.18235v1) - Akshat Gupta, Jermaine Lei, Alexander Lu, Gopala Anumanchipalli, Leshem Choshen
+  Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite...
 
-- [When Does Muon Help Agentic Reinforcement Learning?](https://arxiv.org/abs/2607.16169v1) - Kai Ruan, Jinghao Lin, Zihe Huang, Ziqi Zhou, Qianshan Wei, Xuan Wang, Hao Sun
-  Muon is competitive with AdamW in large-scale pre-training, but its value for reinforcement-learning (RL) post-training remains unclear. We study vani...
+- [Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs](https://arxiv.org/abs/2607.18230v1) - Yi Tang, Xinyi Shang, Jiacheng Cui, Sondos Mahmoud Bsharat, Jiacheng Liu, Xiaohan Zhao, Tran Dinh Tien, Ahmed Elhagry, Salwa K. Al Khatib, Tianjun Yao, Yonina C. Eldar, Jing-Hao Xue, Hao Li, Salman Khan, Zhiqiang Shen
+  Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detecti...
 
-- [An Exam for Active Observers](https://arxiv.org/abs/2607.16165v1) - Jiarui Zhang, Muzi Tao, Shangshang Wang, Ollie Liu, Xuezhe Ma, Willie Neiswanger
-  Human vision is a closed loop: gaze is continuously redirected by intermediate hypotheses rather than a single snapshot. Decades of psychophysics and ...
+- [Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes](https://arxiv.org/abs/2607.18228v1) - Brian K Chen
+  To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while...
 
 
 
@@ -141,16 +141,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $333.74 📈 +0.48 (+0.1%)
-- **GOOGL**: $346.77 📉 -7.69 (-2.2%)
-- **MSFT**: $393.82 📉 -7.28 (-1.8%)
+- **AAPL**: $326.59 📉 -7.15 (-2.1%)
+- **GOOGL**: $351.99 📈 +5.22 (+1.5%)
+- **MSFT**: $402.29 📈 +8.47 (+2.2%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
@@ -170,14 +170,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《设计模式》** - Gang of Four
 
-容器编排平台的完整指南 (分类: 云原生)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -187,21 +187,21 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
 
 
 ### 🎵 编程音乐推荐
@@ -222,80 +222,80 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用有意义的变量名**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🧠 算法大师
+今日挑战徽章：⚡ 性能优化师
 
-挑战ID: `a03299` | 日期: 2026-07-20
+挑战ID: `fecd4c` | 日期: 2026-07-21
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-高性能代码编辑器
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**AI工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
@@ -314,7 +314,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-07-20 10:37:23
+- 📅 更新时间: 2026-07-21 10:11:13
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -325,15 +325,12 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 20.1/100
+- 😊 积极新闻: 4 (50.0%)
+- 😟 消极新闻: 2 (25.0%)
+- 🔥 平均热度: 11.4/100
 
 🏷️ **热门关键词**:
-- AI (6次)
-- AR (3次)
-- 网络安全 (1次)
-- 人工智能 (1次)
+- AI (7次)
 
 
 ### 🤖 关于此项目
