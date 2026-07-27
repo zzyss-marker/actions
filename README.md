@@ -55,21 +55,29 @@
 
 MIT
 
-## 今日更新 (2026-07-23)
+## 今日更新 (2026-07-27)
 
 ### 今日名言
 
-> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
+> 任何傻瓜都能写出计算机能理解的代码。优秀的程序员能写出人能理解的代码。 —— Martin Fowler
 
 ### AI 技术动态
 
-- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
-  新模型在推理能力和上下文窗口方面有显著改进
+- 😐 [Codex + Claude Code 对抗式开发：双AI协同的安全加固实践](https://blog.csdn.net/weixin_74809706/article/details/162530112) 📈 关注
+  本文针对单AI辅助开发“自写自审”存在认知盲区、数据外送风险高等痛点，介绍了Codex+Claude Code对抗式开发安全加固方案。方案采用“实现方编码+审查方只读对抗”的双代理模式，保留人类最终裁...
+- 😊 [医疗大模型LoRA微调实战：我用40行代码让AI学会看病](https://blog.csdn.net/sinat_41617212/article/details/156277117) 📈 关注
+  本文介绍了一种基于LoRA技术的医疗AI微调方案，可将通用大模型快速转化为专业医学助手。文章包含技术原理、实战代码和优化技巧三部分： 技术原理：LoRA通过低秩矩阵分解实现参数高效更新，相比全参数微调...
+- 😊 [AI Agent 系统设计：从单轮对话到多步推理的架构演进](https://blog.csdn.net/weixin_43272162/article/details/162444851) 📈 关注
+  AI Agent 系统将大模型从被动生成器升级为自主智能体，ReAct 范式提供了推理-行动-观察的核心循环框架，记忆架构解决了状态持久化问题，反思机制增强了系统的自我纠错能力。然而，Agent 系统...
+- 😐 [2026中国AI工业视觉产业全景报告](https://blog.csdn.net/weixin_45547190/article/details/162237251) 📈 关注
+  工业视觉正在经历从"机器视觉"到"AI视觉"的范式跃迁。本报告基于维视智造二十年产业实践与五万余个项目案例的积累，从技术演进、市场格局、应用场景、竞争态势、未来趋势等维度，系统剖析中国AI工业视觉产业...
+- 😊 [数据驱动营销决策！看魔珐星云如何打造懂市场、懂客户的AI具身交互智能顾问](https://blog.csdn.net/weixin_62765017/article/details/162909476) 📈 关注
+  数据驱动营销决策！看魔珐星云如何打造懂市场、懂客户的AI具身交互智能顾问
 
 
 ### 网络安全资讯
 
-- [为了“作弊”拿高分，GPT自己黑了 Hugging Face，GLM分析取证](https://www.anquanke.com/post/id/315841) - 安全公告，详情请点击链接查看完整内容
+- [OpenAI智能体逃逸事件是AI时代的分水岭](https://www.anquanke.com/post/id/315851) - 安全公告，详情请点击链接查看完整内容
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
 - [Xuanwu Atuin AI 在 CyberGym 上的表现：GLM-5.2 更新结果](https://xlab.tencent.com/cn/2026/07/17/xuanwu-atuin-cybergym-glm52/) - 我们此前报道过，由 GLM-5.1 驱动的腾讯玄武 Atuin AI 在 CyberGym 上取得了 84.0% 的 pass@1，见文章链接。
 现在我们使用 GLM‑5.2 重新评估了 Atuin ...
@@ -77,39 +85,39 @@ MIT
 
 ### 技术就业趋势
 
-数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- 😊 [AI Coding 没有任务图、权限与验证器，多 Agent 只是一场昂贵群聊](https://cloud.tencent.com/developer/article/2711643) 📈 关注
-  你让 Agent 升级遗留服务、补齐测试、检查安全风险。几分钟后，屏幕上出现多个忙碌的子 Agent：有人读代码，有人改依赖，有人跑测试，有人写迁移说明。终端不断滚动，很像一支高效率的研发团队。
-- 😐 [当 Karpathy 的 LLM Wiki 遇上 老子的太虚道枢：一次融汇了西方工程哲学与东方智慧碰撞的本地知识蒸馏实践](https://cloud.tencent.com/developer/article/2710783) 📈 关注
-  当我用 WorkBuddy + Tauri 把全工作区散落 Markdown 蒸馏成可检索的“道枢 vault”
-- 😟 [大模型服务容灾实践：多模型集群混合调度+心跳探测异常识别自动故障切换.169](https://cloud.tencent.com/developer/article/2711494) 📊 普通
-  多模型混合调度，是在一套统一调度框架下，同时纳管本地私有化部署大模型、云端在线API大模型、以及多版本同类型模型的综合性资源管理方式。系统不会固定把所有推理请求绑定某一个单一模型，而是依据模型实时健康...
+- 😊 [一个人干三个人的活：独立开发者借助AI智能体矩阵撑起一家公司](https://cloud.tencent.com/developer/article/2713876) 📈 关注
+  2024年底，我认识的一个做SaaS工具的朋友把团队从7人砍到了他自己1人。不是业务不行——恰恰相反，产品月收入比裁员前还涨了40%。他的原话是：“我现在写代码用Claude Code，画界面用v0，...
+- 😟 [当 WorkBuddy 接上 Elastic：用 A2A 把一群各管一摊的 Agent 拧成一支团队](https://cloud.tencent.com/developer/article/2714089) 📊 普通
+  凌晨两点，Checkout 服务的延迟告警又响了。你揉着眼打开 Kibana，发现要排这个障，得同时看指标、看日志、看依赖拓扑，而这些东西分散在好几个系统里，归不同的团队管。更烦的是，你手头还有别的活...
+- 😟 [高并发下大模型服务降级策略：模型层、检索层、知识库层、缓存层协同设计.173](https://cloud.tencent.com/developer/article/2713642) 📊 普通
+  在大模型服务大规模落地后，系统随时面临高并发流量突增、GPU 算力耗尽、大模型推理超时、向量数据库宕机、知识库服务故障、网络抖动、资源占用超限等各类线上异常。若没有完善的服务降级策略，极易出现接口超时...
 
 
 ### GitHub 趋势项目
 
-- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
-- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another 🐊 📦
-- [likec4/likec4](https://github.com/likec4/likec4) - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
+- [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
 
 
 
 
 ### AI 研究论文
 
-- [SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data](https://arxiv.org/abs/2607.20402v1) - Wael AbdAlmageed
-  In many reasoning problems, the premises are not observed as discrete symbols, but must be inferred from high-dimensional inputs. Further, the predica...
+- [SM4RT: Learning Structured Motion Geometry for 4D Reconstruction](https://arxiv.org/abs/2607.22534v1) - Shing Ho J. Lin, Wenzhao Zheng, Dong Zhuo, Yuqi Wu, Jie Zhou, Jiwen Lu
+  Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding r...
 
-- [Persian Pixel: A large-scale synthetic OCR dataset for Persian language](https://arxiv.org/abs/2607.20385v1) - Pouria Mahdi, Haq Nawaz Malik
-  Optical Character Recognition (OCR) for Persian remains substantially less mature than for Latin-script languages despite Persian being spoken by more...
+- [Explainable Reinforcement Learning for assisting Air Traffic Controllers](https://arxiv.org/abs/2607.22525v1) - Anduel Mehmeti, Gabriella Gigante, Salvatore Venticinque
+  To effectively integrate AI into high-stakes, critical environments such as healthcare, autonomous driving, and aviation--and to advance toward higher...
 
-- [FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization](https://arxiv.org/abs/2607.20382v1) - Eva McCord, Ernest Pedapati, Zag ElSayed
-  Clinical biomarker workflows in translational research settings often rely on spreadsheet-driven tracking, manual quality control (QC) reconciliation,...
+- [The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents](https://arxiv.org/abs/2607.22520v1) - Darshan Tank, Baran Nama
+  Adding procedural skills to an LLM agent is typically evaluated by average improvement in task success. However, this metric hides an important cost: ...
 
 
 
@@ -133,25 +141,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $325.89 📉 -1.85 (-0.6%)
-- **GOOGL**: $342.09 📉 -5.06 (-1.5%)
-- **MSFT**: $390.34 📉 -7.41 (-1.9%)
+- **AAPL**: $333.02 📈 +11.36 (+3.5%)
+- **GOOGL**: $319.74 📈 +2.05 (+0.6%)
+- **MSFT**: $381.70 📈 +0.12 (+0.0%)
 
 
 ### 🛠️ 开发者工具推荐
 
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**二叉树的最大深度** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-给定二叉树，找出其最大深度
+将两个升序链表合并为一个新的升序链表
 
-标签: 树, 递归
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -162,7 +170,7 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-世界上第一个域名是symbolics.com，注册于1985年3月15日
+JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
 
 
 ### 📚 技术书籍推荐
@@ -180,61 +188,59 @@ satellite communication systems has elevated the importance of secure vide...
 ### 🚀 创业公司动态
 
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 - **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Ambient Coding** - Various Artists
+**Synthwave Mix** - Various Artists
 
-类型: Ambient | 环境音乐，营造平静的编程氛围
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
 
-**AI模型部署** (难度: 中等)
+**安全漏洞修复** (难度: 高级)
 
-将一个机器学习模型部署到云端，实现API调用
+识别并修复一个Web应用中的安全漏洞
 
-🏷️ 标签: AI, 部署, 云计算 | ⏱️ 预计时间: 3-6小时 | 🎯 奖励积分: 120
+🏷️ 标签: 安全, Web开发 | ⏱️ 预计时间: 2-5小时 | 🎯 奖励积分: 130
 
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用版本控制**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
@@ -247,9 +253,9 @@ test('should calculate tax correctly', () => {
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🏗️ 架构师
 
-挑战ID: `f2bf5d` | 日期: 2026-07-23
+挑战ID: `18bfb1` | 日期: 2026-07-27
 
 
 ### 📊 技术话题投票
@@ -267,32 +273,32 @@ test('should calculate tax correctly', () => {
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Tauri** (Rust) - ⭐ 70k+
 
-高性能代码编辑器
+使用Rust构建跨平台桌面应用
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**安全工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-世界上有10种人：懂二进制的和不懂二进制的。
+为什么程序员喜欢黑暗？因为光会产生bug！
 
 
 ### 🐙 GitHub 生态统计
@@ -306,7 +312,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-07-23 10:09:02
+- 📅 更新时间: 2026-07-27 10:59:38
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -316,16 +322,13 @@ test('should calculate tax correctly', () => {
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 4
-- 😊 积极新闻: 2 (50.0%)
-- 😟 消极新闻: 1 (25.0%)
-- 🔥 平均热度: 8.8/100
+- 📰 新闻总数: 8
+- 😊 积极新闻: 4 (50.0%)
+- 😟 消极新闻: 2 (25.0%)
+- 🔥 平均热度: 9.0/100
 
 🏷️ **热门关键词**:
-- AI (2次)
-- GPT (1次)
-- OpenAI (1次)
-- AR (1次)
+- AI (6次)
 
 
 ### 🤖 关于此项目
