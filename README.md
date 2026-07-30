@@ -55,29 +55,29 @@
 
 MIT
 
-## 今日更新 (2026-07-28)
+## 今日更新 (2026-07-30)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😟 [车端AI(三)——嵌入式AI全栈开发(MCU)：从需求到代码实现、自动HIL测试](https://blog.csdn.net/C411887021/article/details/162263359) 📈 关注
-  本文介绍了车端AI系列第三篇，聚焦嵌入式AI全栈开发平台思路。文章首先分析了嵌入式开发存在的三大痛点：反馈回路长（相比Web开发长两个数量级）、工具链碎片化、知识碎片化导致新人上手难。针对这些问题，设...
-- 😊 [AI Ping 深度评测：大模型 API 选型的 “理性决策中枢”，终结经验主义选型时代](https://blog.csdn.net/user340/article/details/155739940) 📈 关注
-  AI Ping是清华系企业推出的AI大模型评测平台，提供全维度实测与实时数据可视化功能，帮助开发者高效选型。其核心优势包括性能评测（延迟、吞吐、可靠性）、统一API门户、智能路由引擎和个人数据中心，解...
-- 😐 [AI 图标生成入库：漂亮图标还要过语义和网格检查](https://blog.csdn.net/leopold_man/article/details/162549849) 📈 关注
-  AI 生成图标可以加快草稿探索，但入库前要经过语义、网格、线宽、小尺寸可读性和 SVG 代码检查。漂亮不是图标库的唯一标准。统一、清晰、可维护，才是图标能长期服务产品的前提。AI 负责拓宽草稿空间，设...
-- 😐 [Spring Batch 跑 AI 离线任务：批处理也要限流和断点](https://blog.csdn.net/alex_goden/article/details/162604274) 📈 关注
-  Spring Batch 跑 AI 离线任务时，要设计 chunk、限流、断点续跑、幂等写入、调度窗口和质量抽检。离线不等于随便跑。批处理也要保护下游和在线体验。
-- 😐 [AI 写作版本对比：别只问哪版更好，要问哪里变了](https://blog.csdn.net/weixin_63764436/article/details/162587913) 📈 关注
-  AI 写作版本对比要分析事实、结构、语气、长度和风格变化，让用户知道哪里变了。创作判断不是选一个更好，而是理解每次改写带来的取舍。
+- 😟 [【Hermes Agent】使用skill-creator 创建 AI 技能完整指南](https://blog.csdn.net/wochunyang/article/details/160411559) 🔥 热门
+  AI 会先引导你梳理技能的基础信息，你只需用日常语言回答问题即可，无需任何技术格式。关键问题与回答模板技能名称：用简洁词汇命名，如markdown表格转SQLPython代码批量格式化核心用途：一句话...
+- 😊 [边缘AI实战-RK3588部署Qwen3.5大模型-显存优化60推理加速3倍](https://blog.csdn.net/fox0329/article/details/160223777) 📈 关注
+  以RK3588为硬件平台，从工具链选型（RKLLM vs llama.cpp vs MNN）到Qwen3.5-4B全链路部署，再到GGUF量化、mmap内存映射、KV Cache分层卸载三大优化手段，...
+- 😐 [零基础学AI大模型之LangChain PyPDFLoader实战与PDF图片提取全解析](https://blog.csdn.net/chandfy/article/details/153274825) 📈 关注
+  摘要：本文聚焦LangChain中的PyPDFLoader工具，系统讲解其在RAG系统中的PDF文档处理能力。首先介绍PyPDFLoader的核心价值：自动分页解析、元数据保留和按需加载功能。随后通过...
+- 😐 [2026年AI视频生成工具实测：10款主流工具深度对比与选型指南](https://blog.csdn.net/johnyjohny/article/details/160194053) 📈 关注
+  本文对2026年主流AI视频生成工具进行全面测评，涵盖国产工具TOP3（海艺AI、可灵AI、即梦AI）及海外工具（Runway、Google Veo、Sora等），从画质、时长、价格、适用场景等维度进...
+- 😐 [AI 无障碍评审：让界面被看见，也能被读懂](https://blog.csdn.net/leopold_man/article/details/162528965) 📈 关注
+  AI 无障碍评审适合把规则扫描、截图语义和修复建议整合起来，但无障碍质量仍依赖组件库、设计规范和人工验证。让界面被看见，也要让它能被读懂、被操作、被理解。这才是前端体验的底线。
 
 
 ### 网络安全资讯
 
-- [科技云报到：88%的企业都在用Agent，为什么赚到钱的不到一成？](https://www.anquanke.com/post/id/315856) - 安全公告，详情请点击链接查看完整内容
+- [微软发布网络安全模型MAI-Cyber-1-Flash](https://www.anquanke.com/post/id/315895) - 安全公告，详情请点击链接查看完整内容
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
 - [Xuanwu Atuin AI 在 CyberGym 上的表现：GLM-5.2 更新结果](https://xlab.tencent.com/cn/2026/07/17/xuanwu-atuin-cybergym-glm52/) - 我们此前报道过，由 GLM-5.1 驱动的腾讯玄武 Atuin AI 在 CyberGym 上取得了 84.0% 的 pass@1，见文章链接。
 现在我们使用 GLM‑5.2 重新评估了 Atuin ...
@@ -85,39 +85,39 @@ MIT
 
 ### 技术就业趋势
 
-远程工作机会持续增加，但混合工作模式成为许多科技公司的新标准。
+低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
 
 ### 科技热点
 
-- 😟 [GEPA 自我进化机制：让 AIOps 系统越用越聪明的秘密，从算法原理到工程实现全解析](https://cloud.tencent.com/developer/article/2714775) 📈 关注
-  我负责的 AIOps 系统上线初期，Agent 只能处理预设的运维场景。但运维环境千变万化，静态规则永远跟不上新问题的出现速度。GEPA 闭环机制解决了这个矛盾。
-- 😐 [我把 WorkBuddy 的脑子塞进了设计工具](https://cloud.tencent.com/developer/article/2714937) 📊 普通
-  一句话总结我的第一反应它不是又一个生图玩具，而是把 Agent 编排真做进了设计里。
-- 😐 [KuiklyUI 如何通过 Applier 接入 Compose Runtime](https://cloud.tencent.com/developer/article/2714875) 📊 普通
-  本文按实际处理顺序展开：先确定 Compose 和 KuiklyUI 各自负责的部分，再看页面如何进入容器、树变化如何落地，以及布局和绘制结果如何下发。
+- 😊 [我把 22 篇 RAG 论文喂给了 RAG，让 AI 自己给我讲明白什么是 RAG](https://cloud.tencent.com/developer/article/2716025) 🔥 热门
+  最近想搞懂 RAG（检索增强生成），去 arXiv 一顿下载，22 篇经典论文 PDF 整整齐齐躺在文件夹里——然后就开始吃灰了。
+- 😐 [Agent 不是看见所有 API 才更聪明：为什么工具暴露必须显式 opt-in？](https://cloud.tencent.com/developer/article/2714282) 📈 关注
+  关键词：Agent 工具白名单、Agent 越权调用工具、OpenAPI 直接给大模型、AI Agent 权限控制、工具可见性
+- 😐 [程序员的阶级固化：同一个职业三种人生](https://cloud.tencent.com/developer/article/2716028) 📊 普通
+  我以前一直觉得，程序员这个职业挺”公平”的：只要你肯学，肯加班，肯掉头发，总能换来一点点涨薪和尊严。
 
 
 ### GitHub 趋势项目
 
-- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
-- [amnezia-vpn/amnezia-client](https://github.com/amnezia-vpn/amnezia-client) - Amnezia VPN Client (Desktop+Mobile)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 - [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
-- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 
 
 
 
 ### AI 研究论文
 
-- [ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](https://arxiv.org/abs/2607.24743v1) - Hangjie Yuan, Yichen Qian, Zhiwei Tang, Xianzhe Xu, Lirong Wu, Sicheng Yang, Jinwang Wang, Pengju Wang, Zhitao Zeng, Yizeng Han, Yan Xing, Shengxuan Luo, Tao Feng, Qing Xie, Weigen Yao, Yi Yang, Zuozhu Liu, Jiasheng Tang, Shaocheng Wang, Jitao Wang, Jiahong Dong, Weihua Chen, Feng Xu, Fan Wang
-  Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundam...
+- [Can AI agents conduct open-ended AI research? Early evidence from two case studies](https://arxiv.org/abs/2607.27191v1) - Peter Kirgis, Sayash Kapoor, Andrew Schwartz, Stephan Rabanser, David Africa, Konstantinos Voudouris, Viet Nguyen, Toby Pilditch, Magda Dubois, Harry Coppock, Cozmin Ududec, Nitya Nadgir, Matilda Orona, Tilman Bayer, Derrick Chan-Sew, Yue Ling, Abhishek Shetty, Helen Toner, Gillian Hadfield, Seth Lazar, Steve Newman, Shoshannah Tekofsky, Rishi Bommasani, Arvind Narayanan
+  Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is t...
 
-- [Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation](https://arxiv.org/abs/2607.24731v1) - Bingnan Li, Haozhe Wang, Haozhong Xiong, Fangtai Wu, Jinpeng Yu, Yang Shi, Jiaming Liu, Ruihua Huang
-  On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should beha...
+- [APEX-Accounting](https://arxiv.org/abs/2607.27189v1) - Julien Benchek, Austin Bennett, Jasmin Kern, Ryan Stevens, Rene Sultan, Charis Ching, Hayley Popiel, Vaibhav Mittal, Felix Mercier, Brendan Foody, Bertie Vidgen
+  We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accounta...
 
-- [KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability](https://arxiv.org/abs/2607.24730v1) - Krithi Shailya, Ananya Lakshmi Ravi, Venkatanathan K. V., Sowmya S. Sundaram, Gokul S. Krishnan, Aditi Anand, Balaraman Ravindran
-  Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In cl...
+- [The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making](https://arxiv.org/abs/2607.27179v1) - Nia Nixon, Jaeyoon Choi, Pedro Martins De Bastos, Mohammad Amin Samadi, Luise Mehner, Seehee Park, Spencer JaQuay
+  Conversational AI is increasingly positioned as a teammate rather than a tool, yet we know little about how its presence reshapes communication among ...
 
 
 
@@ -141,25 +141,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $336.91 📈 +3.89 (+1.2%)
-- **GOOGL**: $326.56 📈 +6.82 (+2.1%)
-- **MSFT**: $389.10 📈 +7.40 (+1.9%)
+- **AAPL**: $338.19 📉 -1.89 (-0.6%)
+- **GOOGL**: $336.71 📈 +3.00 (+0.9%)
+- **MSFT**: $390.54 📉 -2.81 (-0.7%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**最长回文子串** (难度: 中等)
+**合并两个有序链表** (难度: 简单)
 
-给定字符串，找出其中最长的回文子串
+将两个升序链表合并为一个新的升序链表
 
-标签: 字符串, 动态规划
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -175,9 +175,9 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《设计模式》** - Gang of Four
 
-容器编排平台的完整指南 (分类: 云原生)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -193,22 +193,22 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎨 设计资源推荐
 
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -222,25 +222,27 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**使用有意义的变量名**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 好的命名
+const userAge = 25;
+// 不好的命名
+const a = 25;
 ```
 
 
@@ -255,7 +257,7 @@ git commit -m "Add user authentication feature"
 
 今日挑战徽章：🥷 代码忍者
 
-挑战ID: `11a553` | 日期: 2026-07-28
+挑战ID: `5842c5` | 日期: 2026-07-30
 
 
 ### 📊 技术话题投票
@@ -273,32 +275,32 @@ git commit -m "Add user authentication feature"
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-使用Rust构建跨平台桌面应用
+现代Web应用框架
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**AI工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
 
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+程序员最讨厌的两件事：1. 写文档 2. 没有文档
 
 
 ### 🐙 GitHub 生态统计
@@ -312,7 +314,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-07-28 10:19:41
+- 📅 更新时间: 2026-07-30 10:09:30
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -323,12 +325,13 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 1 (12.5%)
-- 😟 消极新闻: 2 (25.0%)
-- 🔥 平均热度: 9.0/100
+- 😊 积极新闻: 2 (25.0%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 14.0/100
 
 🏷️ **热门关键词**:
-- AI (6次)
+- AI (7次)
+- AR (2次)
 
 
 ### 🤖 关于此项目
