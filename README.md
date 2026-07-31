@@ -55,29 +55,29 @@
 
 MIT
 
-## 今日更新 (2026-07-30)
+## 今日更新 (2026-07-31)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 编程不是关于你知道什么，而是关于你能解决什么问题。 —— V. Anton Spraul
 
 ### AI 技术动态
 
-- 😟 [【Hermes Agent】使用skill-creator 创建 AI 技能完整指南](https://blog.csdn.net/wochunyang/article/details/160411559) 🔥 热门
-  AI 会先引导你梳理技能的基础信息，你只需用日常语言回答问题即可，无需任何技术格式。关键问题与回答模板技能名称：用简洁词汇命名，如markdown表格转SQLPython代码批量格式化核心用途：一句话...
-- 😊 [边缘AI实战-RK3588部署Qwen3.5大模型-显存优化60推理加速3倍](https://blog.csdn.net/fox0329/article/details/160223777) 📈 关注
-  以RK3588为硬件平台，从工具链选型（RKLLM vs llama.cpp vs MNN）到Qwen3.5-4B全链路部署，再到GGUF量化、mmap内存映射、KV Cache分层卸载三大优化手段，...
-- 😐 [零基础学AI大模型之LangChain PyPDFLoader实战与PDF图片提取全解析](https://blog.csdn.net/chandfy/article/details/153274825) 📈 关注
-  摘要：本文聚焦LangChain中的PyPDFLoader工具，系统讲解其在RAG系统中的PDF文档处理能力。首先介绍PyPDFLoader的核心价值：自动分页解析、元数据保留和按需加载功能。随后通过...
-- 😐 [2026年AI视频生成工具实测：10款主流工具深度对比与选型指南](https://blog.csdn.net/johnyjohny/article/details/160194053) 📈 关注
-  本文对2026年主流AI视频生成工具进行全面测评，涵盖国产工具TOP3（海艺AI、可灵AI、即梦AI）及海外工具（Runway、Google Veo、Sora等），从画质、时长、价格、适用场景等维度进...
-- 😐 [AI 无障碍评审：让界面被看见，也能被读懂](https://blog.csdn.net/leopold_man/article/details/162528965) 📈 关注
-  AI 无障碍评审适合把规则扫描、截图语义和修复建议整合起来，但无障碍质量仍依赖组件库、设计规范和人工验证。让界面被看见，也要让它能被读懂、被操作、被理解。这才是前端体验的底线。
+- 😐 [Codex CLI vs Claude Code：两大终端 AI 编程工具深度对比（2026 最新版）](https://blog.csdn.net/qq_35366330/article/details/161879395) 🔥🔥 很热
+  2026 年终端 AI 编程 Agent 进入全面成熟阶段，OpenAI Codex CLI 与 Anthropic Claude Code 成为当下主流终端编程工具。本文基于 6 月最新版本，从安装...
+- 😊 [时序大模型 TimechoAI：重塑时间序列智能分析新范式](https://blog.csdn.net/user340/article/details/163250720) 🔥 热门
+  摘要： 时序大模型TimechoAI是专为时序数据分析设计的创新解决方案，有效解决了传统方法的四大痛点：特征工程复杂、多变量建模困难、泛化能力差和长程依赖捕捉不足。相比ARIMA、XGBoost等传统...
+- 😐 [我用了 5 分钟，把蓝耘 MaaS 接进 Python，写了个命令行 AI 编程助手](https://blog.csdn.net/Pocker_Spades_A/article/details/162879701) 📈 关注
+  蓝耘 MaaS（Model as a Service）是一个大模型服务平台，说白了就是把 DeepSeek、GLM、Qwen、Kimi 这些热门模型打包成标准的 API 服务。不用自己部署模型，不用管...
+- 😊 [AI辅助智能合约测试生成：从不变式到全量用例的自动化推导](https://blog.csdn.net/qq_40635035/article/details/162549915) 📈 关注
+  比如金库合约的不变量可能是：用户份额总和不超过总资产，未授权用户不能提取，暂停状态不能转账。AI 生成智能合约测试前，先列不变量。资产守恒、权限边界、状态机约束和异常路径，比 happy path 更...
+- 😐 [链上 AI 结果可信化：别把模型回答直接写进合约](https://blog.csdn.net/qq_40635035/article/details/162528638) 📈 关注
+  链上 AI 结果可信化的核心是边界：AI 在链下生成，合约在链上验证确定性承诺。输入哈希、输出哈希、签名、过期时间和争议机制，比把模型回答直接写进合约更可靠。可信不是一句口号，而是一条可追溯路径。
 
 
 ### 网络安全资讯
 
-- [微软发布网络安全模型MAI-Cyber-1-Flash](https://www.anquanke.com/post/id/315895) - 安全公告，详情请点击链接查看完整内容
+- [Anthropic 的 Claude 在测试期间攻破 3 家组织，并向 PyPI 上传了恶意软件](https://www.anquanke.com/post/id/315903) - 安全公告，详情请点击链接查看完整内容
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
 - [Xuanwu Atuin AI 在 CyberGym 上的表现：GLM-5.2 更新结果](https://xlab.tencent.com/cn/2026/07/17/xuanwu-atuin-cybergym-glm52/) - 我们此前报道过，由 GLM-5.1 驱动的腾讯玄武 Atuin AI 在 CyberGym 上取得了 84.0% 的 pass@1，见文章链接。
 现在我们使用 GLM‑5.2 重新评估了 Atuin ...
@@ -85,39 +85,39 @@ MIT
 
 ### 技术就业趋势
 
-低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
+软技能如沟通、团队协作和问题解决能力在技术招聘中的重要性日益提升。
 
 ### 科技热点
 
-- 😊 [我把 22 篇 RAG 论文喂给了 RAG，让 AI 自己给我讲明白什么是 RAG](https://cloud.tencent.com/developer/article/2716025) 🔥 热门
-  最近想搞懂 RAG（检索增强生成），去 arXiv 一顿下载，22 篇经典论文 PDF 整整齐齐躺在文件夹里——然后就开始吃灰了。
-- 😐 [Agent 不是看见所有 API 才更聪明：为什么工具暴露必须显式 opt-in？](https://cloud.tencent.com/developer/article/2714282) 📈 关注
-  关键词：Agent 工具白名单、Agent 越权调用工具、OpenAPI 直接给大模型、AI Agent 权限控制、工具可见性
-- 😐 [程序员的阶级固化：同一个职业三种人生](https://cloud.tencent.com/developer/article/2716028) 📊 普通
-  我以前一直觉得，程序员这个职业挺”公平”的：只要你肯学，肯加班，肯掉头发，总能换来一点点涨薪和尊严。
+- 😊 [别再追新工具了！GitHub Copilot 官方发布 Harness 工作流：一个工具吃透原型、规划、实现与代码审查](https://cloud.tencent.com/developer/article/2717426) 📈 关注
+  本文基于 GitHub 官方博客 2026 年 7 月 27 日发布的文章《The harness is all you need (mostly)》（作者：Burke Holland）深度解读，并结...
+- 😐 [混元 Hy3 Agent 实战：季度报告从 3 小时压缩到 40 分钟，附完整 Prompt 模板](https://cloud.tencent.com/developer/article/2713797) 📊 普通
+  我负责一个 8 人后端团队的季度运营复盘，每季度末要产出一份《技术运营季度报告》交付给技术委员会。报告需要汇总以下素材：
+- 😐 [从 0 到 1 做一个能把“会议废话”变成行动清单的 Agent：EdgeOne Makers 完整实战（创建、开发、调试、部署全流程）](https://cloud.tencent.com/developer/article/2715971) 📊 普通
+  我不想再写一个“万能聊天框”。这次做一个自己在项目协作里真会用的东西：会议行动清单助手。
 
 
 ### GitHub 趋势项目
 
-- [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build local voice agents with open-source models
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
+- [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+- [different-ai/openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
+- [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys) - Socket-based TS/JavaScript API for WhatsApp Web
 
 
 
 
 ### AI 研究论文
 
-- [Can AI agents conduct open-ended AI research? Early evidence from two case studies](https://arxiv.org/abs/2607.27191v1) - Peter Kirgis, Sayash Kapoor, Andrew Schwartz, Stephan Rabanser, David Africa, Konstantinos Voudouris, Viet Nguyen, Toby Pilditch, Magda Dubois, Harry Coppock, Cozmin Ududec, Nitya Nadgir, Matilda Orona, Tilman Bayer, Derrick Chan-Sew, Yue Ling, Abhishek Shetty, Helen Toner, Gillian Hadfield, Seth Lazar, Steve Newman, Shoshannah Tekofsky, Rishi Bommasani, Arvind Narayanan
-  Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is t...
+- [Learning to Trace Seiberg Dualities](https://arxiv.org/abs/2607.28628v1) - Jonathan J. Heckman, Shani Meynet, Alessandro Mininno, Gary Shiu
+  Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it ...
 
-- [APEX-Accounting](https://arxiv.org/abs/2607.27189v1) - Julien Benchek, Austin Bennett, Jasmin Kern, Ryan Stevens, Rene Sultan, Charis Ching, Hayley Popiel, Vaibhav Mittal, Felix Mercier, Brendan Foody, Bertie Vidgen
-  We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accounta...
+- [ReToken: One Token to Improve Vision-Language Models for Visual Retrieval](https://arxiv.org/abs/2607.28627v1) - Yao Xiao, Reuben Tan, Zhen Zhu, Yuqun Wu, Jianfeng Gao, Derek Hoiem
+  Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens a...
 
-- [The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making](https://arxiv.org/abs/2607.27179v1) - Nia Nixon, Jaeyoon Choi, Pedro Martins De Bastos, Mohammad Amin Samadi, Luise Mehner, Seehee Park, Spencer JaQuay
-  Conversational AI is increasingly positioned as a teammate rather than a tool, yet we know little about how its presence reshapes communication among ...
+- [PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball](https://arxiv.org/abs/2607.28623v1) - Lizhi Yang, Junheng Li, Aaron D. Ames
+  We present PAC-MAN, a perception-aware CBF-RL framework that couples control-barrier safety with deployment-realistic onboard sensing for whole-body h...
 
 
 
@@ -141,25 +141,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $338.19 📉 -1.89 (-0.6%)
-- **GOOGL**: $336.71 📈 +3.00 (+0.9%)
-- **MSFT**: $390.54 📉 -2.81 (-0.7%)
+- **AAPL**: $333.43 📉 -4.76 (-1.4%)
+- **GOOGL**: $333.66 📉 -3.05 (-0.9%)
+- **MSFT**: $451.10 📈 +60.56 (+15.5%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+判断字符串中的括号是否有效匹配
 
-标签: 链表, 递归
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -170,14 +170,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+WiFi这个名字实际上不代表任何东西，它只是一个朗朗上口的品牌名称
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《Kubernetes权威指南》** - 龚正等
 
-面向对象设计的经典模式 (分类: 软件设计)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -187,28 +187,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 - **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Synthwave Mix** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -234,15 +234,15 @@ D. 没有区别
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
@@ -255,9 +255,9 @@ const a = 25;
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🥷 代码忍者
+今日挑战徽章：💡 创新者
 
-挑战ID: `5842c5` | 日期: 2026-07-30
+挑战ID: `ffed2e` | 日期: 2026-07-31
 
 
 ### 📊 技术话题投票
@@ -275,7 +275,7 @@ const a = 25;
 
 ### 🔥 技术热词趋势
 
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
@@ -293,14 +293,14 @@ const a = 25;
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**安全工程师** (中级) 📈
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-程序员最讨厌的两件事：1. 写文档 2. 没有文档
+调试就像是犯罪电影中的侦探，你既是侦探，也是凶手。
 
 
 ### 🐙 GitHub 生态统计
@@ -314,7 +314,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-07-30 10:09:30
+- 📅 更新时间: 2026-07-31 10:25:21
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -325,13 +325,14 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 2 (25.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 14.0/100
+- 😊 积极新闻: 3 (37.5%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 13.5/100
 
 🏷️ **热门关键词**:
-- AI (7次)
+- AI (5次)
 - AR (2次)
+- OpenAI (1次)
 
 
 ### 🤖 关于此项目
