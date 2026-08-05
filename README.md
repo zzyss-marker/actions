@@ -55,29 +55,29 @@
 
 MIT
 
-## 今日更新 (2026-08-02)
+## 今日更新 (2026-08-05)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
 
 ### AI 技术动态
 
-- 😊 [【扣子 Coze 技术解析】从 Bot 平台到 AI 团队协作，v1 到 v3 的架构演进与 3.0 全景](https://blog.csdn.net/weixin_44262492/article/details/161666060) 🔥 热门
-  扣子 Coze 技术演进全景：从 Bot 平台到 AI 团队协作 字节跳动的 AI 智能体平台「扣子（Coze）」历经三年迭代，从单一 Bot 工具发展为多 Agent 协作平台。v1（2024年）以...
-- 😟 [做设备故障 AI 诊断还在多库拼接数据？KES 原生时序 + 向量融合真香](https://blog.csdn.net/AIRoses/article/details/163083302) 📈 关注
-  AI难以准确判断设备异常，因为需要综合分析实时数据、历史趋势、设备参数及维修记录等多维度信息。当前工业场景中，这些数据分散在不同系统，导致分析链路长且实时性差。金仓数据库KES采用融合架构，将时序数据...
-- 😊 [PyTorch生成式人工智能（28）——MuseGAN详解与实现](https://blog.csdn.net/LOVEmy134611/article/details/146260544) 📈 关注
-  人工智能音乐生成领域已引起了广泛关注，MuseGAN 是其中一个重要的模型。本节我们将使用 JSB Chorales 数据集来训练 MuseGAN，该数据集包含巴赫创作的四音轨合唱曲。在生成图像时，生...
-- 😐 [AI 情感陪伴产品开发：从情绪识别到共情响应的工程化实践](https://blog.csdn.net/specter__/article/details/162358015) 📈 关注
-  AI 情感陪伴产品的核心工程挑战，不是让模型"更像人"，而是让模型"更懂人"。从情绪感知到共情响应，每一步都需要在技术能力和伦理边界之间找到平衡。从文本情绪识别起步：先跑通单模态的情绪分类管线，验证基...
-- 😊 [AI 系统性能优化：从请求到输出的实战指南](https://blog.csdn.net/iymei4986533030/article/details/162165191) 📈 关注
-  性能优化的核心：先建可观测性，再定位瓶颈，最后针对性优化。不要凭直觉优化，不要优化非瓶颈环节。优化是持续迭代的过程。上线后持续监控，发现新瓶颈再优化。每一轮都要用数据说话——优化前后的 P50/P99...
+- 😊 [【AI Token中转】2026年AI Token代理站搭建实战：技术架构与运营策略](https://blog.csdn.net/a7491772/article/details/160061824) 📈 关注
+  搭建中转站技术上不难。开源方案成熟，一天就能跑起来。难的是运营。稳定性、客服、获客、成本控制，每个都要花时间。初期用开源自建，学习成本低用户超过100个，考虑付费方案省时间多渠道备份，别单点故障做好监...
+- 😊 [拒绝吃灰！手把手教你把“全能AI助理”无缝塞进微信/QQ，打造属于你的数字分身](https://blog.csdn.net/geinvse_seg/article/details/162046221) 📈 关注
+  本文介绍了如何通过QwenPaw和蓝耘MaaS平台快速部署本地AI助手。QwenPaw是一个图形化桌面应用，可轻松接入微信、QQ等IM平台，无需命令行操作；蓝耘提供按量付费的API服务，解决了模型调用...
+- 😐 [OpenClaw Agent 搭建全流程：从本机自托管到可用、可控、可审计的个人 AI 助手](https://blog.csdn.net/weixin_74809706/article/details/162734765) 📈 关注
+  OpenClaw Agent 搭建全流程：从本机自托管到可用、可控、可审计的个人 AI 助手
+- 😐 [AI 辅助 UI 生成：从截图到组件代码的可控流程](https://blog.csdn.net/leopold_man/article/details/162496495) 📈 关注
+  AI 辅助 UI 生成要从截图复制走向设计系统驱动。通过结构识别、Token 匹配、组件复用、状态约束和质量评估，生成代码才能真正进入工程流程。
+- 😐 [AI自动化渗透工具——STRIX部署指南](https://blog.csdn.net/T_Fire_of_Square/article/details/156762328) 📊 普通
+  汪汪汪汪汪汪汪汪汪汪汪汪
 
 
 ### 网络安全资讯
 
-- [纳米Work企业版正式启动全国各级渠道城市合伙人招募](https://www.anquanke.com/post/id/315908) - 安全公告，详情请点击链接查看完整内容
+- [Vibe Hacking风起云涌：安全圈的门槛正在塌方？](https://www.anquanke.com/post/id/315927) - 安全公告，详情请点击链接查看完整内容
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
 - [Xuanwu Atuin AI 在 CyberGym 上的表现：GLM-5.2 更新结果](https://xlab.tencent.com/cn/2026/07/17/xuanwu-atuin-cybergym-glm52/) - 我们此前报道过，由 GLM-5.1 驱动的腾讯玄武 Atuin AI 在 CyberGym 上取得了 84.0% 的 pass@1，见文章链接。
 现在我们使用 GLM‑5.2 重新评估了 Atuin ...
@@ -85,39 +85,39 @@ MIT
 
 ### 技术就业趋势
 
-低代码/无代码平台专家需求增长，尤其在企业数字化转型项目中。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- 😊 [别再追新工具了！GitHub Copilot 官方发布 Harness 工作流：一个工具吃透原型、规划、实现与代码审查](https://cloud.tencent.com/developer/article/2717426) 📈 关注
-  本文基于 GitHub 官方博客 2026 年 7 月 27 日发布的文章《The harness is all you need (mostly)》（作者：Burke Holland）深度解读，并结...
-- 😐 [混元 Hy3 Agent 实战：季度报告从 3 小时压缩到 40 分钟，附完整 Prompt 模板](https://cloud.tencent.com/developer/article/2713797) 📊 普通
-  我负责一个 8 人后端团队的季度运营复盘，每季度末要产出一份《技术运营季度报告》交付给技术委员会。报告需要汇总以下素材：
-- 😐 [从 0 到 1 做一个能把“会议废话”变成行动清单的 Agent：EdgeOne Makers 完整实战（创建、开发、调试、部署全流程）](https://cloud.tencent.com/developer/article/2715971) 📊 普通
-  我不想再写一个“万能聊天框”。这次做一个自己在项目协作里真会用的东西：会议行动清单助手。
+- 😐 [不想为 Xmind 导出 Markdown 付费？我用 AI 花 2 小时撸了个免费工具](https://cloud.tencent.com/developer/article/2718403) 🔥 热门
+  最近在分享Rust实战课程，我在整理之前学习基础知识大纲时遇到了一个让人抓狂的问题：Xmind 导出 Markdown 竟然要会员！而且导出图片还得手动展开每个节点... 于是我决定自己动手，用 AI...
+- 😊 [腾讯云 AI Skills + WorkBuddy，打造 AI 伴学助手](https://cloud.tencent.com/developer/article/2718875) 📈 关注
+  第一次认真考虑"作业辅导"这件事，是从研究腾讯云的一批 AI Skills 开始的。当时在系统梳理这些能力：OCR 能读图、ASR 能听声、TTS 能说话、内容安全能兜底。它们单独看都不稀奇，很多产品...
+- 😊 [大模型超长上下文显存控制：原生注意力缺陷、长文本显存暴涨原理与优化实践.180](https://cloud.tencent.com/developer/article/2718299) 📊 普通
+  大模型上下文长度，简单来说就是模型单次对话、单次推理能够记住并处理的文本总Token数量。早期开源大模型普遍只有4K、8K上下文，只能处理短篇对话、简短文档、小段代码；随着行业发展，32K、64K、1...
 
 
 ### GitHub 趋势项目
 
-- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
-- [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
-- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
+- [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
 - [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
+- [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
+- [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
 
 
 
 ### AI 研究论文
 
-- [Learning to Trace Seiberg Dualities](https://arxiv.org/abs/2607.28628v1) - Jonathan J. Heckman, Shani Meynet, Alessandro Mininno, Gary Shiu
-  Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it ...
+- [TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning](https://arxiv.org/abs/2608.04007v1) - Changle Qu, Sunhao Dai, Hengyi Cai, Yuqi Zhou, Xinran Chen, Simon, Jun Xu
+  Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning meth...
 
-- [ReToken: One Token to Improve Vision-Language Models for Visual Retrieval](https://arxiv.org/abs/2607.28627v1) - Yao Xiao, Reuben Tan, Zhen Zhu, Yuqun Wu, Jianfeng Gao, Derek Hoiem
-  Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens a...
+- [Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility](https://arxiv.org/abs/2608.04001v1) - Mohsen Hariri, Weicong Chen, Nahal Shahini, Vikash Singh, Kai Ye, Amirhossein Samandar, Debargha Ganguly, Sreehari Sankar, Yanyan Zhang, Shouren Wang, Jerry Peng, Biyao Zhang, Michael Hinczewski, Vipin Chaudhary
+  Large language models can solve substantially harder reasoning problems with more inference-time compute. The term "test-time scaling," however, now c...
 
-- [PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball](https://arxiv.org/abs/2607.28623v1) - Lizhi Yang, Junheng Li, Aaron D. Ames
-  We present PAC-MAN, a perception-aware CBF-RL framework that couples control-barrier safety with deployment-realistic onboard sensing for whole-body h...
+- [Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?](https://arxiv.org/abs/2608.03983v1) - Hailong Jiang, Feng Yu, Emran Hossain, Jianfeng Zhu, Mengfei Ren, Qiang Guan, Chunwei Xia
+  Optimizing compilers miss profitable transformations when their enabling semantics are absent from the analyzed program representation. We ask whether...
 
 
 
@@ -141,25 +141,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $308.91 📉 -24.52 (-7.4%)
-- **GOOGL**: $356.13 📈 +22.47 (+6.7%)
-- **MSFT**: $464.72 📈 +13.62 (+3.0%)
+- **AAPL**: $309.38 📈 +5.96 (+2.0%)
+- **GOOGL**: $377.65 📈 +4.14 (+1.1%)
+- **MSFT**: $492.81 📈 +5.16 (+1.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+将两个升序链表合并为一个新的升序链表
 
-标签: 栈, 字符串
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -170,14 +170,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《Python编程：从入门到实践》** - Eric Matthes
+**《深度学习》** - Ian Goodfellow
 
-Python学习的最佳入门书籍 (分类: 编程语言)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -187,21 +187,21 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🚀 创业公司动态
 
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
-- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
@@ -213,87 +213,89 @@ Python学习的最佳入门书籍 (分类: 编程语言)
 
 ### 🏆 本周技术挑战
 
-**安全漏洞修复** (难度: 高级)
+**算法优化挑战** (难度: 中等)
 
-识别并修复一个Web应用中的安全漏洞
+优化一个排序算法，使其在大数据集上的性能提升50%
 
-🏷️ 标签: 安全, Web开发 | ⏱️ 预计时间: 2-5小时 | 🎯 奖励积分: 130
+🏷️ 标签: 算法, 性能优化 | ⏱️ 预计时间: 2-4小时 | 🎯 奖励积分: 100
 
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**写测试用例**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
+**网络建设**: 参加技术会议和meetup，建立专业人脉网络
 
-📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
+📋 行动建议: 每月参加至少一次技术聚会或在线会议
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：💡 创新者
+今日挑战徽章：🧠 算法大师
 
-挑战ID: `db8843` | 日期: 2026-08-02
+挑战ID: `c5a16f` | 日期: 2026-08-05
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **AI** 🔥 +15% - 人工智能持续火热
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Blockchain** 📉 -3% - 区块链热度回落
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代JavaScript/TypeScript运行时
+高性能代码编辑器
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**安全工程师** (中级) 📈
+**全栈开发** (中级) 📊
 
-薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
@@ -312,7 +314,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-08-02 09:46:41
+- 📅 更新时间: 2026-08-05 10:21:37
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -324,12 +326,11 @@ git commit -m "Add user authentication feature"
 
 - 📰 新闻总数: 8
 - 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 9.5/100
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 11.5/100
 
 🏷️ **热门关键词**:
-- AI (4次)
-- 人工智能 (1次)
+- AI (7次)
 - AR (1次)
 
 
