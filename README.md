@@ -55,24 +55,24 @@
 
 MIT
 
-## 今日更新 (2026-08-05)
+## 今日更新 (2026-08-06)
 
 ### 今日名言
 
-> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
+> 软件就像做爱，一次犯错，你需要用余生来维护。 —— Michael Sinz
 
 ### AI 技术动态
 
-- 😊 [【AI Token中转】2026年AI Token代理站搭建实战：技术架构与运营策略](https://blog.csdn.net/a7491772/article/details/160061824) 📈 关注
-  搭建中转站技术上不难。开源方案成熟，一天就能跑起来。难的是运营。稳定性、客服、获客、成本控制，每个都要花时间。初期用开源自建，学习成本低用户超过100个，考虑付费方案省时间多渠道备份，别单点故障做好监...
-- 😊 [拒绝吃灰！手把手教你把“全能AI助理”无缝塞进微信/QQ，打造属于你的数字分身](https://blog.csdn.net/geinvse_seg/article/details/162046221) 📈 关注
-  本文介绍了如何通过QwenPaw和蓝耘MaaS平台快速部署本地AI助手。QwenPaw是一个图形化桌面应用，可轻松接入微信、QQ等IM平台，无需命令行操作；蓝耘提供按量付费的API服务，解决了模型调用...
-- 😐 [OpenClaw Agent 搭建全流程：从本机自托管到可用、可控、可审计的个人 AI 助手](https://blog.csdn.net/weixin_74809706/article/details/162734765) 📈 关注
-  OpenClaw Agent 搭建全流程：从本机自托管到可用、可控、可审计的个人 AI 助手
-- 😐 [AI 辅助 UI 生成：从截图到组件代码的可控流程](https://blog.csdn.net/leopold_man/article/details/162496495) 📈 关注
-  AI 辅助 UI 生成要从截图复制走向设计系统驱动。通过结构识别、Token 匹配、组件复用、状态约束和质量评估，生成代码才能真正进入工程流程。
-- 😐 [AI自动化渗透工具——STRIX部署指南](https://blog.csdn.net/T_Fire_of_Square/article/details/156762328) 📊 普通
-  汪汪汪汪汪汪汪汪汪汪汪汪
+- 😐 [Rust serde 实战：AI 响应不要直接当字符串用](https://blog.csdn.net/no1coder/article/details/162550022) 🔥 热门
+  // OpenAI Chat Completion 接口的顶层响应/// 本次请求的唯一标识符/// 模型返回的时间戳/// 模型返回的候选回复列表/// Token 用量统计/// 候选回复的序号/...
+- 😐 [AI 驱动智能合约漏洞检测：从静态模式匹配到图神经网络的深度审计](https://blog.csdn.net/qq_40635035/article/details/162445087) 🔥 热门
+  AI 驱动智能合约漏洞检测的技术架构是"代码图构建 + GNN 语义建模 + 双级分类"。代码属性图融合了 AST、控制流和数据流三种关系，GAT 的注意力机制聚焦关键代码节点，图级分类判断漏洞存在性...
+- 😐 [惊了！用 JavaAI 撸电商核心功能，我从 “代码小白“ 变 “项目大神“，3 小时搞定别人 3 天的活](https://blog.csdn.net/m0_70680929/article/details/151122298) 🔥 热门
+  家人们谁懂啊！以前听说要做电商系统，我直接吓得关掉了IDEA——光是"商品管理"“订单流程”“购物车计算"这几个词，就够我啃一周文档。但自从用了JavaAI工具（我用的是飞算JavaAI，亲测好用），...
+- 😐 [零基础学AI大模型之LangChain PyPDFLoader实战与PDF图片提取全解析](https://blog.csdn.net/chandfy/article/details/153274825) 📈 关注
+  摘要：本文聚焦LangChain中的PyPDFLoader工具，系统讲解其在RAG系统中的PDF文档处理能力。首先介绍PyPDFLoader的核心价值：自动分页解析、元数据保留和按需加载功能。随后通过...
+- 😊 [临床级医疗AI：从多模态模型到智能体合规部署的实战体系（一）](https://blog.csdn.net/kkiron/article/details/162674534) 📈 关注
+  临床级医疗AI：从多模态模型到智能体合规部署的实战体系
 
 
 ### 网络安全资讯
@@ -85,39 +85,39 @@ MIT
 
 ### 技术就业趋势
 
-敏捷和Scrum认证在项目管理角色中价值提升。
+DevOps和SRE工程师需求稳定增长，自动化和基础设施即代码技能备受青睐。
 
 ### 科技热点
 
-- 😐 [不想为 Xmind 导出 Markdown 付费？我用 AI 花 2 小时撸了个免费工具](https://cloud.tencent.com/developer/article/2718403) 🔥 热门
-  最近在分享Rust实战课程，我在整理之前学习基础知识大纲时遇到了一个让人抓狂的问题：Xmind 导出 Markdown 竟然要会员！而且导出图片还得手动展开每个节点... 于是我决定自己动手，用 AI...
-- 😊 [腾讯云 AI Skills + WorkBuddy，打造 AI 伴学助手](https://cloud.tencent.com/developer/article/2718875) 📈 关注
-  第一次认真考虑"作业辅导"这件事，是从研究腾讯云的一批 AI Skills 开始的。当时在系统梳理这些能力：OCR 能读图、ASR 能听声、TTS 能说话、内容安全能兜底。它们单独看都不稀奇，很多产品...
-- 😊 [大模型超长上下文显存控制：原生注意力缺陷、长文本显存暴涨原理与优化实践.180](https://cloud.tencent.com/developer/article/2718299) 📊 普通
-  大模型上下文长度，简单来说就是模型单次对话、单次推理能够记住并处理的文本总Token数量。早期开源大模型普遍只有4K、8K上下文，只能处理短篇对话、简短文档、小段代码；随着行业发展，32K、64K、1...
+- 😊 [我开源了一个 DevOps 面试智能体：200 道题 + 能当面试官、跨 Claude/Codex/WorkBuddy 跑](https://cloud.tencent.com/developer/article/2719328) 📈 关注
+  市面上的运维面试题很多，但绝大多数是「问题 + 一句话答案」。比如问「K8s 网络怎么实现」，答案常是一句「Service 通过 kube-proxy 转发」——这回答放到高级面试里撑不过 30 秒。
+- 😟 [生产计划与排程（APS）系统 | 甘特图组件开发：实现可拖拽生产计划排程](https://cloud.tencent.com/developer/article/2719316) 📊 普通
+  在APS系统中，算法决定了“排得对不对”，而甘特图决定了“看得懂不懂”。对于工厂计划员来说，一行行JSON数据远不如一条条横向色块直观。更重要的是，排程从来不是一次性的：紧急插单、设备故障、物料延迟，...
+- 😊 [Flutter 跨平台桌面应用性能调优实战：从卡顿掉帧到稳定 60FPS 的 9 个关键决策](https://cloud.tencent.com/developer/article/2719577) 📊 普通
+  💡 摘要: Flutter 不止是移动端框架，从 3.0 起官方正式支持 Windows/macOS/Linux 桌面端。本文从一次企业内部工具的"鼠标拖动就掉帧"线上事故切入，系统讲清 Flutte...
 
 
 ### GitHub 趋势项目
 
+- [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
+- [huangruiteng/loopx](https://github.com/huangruiteng/loopx) - Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.
-- [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
-- [uber/ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 
 
 
 
 ### AI 研究论文
 
-- [TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning](https://arxiv.org/abs/2608.04007v1) - Changle Qu, Sunhao Dai, Hengyi Cai, Yuqi Zhou, Xinran Chen, Simon, Jun Xu
-  Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning meth...
+- [Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning](https://arxiv.org/abs/2608.05144v1) - Boxiu Li, Zimo Wen, Yijia Fan, Junxiang Lei, Sufeng Guo, Jiaao Wu, Ruize Tang, Mukai Li, Yifei Shen, Xiaoyu Chen, Wanbo Zhang, Runjing Gu, Yifei Gao, Yuheng Wu, Xuyao Huang, Zelong Zhao, Jiachen Zhang, Shibo Hu, Hangxi Guo, Yilin Chen, Yuzhe Zhang, Fan Yang, Chuan Wen, Xian Zhang, Xuanhe Zhou, Zhijie Deng
+  Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal fai...
 
-- [Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility](https://arxiv.org/abs/2608.04001v1) - Mohsen Hariri, Weicong Chen, Nahal Shahini, Vikash Singh, Kai Ye, Amirhossein Samandar, Debargha Ganguly, Sreehari Sankar, Yanyan Zhang, Shouren Wang, Jerry Peng, Biyao Zhang, Michael Hinczewski, Vipin Chaudhary
-  Large language models can solve substantially harder reasoning problems with more inference-time compute. The term "test-time scaling," however, now c...
+- [OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling](https://arxiv.org/abs/2608.05141v1) - Indraneil Paul, Falko Helm, Goran Glavaš, Iryna Gurevych
+  Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizo...
 
-- [Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?](https://arxiv.org/abs/2608.03983v1) - Hailong Jiang, Feng Yu, Emran Hossain, Jianfeng Zhu, Mengfei Ren, Qiang Guan, Chunwei Xia
-  Optimizing compilers miss profitable transformations when their enabling semantics are absent from the analyzed program representation. We ask whether...
+- [Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains](https://arxiv.org/abs/2608.05138v1) - Ayoub Kirouane, Christos Petrocheilos
+  Modern Greek is absent from NVIDIA's Nemotron retrieval models and from major multilingual retrieval benchmarks, despite being important for retrieval...
 
 
 
@@ -141,25 +141,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $309.38 📈 +5.96 (+2.0%)
-- **GOOGL**: $377.65 📈 +4.14 (+1.1%)
-- **MSFT**: $492.81 📈 +5.16 (+1.1%)
+- **AAPL**: $311.00 📈 +1.62 (+0.5%)
+- **GOOGL**: $362.43 📉 -15.22 (-4.0%)
+- **MSFT**: $487.46 📉 -5.35 (-1.1%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**合并两个有序链表** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-将两个升序链表合并为一个新的升序链表
+给定二叉树，找出其最大深度
 
-标签: 链表, 递归
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -170,14 +170,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
+第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《代码整洁之道》** - Robert C. Martin
 
-深度学习领域的权威教材 (分类: 人工智能)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -187,28 +187,28 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
 - **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -222,64 +222,62 @@ Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**写测试用例**
+**使用版本控制**
 
-测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 先写测试
-test('should calculate tax correctly', () => {
-  expect(calculateTax(100)).toBe(15);
-});
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🧠 算法大师
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `c5a16f` | 日期: 2026-08-05
+挑战ID: `f79a76` | 日期: 2026-08-06
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Edge Computing** 📊 +10% - 边缘计算应用扩展
+- **AI** 🔥 +15% - 人工智能持续火热
 - **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
@@ -293,14 +291,14 @@ test('should calculate tax correctly', () => {
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**安全工程师** (中级) 📈
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+程序员的口头禅：在我的机器上运行得很好！
 
 
 ### 🐙 GitHub 生态统计
@@ -314,7 +312,7 @@ test('should calculate tax correctly', () => {
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-08-05 10:21:37
+- 📅 更新时间: 2026-08-06 10:23:11
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -325,13 +323,15 @@ test('should calculate tax correctly', () => {
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 11.5/100
+- 😊 积极新闻: 3 (37.5%)
+- 😟 消极新闻: 1 (12.5%)
+- 🔥 平均热度: 12.4/100
 
 🏷️ **热门关键词**:
-- AI (7次)
-- AR (1次)
+- AI (5次)
+- OpenAI (1次)
+- 神经网络 (1次)
+- DevOps (1次)
 
 
 ### 🤖 关于此项目
