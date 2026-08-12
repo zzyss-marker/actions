@@ -55,7 +55,7 @@
 
 MIT
 
-## 今日更新 (2026-08-11)
+## 今日更新 (2026-08-12)
 
 ### 今日名言
 
@@ -77,39 +77,32 @@ MIT
 
 ### 技术就业趋势
 
-具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
+全栈开发者仍然是市场主力，React、Node.js和Python技能组合特别受欢迎。
 
 ### 科技热点
 
-- 😐 [用 WorkBuddy 自动生成平台运营周报：从手工2小时到AI 10分钟的实操教程 #WorkBuddy#](https://cloud.tencent.com/developer/article/2720543) 🔥 热门
-  一句话总结：每周五下午，丢给 WorkBuddy 一堆飞书表格和平台后台截图，10 分钟出一份结构完整的运营周报——含数据汇总、环比分析、异常预警和下周建议。本文完整拆解从数据接报到报告交付的全流程。
-- 😟 [Linux服务器安装Claude Code实战：Node.js、npm、GLM配置一次跑通](https://cloud.tencent.com/developer/article/2721668) 📈 关注
-  有些工作放在Linux服务器上处理更顺手：看日志、改配置、排查线上问题，或者直接在项目目录里让AI帮忙读代码。
-- 😟 [读过的书总是忘？我用 WorkBuddy 做了颗"书摘胶囊"，输入书名一键生成卡片式精华书架](https://cloud.tencent.com/developer/article/2721905) 📊 普通
-  一本书读完，三个月后只记得书名。这不是记忆力的问题，是读过的东西没有变成"看得见的资产"。我用 WorkBuddy 做了一个"胶囊书架" Skill：输入书名或作家名，自动生成一张排版精美的卡片式书摘...
+- 😊 [腾讯AI创意智能体Miora新手实战指南：多Agent协同一句话出一整套视觉](https://cloud.tencent.com/developer/article/2720071) 📈 关注
+  先说一个扎心的现实：做一张图，不难。做一整套风格统一的图——海报、封面、短视频、Logo、3D展示素材——那就要在 Midjourney、Canva、剪映、Blender 之间来回切窗口，调色全凭手感...
+- 😐 [用 WorkBuddy 从 0 开发一款鸿蒙（HarmonyOS）诗词单词 App：完整复盘 + 踩坑](https://cloud.tencent.com/developer/article/2722787) 📈 关注
+  做这款小应用的出发点很简单：想每天背一首诗、记一个单词，但市面上的 App 太重。于是自己动手，做一个干净、能朗诵、能打卡、关掉再打开数据还在的小工具。
+- 😐 [HY 3D Generation 体验记录：它能不能跑通我的 3D 模型生成流程](https://cloud.tencent.com/developer/article/2722695) 📊 普通
+  今天在 SkillHub 技能社区看到一个叫 HY 3D Generation 的技能，刚好我当前的项目还差一个环节基本上就完成了闭环率.当前这个项目之前想过直接调混元 3D 的 API，试了一圈发现...
 
 
 ### GitHub 趋势项目
 
-- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 
 
 
 
 ### AI 研究论文
 
-- [Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions](https://arxiv.org/abs/2608.09930v1) - Oluwanifemi Bamgbose, Simon Rosen, Jash Shah, Lindsay Devon Brin, Hoang H Nguyen, Anke Koelzer, Rachel Hansen, Tara Bogavelli, Fanny Riols
-  Automated Text-to-Speech (TTS) evaluation methods (Mean Opinion Score (MOS) predictors and Audio Large Language Models (Audio-LLM) judges) are expecte...
-
-- [Multimodal Model Diffing for Feature Discovery and Control](https://arxiv.org/abs/2608.09928v1) - Hunar Batra, Lachin Naghashyar, Ashkan Khakzar, Philip Torr, Christian Schroeder de Witt, Constantin Venhoff, Ronald Clark
-  Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to...
-
-- [From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch](https://arxiv.org/abs/2608.09925v1) - Laurens Samson, Iva Gornishka, Gossa Lô, Yuki M. Asano, Sennay Ghebreab
-  Large language models are increasingly being deployed in governmental settings, yet few existing evaluation frameworks jointly reflect the values of p...
+- arXiv 论文数据暂时不可用，请稍后再查看
 
 
 
@@ -133,25 +126,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $308.26 📉 -4.80 (-1.5%)
-- **GOOGL**: $357.52 📈 +3.22 (+0.9%)
-- **MSFT**: $506.06 📈 +6.07 (+1.2%)
+- **AAPL**: $304.91 📉 -3.35 (-1.1%)
+- **GOOGL**: $343.80 📉 -13.72 (-3.8%)
+- **MSFT**: $503.81 📉 -2.25 (-0.4%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
 
 
 ### 🎯 今日编程挑战
 
-**二叉树的最大深度** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-给定二叉树，找出其最大深度
+判断字符串中的括号是否有效匹配
 
-标签: 树, 递归
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -162,14 +155,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
+世界上第一个域名是symbolics.com，注册于1985年3月15日
 
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《深度学习》** - Ian Goodfellow
 
-面向对象设计的经典模式 (分类: 软件设计)
+深度学习领域的权威教材 (分类: 人工智能)
 
 
 ### 🌍 即将举行的技术会议
@@ -179,8 +172,8 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
@@ -191,16 +184,16 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Ambient Coding** - Various Artists
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -226,41 +219,41 @@ D. 面向对象
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**写测试用例**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+测试驱动开发(TDD)能帮助你写出更可靠的代码，减少bug。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 先写测试
+test('should calculate tax correctly', () => {
+  expect(calculateTax(100)).toBe(15);
+});
 ```
 
 
 ### 🚀 职业发展建议
 
-**持续学习**: 技术更新很快，保持学习习惯是职业发展的关键
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 制定学习计划，每天至少花30分钟学习新技术
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🧠 算法大师
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `ecf9a4` | 日期: 2026-08-11
+挑战ID: `faa3ed` | 日期: 2026-08-12
 
 
 ### 📊 技术话题投票
 
-**云服务提供商首选？** (分类: 云计算)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] AWS
-- [ ] Azure
-- [ ] Google Cloud
-- [ ] 阿里云
-- [ ] 腾讯云
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
@@ -268,26 +261,26 @@ const a = 25;
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Serverless** ☁️ +7% - 无服务器架构普及
 - **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Deno** (Rust/TypeScript) - ⭐ 90k+
 
-高性能代码编辑器
+现代JavaScript/TypeScript运行时
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: Node.js创始人的新作品，内置TypeScript支持
 
 
 ### 💰 技术薪资快报
 
-**AI工程师** (中级) 📈
+**全栈开发** (中级) 📊
 
-薪资范围: 25-40万 | 热门技能: Python, TensorFlow, PyTorch
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
@@ -306,7 +299,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-08-11 08:41:24
+- 📅 更新时间: 2026-08-12 08:57:34
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -317,14 +310,15 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 4
-- 😊 积极新闻: 1 (25.0%)
-- 😟 消极新闻: 2 (50.0%)
-- 🔥 平均热度: 10.0/100
+- 😊 积极新闻: 2 (50.0%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 9.0/100
 
 🏷️ **热门关键词**:
-- AI (3次)
+- AI (2次)
 - GPT (1次)
 - OpenAI (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
