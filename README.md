@@ -55,7 +55,7 @@
 
 MIT
 
-## 今日更新 (2026-08-13)
+## 今日更新 (2026-08-14)
 
 ### 今日名言
 
@@ -63,21 +63,21 @@ MIT
 
 ### AI 技术动态
 
-- 😊 [用Unreal Engine 5 + Height Field Simulation做大规模AI智能体交互：技术架构与实战](https://blog.csdn.net/weixin_63764436/article/details/163222227) 🔥🔥 很热
-  现有AI智能体（如AutoGPT、BabyAGI）都是"单进程运行"——一个智能体 = 一个进程。要做"1000个智能体同时交互"，需要1000个进程，成本高且难以同步。用游戏引擎（Unreal En...
-- 😟 [连夜停掉 Claude！丢个需求让 AI 自己动：Codex 国内直连全自动部署指南](https://blog.csdn.net/Little_Carter/article/details/161286310) 🔥🔥 很热
-  最近这一个月，我几乎把所有的开发工作流都切到了 OpenAI 的 Codex 上。不是因为赶时髦，而是它确实解决了一个困扰我很长时间的问题。以前咱们怎么用 AI 写代码？在网页里问一句，它吐出一堆代码...
-- 😐 [当 AI Agent 要同时接入 Telegram、飞书、钉钉：Channel Plugin 抽象层设计之道](https://blog.csdn.net/qq_41840843/article/details/162465189) 🔥 热门
-  契约先行，实现自由——核心只定义接口，具体实现由插件负责统一消息模型，消除协议差异——ACP 协议作为渠道与核心之间的通用语言声明式构建，降低开发门槛——让开发者只需配置，无需重写底层当你需要给 Ag...
-- 😐 [会议纪要怎么写，夸克AI录音纪要，不用下载点开就能用](https://blog.csdn.net/qq_42055933/article/details/163542532) 📈 关注
-  【职场会议救星：夸克AI录音纪要实测】职场人常陷于周会、跨部门会等多场景会议记录困境，尤其跨语种会议更易遗漏关键信息。夸克PC端「录音纪要」功能提供实时录音转写、多语言翻译（支持10种语言）、发言人区...
-- 😐 [工具权限：细粒度控制AI调用能力](https://blog.csdn.net/COLLINSXU/article/details/163415431) 📈 关注
-  本文系统介绍了AI Agent工具权限管理的核心概念与技术实现。主要内容包括： 背景意义：AI Agent正从对话工具进化为执行引擎，工具权限控制成为关键能力，市场规模年增长率超100%。 核心概念：...
+- 😊 [人眼看不出的伪造，AI如何识别？实测合合信息跨模态鉴伪与去反光技术](https://blog.csdn.net/weixin_51390582/article/details/163034837) 🔥🔥 很热
+  随着生成式AI降低内容伪造门槛，图片、视频和文本的真实性已成为金融审核、电商风控、保险理赔和内容治理的重要基础。本文结合2026世界人工智能大会现场体验，介绍合合信息AI跨模态鉴伪与扫描全能王“智能高...
+- 😟 [WebAssembly AI 插件项目回顾：理想很丰满，浏览器兼容性很骨感的现实](https://blog.csdn.net/no1coder/article/details/163161554) 🔥 热门
+  WASM 不是银弹。它在浏览器里有严重的内存和多线程限制，做轻量功能可以，跑 15MB+ 的模型就吃力了。浏览器兼容性是绕不过去的坎。Safari 对 SharedArrayBuffer 的限制直接杀...
+- 😟 [AI 在物联网监控前端中的落地路径：从规则告警到语义级异常检测](https://blog.csdn.net/weixin_49475940/article/details/163097369) 🔥 热门
+  LLM 在生成根因推断时可能出现幻觉——将两个时间上巧合但没有因果关系的异常关联在一起。给定两台设备同时故障，LLM 可能无中生有地推断出"级联故障"，而实际上它们是独立事件。因果图约束：在 LLM ...
+- 😊 [# 强烈推荐：OpenCode Go —— 人人都用得起的 AI 编程订阅](https://blog.csdn.net/liuzejie1/article/details/163450874) 📈 关注
+  大家好！今天给大家推荐一个我正在用、且强烈推荐的一个 AI 编程订阅服务 ——。👉作为一个程序员，这几年 AI 编程工具层出不穷，但我踩过不少坑：要么 API 费用贵得离谱，要么免费额度用完就断连，要...
+- 😐 [合规场景下的 AI 推理可解释性：Attention 可视化与推理路径追踪的工程实践](https://blog.csdn.net/2301_81410839/article/details/163160786) 📈 关注
+  合规要求使推理可解释性从 AI 研究的"nice-to-have"变为工程实践的"must-have"Attention 权重提供了 Token 级别关联性的量化证据，是当前最实用的可解释性手段异步采...
 
 
 ### 网络安全资讯
 
-- [一张恶意SIM卡，就能接管你的充电桩：1981年的"祖传命令"正在物联网里复活](https://www.anquanke.com/post/id/315962) - 安全公告，详情请点击链接查看完整内容
+- [科技云报到：IDC发布APA市场份额报告，领跑企业都有谁？](https://www.anquanke.com/post/id/315965) - 安全公告，详情请点击链接查看完整内容
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
 - [Xuanwu Atuin AI 在 CyberGym 上的表现：GLM-5.2 更新结果](https://xlab.tencent.com/cn/2026/07/17/xuanwu-atuin-cybergym-glm52/) - 我们此前报道过，由 GLM-5.1 驱动的腾讯玄武 Atuin AI 在 CyberGym 上取得了 84.0% 的 pass@1，见文章链接。
 现在我们使用 GLM‑5.2 重新评估了 Atuin ...
@@ -85,7 +85,7 @@ MIT
 
 ### 技术就业趋势
 
-具备多语言编程能力和跨平台开发经验的工程师更具竞争力。
+区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
 
 ### 科技热点
 
@@ -100,24 +100,24 @@ MIT
 ### GitHub 趋势项目
 
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
-- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+- [cactus-compute/needle](https://github.com/cactus-compute/needle) - 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
 
 
 
 
 ### AI 研究论文
 
-- [DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation](https://arxiv.org/abs/2608.12308v1) - Yan Deng, Fei Xu
-  Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it ...
+- [AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](https://arxiv.org/abs/2608.13560v1) - Yaxin Luo, Haobin Jiang, Jialv Zou, Xu Huang, Wenhao Yan, Haodong Li, Zhengrong Yue, Jing Li, Xiaofu Chen, Xiaohan Zhao, Jiacheng Liu, Jiacheng Cui, Zhiqiang Shen, Xiaotong Li
+  Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process cent...
 
-- [AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses](https://arxiv.org/abs/2608.12307v1) - Cheng Qian, Wenting Zhao, Liangwei Yang, Heng Wang, Jielin Qiu, Heng Ji, Silvio Savarese, Huan Wang, Shelby Heinecke
-  Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forc...
+- [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](https://arxiv.org/abs/2608.13558v1) - Bobo Li, Hao Fei, Tianjie Ju, Mong-Li Lee, Wynne Hsu
+  Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and c...
 
-- [Redistribution-based Cost Inference Improves Sparse Safe Offline RL](https://arxiv.org/abs/2608.12306v1) - Ebenezer Gelo, Geraud Nangue Tasse, Steven James, Benjamin Rosman
-  Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: ...
+- [HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark](https://arxiv.org/abs/2608.13555v1) - Dairu Liu, Zekun Qi, Jiayu Zeng, Ruixi Yu, Yu Guan, Yintianrun Zhang, Xuchuan Chen, Sikai Liang, Zekai Li, Chenghuai Lin, Xinqiang Yu, Wenyao Zhang, He Wang, Li Yi
+  Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kin...
 
 
 
@@ -141,25 +141,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $302.25 📉 -2.66 (-0.9%)
-- **GOOGL**: $343.54 📉 -0.26 (-0.1%)
-- **MSFT**: $492.43 📉 -11.38 (-2.3%)
+- **AAPL**: $305.26 📈 +3.01 (+1.0%)
+- **GOOGL**: $346.36 📈 +2.82 (+0.8%)
+- **MSFT**: $496.88 📈 +4.45 (+0.9%)
 
 
 ### 🛠️ 开发者工具推荐
 
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
-- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**二叉树的最大深度** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+给定二叉树，找出其最大深度
 
-标签: 栈, 字符串
+标签: 树, 递归
 
 
 ### 📱 移动开发动态
@@ -170,14 +170,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个网站至今仍在运行：http://info.cern.ch/hypertext/WWW/TheProject.html
+Linux企鹅吉祥物Tux的名字来源于Torvalds UniX的缩写
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《Kubernetes权威指南》** - 龚正等
 
-深度学习领域的权威教材 (分类: 人工智能)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -187,21 +187,21 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
+- **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**网络安全** (难度: 初级到中级, 预计时间: 6-10个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: 网络基础 → 系统安全 → 渗透测试 → 安全工具 → 合规认证
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
@@ -222,53 +222,52 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用有意义的变量名**
+**遵循单一职责原则**
 
-好的变量名应该能够清楚地表达其用途，避免使用a、b、temp等无意义的名称。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-// 好的命名
-const userAge = 25;
-// 不好的命名
-const a = 25;
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
 ### 🚀 职业发展建议
 
-**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
+**项目经验**: 参与开源项目是提升技能和建立声誉的最佳方式
 
-📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
+📋 行动建议: 在GitHub上找到感兴趣的项目，从小的issue开始贡献
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🏗️ 架构师
+今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `10fa0d` | 日期: 2026-08-13
+挑战ID: `b38597` | 日期: 2026-08-14
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
@@ -276,19 +275,19 @@ const a = 25;
 ### 🔥 技术热词趋势
 
 - **AI** 🔥 +15% - 人工智能持续火热
-- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
+- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Tauri** (Rust) - ⭐ 70k+
+**Zed** (Rust) - ⭐ 25k+
 
-使用Rust构建跨平台桌面应用
+高性能代码编辑器
 
-💡 亮点: 比Electron更轻量的桌面应用解决方案
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
@@ -314,7 +313,7 @@ const a = 25;
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-08-13 08:59:47
+- 📅 更新时间: 2026-08-14 08:55:17
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -325,16 +324,16 @@ const a = 25;
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 8
-- 😊 积极新闻: 4 (50.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 23.9/100
+- 😊 积极新闻: 5 (62.5%)
+- 😟 消极新闻: 2 (25.0%)
+- 🔥 平均热度: 24.4/100
 
 🏷️ **热门关键词**:
 - AI (8次)
-- OpenAI (2次)
-- 人工智能 (1次)
-- AR (1次)
-- GPT (1次)
+- 人工智能 (2次)
+- AR (2次)
+- OpenAI (1次)
+- 物联网 (1次)
 
 
 ### 🤖 关于此项目
