@@ -55,69 +55,60 @@
 
 MIT
 
-## 今日更新 (2026-08-17)
+## 今日更新 (2026-08-18)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
 
 ### AI 技术动态
 
-- 😊 [亲测合合信息WAIC 2026黑科技：AI跨模态鉴伪到底能不能看透真假？我用几十组样本测出了真相](https://blog.csdn.net/Dreamy_zsy/article/details/163130155) 🔥🔥 很热
-  上周去上海逛了2026世界人工智能大会，说实在的，每年WAIC我都会去转一圈，看多了各种大模型、智能体、机器人，说实话多少有点审美疲劳——毕竟大多数展台讲来讲去都是生成能力，你家模型能写文案，我家模型...
-- 😊 [HarmonyOS 6（API 23）实战：基于HMAF的「智行中枢」——PC端AI智能体智慧城市交通大脑与车路协同决策平台](https://blog.csdn.net/u014727709/article/details/162427113) 🔥🔥 很热
-  截至2026年，中国城镇化率已突破68%，城市交通拥堵造成的经济损失年均超过1.5万亿元。传统交通信号控制系统依赖固定配时方案，无法应对动态变化的交通流；各路口信号灯"各自为政"，缺乏协同优化；突发事...
-- 😊 [这个AI平台，我给个大写的“夯”！！](https://blog.csdn.net/kireal_C/article/details/163570164) 🔥 热门
-  对于金融、政务这种对数据安全有硬要求的行业，MonkeyCode 支持完全私有化部署，代码、Prompt、审计日志全部留在企业自己的服务器上，还能接入离线大模型，内外网物理隔离也能用。这点对我来说挺重...
-- 😐 [运维数据的AI价值挖掘复盘：三年中从日志、指标、调用链数据中提炼出的23个高价值AI场景](https://blog.csdn.net/qwe0iop0/article/details/163161908) 📈 关注
-  运维数据的AI价值挖掘不是一场"找锤子"的游戏——拿着AI技术在各处找能用上的地方。真正有效的方式是从运维的实际痛点出发，反向寻找数据和技术可以发挥作用的场景。方法论总结：数据资产盘点→场景价值评估→...
-- 😊 [具身交互 Audiobook AI 朗读平台： TTS 落地开发实践](https://blog.csdn.net/COLLINSXU/article/details/163113286) 📈 关注
-  本文基于魔珐星云全域具身交互智能配套 TTS 引擎搭建一体化有声书朗读平台。该平台采用React 18 + TypeScript + Vite构建前端应用，通过WebSocket实时接收TTS音频流，...
+- 😊 [OpenAI发布GPT-4 Turbo，性能大幅提升](https://openai.com/blog/) 🔥 热门
+  新模型在推理能力和上下文窗口方面有显著改进
 
 
 ### 网络安全资讯
 
-- [40分钟，2500家企业195TB数据被洗劫：AI供应链的"至暗时刻"才刚刚开始](https://www.anquanke.com/post/id/315973) - 安全公告，详情请点击链接查看完整内容
+- [科技云报到：机器流量首次超过人类，互联网进入“三体流量时代”？](https://www.anquanke.com/post/id/315987) - 安全公告，详情请点击链接查看完整内容
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
-- [Xuanwu Atuin AI 在 CyberGym 上的表现：GLM-5.2 更新结果](https://xlab.tencent.com/cn/2026/07/17/xuanwu-atuin-cybergym-glm52/) - 我们此前报道过，由 GLM-5.1 驱动的腾讯玄武 Atuin AI 在 CyberGym 上取得了 84.0% 的 pass@1，见文章链接。
-现在我们使用 GLM‑5.2 重新评估了 Atuin ...
+- [SecWiki News 2026-08-17 Review](http://www.sec-wiki.com/?2026-08-17) - AI自动化漏洞挖掘赚取赏金实战（一）  by BaCde更多最新文章，请访问SecWiki
 
 
 ### 技术就业趋势
 
-区块链和Web3开发者虽经历市场波动，但在金融科技领域仍有稳定需求。
+敏捷和Scrum认证在项目管理角色中价值提升。
 
 ### 科技热点
 
-- 😊 [评测凭什么成为模型护城河：Agent评测的跨厂机制分析](https://cloud.tencent.com/developer/article/2723377) 🔥 热门
-  头部实验室正在像竞争模型一样竞争#智能体评测。OpenAI 停用了自家研究员发明的基准，审计发现训练语料里已经包含答案。Anthropic 把智能体评测方法论写成工程文档公开发布，设专职评测团队。腾讯...
-- 😊 [一群 AI 开会研究股票:TradingAgents 开源了,支持 A 股、港股和美股](https://cloud.tencent.com/developer/article/2722205) 📈 关注
-  想象一下某家券商自营部的早晨。基本面分析师在翻财报,情绪分析师在刷舆情,宏观研究员在解读隔夜美联储讲话,技术分析师盯着 MACD 和 RSI。九点半,所有人坐进会议室:多头研究员和空头研究员开始激烈交...
-- 😟 [为什么服务器一个月几十GB够用，手机刷视频却几个小时就没了？](https://cloud.tencent.com/developer/article/2723410) 📊 普通
-  再往下看，问题更多了：上行和下行分别代表什么？总发送只有两百多MB，总接收为什么有4GB？网卡列表里的 lo、eth0 和“所有”又有什么区别？
+- 😊 [全程使用Workbuddy制作：AI声音克隆2倍加速 B站indexTTS2.5  小说剧本功能 8G显存可用 赛博女友新方案 附整合包](https://cloud.tencent.com/developer/article/2725738) 🔥 热门
+  AI声音克隆产品越来越多了，而我们的TTS产品又迎来了新的情绪控制产品，B站最新开源的indexTTS2.5，参数很小，只有0.8B，但是功能很强，强到超越VoxCPM2，甚至超越了Fish Audi...
+- 😐 [AI Coding 的关键是什么：不是谁更会写，而是谁更能证明写对了](https://cloud.tencent.com/developer/article/2725984) 📈 关注
+  AI Coding最令人不安的时刻，往往不是模型写不出代码，而是它在十分钟内完成了一个看起来极其专业的改动：目录合理、注释完整、可见测试全部通过，甚至主动补上了文档。直到进入集成环境，你才发现它绕过了...
+- 😐 [专访 DBX 作者 t8y2：20MB 轻量工作台，如何直面 70+ 数据库的兼容挑战](https://cloud.tencent.com/developer/article/2725786) 📊 普通
+  做业务开发时，一个任务常常要跨好几个数据源：关系型数据库里查主数据，Redis 里看缓存，MongoDB 里翻文档。真正写 SQL 的时间未必最多，更多时间花在连接、找库找表、看结构、切环境、核对结果...
 
 
 ### GitHub 趋势项目
 
-- [cordiverse/cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.
-- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
+- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
 
 
 
 
 ### AI 研究论文
 
-- [Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils](https://arxiv.org/abs/2608.14539v1) - Karel Becerra, Boris Mederos, Dean Snow, Ramón A. Mollineda
-  Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of grou...
+- [Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory](https://arxiv.org/abs/2608.16889v1) - Bingxin Xu, Yuzhang Shang, Emilio Ferrara
+  Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the...
 
-- [Marionette: Predicting World States, Rendering Geometry, Painting Appearance](https://arxiv.org/abs/2608.14530v1) - Zian Meng, Zhen Li, Chuanhao Li, Qiang Li, Kaipeng Zhang
-  Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose,...
+- [Improving the matrix multiplication exponent with modern optimization and AlphaEvolve](https://arxiv.org/abs/2608.16884v1) - Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii, Abbas Mehrabian, Francisco J. R. Ruiz, Abigail See, Renfei Zhou, Josh Alman, Virginia Vassilevska Williams, Matej Balog
+  The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analys...
 
-- [Handover of In-Context Learning State Across Session Boundaries](https://arxiv.org/abs/2608.14528v1) - Masahiro Kato, Taka Kato
-  This study investigates the methodological and theoretical properties of session handover in applications that use large language models. A task may c...
+- [AutoSR: Automatic Symbolic Regression by Searching Research States](https://arxiv.org/abs/2608.16876v1) - Kejia Zhang, Youran Sun, Xinyu Ren, Chugang Yi, Haizhao Yang
+  We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persis...
 
 
 
@@ -141,25 +132,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $305.93 📈 +0.67 (+0.2%)
-- **GOOGL**: $345.90 📉 -0.46 (-0.1%)
-- **MSFT**: $495.40 📉 -1.48 (-0.3%)
+- **AAPL**: $305.59 📉 -0.34 (-0.1%)
+- **GOOGL**: $344.00 📉 -1.90 (-0.5%)
+- **MSFT**: $480.35 📉 -15.05 (-3.0%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
-- **[GitHub Copilot](https://github.com/features/copilot)** (AI工具) - AI代码助手，提高编程效率
 - **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**二叉树的最大深度** (难度: 简单)
+**有效的括号** (难度: 简单)
 
-给定二叉树，找出其最大深度
+判断字符串中的括号是否有效匹配
 
-标签: 树, 递归
+标签: 栈, 字符串
 
 
 ### 📱 移动开发动态
@@ -170,14 +161,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-第一个计算机bug是由一只真正的虫子引起的 - 1947年Grace Hopper在Harvard Mark II计算机中发现了一只飞蛾
+Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 
 ### 📚 技术书籍推荐
 
-**《深度学习》** - Ian Goodfellow
+**《Kubernetes权威指南》** - 龚正等
 
-深度学习领域的权威教材 (分类: 人工智能)
+容器编排平台的完整指南 (分类: 云原生)
 
 
 ### 🌍 即将举行的技术会议
@@ -187,28 +178,28 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
+- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
 
 
 ### 🎨 设计资源推荐
 
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Figma Community](https://www.figma.com/community/)** (设计模板) - 免费设计模板和组件库
 
 
 ### 🎓 技能学习路径
 
-**全栈开发** (难度: 初级到中级, 预计时间: 6-12个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: HTML/CSS基础 → JavaScript → React/Vue → Node.js → 数据库 → 部署
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Brain.fm Focus** - Brain.fm
+**Lofi Hip Hop Radio** - ChilledCow
 
-类型: 专注音乐 | 科学设计的专注力提升音乐
+类型: Lo-fi | 适合专注编程的轻松背景音乐
 
 
 ### 🏆 本周技术挑战
@@ -222,25 +213,26 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🧠 技术小测验
 
-**问题**: Docker容器和虚拟机的主要区别是？
+**问题**: REST API中，PUT和PATCH的主要区别是？
 
-A. 容器更重
-B. 容器共享宿主机内核
-C. 虚拟机更快
-D. 没有区别
+A. 没有区别
+B. PUT用于完整更新，PATCH用于部分更新
+C. PUT更安全
+D. PATCH更快
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**遵循单一职责原则**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
@@ -253,20 +245,20 @@ git commit -m "Add user authentication feature"
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🔍 调试专家
 
-挑战ID: `401e71` | 日期: 2026-08-17
+挑战ID: `15e543` | 日期: 2026-08-18
 
 
 ### 📊 技术话题投票
 
-**最喜欢的代码编辑器是？** (分类: 开发工具)
+**前端框架的未来趋势？** (分类: 前端开发)
 
-- [ ] VS Code
-- [ ] IntelliJ IDEA
-- [ ] Vim
-- [ ] Sublime Text
-- [ ] Atom
+- [ ] React
+- [ ] Vue.js
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid.js
 
 💬 在Issues中参与讨论和投票！
 
@@ -274,31 +266,31 @@ git commit -m "Add user authentication feature"
 ### 🔥 技术热词趋势
 
 - **Rust** 🚀 +12% - 系统编程语言崛起
+- **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Quantum Computing** 🔬 +4% - 量子计算研究进展
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Deno** (Rust/TypeScript) - ⭐ 90k+
+**SvelteKit** (JavaScript) - ⭐ 15k+
 
-现代JavaScript/TypeScript运行时
+现代Web应用框架
 
-💡 亮点: Node.js创始人的新作品，内置TypeScript支持
+💡 亮点: 编译时优化，运行时性能优异
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**全栈开发** (中级) 📊
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
 
 
 ### 😄 程序员笑话
 
-为什么程序员喜欢黑暗？因为光会产生bug！
+程序员的口头禅：在我的机器上运行得很好！
 
 
 ### 🐙 GitHub 生态统计
@@ -312,7 +304,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-08-17 08:28:21
+- 📅 更新时间: 2026-08-18 08:21:16
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -322,17 +314,15 @@ git commit -m "Add user authentication feature"
 
 📊 **今日技术新闻分析报告**
 
-- 📰 新闻总数: 8
-- 😊 积极新闻: 6 (75.0%)
-- 😟 消极新闻: 1 (12.5%)
-- 🔥 平均热度: 20.2/100
+- 📰 新闻总数: 4
+- 😊 积极新闻: 2 (50.0%)
+- 😟 消极新闻: 0 (0.0%)
+- 🔥 平均热度: 11.2/100
 
 🏷️ **热门关键词**:
-- AI (7次)
-- 人工智能 (1次)
-- AR (1次)
+- AI (3次)
+- GPT (1次)
 - OpenAI (1次)
-- 数据安全 (1次)
 
 
 ### 🤖 关于此项目
