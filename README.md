@@ -55,11 +55,11 @@
 
 MIT
 
-## 今日更新 (2026-08-18)
+## 今日更新 (2026-08-20)
 
 ### 今日名言
 
-> 先让它工作，再让它正确，最后让它快速工作。 —— Kent Beck
+> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
 
 ### AI 技术动态
 
@@ -69,46 +69,47 @@ MIT
 
 ### 网络安全资讯
 
-- [科技云报到：机器流量首次超过人类，互联网进入“三体流量时代”？](https://www.anquanke.com/post/id/315987) - 安全公告，详情请点击链接查看完整内容
+- [不打招呼直接锁死服务器：Sorry勒索病毒国内多点爆发，专挑中小企业下手](https://www.anquanke.com/post/id/315994) - 安全公告，详情请点击链接查看完整内容
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
-- [SecWiki News 2026-08-17 Review](http://www.sec-wiki.com/?2026-08-17) - AI自动化漏洞挖掘赚取赏金实战（一）  by BaCde更多最新文章，请访问SecWiki
+- [Xuanwu Atuin AI 在 CyberGym 上的表现：GLM-5.2 更新结果](https://xlab.tencent.com/cn/2026/07/17/xuanwu-atuin-cybergym-glm52/) - 我们此前报道过，由 GLM-5.1 驱动的腾讯玄武 Atuin AI 在 CyberGym 上取得了 84.0% 的 pass@1，见文章链接。
+现在我们使用 GLM‑5.2 重新评估了 Atuin ...
 
 
 ### 技术就业趋势
 
-敏捷和Scrum认证在项目管理角色中价值提升。
+云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
 
 ### 科技热点
 
-- 😊 [全程使用Workbuddy制作：AI声音克隆2倍加速 B站indexTTS2.5  小说剧本功能 8G显存可用 赛博女友新方案 附整合包](https://cloud.tencent.com/developer/article/2725738) 🔥 热门
-  AI声音克隆产品越来越多了，而我们的TTS产品又迎来了新的情绪控制产品，B站最新开源的indexTTS2.5，参数很小，只有0.8B，但是功能很强，强到超越VoxCPM2，甚至超越了Fish Audi...
-- 😐 [AI Coding 的关键是什么：不是谁更会写，而是谁更能证明写对了](https://cloud.tencent.com/developer/article/2725984) 📈 关注
-  AI Coding最令人不安的时刻，往往不是模型写不出代码，而是它在十分钟内完成了一个看起来极其专业的改动：目录合理、注释完整、可见测试全部通过，甚至主动补上了文档。直到进入集成环境，你才发现它绕过了...
-- 😐 [专访 DBX 作者 t8y2：20MB 轻量工作台，如何直面 70+ 数据库的兼容挑战](https://cloud.tencent.com/developer/article/2725786) 📊 普通
-  做业务开发时，一个任务常常要跨好几个数据源：关系型数据库里查主数据，Redis 里看缓存，MongoDB 里翻文档。真正写 SQL 的时间未必最多，更多时间花在连接、找库找表、看结构、切环境、核对结果...
+- 😊 [第一时间上手 DeepSeek Harness：和 WorkBuddy 和 Codex 相比到底如何](https://cloud.tencent.com/developer/article/2727125) 📈 关注
+  概述：8 月 13 日晚上，DeepSeek 发布了它成立以来的第一个 Agent 产品 DeepSeek Harness（DSH），GitHub 仓库一夜之间涨到三万多 star。本文先讲清楚 Ha...
+- 😐 [供应链协同平台（SCP）| 订单协同流程：从PO到ASN的电子化协同实现](https://cloud.tencent.com/developer/article/2725193) 📊 普通
+  在供应链的日常运作中，订单是连接品牌商、供应商与物流商的核心载体。然而现实中，一张订单的生命周期往往充满了摩擦：品牌商在ERP里下发PO（采购订单），打印出来传真或邮件发给供应商；供应商人工录入系统，...
+- 😊 [大模型命名后缀解析：看懂参数、量化、蒸馏、微调标识，快速筛选适配本地模型19.6](https://cloud.tencent.com/developer/article/2727047) 📊 普通
+  最开始刚接触本地跑大模型时每次逛Hugging Face、ModelScope找权重，同一个基础模型能拉出十多个版本，后缀一串字母数字堆在一起，完全摸不着门道。当初不懂这些后缀含义，凭着感觉随便下模型...
 
 
 ### GitHub 趋势项目
 
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
-- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+- [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) - local multi-agent harness
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
+- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 
 
 
 
 ### AI 研究论文
 
-- [Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory](https://arxiv.org/abs/2608.16889v1) - Bingxin Xu, Yuzhang Shang, Emilio Ferrara
-  Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the...
+- [SPADE: Self-Play in Adaptive Synthetic Executable Environments](https://arxiv.org/abs/2608.19197v1) - Bo Liu, Simon Yu, Yiding Jiang, Ao Qu, Andrew Zhao, Zichen Liu, Junsu Kim, Zijian Zhou, Seungone Kim, Tongzheng Ren, Mickel Liu, Hanfei Yu, Zhaorun Chen, Weiyan Shi, Paul Pu Liang, Luke Zettlemoyer, Yejin Choi, Natasha Jaques
+  Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environ...
 
-- [Improving the matrix multiplication exponent with modern optimization and AlphaEvolve](https://arxiv.org/abs/2608.16884v1) - Emilien Dupont, Marvin Eisenberger, Borislav Kozlovskii, Abbas Mehrabian, Francisco J. R. Ruiz, Abigail See, Renfei Zhou, Josh Alman, Virginia Vassilevska Williams, Matej Balog
-  The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analys...
+- [ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning](https://arxiv.org/abs/2608.19182v1) - Jayjun Lee, Jessica Yin, Asif Rana, Nicholas Blauch, Sam Mady, Mohak Bhardwaj, Nima Fazeli, Nathan Ratliff, Karl Van Wyk, Ankur Handa
+  We introduce Accelerating Dexterity via Pre-Training (ADEPT), a large-scale reinforcement learning (RL) framework for learning sim-to-real transferabl...
 
-- [AutoSR: Automatic Symbolic Regression by Searching Research States](https://arxiv.org/abs/2608.16876v1) - Kejia Zhang, Youran Sun, Xinyu Ren, Chugang Yi, Haizhao Yang
-  We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persis...
+- [Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning](https://arxiv.org/abs/2608.19181v1) - Zhu Zhang, Jixun Wang, Xiaoang Xu, Xiaorong Wang, Zihan Zhou, Zhiyuan Wang, Shuo Wang, Chaojun Xiao, Yuezhi Zhou
+  On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, ho...
 
 
 
@@ -132,16 +133,16 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $305.59 📉 -0.34 (-0.1%)
-- **GOOGL**: $344.00 📉 -1.90 (-0.5%)
-- **MSFT**: $480.35 📉 -15.05 (-3.0%)
+- **AAPL**: $316.83 📈 +6.80 (+2.2%)
+- **GOOGL**: $344.72 📈 +0.52 (+0.2%)
+- **MSFT**: $484.31 📈 +2.68 (+0.6%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
+- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
+- **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
 
 
 ### 🎯 今日编程挑战
@@ -161,14 +162,14 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 🎪 技术趣闻
 
-Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
+JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995年完成
 
 
 ### 📚 技术书籍推荐
 
-**《Kubernetes权威指南》** - 龚正等
+**《设计模式》** - Gang of Four
 
-容器编排平台的完整指南 (分类: 云原生)
+面向对象设计的经典模式 (分类: 软件设计)
 
 
 ### 🌍 即将举行的技术会议
@@ -178,28 +179,28 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🚀 创业公司动态
 
-- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 - **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
-- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
+- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
+**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
 
-学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
+学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
 
 
 ### 🎵 编程音乐推荐
 
-**Lofi Hip Hop Radio** - ChilledCow
+**Synthwave Mix** - Various Artists
 
-类型: Lo-fi | 适合专注编程的轻松背景音乐
+类型: Synthwave | 复古未来主义电子音乐，激发创造力
 
 
 ### 🏆 本周技术挑战
@@ -213,84 +214,83 @@ Python语言的名字来源于英国喜剧团体Monty Python，而不是蟒蛇
 
 ### 🧠 技术小测验
 
-**问题**: REST API中，PUT和PATCH的主要区别是？
+**问题**: 以下哪个不是Python的特性？
 
-A. 没有区别
-B. PUT用于完整更新，PATCH用于部分更新
-C. PUT更安全
-D. PATCH更快
+A. 动态类型
+B. 解释执行
+C. 静态编译
+D. 面向对象
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**遵循单一职责原则**
+**使用版本控制**
 
-每个函数应该只做一件事，这样代码更容易理解、测试和维护。
+即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
 
 ```
-// 好的做法
-function calculateTax(amount) { ... }
-function formatCurrency(amount) { ... }
+git add .
+git commit -m "Add user authentication feature"
 ```
 
 
 ### 🚀 职业发展建议
 
-**网络建设**: 参加技术会议和meetup，建立专业人脉网络
+**技能发展**: 专注于深度学习一门技术栈，同时保持对新技术的敏感度
 
-📋 行动建议: 每月参加至少一次技术聚会或在线会议
+📋 行动建议: 选择一个主要技术方向，每周花2-3小时学习相关新知识
 
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：🔍 调试专家
+今日挑战徽章：⚡ 性能优化师
 
-挑战ID: `15e543` | 日期: 2026-08-18
+挑战ID: `d8540d` | 日期: 2026-08-20
 
 
 ### 📊 技术话题投票
 
-**前端框架的未来趋势？** (分类: 前端开发)
+**2025年最值得学习的编程语言是？** (分类: 编程语言)
 
-- [ ] React
-- [ ] Vue.js
-- [ ] Angular
-- [ ] Svelte
-- [ ] Solid.js
+- [ ] Rust
+- [ ] Go
+- [ ] TypeScript
+- [ ] Python
+- [ ] Kotlin
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
-- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
 - **Kubernetes** 📈 +8% - 容器编排需求增长
-- **Quantum Computing** 🔬 +4% - 量子计算研究进展
+- **Serverless** ☁️ +7% - 无服务器架构普及
+- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**SvelteKit** (JavaScript) - ⭐ 15k+
+**Zed** (Rust) - ⭐ 25k+
 
-现代Web应用框架
+高性能代码编辑器
 
-💡 亮点: 编译时优化，运行时性能优异
+💡 亮点: 专为协作编程设计的现代编辑器
 
 
 ### 💰 技术薪资快报
 
-**全栈开发** (中级) 📊
+**云架构师** (高级) 🚀
 
-薪资范围: 20-35万 | 热门技能: React, Node.js, TypeScript
+薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
 
 
 ### 😄 程序员笑话
 
-程序员的口头禅：在我的机器上运行得很好！
+程序员的三大美德：懒惰、急躁和傲慢。
 
 
 ### 🐙 GitHub 生态统计
@@ -304,7 +304,7 @@ function formatCurrency(amount) { ... }
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-08-18 08:21:16
+- 📅 更新时间: 2026-08-20 08:22:26
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -315,14 +315,15 @@ function formatCurrency(amount) { ... }
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 4
-- 😊 积极新闻: 2 (50.0%)
+- 😊 积极新闻: 3 (75.0%)
 - 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 11.2/100
+- 🔥 平均热度: 6.0/100
 
 🏷️ **热门关键词**:
-- AI (3次)
+- AI (1次)
 - GPT (1次)
 - OpenAI (1次)
+- AR (1次)
 
 
 ### 🤖 关于此项目
