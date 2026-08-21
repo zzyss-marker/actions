@@ -55,11 +55,11 @@
 
 MIT
 
-## 今日更新 (2026-08-20)
+## 今日更新 (2026-08-21)
 
 ### 今日名言
 
-> 编程的艺术就是处理复杂性的艺术。 —— Edsger W. Dijkstra
+> 最好的程序员不仅是编程高手，还知道哪些代码不需要写。 —— Bill Gates
 
 ### AI 技术动态
 
@@ -69,7 +69,7 @@ MIT
 
 ### 网络安全资讯
 
-- [不打招呼直接锁死服务器：Sorry勒索病毒国内多点爆发，专挑中小企业下手](https://www.anquanke.com/post/id/315994) - 安全公告，详情请点击链接查看完整内容
+- [保镖成了内鬼：微软Defender再曝零日漏洞，普通账户一键提权SYSTEM，补丁还没用](https://www.anquanke.com/post/id/316003) - 安全公告，详情请点击链接查看完整内容
 - [四步轻松搞定防钓鱼 ！CACTER 反钓鱼演练系统迭代上线](https://www.4hou.com/posts/DrN6) - 每天上班打开企业邮箱，总能看到各类陌生邮件：发票报销、福利补贴、奖金申领、系统通知…… 看着像内部正规消息，实则很多都是伪装到位的钓鱼陷阱。员工稍有不慎点击链接、下载附件，就可能造成信息泄露、财务损失...
 - [Xuanwu Atuin AI 在 CyberGym 上的表现：GLM-5.2 更新结果](https://xlab.tencent.com/cn/2026/07/17/xuanwu-atuin-cybergym-glm52/) - 我们此前报道过，由 GLM-5.1 驱动的腾讯玄武 Atuin AI 在 CyberGym 上取得了 84.0% 的 pass@1，见文章链接。
 现在我们使用 GLM‑5.2 重新评估了 Atuin ...
@@ -77,39 +77,39 @@ MIT
 
 ### 技术就业趋势
 
-云计算专家仍然是就业市场的热门，AWS、Azure和GCP认证价值显著。
+数据科学和分析角色持续热门，特别是能够将数据洞察转化为业务价值的专业人士。
 
 ### 科技热点
 
-- 😊 [第一时间上手 DeepSeek Harness：和 WorkBuddy 和 Codex 相比到底如何](https://cloud.tencent.com/developer/article/2727125) 📈 关注
-  概述：8 月 13 日晚上，DeepSeek 发布了它成立以来的第一个 Agent 产品 DeepSeek Harness（DSH），GitHub 仓库一夜之间涨到三万多 star。本文先讲清楚 Ha...
-- 😐 [供应链协同平台（SCP）| 订单协同流程：从PO到ASN的电子化协同实现](https://cloud.tencent.com/developer/article/2725193) 📊 普通
-  在供应链的日常运作中，订单是连接品牌商、供应商与物流商的核心载体。然而现实中，一张订单的生命周期往往充满了摩擦：品牌商在ERP里下发PO（采购订单），打印出来传真或邮件发给供应商；供应商人工录入系统，...
-- 😊 [大模型命名后缀解析：看懂参数、量化、蒸馏、微调标识，快速筛选适配本地模型19.6](https://cloud.tencent.com/developer/article/2727047) 📊 普通
-  最开始刚接触本地跑大模型时每次逛Hugging Face、ModelScope找权重，同一个基础模型能拉出十多个版本，后缀一串字母数字堆在一起，完全摸不着门道。当初不懂这些后缀含义，凭着感觉随便下模型...
+- 😐 [当新人用了AI不再啃屎山代码，未来的高级工程师从哪来？](https://cloud.tencent.com/developer/article/2727875) 📈 关注
+  昨天有个同事，甩了半页需求文档给 Claude Code，转身去接了杯热水的功夫，核心业务代码就写完了。 我凑过去扫了一眼，那段逻辑我前阵子刚做过类似的，前后调边界、改异常、跑测试，折腾了俩小时才收尾...
+- 😟 [深度解析Harness Engineering工程体系，拆解大模型可控落地原理与完整实战流程19.8](https://cloud.tencent.com/developer/article/2728082) 📈 关注
+  不知道大家有没有遇到同样的情况，在大模型场景应用越多，越发现单独调用大模型API效果尚可，但落地到真实业务就频繁出问题。要么模型输出随意、频繁产生幻觉，要么无法对接业务工具、流程混乱，要么成本失控、输...
+- 😊 [车队车辆信息智能核验：CodeBuddy 串联行驶证 OCR + 车牌识别双 Skill 落地（核验耗时从 5 分钟压到 8 秒）](https://cloud.tencent.com/developer/article/2727797) 📊 普通
+  摘要: 这篇是我作为物流平台技术负责人，用 CodeBuddy CLI 把腾讯云两个 OCR Skill（tencentcloud-ocr-vehiclelicense、tencentcloud-oc...
 
 
 ### GitHub 趋势项目
 
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) - local multi-agent harness
-- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0
-- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+- [cursor/plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
 
 
 
 
 ### AI 研究论文
 
-- [SPADE: Self-Play in Adaptive Synthetic Executable Environments](https://arxiv.org/abs/2608.19197v1) - Bo Liu, Simon Yu, Yiding Jiang, Ao Qu, Andrew Zhao, Zichen Liu, Junsu Kim, Zijian Zhou, Seungone Kim, Tongzheng Ren, Mickel Liu, Hanfei Yu, Zhaorun Chen, Weiyan Shi, Paul Pu Liang, Luke Zettlemoyer, Yejin Choi, Natasha Jaques
-  Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environ...
+- [G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation](https://arxiv.org/abs/2608.20331v1) - Shiao Xie, Siyu Chen, Jianwei Lv, Bo Yuan, Yujin Wang, Xiandong Li
+  Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both eviden...
 
-- [ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning](https://arxiv.org/abs/2608.19182v1) - Jayjun Lee, Jessica Yin, Asif Rana, Nicholas Blauch, Sam Mady, Mohak Bhardwaj, Nima Fazeli, Nathan Ratliff, Karl Van Wyk, Ankur Handa
-  We introduce Accelerating Dexterity via Pre-Training (ADEPT), a large-scale reinforcement learning (RL) framework for learning sim-to-real transferabl...
+- [An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction](https://arxiv.org/abs/2608.20320v1) - Narges Ahmadi, Yubo Jiao, Jônatas Augusto Manzolli, Jiangbo Yu, Luis Miranda-Moreno
+  Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated se...
 
-- [Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning](https://arxiv.org/abs/2608.19181v1) - Zhu Zhang, Jixun Wang, Xiaoang Xu, Xiaorong Wang, Zihan Zhou, Zhiyuan Wang, Shuo Wang, Chaojun Xiao, Yuezhi Zhou
-  On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, ho...
+- [Inducing Task Models from Computer-Use Traces](https://arxiv.org/abs/2608.20319v1) - Yucheng Jiang, Zora Zhiruo Wang, Ruishi Chen, Diyi Yang
+  Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditab...
 
 
 
@@ -133,25 +133,25 @@ satellite communication systems has elevated the importance of secure vide...
 
 ### 📈 科技股票追踪
 
-- **AAPL**: $316.83 📈 +6.80 (+2.2%)
-- **GOOGL**: $344.72 📈 +0.52 (+0.2%)
-- **MSFT**: $484.31 📈 +2.68 (+0.6%)
+- **AAPL**: $311.30 📉 -5.53 (-1.7%)
+- **GOOGL**: $340.67 📉 -4.05 (-1.2%)
+- **MSFT**: $481.15 📉 -2.25 (-0.5%)
 
 
 ### 🛠️ 开发者工具推荐
 
-- **[Notion](https://www.notion.so/)** (效率工具) - 全能工作空间和笔记工具
-- **[Postman](https://www.postman.com/)** (API工具) - API开发和测试平台
 - **[Docker](https://www.docker.com/)** (部署工具) - 容器化应用部署平台
+- **[Figma](https://www.figma.com/)** (设计工具) - 协作式界面设计工具
+- **[VS Code](https://code.visualstudio.com/)** (编辑器) - 轻量级代码编辑器
 
 
 ### 🎯 今日编程挑战
 
-**有效的括号** (难度: 简单)
+**合并两个有序链表** (难度: 简单)
 
-判断字符串中的括号是否有效匹配
+将两个升序链表合并为一个新的升序链表
 
-标签: 栈, 字符串
+标签: 链表, 递归
 
 
 ### 📱 移动开发动态
@@ -167,9 +167,9 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 📚 技术书籍推荐
 
-**《设计模式》** - Gang of Four
+**《代码整洁之道》** - Robert C. Martin
 
-面向对象设计的经典模式 (分类: 软件设计)
+编写可读、可维护代码的实践指南 (分类: 软件工程)
 
 
 ### 🌍 即将举行的技术会议
@@ -179,28 +179,28 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🚀 创业公司动态
 
-- **Mistral AI**: 推出开源大模型 - 挑战OpenAI的市场地位
+- **Anthropic**: 发布Claude 3.5 - 在多项基准测试中超越GPT-4
 - **OpenAI**: 完成新一轮融资 ($10B) - 估值达到$80B，继续领跑AI领域
 
 
 ### 🎨 设计资源推荐
 
+- **[Dribbble](https://dribbble.com/)** (设计灵感) - 全球设计师作品展示平台
 - **[Unsplash](https://unsplash.com/)** (免费图片) - 高质量免费图片资源
-- **[Coolors](https://coolors.co/)** (配色工具) - 智能配色方案生成器
 
 
 ### 🎓 技能学习路径
 
-**云原生开发** (难度: 中级到高级, 预计时间: 4-8个月)
+**AI/机器学习** (难度: 中级, 预计时间: 8-15个月)
 
-学习步骤: Docker → Kubernetes → 微服务 → DevOps → 监控运维
+学习步骤: Python基础 → 数学基础 → TensorFlow/PyTorch → 深度学习 → 项目实践
 
 
 ### 🎵 编程音乐推荐
 
-**Synthwave Mix** - Various Artists
+**Ambient Coding** - Various Artists
 
-类型: Synthwave | 复古未来主义电子音乐，激发创造力
+类型: Ambient | 环境音乐，营造平静的编程氛围
 
 
 ### 🏆 本周技术挑战
@@ -214,25 +214,26 @@ JavaScript最初只用了10天时间就被创造出来，由Brendan Eich在1995�
 
 ### 🧠 技术小测验
 
-**问题**: 以下哪个不是Python的特性？
+**问题**: Docker容器和虚拟机的主要区别是？
 
-A. 动态类型
-B. 解释执行
-C. 静态编译
-D. 面向对象
+A. 容器更重
+B. 容器共享宿主机内核
+C. 虚拟机更快
+D. 没有区别
 
 💡 答案将在明天公布
 
 
 ### 💡 今日编程小贴士
 
-**使用版本控制**
+**遵循单一职责原则**
 
-即使是个人项目，也要使用Git等版本控制工具，养成频繁提交的好习惯。
+每个函数应该只做一件事，这样代码更容易理解、测试和维护。
 
 ```
-git add .
-git commit -m "Add user authentication feature"
+// 好的做法
+function calculateTax(amount) { ... }
+function formatCurrency(amount) { ... }
 ```
 
 
@@ -245,52 +246,52 @@ git commit -m "Add user authentication feature"
 
 ### 🏅 今日挑战徽章
 
-今日挑战徽章：⚡ 性能优化师
+今日挑战徽章：🛡️ 安全卫士
 
-挑战ID: `d8540d` | 日期: 2026-08-20
+挑战ID: `f60582` | 日期: 2026-08-21
 
 
 ### 📊 技术话题投票
 
-**2025年最值得学习的编程语言是？** (分类: 编程语言)
+**最喜欢的代码编辑器是？** (分类: 开发工具)
 
-- [ ] Rust
-- [ ] Go
-- [ ] TypeScript
-- [ ] Python
-- [ ] Kotlin
+- [ ] VS Code
+- [ ] IntelliJ IDEA
+- [ ] Vim
+- [ ] Sublime Text
+- [ ] Atom
 
 💬 在Issues中参与讨论和投票！
 
 
 ### 🔥 技术热词趋势
 
+- **AI** 🔥 +15% - 人工智能持续火热
+- **Rust** 🚀 +12% - 系统编程语言崛起
 - **Edge Computing** 📊 +10% - 边缘计算应用扩展
-- **Kubernetes** 📈 +8% - 容器编排需求增长
 - **Serverless** ☁️ +7% - 无服务器架构普及
-- **WebAssembly** ⭐ +6% - Web性能优化技术
 - **Blockchain** 📉 -3% - 区块链热度回落
 
 
 ### ⭐ 开源项目聚焦
 
-**Zed** (Rust) - ⭐ 25k+
+**Tauri** (Rust) - ⭐ 70k+
 
-高性能代码编辑器
+使用Rust构建跨平台桌面应用
 
-💡 亮点: 专为协作编程设计的现代编辑器
+💡 亮点: 比Electron更轻量的桌面应用解决方案
 
 
 ### 💰 技术薪资快报
 
-**云架构师** (高级) 🚀
+**安全工程师** (中级) 📈
 
-薪资范围: 35-60万 | 热门技能: AWS, Kubernetes, DevOps
+薪资范围: 22-38万 | 热门技能: 渗透测试, 安全审计, Python
 
 
 ### 😄 程序员笑话
 
-程序员的三大美德：懒惰、急躁和傲慢。
+真正的程序员不需要注释，代码就是最好的文档。
 
 
 ### 🐙 GitHub 生态统计
@@ -304,7 +305,7 @@ git commit -m "Add user authentication feature"
 
 ### 📊 今日统计
 
-- 📅 更新时间: 2026-08-20 08:22:26
+- 📅 更新时间: 2026-08-21 08:24:03
 - 🔄 自动更新: 每日 08:00 (UTC+8)
 - 📈 功能模块: 15+ 个活跃功能
 - 🌟 数据源: 多个RSS源和API接口
@@ -315,12 +316,12 @@ git commit -m "Add user authentication feature"
 📊 **今日技术新闻分析报告**
 
 - 📰 新闻总数: 4
-- 😊 积极新闻: 3 (75.0%)
-- 😟 消极新闻: 0 (0.0%)
-- 🔥 平均热度: 6.0/100
+- 😊 积极新闻: 2 (50.0%)
+- 😟 消极新闻: 1 (25.0%)
+- 🔥 平均热度: 9.2/100
 
 🏷️ **热门关键词**:
-- AI (1次)
+- AI (2次)
 - GPT (1次)
 - OpenAI (1次)
 - AR (1次)
